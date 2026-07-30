@@ -9,11 +9,6 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/eligibility/"
 ---
-# Eligibility
-
-- [Home](https://morocco-excursion.com)
-- Eligibility
-
 Participation in Morocco Excursions programs requires a basic level of physical, emotional, and social readiness.
 
 ### **General Requirements**

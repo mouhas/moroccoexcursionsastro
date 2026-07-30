@@ -20,7 +20,7 @@ const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : nu
 <article class="card">
   <a href={href} class="thumb" aria-label={title}>
     {tag && <span class="tag">{tag}</span>}
-    <Thumb seed={seed ?? title} class="" />
+    <Thumb seed={seed ?? title} class="" label={title} />
   </a>
   <div class="card-body">
     <div class="meta">

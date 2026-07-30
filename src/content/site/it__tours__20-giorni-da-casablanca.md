@@ -134,7 +134,7 @@ faqs:
 - q: Quali attività nel deserto sono incluse?
   aHtml: '<p>Le attività nel deserto incluse sono: escursioni in cammello, sandboarding, escursioni fuoristrada in 4x4, notte in un campo nel deserto. Le attività extra disponibili sono escursioni in ATV e buggy.</p>'
 - q: Esiste un altro tour simile al tour di 20 giorni da Casablanca?
-  aHtml: <p>Se siete alla ricerca di tour simili a questo tour di 20 giorni, date un'occhiata al <a href="https://morocco-excursion.com/it/tours/15-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>tour di 30 giorni</strong></a> da Casablaanca o al <a href="https://morocco-excursion.com/it/tours/10-giorni-da-marrakech/" rel="noopener" target="_blank"><strong>tour di 10 giorni da Marrakech</strong></a>. Entrambi includono le città più belle del Marocco.</p>
+  aHtml: <p>Se siete alla ricerca di tour simili a questo tour di 20 giorni, date un'occhiata al <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 30 giorni</strong></a> da Casablaanca o al <a href="https://morocco-excursion.com/it/tours/10-giorni-da-marrakech/" rel="noopener" target="_blank"><strong>tour di 10 giorni da Marrakech</strong></a>. Entrambi includono le città più belle del Marocco.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

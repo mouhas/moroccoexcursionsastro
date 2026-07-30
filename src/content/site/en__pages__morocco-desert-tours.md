@@ -35,7 +35,7 @@ Join us on a multi-day tour into the desert, uncovering the nomad villages and h
 
 Featured
 
-#### [3-Day Desert Tour From Marrakech To Merzouga](https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/)
+### [3-Day Desert Tour From Marrakech To Merzouga](https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/)
 
 6 [**Reviews**](https://morocco-excursion.com/reviews/)
 
@@ -45,7 +45,7 @@ from
 
  €115,00
 
-#### [Private 4-day desert tour from Marrakech to Merzouga](https://morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/)
+### [Private 4-day desert tour from Marrakech to Merzouga](https://morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/)
 
 5 Reviews
 
@@ -55,7 +55,7 @@ from
 
  €200,00
 
-#### [8-Day tour starting from Marrakech to explore south](https://morocco-excursion.com/tours/8-days-from-marrakech/)
+### [8-Day tour starting from Marrakech to explore south](https://morocco-excursion.com/tours/8-days-from-marrakech/)
 
 3 Reviews
 
@@ -65,7 +65,7 @@ from
 
  €380,00
 
-#### [5-Days Merzouga Sahara desert tour from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/)
+### [5-Days Merzouga Sahara desert tour from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/)
 
 3 Reviews
 
@@ -77,7 +77,7 @@ from
 
 Featured
 
-#### [Merzouga ATV quad desert excursions](https://morocco-excursion.com/tours/merzouga-atv-quad-excursion/)
+### [Merzouga ATV quad desert excursions](https://morocco-excursion.com/tours/merzouga-atv-quad-excursion/)
 
 1 Review
 
@@ -89,7 +89,7 @@ from
 
 Featured
 
-#### [6-Day tour from Marrakech to south and desert](https://morocco-excursion.com/tours/marrakech-to-south-6-day-trip/)
+### [6-Day tour from Marrakech to south and desert](https://morocco-excursion.com/tours/marrakech-to-south-6-day-trip/)
 
 4 Reviews
 
@@ -101,7 +101,7 @@ from
 
 Featured
 
-#### [5-Day desert tour to Fes from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/)
+### [5-Day desert tour to Fes from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/)
 
 3 Reviews
 
@@ -111,7 +111,7 @@ from
 
  €295,00
 
-#### [4-day Marrakech to Fes Sahara desert tour](https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/)
+### [4-day Marrakech to Fes Sahara desert tour](https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/)
 
 5 Reviews
 
@@ -220,15 +220,15 @@ Adjust the list based on your tour details and the time you're visiting. Be read
 
 ### Customer Feedback
 
-#### Carla B
+### Carla B
 
 We used this company for our private Morocco Sahara desert excursion after reading so many excellent reviews and recommendations on numerous travel websites, and it exceeded our expectations. Mohammed, our guide, was friendly and helpful, and he told us a lot about Berber culture. We got the opportunity to sing, dance, and play the drums around the campfire. There aren't enough words to describe this experience.
 
-#### Chloe T
+### Chloe T
 
 One of the highlights of our Moroccan holiday was a 3-day private desert tour; camel trekking over the dunes was not easy, but it was a lot of fun and well worth it. Our tour guide, Said, spoke excellent English and was knowledgeable. We had a lot of fun at the Sahara camp, playing drums with the locals and telling Berber jokes. I can't wait to return to the Sahara desert, and I'll certainly use Morocco Excursions again.
 
-#### Veronica
+### Veronica
 
 My family and I just returned from a private 5-day Moroccan desert trip that started in Marrakech, and I can't express how fantastic it was, especially the camel ride and the night at the desert camp. Ismael was our driver/guide, and he gave us so much information about the country. It was my first time in the Sahara desert, and I would recommend it to everyone, and I can't wait to do it again.
 

@@ -35,7 +35,7 @@ You can visit the busy markets in Marrakech and Fes, hike in the Atlas Mountains
 
 ### Questions about 18-day tours in Morocco
 
-#### Is 18 days in Morocco too long?
+### Is 18 days in Morocco too long?
 
 No, Morocco is large and diverse. 18 days lets you enjoy slowly without stress.
 
@@ -43,19 +43,19 @@ No, Morocco is large and diverse. 18 days lets you enjoy slowly without stress.
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like [**Fes**](https://morocco-excursion.com/fes-tours/) or Rabat.
 
-#### Is 18 days enough to see everything in Morocco?
+### Is 18 days enough to see everything in Morocco?
 
 No, but 18 days is a good time. You can visit cities, mountains, the desert, and the coast without rushing.
 
-#### Can I climb the Atlas Mountains during this trip?
+### Can I climb the Atlas Mountains during this trip?
 
 Sue, you can spend 2 to 3 days trekking in the High Atlas or visit the Berber villages.
 
-#### What is special about Fes?
+### What is special about Fes?
 
 [**Fes**](https://morocco-excursion.com/fes-tours/) has the oldest university, big leather tanneries, and a huge old medina full of history.
 
-#### Can I travel for 18 days in Morocco by train?
+### Can I travel for 18 days in Morocco by train?
 
 Unfortunately no. There are trains only from [**Casablanca**](https://morocco-excursion.com/casablanca-tours/), Rabat, [**Fes**](https://morocco-excursion.com/fes-tours/), and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/).
 

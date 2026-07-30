@@ -33,7 +33,7 @@ In just four days, you can enjoy Morocco’s cities, culture, mountains, and des
 
 Featured
 
-#### [4-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/)
+### [4-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/)
 
 1 Review
 
@@ -45,7 +45,7 @@ from
 
 Featured
 
-#### [4-Day Fes sahara desert tour to Merzouga dunes](https://morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/)
+### [4-Day Fes sahara desert tour to Merzouga dunes](https://morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -57,7 +57,7 @@ from
 
 Tangier, Morocco
 
-#### [4-Day Tour From Tangier](https://morocco-excursion.com/tours/4-day-tour-from-tangier/)
+### [4-Day Tour From Tangier](https://morocco-excursion.com/tours/4-day-tour-from-tangier/)
 
 0 reviews
 
@@ -67,7 +67,7 @@ from
 
  €0,00
 
-#### [4-day Marrakech to Fes Sahara desert tour](https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/)
+### [4-day Marrakech to Fes Sahara desert tour](https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/)
 
 5 Reviews
 
@@ -77,7 +77,7 @@ from
 
  €220,00
 
-#### [4-Day tour from Casablanca to Fes and Chefchaouen](https://morocco-excursion.com/tours/4-day-tour-from-casablanca/)
+### [4-Day tour from Casablanca to Fes and Chefchaouen](https://morocco-excursion.com/tours/4-day-tour-from-casablanca/)
 
 0 reviews
 
@@ -87,7 +87,7 @@ from
 
  €280,00
 
-#### [4-Day wild desert tour from Merzouga to the south](https://morocco-excursion.com/tours/4-day-trek-in-merzouga-desert/)
+### [4-Day wild desert tour from Merzouga to the south](https://morocco-excursion.com/tours/4-day-trek-in-merzouga-desert/)
 
 0 reviews
 
@@ -97,7 +97,7 @@ from
 
  €170,00
 
-#### [4-days from Errachidia to Marrakech via desert](https://morocco-excursion.com/tours/4-days-errachidia-marrakech/)
+### [4-days from Errachidia to Marrakech via desert](https://morocco-excursion.com/tours/4-days-errachidia-marrakech/)
 
 0 reviews
 
@@ -107,7 +107,7 @@ from
 
  €0,00
 
-#### [4-days from Ouarzazate to fes via Merzouga desert](https://morocco-excursion.com/tours/4-day-tour-ouarzazate-fes/)
+### [4-days from Ouarzazate to fes via Merzouga desert](https://morocco-excursion.com/tours/4-day-tour-ouarzazate-fes/)
 
 0 reviews
 
@@ -117,7 +117,7 @@ from
 
  €0,00
 
-#### [4-days from Errachidia to Sahara Desert](https://morocco-excursion.com/tours/4-day-errachidia-sahara-desert/)
+### [4-days from Errachidia to Sahara Desert](https://morocco-excursion.com/tours/4-day-errachidia-sahara-desert/)
 
 0 reviews
 
@@ -139,30 +139,30 @@ All you need to do is share with us the places you wish to see, the size of your
 
 ### Questions about the 4-day tours in Morocco
 
-#### Can I see Morocco in 4 days?
+### Can I see Morocco in 4 days?
 
 Yes, 4 days is short, but enough to see some main places like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), the Sahara Desert, or [**Fes**](https://morocco-excursion.com/fes-tours/). You just need to plan carefully.
 
-#### What are must-do things in 4 days?
+### What are must-do things in 4 days?
 
 - Walk in the [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) medina
 - Ride a camel in the desert
 - Visit Ait Ben Haddou Kasbah
 - Try Moroccan food like tagine and couscous
 
-#### Can I do a desert trip in 4 days?
+### Can I do a desert trip in 4 days?
 
 Yes. You do 2 to 4-day desert trips to Merzouga desert, where you will ride a camel and spend a night in a desert camp.
 
-#### Is it possible to visit the Imperial cities in 4 days?
+### Is it possible to visit the Imperial cities in 4 days?
 
 Yes, you can do a short tour of 4 days to Casablanca, Rabat, Meknes, [**Fes**](https://morocco-excursion.com/fes-tours/), and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/).
 
-#### Which places I can visit a 4 day trip from Spain?
+### Which places I can visit a 4 day trip from Spain?
 
 From Spain, you can take a ferry to Tanger and then visit Chefchaouen and Tetouan.
 
-#### What would be the price for 4 day trip in Morocco?
+### What would be the price for 4 day trip in Morocco?
 
 The price for a 4-day trip in Morocco varies depending on the hotels where you will be staying and the activities you will be doing.
 

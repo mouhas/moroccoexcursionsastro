@@ -165,7 +165,7 @@ faqs:
 - q: ¿Puedo ampliar o acortar este itinerario de 12 días?
   aHtml: <p>Sí, el itinerario se puede personalizar completamente. Puedes añadir noches adicionales en Marrakech, Fez o Chefchaouen, o acortar el tour para centrarte solo en regiones específicas.</p>
 - q: ¿Qué otros tours recomiendas?
-  aHtml: <p>Si dispone de más tiempo en Marruecos, le recomendamos un <a href="https://morocco-excursion.com/es/tours/15-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="https://morocco-excursion.com/es/tours/20-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
+  aHtml: <p>Si dispone de más tiempo en Marruecos, le recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

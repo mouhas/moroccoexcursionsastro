@@ -68,9 +68,9 @@ faqs:
 - q: Existe-t-il d'autres circuits comme l'excursion d'une journée à Ait Ben Haddou ?
   aHtml: '<p>Oui, il existe d''autres circuits similaires à l''excursion d''une journée à Ait Ben Haddou. Voici deux options populaires :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-a-imlil/" rel="noopener" target="_blank"><strong>Excursion d''une journée à Imlil</strong></a> - Cette excursion vous emmène de Marrakech au magnifique village d''Imlil, dans les montagnes de l''Atlas. Vous verrez des villages berbères traditionnels, des rivières et des cascades.</p>
+    <p><a href="/fr/tours/excursion-a-imlil" rel="noopener" target="_blank"><strong>Excursion d''une journée à Imlil</strong></a> - Cette excursion vous emmène de Marrakech au magnifique village d''Imlil, dans les montagnes de l''Atlas. Vous verrez des villages berbères traditionnels, des rivières et des cascades.</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>Excursion d''une journée aux cascades d''Ouzoud</strong></a> - Cette excursion vous permet de visiter les superbes cascades d''Ouzoud, où vous pourrez profiter de la nature, marcher le long des cascades et peut-être apercevoir des singes. C''est un excellent moyen de découvrir la beauté naturelle du Maroc.</p>'
+    <p><a href="/fr/tours/excursion-ouzoud" rel="noopener" target="_blank"><strong>Excursion d''une journée aux cascades d''Ouzoud</strong></a> - Cette excursion vous permet de visiter les superbes cascades d''Ouzoud, où vous pourrez profiter de la nature, marcher le long des cascades et peut-être apercevoir des singes. C''est un excellent moyen de découvrir la beauté naturelle du Maroc.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

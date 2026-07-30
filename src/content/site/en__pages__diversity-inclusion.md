@@ -9,11 +9,6 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/diversity-inclusion/"
 ---
-# Diversity Inclusion
-
-- [Home](https://morocco-excursion.com)
-- Diversity Inclusion
-
 At Morocco [**Excursions**](https://morocco-excursion.com/excursions/), we are committed to creating a welcoming, respectful, and inclusive environment for all participants.
 
 We believe that travel is a powerful tool for [**cultural**](https://morocco-excursion.com/morocco-cultural-tours/) exchange and understanding. We welcome [**students**](https://morocco-excursion.com/morocco-students-tours/) and travelers from all backgrounds, regardless of nationality, ethnicity, gender, religion, sexual orientation, or socio-economic status.

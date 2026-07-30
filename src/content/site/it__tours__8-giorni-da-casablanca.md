@@ -133,7 +133,7 @@ faqs:
 - q: Chi ci viene a prendere all'aeroporto?
   aHtml: <p>Un autista/guida con un cartello con il vostro nome vi attenderà all'arrivo. Avrà i recapiti del vostro hotel.</p>
 - q: Consigliate un altro tour simile a questo tour di 8 giorni da Casablanca?
-  aHtml: <p>Abbiamo altri due tour simili che includono più città. Si tratta dei <a href="https://morocco-excursion.com/it/tours/10-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>tour di 10 giorni</strong></a> e <a href="https://morocco-excursion.com/it/tours/12-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>12 giorni con partenza da Casablanca</strong></a>.</p>
+  aHtml: <p>Abbiamo altri due tour simili che includono più città. Si tratta dei <a href="/it/tours/10-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 10 giorni</strong></a> e <a href="/it/tours/12-giorni-da-casablanca" rel="noopener" target="_blank"><strong>12 giorni con partenza da Casablanca</strong></a>.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

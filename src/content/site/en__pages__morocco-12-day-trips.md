@@ -27,7 +27,7 @@ Be sure to taste authentic Moroccan food, from flavorful tagines to refreshing m
 
 ## Morocco 12-day tour itineraries
 
-#### [12-Day trip from Marrakech to imperial cities, south & north](https://morocco-excursion.com/tours/12-day-trip-from-marrakech/)
+### [12-Day trip from Marrakech to imperial cities, south & north](https://morocco-excursion.com/tours/12-day-trip-from-marrakech/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -37,7 +37,7 @@ from
 
  €0,00
 
-#### [12-Day trip from Casablanca to Chaouen, Fes, Desert & Ocean](https://morocco-excursion.com/tours/12-day-tour-package-from-casablanca/)
+### [12-Day trip from Casablanca to Chaouen, Fes, Desert & Ocean](https://morocco-excursion.com/tours/12-day-tour-package-from-casablanca/)
 
 0 reviews
 
@@ -47,7 +47,7 @@ from
 
  €0,00
 
-#### [12-Day Tour From Tangier to The South](https://morocco-excursion.com/tours/12-day-tour-from-tangier/)
+### [12-Day Tour From Tangier to The South](https://morocco-excursion.com/tours/12-day-tour-from-tangier/)
 
 0 reviews
 
@@ -67,27 +67,27 @@ Travel in comfort in our modern vehicles while our knowledgeable local guides sh
 
 ### Questions about 12-day tours in Morocco
 
-#### What is included in a 12-day Morocco tour?
+### What is included in a 12-day Morocco tour?
 
 The tour usually includes accommodation, transport, local guides, sightseeing in major cities, desert experiences, and sometimes meals, depending on the package.
 
-#### Can the itinerary be customized to my interests?
+### Can the itinerary be customized to my interests?
 
 Yes. Our team can adjust the route, activities, and pace according to your preferences.
 
-#### How many cities or regions are usually covered in 12 days?
+### How many cities or regions are usually covered in 12 days?
 
 A typical 12-day tour includes imperial cities like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), [**Fes**](https://morocco-excursion.com/fes-tours/), Rabat, Casablanca, the desert, the Atlas Mountains, coastal towns, and sometimes northern Morocco.
 
-#### How long are the daily drives between cities?
+### How long are the daily drives between cities?
 
 Drive times vary, from 2-5 hours for city transfers to 6-8 hours for desert or mountain routes, with breaks along the way.
 
-#### Is a desert overnight stay can be included?
+### Is a desert overnight stay can be included?
 
 Yes. Most 12-day tours include a night in a desert camp in the Sahara.
 
-#### Are hiking or adventure activities optional?
+### Are hiking or adventure activities optional?
 
 Yes. You can choose light walks, hiking, sandboarding, or 4×4 desert adventures during your 12-day tour of Morocco.
 

@@ -27,7 +27,7 @@ End your trip with a traditional festival to enjoy music, food, and culture. Wit
 
 ## Morocco 16-day tour itineraries
 
-#### [16-Day Tour From Tangier](https://morocco-excursion.com/tours/16-day-tour-from-tangier/)
+### [16-Day Tour From Tangier](https://morocco-excursion.com/tours/16-day-tour-from-tangier/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -47,7 +47,7 @@ Every detail is made to fit your wishes, so your 16 days in Morocco will be easy
 
 ### Questions about 16-day tours in Morocco
 
-#### Can I mix city and nature trips in 16 days?
+### Can I mix city and nature trips in 16 days?
 
 Yes, a balanced 16-day tour itinerary includes cities, mountains, desert, and coast.
 
@@ -55,19 +55,19 @@ Yes, a balanced 16-day tour itinerary includes cities, mountains, desert, and co
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
-#### How many days do you recommed I spend in the desert?
+### How many days do you recommed I spend in the desert?
 
 Two or three days are recommended to experience full days in the desert, to ride a camel, try 4×4 excursions, and overnight camps.
 
-#### How do I reach the Atlas Mountains?
+### How do I reach the Atlas Mountains?
 
 From [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), you can join guided hikes, private tours, or rent a car to access villages like Imlil or Oukaimeden.
 
-#### Can I visit mosques as a tourist?
+### Can I visit mosques as a tourist?
 
 Non-Muslims can visit some mosques, like Hassan II in Casablanca. Local rules vary, so check before visiting.
 
-#### Can I rent a car for 16 days in Morocco?
+### Can I rent a car for 16 days in Morocco?
 
 Yes, rental cars are available. A 4×4 or van is recommended for desert and mountain trips.
 

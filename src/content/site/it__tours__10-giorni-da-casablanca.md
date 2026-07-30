@@ -54,7 +54,7 @@ notes:
 - Gli hotel sono in genere di fascia media (3-4 stelle) o tradizionali riad marocchini. È incluso un pernottamento in un campo nel deserto a Merzouga (tende comfort o lusso, a seconda del pacchetto).
 - 'Il Marocco ha climi vari: mite sulla costa, più fresco in montagna e molto caldo nel deserto. Metti in valigia abiti a strati, protezione solare e una giacca per le notti più fresche.'
 - Si tratta di un itinerario guidato ma flessibile. Spesso è possibile aggiungere attività extra (mongolfiera a Marrakech, quad a Merzouga, corsi di cucina, ecc.) a un costo aggiuntivo.
-- Il tour include visite a piedi delle medine (strade strette e irregolari), visite a siti storici e <a href="https://morocco-excursion.com/it/tour-cammello-marocco/" rel="noopener" target="_blank"><strong>escursioni in cammello nel deserto</strong></a>. Sono indispensabili scarpe comode.
+- Il tour include visite a piedi delle medine (strade strette e irregolari), visite a siti storici e <a href="/it/tour-cammello-marocco" rel="noopener" target="_blank"><strong>escursioni in cammello nel deserto</strong></a>. Sono indispensabili scarpe comode.
 highlights:
 - Visita la Moschea Hassan II a Casablanca.
 - Esplora la città blu del Marocco (Chefchaouen).
@@ -133,7 +133,7 @@ faqs:
 - q: Quanti chilometri si percorrono in auto ogni giorno del tour?
   aHtml: <p>Alcuni giorni prevedono 4-6 ore di guida, con soste per visite turistiche e pasti. Le giornate più lunghe sono compensate da tempo libero per riposarsi ed esplorare a piedi.</p>
 - q: Avete un altro tour simile al tour di 10 giorni da Casablanca?
-  aHtml: <p>Per chi desidera un tour più lungo, offriamo un <a href="https://morocco-excursion.com/it/tours/12-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>tour del Marocco di 12 giorni</strong></a> e <strong><a href="https://morocco-excursion.com/it/tours/15-giorni-da-casablanca/" rel="noopener" target="_blank">tour di 15 giorni</a></strong>con partenza da Casablanca.</p>
+  aHtml: <p>Per chi desidera un tour più lungo, offriamo un <a href="/it/tours/12-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour del Marocco di 12 giorni</strong></a> e <strong><a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank">tour di 15 giorni</a></strong>con partenza da Casablanca.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

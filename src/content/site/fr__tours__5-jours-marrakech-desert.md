@@ -142,7 +142,7 @@ faqs:
 - q: Quel est le prix du circuit de 5 jours dans le désert au départ de Marrakech ?
   aHtml: <p>Le coût du circuit de 5 jours dans le désert varie selon le nombre de voyageurs et la catégorie d'hébergement. Veuillez consulter la section « Tarifs » ou nous contacter pour plus d'informations.</p>
 - q: Quels sont les circuits similaires au circuit de 5 jours dans le désert au départ de Marrakech ?
-  aHtml: <p>Oui, voici quelques circuits similaires au circuit de 5 jours dans le désert au départ de Marrakech :<br/><a href="https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/" rel="noopener" target="_blank"><strong>Circuit de 5 jours de Marrakech à Fès dans le désert</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech au Sud</strong></a></p>
+  aHtml: <p>Oui, voici quelques circuits similaires au circuit de 5 jours dans le désert au départ de Marrakech :<br/><a href="/fr/tours/5-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 5 jours de Marrakech à Fès dans le désert</strong></a><br/><a href="/fr/tours/6-jours-marrakech-sud" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech au Sud</strong></a></p>
 reviews: []
 rating: 5.0
 reviewCount: 820

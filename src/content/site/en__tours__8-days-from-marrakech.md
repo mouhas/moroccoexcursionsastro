@@ -58,7 +58,7 @@ notes:
 - You’ll stay in a mix of comfortable hotels and traditional riads, plus two nights in a desert camp with cozy, comfortable private tents.
 - The tour offers a balance between exploring vibrant cities like Marrakech and visiting peaceful Berber villages in the mountains and desert.
 - You’ll have a full day in Marrakech to visit, try local <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>food</b></a>, and visit places like gardens or museums.
-- Throughout the trip, you’ll have a <strong><a href="https://morocco-excursion.com/morocco-rental-cars/" rel="noopener" target="_blank">car and a private professional driver</a></strong>/guide to ensure your safety, answer questions, and help make your experience smooth and enjoyable.
+- Throughout the trip, you’ll have a <strong><a href="/morocco-rental-cars" rel="noopener" target="_blank">car and a private professional driver</a></strong>/guide to ensure your safety, answer questions, and help make your experience smooth and enjoyable.
 highlights:
 - Explore Marrakech with a guide
 - Drive through the Atlas Mountains and stop to take photos
@@ -183,7 +183,7 @@ faqs:
 - q: Do you offer similar tours to the 8-day tour from Marrakech?
   aHtml: '<p>Yes, below are the two similar tours to the 8-day tour from Marrakech:</p>
 
-    <p><a href="https://www.morocco-excursion.com/tours/12-day-trip-from-marrakech/" rel="noopener" target="_blank">12-day tour from Marrakech</a><br/><a href="https://www.morocco-excursion.com/tours/10-day-tour-from-marrakech/" rel="noopener" target="_blank">10-day tour from Marrakech</a></p>'
+    <p><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-day tour from Marrakech</a><br/><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">10-day tour from Marrakech</a></p>'
 reviews:
 - name: John
   date: 29/08/2021

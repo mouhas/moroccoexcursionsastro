@@ -33,7 +33,7 @@ Unitevi a noi in un tour di più giorni nel deserto, alla scoperta dei villaggi 
 
 Featured
 
-#### [Tour di 3 giorni da Marrakech al deserto di Merzouga](https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/)
+### [Tour di 3 giorni da Marrakech al deserto di Merzouga](https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/)
 
 0 recensioni
 
@@ -43,7 +43,7 @@ da
 
  €115,00
 
-#### [Tour nel deserto di 4 giorni da Marrakech al sud](https://morocco-excursion.com/it/tours/4-giorni-marrakech-deserto/)
+### [Tour nel deserto di 4 giorni da Marrakech al sud](https://morocco-excursion.com/it/tours/4-giorni-marrakech-deserto/)
 
 0 recensioni
 
@@ -53,7 +53,7 @@ da
 
  €200,00
 
-#### [Viaggio di 8 giorni alla scoperta di Marrakech e deserto](https://morocco-excursion.com/it/tours/8-giorni-da-marrakech/)
+### [Viaggio di 8 giorni alla scoperta di Marrakech e deserto](https://morocco-excursion.com/it/tours/8-giorni-da-marrakech/)
 
 0 recensioni
 
@@ -63,7 +63,7 @@ da
 
  €380,00
 
-#### [Viaggio di 5 giorni da Marrakech al deserto del Sahara](https://morocco-excursion.com/it/tours/5-giorni-marakech-sahara/)
+### [Viaggio di 5 giorni da Marrakech al deserto del Sahara](https://morocco-excursion.com/it/tours/5-giorni-marakech-sahara/)
 
 0 recensioni
 
@@ -75,7 +75,7 @@ da
 
 Featured
 
-#### [Escursioni in quad (ATV) nel deserto di Merzouga](https://morocco-excursion.com/it/tours/escursioni-quad-merzouga/)
+### [Escursioni in quad (ATV) nel deserto di Merzouga](https://morocco-excursion.com/it/tours/escursioni-quad-merzouga/)
 
 0 recensioni
 
@@ -87,7 +87,7 @@ da
 
 Featured
 
-#### [Viaggio di 6 giorni da Marrakech al sud e al deserto](https://morocco-excursion.com/it/tours/6-giorni-marrakech-sud/)
+### [Viaggio di 6 giorni da Marrakech al sud e al deserto](https://morocco-excursion.com/it/tours/6-giorni-marrakech-sud/)
 
 0 recensioni
 
@@ -99,7 +99,7 @@ da
 
 Featured
 
-#### [Tour deserto di 5 giorni da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/5-giorni-marrakech-fes/)
+### [Tour deserto di 5 giorni da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/5-giorni-marrakech-fes/)
 
 0 recensioni
 
@@ -109,7 +109,7 @@ da
 
  €295,00
 
-#### [Viaggio di 4 giorni nel deserto da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/4-giorni-marrakech-fes/)
+### [Viaggio di 4 giorni nel deserto da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/4-giorni-marrakech-fes/)
 
 0 recensioni
 
@@ -217,15 +217,15 @@ Adattare l'elenco in base ai dettagli del tour e al periodo di visita. Siate pro
 
 ### Feedback dei clienti
 
-#### Mara A
+### Mara A
 
 Abbiamo utilizzato questa compagnia per la nostra escursione privata nel deserto del Sahara dopo aver letto tante ottime recensioni e raccomandazioni su numerosi siti web di viaggi, e ha superato le nostre aspettative. Mohammed, la nostra guida, è stato cordiale e disponibile e ci ha parlato molto della cultura berbera. Abbiamo avuto l'opportunità di cantare, ballare e suonare i tamburi intorno al fuoco. Non ci sono abbastanza parole per descrivere questa esperienza.
 
-#### Chiara O
+### Chiara O
 
 Uno dei punti salienti della nostra vacanza in Marocco è stato un tour privato di 3 giorni nel deserto; il trekking a dorso di cammello sulle dune non è stato facile, ma è stato molto divertente e ne è valsa la pena. La nostra guida turistica, Said, parlava un ottimo inglese ed era molto competente. Ci siamo divertiti molto al campo del Sahara, suonando i tamburi con la gente del posto e raccontando barzellette berbere. Non vedo l'ora di tornare nel deserto del Sahara e sicuramente utilizzerò nuovamente Morocco Excursions.
 
-#### Maria L
+### Maria L
 
 Io e la mia famiglia siamo appena tornati da un viaggio privato di 5 giorni nel deserto marocchino, iniziato a Marrakech, e non posso esprimere quanto sia stato fantastico, soprattutto il giro in cammello e la notte nel campo del deserto. Ismael è stato il nostro autista/guida e ci ha dato tantissime informazioni sul paese. Era la prima volta che andavo nel deserto del Sahara, lo consiglio a tutti e non vedo l'ora di rifarlo.
 

@@ -1,5 +1,5 @@
 ---
-title: "Contact Page Content - Morocco Excursions"
+title: "Contato - Morocco Excursions"
 lang: "pt-br"
 section: "pages"
 pslug: "contacto"

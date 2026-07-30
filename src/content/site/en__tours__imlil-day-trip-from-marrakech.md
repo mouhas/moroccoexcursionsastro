@@ -30,7 +30,7 @@ notes:
 - The weather in the Atlas Mountains can change quickly. Mornings and evenings may be cool, while midday can be warm—layered clothing keeps you comfortable.
 - Small shops and local markets in Berber villages often don’t accept cards. If you want to buy handmade items or souvenirs, carry some cash.
 - Pack a water bottle and some light snacks, especially if you plan to hike or walk for a while. There may be a few places to stop for food along the way.
-- One of the best things to do after the day trip to Imlil is a <a href="https://morocco-excursion.com/tours/essaouira-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>day trip from Marrakech to Essaouira</strong></a>, to discover the sea and the other side of Marrakech.
+- One of the best things to do after the day trip to Imlil is a <a href="/tours/essaouira-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>day trip from Marrakech to Essaouira</strong></a>, to discover the sea and the other side of Marrakech.
 highlights:
 - Enjoy the stunning views of the Atlas Mountains
 - Hike through traditional Berber villages
@@ -64,9 +64,9 @@ faqs:
 - q: Are there alternative tours similar to the Imlil day trip?
   aHtml: '<p>Yes, there are two great alternative day tours similar to the Imlil trip:</p>
 
-    <p><a href="https://morocco-excursion.com/tours/ouzoud-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>Ouzoud Day Trip</strong></a> – Visit the stunning Ouzoud Waterfalls, where you can enjoy nature walks, see monkeys, and even take a boat ride near the falls. It’s perfect for nature lovers and a great outdoor adventure.</p>
+    <p><a href="/tours/ouzoud-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>Ouzoud Day Trip</strong></a> – Visit the stunning Ouzoud Waterfalls, where you can enjoy nature walks, see monkeys, and even take a boat ride near the falls. It’s perfect for nature lovers and a great outdoor adventure.</p>
 
-    <p><a href="https://morocco-excursion.com/tours/essaouira-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>Essaouira Day Trip</strong></a> – Explore the charming coastal town of Essaouira with its old medina, beautiful beaches, and fresh seafood. It’s a relaxed trip by the sea with lots to see and do.</p>'
+    <p><a href="/tours/essaouira-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>Essaouira Day Trip</strong></a> – Explore the charming coastal town of Essaouira with its old medina, beautiful beaches, and fresh seafood. It’s a relaxed trip by the sea with lots to see and do.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

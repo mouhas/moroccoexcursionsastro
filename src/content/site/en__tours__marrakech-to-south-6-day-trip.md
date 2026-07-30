@@ -164,7 +164,7 @@ faqs:
 - q: What is the price of the 6 day tour from Marrakech to south and desert?
   aHtml: <p>The price of this 6-day trip can vary based on how many people are traveling and the type of accommodation you choose. You have the option to upgrade your hotels and desert camps from standard to luxury. For more details, please refer to the <strong>Price Information</strong> section.</p>
 - q: Which tours are similar to the 6-day tour from Marrakech?
-  aHtml: <p>The two alternative tours to the 6-day tour from Marrakech are:<br/><strong><a href="https://www.morocco-excursion.com/tours/10-day-tour-from-marrakech/" rel="noopener" target="_blank">10-Day Tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>
+  aHtml: <p>The two alternative tours to the 6-day tour from Marrakech are:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">10-Day Tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>
 reviews:
 - name: Cornelia
   date: 29/10/2024

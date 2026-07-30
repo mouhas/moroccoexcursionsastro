@@ -140,7 +140,7 @@ faqs:
 - q: Quels circuits sont similaires au circuit de 5 jours de Marrakech à Fès ?
   aHtml: '<p>Les deux circuits similaires au circuit de 5 jours dans le désert, de Marrakech à Fès, sont :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech vers le Sud</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>'
+    <p><a href="/fr/tours/6-jours-marrakech-sud" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech vers le Sud</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

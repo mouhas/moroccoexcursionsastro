@@ -37,27 +37,27 @@ You might spend more time exploring lively cities like Marrakech and Fes, or foc
 
 ### Questions about 14-day tours in Morocco
 
-#### Is a 14 day tour enough to explore Morocco?
+### Is a 14 day tour enough to explore Morocco?
 
 Yes, 14 days gives you ample time to see the highlights of Morocco without feeling rushed. You can explore major cities, ancient medinas, mountains, deserts, and coastal towns while still having days for rest and leisure.
 
-#### How should I plan a 14-day tour?
+### How should I plan a 14-day tour?
 
 Start by listing the destinations you really want to see. Divide your days between cities, the desert, mountains, and coastal areas.
 
-#### Should I start my trip in Casablanca or Marrakech?
+### Should I start my trip in Casablanca or Marrakech?
 
 Casablanca is the main entry point for international flights. [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) is better if you want a central location for tours. Both cities have airports and train connections.
 
-#### Can I include the blue city in a 14-day trip?
+### Can I include the blue city in a 14-day trip?
 
 Yes. Chefchaouen, the “Blue City,” is perfect for a 1–2 day stop. It is often combined with [**Fes**](https://morocco-excursion.com/fes-tours/) or Rabat and is great for walking, photography, and relaxing in a calm environment.
 
-#### Can I add the Atlas Mountains and the desert?
+### Can I add the Atlas Mountains and the desert?
 
 Yes. You can include Merzouga desert and areas like Tizi n Tichka, Dades, Todra, Imlil, or Oukaïmeden. Those are great places for trekking and visiting Berber villages.
 
-#### How many nights should I spend in the Sahara?
+### How many nights should I spend in the Sahara?
 
 Two nights are ideal for a true desert experience, including camel rides, camping, and stargazing, try ATV, buggy, or visit the nomad families.
 

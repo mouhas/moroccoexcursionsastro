@@ -76,7 +76,7 @@ faqs:
 - q: What is the difference between standard and luxury camps in Merzouga?
   aHtml: <p>The luxury camps offer private tents with comfortable beds, bathrooms, and showers. Standard camps are simpler, with shared bathrooms and basic facilities.</p>
 - q: Do you offer other desert excursions in Merzouga?
-  aHtml: <p>Yes, besides camel rides, we also organize ATV/<a href="https://morocco-excursion.com/tours/merzouga-atv-quad-excursion/" rel="noopener" target="_blank"><strong>quad bike tours</strong></a>, buggy adventures, and <strong><a href="https://morocco-excursion.com/tours/merzouga-4wd-desert-safari/" rel="noopener" target="_blank">4x4 off-road desert excursions</a></strong> to explore the desert. These tours can include visits to nomadic families, Berber villages, and hidden desert spots. If you prefer not to ride camels, you can go by 4x4 or quad and still spend the night in the camp.</p>
+  aHtml: <p>Yes, besides camel rides, we also organize ATV/<a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><strong>quad bike tours</strong></a>, buggy adventures, and <strong><a href="/tours/merzouga-4wd-desert-safari" rel="noopener" target="_blank">4x4 off-road desert excursions</a></strong> to explore the desert. These tours can include visits to nomadic families, Berber villages, and hidden desert spots. If you prefer not to ride camels, you can go by 4x4 or quad and still spend the night in the camp.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

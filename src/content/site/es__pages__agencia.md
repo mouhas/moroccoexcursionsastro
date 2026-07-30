@@ -1,5 +1,5 @@
 ---
-title: "Morocco Excursions - Complete Page Content"
+title: "Quiénes Somos - Agencia de Viajes en Marruecos | Morocco Excursions"
 lang: "es"
 section: "pages"
 pslug: "agencia"
@@ -77,39 +77,39 @@ Cuando nos elige, puede confiar en que su dinero está bien invertido y que vivi
 
 **Recomendaciones de los viajeros**
 
-#### Rania
+### Rania
 
 Decidimos contratar un coche privado con conductor para nuestras primeras vacaciones en Marruecos y no podríamos haber elegido una mejor opción. Hassan fue fantástico desde los primeros correos electrónicos y trabajamos juntos para diseñar el programa perfecto. También organizó nuestra excursión de tres días al desierto, que resultó ser lo más destacado de nuestra estancia de diez días en Marruecos. Aziz, nuestro conductor, no solo era competente y un conductor fantástico, sino que también era increíblemente atento y muy divertido. Nos proporcionó una gran cantidad de información sobre la cultura y la historia bereberes que no habríamos tenido de otra manera.
 
-#### Alejandro
+### Alejandro
 
 Morocco Excursions fue la agencia de viajes local que utilizamos para nuestro viaje por Marruecos y no nos decepcionó. Mohammed fue nuestro conductor y nos mostró todos los lugares maravillosos y fue flexible cuando tuvimos que modificar nuestro itinerario. Mohammed es un guía muy informado y nos brindó mucha información sobre la cultura y la historia marroquíes. Hizo paradas para nosotros a lo largo del camino en buenos restaurantes que eran locales y servían comidas deliciosas. Recomiendo encarecidamente esta agencia de viajes por sus servicios de alta calidad y precios razonables.
 
-#### Claudia
+### Claudia
 
 Hicimos un viaje de 10 días con Ali y Ahmed de Morocco Excursions, quienes hicieron un gran trabajo guiándonos por el país. Todo el proceso de reserva fue rápido, desde la recopilación de información hasta la planificación de un itinerario, el pago de un depósito y todo lo demás fue atendido desde el momento en que nos recogieron en el aeropuerto. El itinerario estuvo bien planificado y personalizado según nuestras necesidades, y el alojamiento fue excelente. El nivel de seguridad y comodidad fue excepcional. El auto era un Toyota moderno y nuestro conductor/guía Ali fue fantástico; nos llevó por Marruecos y nos brindó mucha información.
 
-#### David
+### David
 
 Han pasado dos semanas y todavía estamos hablando de nuestro reciente viaje a Marruecos. Fue un viaje fantástico. Nuestro programa de viaje estuvo bien planificado y el alojamiento se eligió cuidadosamente para satisfacer nuestras necesidades. Los lugares que visitamos y las actividades que hicimos fueron simplemente increíbles. Gracias a Hassan y a los miembros del equipo que nos acompañaron durante este viaje. Brahim, nuestro guía, y Ali, nuestro conductor, fueron fantásticos. Ambos fueron considerados, compasivos e hicieron todo lo posible para asegurarse de que todos estuviéramos bien en todo momento.
 
-#### Daniel
+### Daniel
 
 Recientemente regresamos de un viaje de dos semanas a Marruecos. En un viaje de esta duración, era fundamental que entabláramos una buena relación con nuestro conductor, y así lo hicimos con Omar. Fue un conductor cuidadoso y seguro que identificó rápidamente nuestros deseos y necesidades. Como el Sahara jugó un papel tan esencial en nuestro viaje, fue excelente que fuera un orgulloso residente de la región y compartiera con nosotros su conocimiento de la lengua y la cultura bereberes. Los riads y hoteles que nos ofrecieron siguieron impresionándonos en términos de calidad y ubicación.
 
-#### Alfred
+### Alfred
 
 Nos lo pasamos genial en nuestras vacaciones privadas de 7 días en Marruecos con Morocco Excursions. Brahim, nuestro conductor y guía, estaba muy bien informado, hablaba un inglés excelente y fue muy profesional y servicial. El automóvil también era increíblemente cómodo. Tuvimos un itinerario preciso que seguir durante el transcurso de siete días y el viaje estuvo bien planificado. ¡No tuvimos ninguna mala experiencia!
 
-#### Rocio
+### Rocio
 
 Excelentes vacaciones de 10 días con Morocco Excursions. Decidimos hacer nuestro propio recorrido por las zonas que queríamos ver. Optamos por quedarnos en determinadas zonas durante dos noches porque teníamos más de 70 años. Nuestro conductor, Amar, fue fantástico; fue amable y educado, y nos ayudó a cambiar nuestra ruta para satisfacer nuestras necesidades. Los riads en los que nos alojamos fueron fantásticos, al igual que el campamento del desierto, Ait Ben Haddou, las montañas Atas, gargantas y valles, y Essaouira. Hassan, el director de la empresa, fue de gran ayuda, especialmente durante el proceso de reserva. Recomendamos encarecidamente a los turistas que utilicen esta empresa, ya que pueden elegir a dónde quieren ir y a qué ritmo. Muchas gracias a Amar, Hassan y Moroccan Excursions.
 
-#### Barbara
+### Barbara
 
 Hicimos una excursión de tres días desde Fez a Marrakech pasando por el desierto de Merzouga. ¡Fue una oportunidad única en la vida! Ahmed fue un conductor, guía y compañero fantástico; fue muy cortés y fue un placer viajar con él. Es importante destacar que es un hombre muy decente y somos muy afortunados de haberlo conocido; se merece lo mejor. ¡Muchas gracias, Ahmed! Todas las vacaciones fueron increíbles; vimos muchos lugares y aprendimos muchas cosas, pero la experiencia más espectacular fue pasar la noche en el desierto. Todos los demás guías que conocimos también fueron muy amables y serviciales, ¡y también queremos agradecerles! ¡Recomendamos encarecidamente reservar un viaje a Marruecos con este gran equipo!
 
-#### Anna
+### Anna
 
 Hemos viajado con Morocco Excursions durante tres días desde Marrakech al desierto. Empezamos en Fez y viajamos hasta Marrakech pasando por muchos destinos. La excursión incluyó una estadía en una lujosa tienda de campaña en el desierto. Todo fue maravilloso. Nuestro conductor, Ahmed, estaba increíblemente bien informado y nos explicó detalladamente todos los lugares de interés que vimos, así como las costumbres tradicionales. Todos aspiramos a tener la misma experiencia. Muchas gracias, Hassan y Ahmed.
 

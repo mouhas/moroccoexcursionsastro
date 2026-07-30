@@ -58,7 +58,7 @@ notes:
 - Vous séjournerez dans des hôtels confortables et des riads traditionnels, ainsi que deux nuits dans un campement dans le désert, dans des tentes privées douillettes et confortables.
 - Le circuit offre un équilibre entre la découverte de villes animées comme Marrakech et la visite de paisibles villages berbères dans les montagnes et le désert.
 - Vous disposerez d’une journée entière à Marrakech pour visiter, goûter à la cuisine locale et découvrir des lieux tels que des jardins ou des musées.
-- Tout au long du voyage, vous disposerez d’une <strong><a href="https://morocco-excursion.com/fr/location-de-voitures/" rel="noopener" target="_blank">voiture et d’un chauffeur</a></strong>/guide professionnel privé pour assurer votre sécurité, répondre à vos questions et vous aider à rendre votre expérience agréable et sans encombre.
+- Tout au long du voyage, vous disposerez d’une <strong><a href="/fr/location-de-voitures" rel="noopener" target="_blank">voiture et d’un chauffeur</a></strong>/guide professionnel privé pour assurer votre sécurité, répondre à vos questions et vous aider à rendre votre expérience agréable et sans encombre.
 highlights:
 - Explorez Marrakech avec un guide.
 - Traversez les montagnes de l'Atlas et arrêtez-vous pour prendre des photos.
@@ -183,7 +183,7 @@ faqs:
 - q: Proposez-vous des circuits similaires au circuit de 8 jours au départ de Marrakech ?
   aHtml: '<p>Oui, voici deux circuits similaires au circuit de 8 jours au départ de Marrakech :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/12-jours-de-marrakech/" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/10-jours-depart-marrakech/" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
+    <p><a href="/fr/tours/12-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="/fr/tours/10-jours-depart-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

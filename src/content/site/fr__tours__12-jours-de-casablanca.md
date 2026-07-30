@@ -17,7 +17,7 @@ overviewHtml: '<p>Le voyage commence à Casablanca, ville moderne du Maroc situ�
 
   <p>Depuis Merzouga, l’aventure se poursuit à travers les spectaculaires gorges du Todra, la route sinueuse de la vallée du Dadès et la vallée des Roses avec son doux parfum. Le chemin mène ensuite à Ouarzazate, célèbre pour ses anciennes kasbahs et ses studios de cinéma. Un autre point fort est Aït Benhaddou, un village classé au patrimoine mondial de l’UNESCO avec ses maisons en terre, avant de traverser les montagnes du Haut Atlas et d’atteindre Marrakech. Dans cette ville animée, les palais, les jardins et la place Jemaa el-Fnaa, très fréquentée, capturent l’énergie et la culture du Maroc.</p>
 
-  <p>Le circuit vous emmène également en <a href="https://morocco-excursion.com/fr/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursion d’une journée aux cascades d’Ouzoud</strong></a>, les plus hautes du Maroc, et se termine au bord de l’océan à Essaouira, une charmante ville aux maisons blanches, aux volets bleus, aux remparts historiques et aux fruits de mer frais.</p>'
+  <p>Le circuit vous emmène également en <a href="/fr/tours/excursion-ouzoud" rel="noopener" target="_blank"><strong>excursion d’une journée aux cascades d’Ouzoud</strong></a>, les plus hautes du Maroc, et se termine au bord de l’océan à Essaouira, une charmante ville aux maisons blanches, aux volets bleus, aux remparts historiques et aux fruits de mer frais.</p>'
 priceHeading: null
 priceRows:
 - - Nombre de voyageurs
@@ -165,7 +165,7 @@ faqs:
 - q: Puis-je prolonger ou raccourcir cet itinéraire de 12 jours?
   aHtml: <p>Oui, l'itinéraire peut être entièrement personnalisé. Vous pouvez ajouter des nuits supplémentaires à Marrakech, Fès ou Chefchaouen, ou raccourcir le circuit pour vous concentrer uniquement sur certaines régions.</p>
 - q: Quelles autres visites recommandez-vous?
-  aHtml: <p>Si vous disposez de plus de temps au Maroc, nous vous recommandons un <a href="https://morocco-excursion.com/fr/tours/15-jours-de-casablanca/" rel="noopener" target="_blank"><strong>circuit de 15 jours</strong></a>, <a href="https://morocco-excursion.com/fr/tours/20-jours-de-casablanca/" rel="noopener" target="_blank"><strong>20 jours</strong></a>, ou bien <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
+  aHtml: <p>Si vous disposez de plus de temps au Maroc, nous vous recommandons un <a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 15 jours</strong></a>, <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>20 jours</strong></a>, ou bien <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -9,12 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/code-of-conduct/"
 ---
-# Code of conduct
-
-- [Home](https://morocco-excursion.com)
-- Code of conduct
-
-# Student Code of Conduct
+## Student Code of Conduct
 
 At Morocco Excursions, we are committed to creating a safe, respectful, inclusive, and positive environment for all participants, staff, local communities, and partners. All students and participants are expected to conduct themselves responsibly throughout the program.
 

@@ -55,7 +55,7 @@ notes:
 - The roads are beautiful but have many curves, so get ready for a long drive with amazing views.
 - Desert weather can change very quickly. Because of this, you might miss the sunset, sunrise, or part of the camel ride—especially if it’s too windy or rainy. Your guide will always try their best to adjust the plan.
 - During the tour, we usually stop for lunch at small local restaurants that serve fresh, traditional Moroccan food. These places give you a real local experience, but they may not be for everyone.<br/>If you prefer a more tourist-friendly or specific type of restaurant, please tell your driver in advance.
-- The camel ride is not recommended for people over 70 years old, pregnant women, or anyone with back, hip, or knee problems. If you prefer, we can offer a <strong><a href="https://morocco-excursion.com/tours/merzouga-4wd-desert-safari/" rel="noopener" target="_blank">4×4 tour</a></strong> instead of the camel trek.
+- The camel ride is not recommended for people over 70 years old, pregnant women, or anyone with back, hip, or knee problems. If you prefer, we can offer a <strong><a href="/tours/merzouga-4wd-desert-safari" rel="noopener" target="_blank">4×4 tour</a></strong> instead of the camel trek.
 - Many small towns and desert villages do not have ATMs or accept credit cards, so please bring enough cash with you.
 highlights:
 - Enjoy the views of the Atlas Mountains
@@ -140,7 +140,7 @@ faqs:
 - q: Which tours are similar to the 5-day tour from Marrakech to Fes?
   aHtml: '<p>The two similar tours to the 5-day desert tour from Marrakech to Fes are:</p>
 
-    <p><strong><a href="https://www.morocco-excursion.com/tours/marrakech-to-south-6-day-trip/" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>'
+    <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>'
 reviews:
 - name: Andrea
   date: 28/08/2021

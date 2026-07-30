@@ -34,7 +34,7 @@ notes:
 - Essaouira est connue pour ses vents forts, surtout en été. Si vous préférez un temps plus calme, planifiez votre voyage pendant les mois les plus frais ou tôt dans la journée.
 - La médina offre de nombreuses possibilités d’artisanat, en particulier dans les domaines du bois et du textile. Soyez prêt à marchander poliment si vous souhaitez faire des achats.
 - Essaouira est célèbre pour ses fruits de mer frais. Il est indispensable de goûter aux plats locaux, mais vérifiez si les repas sont inclus ou si vous devez payer séparément.
-- Pour les clients qui réservent l’excursion d’une journée à Essaouira, nous offrons une réduction sur notre <strong><a href="https://morocco-excursion.com/fr/tours/3-jours-marrakech-to-merzouga/" rel="noopener" target="_blank">excursion de 3 jours dans le désert, de Marrakech à Merzouga</a></strong>.
+- Pour les clients qui réservent l’excursion d’une journée à Essaouira, nous offrons une réduction sur notre <strong><a href="/fr/tours/3-jours-marrakech-to-merzouga" rel="noopener" target="_blank">excursion de 3 jours dans le désert, de Marrakech à Merzouga</a></strong>.
 highlights:
 - Visite d'une coopérative d'huile d'argan
 - Découverte de la Kasbah de Skala
@@ -78,9 +78,9 @@ faqs:
 - q: Quand commence l'excursion à Essaouira ?
   aHtml: <p>This day trip starts at 8:00 a.m. We will pick you up from your hotel or riad in Marrakech.</p>
 - q: Existe-t-il d'autres excursions d'une journée similaires au circuit d'Essaouira ?
-  aHtml: '<p>Oui, il existe d''autres excursions d''une journée similaires à celle d''Essaouira. L''une des options les plus populaires est l''<strong><a href="https://morocco-excursion.com/fr/tours/excursion-ouzoud/" rel="noopener" target="_blank">excursion d''une journée aux cascades d''Ouzoud</a></strong>, à environ trois heures de route de Marrakech. Vous pourrez y admirer de magnifiques chutes d''eau, des vues imprenables sur les montagnes et même voir des singes sauvages.</p>
+  aHtml: '<p>Oui, il existe d''autres excursions d''une journée similaires à celle d''Essaouira. L''une des options les plus populaires est l''<strong><a href="/fr/tours/excursion-ouzoud" rel="noopener" target="_blank">excursion d''une journée aux cascades d''Ouzoud</a></strong>, à environ trois heures de route de Marrakech. Vous pourrez y admirer de magnifiques chutes d''eau, des vues imprenables sur les montagnes et même voir des singes sauvages.</p>
 
-    <p>Une autre alternative intéressante est une <strong><a href="https://morocco-excursion.com/fr/tours/excursion-a-ourika/" rel="noopener" target="_blank">excursion d''une journée dans la vallée de l''Ourika</a></strong>, située plus près de Marrakech. Cette excursion vous fera traverser les montagnes du Haut Atlas, des villages berbères traditionnels et des endroits paisibles au bord de la rivière, avec la possibilité de faire une randonnée jusqu''aux chutes d''eau voisines. Ces deux excursions offrent un mélange agréable de nature, de culture et de détente, comme l''excursion d''une journée à Essaouira.</p>'
+    <p>Une autre alternative intéressante est une <strong><a href="/fr/tours/excursion-a-ourika" rel="noopener" target="_blank">excursion d''une journée dans la vallée de l''Ourika</a></strong>, située plus près de Marrakech. Cette excursion vous fera traverser les montagnes du Haut Atlas, des villages berbères traditionnels et des endroits paisibles au bord de la rivière, avec la possibilité de faire une randonnée jusqu''aux chutes d''eau voisines. Ces deux excursions offrent un mélange agréable de nature, de culture et de détente, comme l''excursion d''une journée à Essaouira.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

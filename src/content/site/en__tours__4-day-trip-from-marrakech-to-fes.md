@@ -144,7 +144,7 @@ faqs:
 - q: What are the alternative tours to the 4-day desert tour from Marrakech to Fes?
   aHtml: '<p>Here are two alternative tours similar to the 4-day tour from Marrakech to Fes:</p>
 
-    <p><a href="https://www.morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a><br/><a href="https://www.morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a></p>'
+    <p><a href="/tours/5-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a><br/><a href="/tours/5-day-marrakech-to-fes-desert-tour" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a></p>'
 reviews:
 - name: Alice
   date: 14/10/2023

@@ -27,7 +27,7 @@ In **Marrakech**, see the busy Jemaa el-Fnaa square, colorful souks, and Majorel
 
 ## Morocco 17-day tour itineraries
 
-#### [17-Day Trip From Rabat](https://morocco-excursion.com/tours/17-day-trip-from-rabat/)
+### [17-Day Trip From Rabat](https://morocco-excursion.com/tours/17-day-trip-from-rabat/)
 
 1 [**Review**](https://morocco-excursion.com/reviews/)
 
@@ -47,7 +47,7 @@ With us, you enjoy comfort, local culture, and authentic experiences in a smooth
 
 ### Questions about 17-day tours in Morocco
 
-#### What is the best place to start a 17-day tour?
+### What is the best place to start a 17-day tour?
 
 Most people start their trip in Morocco in Casablanca, [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), or Tangier, depending on flights.
 
@@ -55,19 +55,19 @@ Most people start their trip in Morocco in Casablanca, [**Marrakech**](https://m
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
-#### Can I see both the Atlas, Desert and the Atlantic coast?
+### Can I see both the Atlas, Desert and the Atlantic coast?
 
 Yes, with 17 days you can enjoy both sand dunes in Merzouga, the High Atlas Mountains, and beaches in Essaouira, or Agadir.
 
-#### Can I go to the Atlantic and Mediterranean coasts?
+### Can I go to the Atlantic and Mediterranean coasts?
 
 Yes, Essaouira (Atlantic) and Tangier (Mediterranean) can both fit in 17 days.
 
-#### How many UNESCO sites can I see in 17 days?
+### How many UNESCO sites can I see in 17 days?
 
 You can visit several places like Fes, [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Ait Ben Haddou, and Rabat.
 
-#### What is the price for a 17 day tip in Morocco?
+### What is the price for a 17 day tip in Morocco?
 
 The price of the 17-day tour in Morocco depends on your flights, the hotels where you’ll be staying, activities, etc
 

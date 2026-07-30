@@ -27,7 +27,7 @@ Moroccan food is rich and tasty, from tagine and couscous to sweet pastries. Vis
 
 ## Morocco 8-day tour itineraries
 
-#### [8-Day tour starting from Marrakech to explore south](https://morocco-excursion.com/tours/8-days-from-marrakech/)
+### [8-Day tour starting from Marrakech to explore south](https://morocco-excursion.com/tours/8-days-from-marrakech/)
 
 3 [**Reviews**](https://morocco-excursion.com/reviews/)
 
@@ -37,7 +37,7 @@ from
 
  €380,00
 
-#### [8-Day tour from Fes to Marrakech via Chefchaouen & Sahara](https://morocco-excursion.com/tours/8-day-tour-from-fes/)
+### [8-Day tour from Fes to Marrakech via Chefchaouen & Sahara](https://morocco-excursion.com/tours/8-day-tour-from-fes/)
 
 0 reviews
 
@@ -47,7 +47,7 @@ from
 
  €390,00
 
-#### [8-Day trip from Casablanca to the Imperial cities & desert](https://morocco-excursion.com/tours/8-day-trip-from-casablanca/)
+### [8-Day trip from Casablanca to the Imperial cities & desert](https://morocco-excursion.com/tours/8-day-trip-from-casablanca/)
 
 0 reviews
 
@@ -59,7 +59,7 @@ from
 
 Tangier, Morocco
 
-#### [Tangier & South in 8 Days](https://morocco-excursion.com/tours/tangier-south-in-8-days/)
+### [Tangier & South in 8 Days](https://morocco-excursion.com/tours/tangier-south-in-8-days/)
 
 0 reviews
 
@@ -79,27 +79,27 @@ Relax on Morocco’s beautiful beaches, take scenic walks in mountain towns, and
 
 ### Questions about 8-day tours in Morocco
 
-#### Can I try Moroccan food on an 8-day trip?
+### Can I try Moroccan food on an 8-day trip?
 
 Yes, during 8 days, you will be able to try the best Moroccan dishes such as tagines, couscous, pastilla and street food.
 
-#### Is 8 days enough to see Morocco’s highlights?
+### Is 8 days enough to see Morocco’s highlights?
 
 Yes, carefully planned 8-day trips of Morocco can include the imperial cities, the desert, the Atlas Mountains, the valleys, the coast, the south, and the north of Morocco.
 
-#### Are local guides recommended?
+### Are local guides recommended?
 
 Yes, especially in the big cities. The guides help navigate medinas, explain history, and enhance cultural experiences.
 
-#### What should I pack for 8 days in Morocco?
+### What should I pack for 8 days in Morocco?
 
 Comfortable shoes, light clothes, a hat, sunscreen, warm layers for mountains/desert nights, and modest attire for religious sites.
 
-#### Can I visit the Atlas Mountains during the 8-day trip?
+### Can I visit the Atlas Mountains during the 8-day trip?
 
 Yes, you can. The Atlas Mountains are perfect for hiking, scenic drives, and visiting Berber villages.
 
-#### Can I include the imperil cities and the desert in 8 days?
+### Can I include the imperil cities and the desert in 8 days?
 
 Yes, you can visit both the Imperial cities and the Merzouga or Zagora desert.
 

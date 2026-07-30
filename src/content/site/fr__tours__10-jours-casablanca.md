@@ -54,7 +54,7 @@ notes:
 - Les hôtels sont généralement de gamme moyenne (3 à 4 étoiles) ou des riads marocains traditionnels. Une nuit dans un campement dans le désert à Merzouga est incluse (tentes confortables ou luxueuses, selon le forfait).
 - 'Le Maroc bénéficie d’un climat varié : doux sur la côte, plus frais dans les montagnes et très chaud dans le désert. Emportez des vêtements superposables, une protection solaire et une veste pour les nuits plus fraîches.'
 - Il s’agit d’un itinéraire guidé mais flexible. Des activités supplémentaires (montgolfière à Marrakech, quad à Merzouga, cours de cuisine, etc.) peuvent souvent être ajoutées moyennant un supplément.
-- Le circuit comprend des visites à pied des médinas (rues étroites et irrégulières), des visites de sites historiques et, en option, <a href="https://morocco-excursion.com/fr/randonnee-dromadaires/" rel="noopener" target="_blank"><strong>une randonnée à dos de chameau dans le désert</strong></a>. Des chaussures confortables sont indispensables.
+- Le circuit comprend des visites à pied des médinas (rues étroites et irrégulières), des visites de sites historiques et, en option, <a href="/fr/randonnee-dromadaires" rel="noopener" target="_blank"><strong>une randonnée à dos de chameau dans le désert</strong></a>. Des chaussures confortables sont indispensables.
 highlights:
 - Visitez la mosquée Hassan II à Casablanca.
 - Explorez la ville bleue du Maroc (Chefchaouen).
@@ -133,7 +133,7 @@ faqs:
 - q: Combien de temps passe-t-on en voiture chaque jour pendant le circuit?
   aHtml: <p>Certaines journées comprennent 4 à 6 heures de route, avec des arrêts pour visiter les sites touristiques et prendre les repas. Les journées plus longues sont compensées par du temps libre pour se reposer et explorer les environs à pied.</p>
 - q: Avez-vous un autre circuit similaire au circuit de 10 jours au départ de Casablanca?
-  aHtml: <p>Pour ceux qui recherchent un circuit plus long, nous proposons un <a href="https://morocco-excursion.com/fr/tours/12-jours-de-casablanca/" rel="noopener" target="_blank"><strong>circuit de 12 jours</strong></a> et un <strong><a href="https://morocco-excursion.com/fr/tours/15-jours-de-casablanca/" rel="noopener" target="_blank">circuit de 15 jours</a></strong> au Maroc au départ de Casablanca.</p>
+  aHtml: <p>Pour ceux qui recherchent un circuit plus long, nous proposons un <a href="/fr/tours/12-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 12 jours</strong></a> et un <strong><a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank">circuit de 15 jours</a></strong> au Maroc au départ de Casablanca.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

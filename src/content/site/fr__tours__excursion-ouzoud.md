@@ -31,7 +31,7 @@ notes:
 - Vous pouvez engager un guide local sur le site pour en savoir plus et obtenir de l’aide pour naviguer sur les sentiers.
 - Il y a des restaurants locaux qui offrent de belles vues sur les chutes. La plupart proposent des plats marocains traditionnels.
 - La marche jusqu’à la base de la cascade et le retour comprennent des marches et des chemins escarpés. Elle n’est pas trop difficile, mais n’est pas idéale pour les personnes ayant des difficultés à marcher.
-- Pendant votre voyage dans la région d’Ouzoud, vous pouvez également faire une <a href="https://morocco-excursion.com/fr/tours/2-jours-marrakech-zagora/" rel="noopener" target="_blank"><strong>excursion de 2 jours dans le désert, de Marrakech à Zagora</strong></a>, si vous disposez d’une journée supplémentaire.
+- Pendant votre voyage dans la région d’Ouzoud, vous pouvez également faire une <a href="/fr/tours/2-jours-marrakech-zagora" rel="noopener" target="_blank"><strong>excursion de 2 jours dans le désert, de Marrakech à Zagora</strong></a>, si vous disposez d’une journée supplémentaire.
 highlights:
 - Profitez de la vue magnifique sur les chutes d'eau
 - Admirez les paysages étonnants des montagnes de l'Atlas
@@ -79,7 +79,7 @@ faqs:
 - q: Existe-t-il d'autres circuits pour se rendre de Marrakech aux cascades d'Ouzoud ?
   aHtml: '<p>Voici deux excursions d''une journée au départ de Marrakech qui sont similaires à l''excursion à Ouzoud :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-a-ourika/" rel="noopener" target="_blank"><strong>Excursion d''une journée dans la vallée de l''Ourika</strong></a></p>
+    <p><a href="/fr/tours/excursion-a-ourika" rel="noopener" target="_blank"><strong>Excursion d''une journée dans la vallée de l''Ourika</strong></a></p>
 
     <p>Environ 30 km de Marrakech</p>
 
@@ -87,7 +87,7 @@ faqs:
 
     <p>Idéal pour les amoureux de la nature et les randonneurs faciles.</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excurision-a-essaouira/" rel="noopener" target="_blank"><strong>Excursion d''une journée à Essaouira</strong></a></p>
+    <p><a href="/fr/tours/excurision-a-essaouira" rel="noopener" target="_blank"><strong>Excursion d''une journée à Essaouira</strong></a></p>
 
     <p>À environ 180 km de Marrakech</p>
 

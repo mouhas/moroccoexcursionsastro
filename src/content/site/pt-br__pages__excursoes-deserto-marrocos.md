@@ -33,7 +33,7 @@ Junte-se a nós numa excursão de vários dias ao deserto, descobrindo as aldeia
 
 Featured
 
-#### [Excursão de 3 dias de Marrakech ao deserto do Saara](https://morocco-excursion.com/pt-br/tours/3-dias-marrakech-deserto-saara/)
+### [Excursão de 3 dias de Marrakech ao deserto do Saara](https://morocco-excursion.com/pt-br/tours/3-dias-marrakech-deserto-saara/)
 
 0 Avaliações
 
@@ -43,7 +43,7 @@ A partir de
 
  €115,00
 
-#### [Viagem de 4 dias de Marrakech ao deserto do Merzouga](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-deserto/)
+### [Viagem de 4 dias de Marrakech ao deserto do Merzouga](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-deserto/)
 
 0 Avaliações
 
@@ -53,7 +53,7 @@ A partir de
 
  €200,00
 
-#### [Viagem de 8 dias visitando Marraquexe e o deserto](https://morocco-excursion.com/pt-br/tours/8-dias-marraquexe/)
+### [Viagem de 8 dias visitando Marraquexe e o deserto](https://morocco-excursion.com/pt-br/tours/8-dias-marraquexe/)
 
 0 Avaliações
 
@@ -63,7 +63,7 @@ A partir de
 
  €380,00
 
-#### [Viagem de 5 dias pelo deserto do Saara saindo de Marrakech](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-deserto/)
+### [Viagem de 5 dias pelo deserto do Saara saindo de Marrakech](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-deserto/)
 
 0 Avaliações
 
@@ -75,7 +75,7 @@ A partir de
 
 Featured
 
-#### [Excursões de quadriciclos (ATV) no deserto de Merzouga](https://morocco-excursion.com/pt-br/tours/excursoes-quad-atv/)
+### [Excursões de quadriciclos (ATV) no deserto de Merzouga](https://morocco-excursion.com/pt-br/tours/excursoes-quad-atv/)
 
 0 Avaliações
 
@@ -87,7 +87,7 @@ A partir de
 
 Featured
 
-#### [Excursão de 6 dias de Marrakech ao sul e ao deserto](https://morocco-excursion.com/pt-br/tours/6-dias-marrakech-sul/)
+### [Excursão de 6 dias de Marrakech ao sul e ao deserto](https://morocco-excursion.com/pt-br/tours/6-dias-marrakech-sul/)
 
 0 Avaliações
 
@@ -99,7 +99,7 @@ A partir de
 
 Featured
 
-#### [Excursão de 5 dias de Marrakech ao deserto e Fez](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-fez/)
+### [Excursão de 5 dias de Marrakech ao deserto e Fez](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-fez/)
 
 0 Avaliações
 
@@ -109,7 +109,7 @@ A partir de
 
  €295,00
 
-#### [Viagem de 4 dias no deserto de Marraquexe a Fez](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-fes/)
+### [Viagem de 4 dias no deserto de Marraquexe a Fez](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-fes/)
 
 0 Avaliações
 
@@ -218,15 +218,15 @@ Ajuste a lista com base nos detalhes da sua excursão e na época da sua visita.
 
 ### Comentários dos clientes
 
-#### Paola O
+### Paola O
 
 Utilizámos esta empresa para a nossa excursão privada ao deserto do Saara marroquino, depois de lermos tantas críticas e recomendações excelentes em vários sites de viagens, e excedeu as nossas expectativas. Mohammed, o nosso guia, foi simpático e prestável, e falou-nos muito sobre a cultura berbere. Tivemos a oportunidade de cantar, dançar e tocar tambores à volta da fogueira. Não há palavras suficientes para descrever esta experiência.
 
-#### Clara G
+### Clara G
 
 Um dos pontos altos das nossas férias em Marrocos foi uma excursão privada de 3 dias pelo deserto; andar de camelo pelas dunas não foi fácil, mas foi muito divertido e valeu bem a pena. O nosso guia turístico, Said, falava um inglês excelente e era muito conhecedor. Divertimo-nos muito no acampamento do Sahara, tocando tambores com os habitantes locais e contando piadas berberes. Mal posso esperar para voltar ao deserto do Saara, e certamente usarei Morocco Excursions novamente.
 
-#### Ana C
+### Ana C
 
 A minha família e eu acabámos de regressar de uma viagem privada de 5 dias no deserto marroquino que começou em Marraquexe, e não consigo expressar o quão fantástico foi, especialmente o passeio de camelo e a noite no acampamento no deserto. O Ismael foi o nosso motorista/guia e deu-nos muitas informações sobre o país. Foi a minha primeira vez no deserto do Saara e recomendo-o a toda a gente, e mal posso esperar por voltar a fazê-lo.
 

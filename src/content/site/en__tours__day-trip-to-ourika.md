@@ -71,9 +71,9 @@ faqs:
 - q: Are there alternative tours similar to the Ourika day trip?
   aHtml: '<p>If you''re looking for other day trips from Marrakech instead of Ourika Valley, here are some great alternatives:</p>
 
-    <p><strong><a href="https://morocco-excursion.com/tours/ait-ben-haddou-day-trip-from-marrakech/" rel="noopener" target="_blank">Day Trip From Marrakech To Ait Ben Haddou</a></strong>: Discover the old kasbahs.</p>
+    <p><strong><a href="/tours/ait-ben-haddou-day-trip-from-marrakech" rel="noopener" target="_blank">Day Trip From Marrakech To Ait Ben Haddou</a></strong>: Discover the old kasbahs.</p>
 
-    <p><strong><a href="https://morocco-excursion.com/tours/imlil-day-trip-from-marrakech/" rel="noopener" target="_blank">Day From Marrakech Trip To Imlil</a></strong>: Explore the Atlas Mountains.</p>'
+    <p><strong><a href="/tours/imlil-day-trip-from-marrakech" rel="noopener" target="_blank">Day From Marrakech Trip To Imlil</a></strong>: Explore the Atlas Mountains.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

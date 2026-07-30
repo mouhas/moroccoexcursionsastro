@@ -126,7 +126,7 @@ faqs:
 - q: Are meals and water included?
   aHtml: <p>Yes, water, breakfasts, lunches, and dinners are included on the tour.</p>
 - q: Can I add other desert activities?
-  aHtml: <p>Yes, camel treks are part of the tour in Merzouga, and you can add an extra <a href="https://morocco-excursion.com/tours/merzouga-atv-quad-excursion/" rel="noopener" target="_blank"><strong>desert excursion by ATV/Quad</strong></a>, <strong><a href="https://morocco-excursion.com/tours/merzouga-dune-buggy-tours/" rel="noopener" target="_blank">Buggy tour</a>,</strong> or Motocross.</p>
+  aHtml: <p>Yes, camel treks are part of the tour in Merzouga, and you can add an extra <a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><strong>desert excursion by ATV/Quad</strong></a>, <strong><a href="/tours/merzouga-dune-buggy-tours" rel="noopener" target="_blank">Buggy tour</a>,</strong> or Motocross.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

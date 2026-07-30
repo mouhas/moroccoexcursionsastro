@@ -54,7 +54,7 @@ notesHeading: null
 notes:
 - The 5-day desert tour from Marrakech includes driving through the snaky roads of the High Atlas Mountains. A 6-day tour from Marrakech is recommended if you don’t want to spend too much time in the car.
 - The camel ride usually takes about 1 hour. But sometimes, due to bad weather like rain or sandstorms, you may miss the sunset, sunrise, or part of the ride.
-- The ATV, <strong><a href="https://morocco-excursion.com/tours/merzouga-dune-buggy-tours/" rel="noopener" target="_blank">Dune Buggy</a></strong>, camel ride, or the desert activities are not recommended for people over 70 years old or anyone with back problems.
+- The ATV, <strong><a href="/tours/merzouga-dune-buggy-tours" rel="noopener" target="_blank">Dune Buggy</a></strong>, camel ride, or the desert activities are not recommended for people over 70 years old or anyone with back problems.
 - We usually stop at places that serve fresh and tasty food, but some may be touristy. If you prefer to eat somewhere else, you can always ask your driver to take you to a restaurant of your choice at any time.
 - The tour itinerary can be changed to fit your needs and wishes. <div> <div></div> </div>
 highlights:
@@ -147,7 +147,7 @@ faqs:
 - q: What is the price of the 5-day desert tour from Marrakech?
   aHtml: <p>The 5-day desert tour cost varies according to the number of travelers and the category of the accommodations. Please check the pricing section or contact us for additional information.</p>
 - q: What are the similar tours to the 5-day desert tour from Marrakech?
-  aHtml: <p>Yes, here are some similar tours to the 5-day desert tour from Marrakech:<br/><a href="https://www.morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a><br/><a href="https://www.morocco-excursion.com/tours/marrakech-to-south-6-day-trip/" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></p>
+  aHtml: <p>Yes, here are some similar tours to the 5-day desert tour from Marrakech:<br/><a href="/tours/5-day-marrakech-to-fes-desert-tour" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a><br/><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></p>
 reviews:
 - name: Shirley
   date: 26/08/2021

@@ -191,7 +191,7 @@ faqs:
 - q: Can you suggest another tours similar to the 10-day tour from Marrakech?
   aHtml: '<p>Sure! Here are two similar tours to the 10 day tour:</p>
 
-    <p><strong><a href="https://www.morocco-excursion.com/tours/12-day-trip-from-marrakech/" rel="noopener" target="_blank">12-tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/14-day-tour-from-marrakech/" rel="noopener" target="_blank">14-day tour from Marrakech</a></strong></p>'
+    <p><strong><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/14-day-tour-from-marrakech/" rel="noopener" target="_blank">14-day tour from Marrakech</a></strong></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -35,7 +35,7 @@ Visit Casablanca, Rabat, Fez, and Marrakech, discovering ancient architecture, b
 
 ### Questions about 11-day tours in Morocco
 
-#### How much can I see in 11 days in Morocco?
+### How much can I see in 11 days in Morocco?
 
 In 11 days, you can explore Morocco’s main cities, the desert, mountains, and coast. It allows a mix of history, nature, and cultural experiences without rushing.
 
@@ -43,19 +43,19 @@ In 11 days, you can explore Morocco’s main cities, the desert, mountains, and 
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like [**Fes**](https://morocco-excursion.com/fes-tours/) or Rabat.
 
-#### Should I hire a guide for an 11-day trip?
+### Should I hire a guide for an 11-day trip?
 
 A tour guide or private driver helps with navigation, local insights, and safety, especially in medinas and remote areas.
 
-#### Are group tours better than private tours for 11 days?
+### Are group tours better than private tours for 11 days?
 
 Private tours give flexibility to choose destinations and pace. Group tours are more social and sometimes cheaper.
 
-#### How physically demanding is an 11-day Morocco tour?
+### How physically demanding is an 11-day Morocco tour?
 
 Walking in medinas and markets is easy to moderate. Hiking in the Atlas or desert trekking may require more stamina.
 
-#### Can I include Casablanca, Rabat, Fez, and Marrakech?
+### Can I include Casablanca, Rabat, Fez, and Marrakech?
 
 Sure. 2–3 days in each city allow time to see key landmarks, markets, and cultural sites.
 

@@ -31,7 +31,7 @@ Fes and Rabat add even more variety. Fes is full of history, while Rabat offers 
 
 ## Morocco 7-day tour itineraries – A week in Morocco
 
-#### [7-Day tour from Casablanca to Imperial cities and south](https://morocco-excursion.com/tours/7-day-tour-from-casablanca/)
+### [7-Day tour from Casablanca to Imperial cities and south](https://morocco-excursion.com/tours/7-day-tour-from-casablanca/)
 
 1 Review
 
@@ -43,7 +43,7 @@ from
 
 Tangier, Morocco
 
-#### [7-Day Trip From Tangier](https://morocco-excursion.com/tours/7-day-trip-from-tangier/)
+### [7-Day Trip From Tangier](https://morocco-excursion.com/tours/7-day-trip-from-tangier/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -63,27 +63,27 @@ Each day of your 7-day tour will be planned especially for you, making your jour
 
 ### Questions about one-week (7-day) tours in Morocco
 
-#### Is 7 days (1 Week) enough to see Morocco?
+### Is 7 days (1 Week) enough to see Morocco?
 
 Yes, one week gives you time to see highlights like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), the Sahara Desert, and either Fes or Rabat, though you won’t see everything.
 
-#### What can I do in Morocco in 7 days?
+### What can I do in Morocco in 7 days?
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
-#### What is the best time to travel for one week in Morocco?
+### What is the best time to travel for one week in Morocco?
 
 Spring (March–May) and autumn (September–November) are best, with pleasant weather for both the cities and the desert.
 
-#### How many cities can I see in a week in Morocco?
+### How many cities can I see in a week in Morocco?
 
 Usually, 2 to 3 cities plus the desert. Many travelers combine [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, and the Sahara, or Marrakech, Rabat, and the coast.
 
-#### Is one week enough to visit Marrakech and Fes?
+### Is one week enough to visit Marrakech and Fes?
 
 Yes, but you will need to plan carefully. Many tours link [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, and the desert in 7 days.
 
-#### What activities are popular on a 7-day Morocco tour?
+### What activities are popular on a 7-day Morocco tour?
 
 Camel trekking, desert camping, hiking in the Atlas Mountains, visiting medinas, trying Moroccan cooking classes, and exploring souks.
 

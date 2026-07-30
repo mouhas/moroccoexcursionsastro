@@ -54,7 +54,7 @@ notes:
 - Os hotéis são normalmente de gama média (3–4 estrelas) ou riads tradicionais marroquinos. Está incluída uma noite num acampamento no deserto em Merzouga (tendas confortáveis ou luxuosas, dependendo do pacote).
 - 'Marrocos tem climas variados: ameno na costa, mais fresco nas montanhas e muito quente no deserto. Leve roupa para vestir em camadas, proteção solar e um casaco para as noites mais frias.'
 - Este é um itinerário guiado, mas flexível. Atividades extras (balão de ar quente em Marraquexe, quadriciclo em Merzouga, aulas de culinária, etc.) podem ser adicionadas por um custo extra.
-- O passeio inclui passeios a pé pelas medinas (ruas estreitas e irregulares), visitas a locais históricos e <a href="https://morocco-excursion.com/pt-br/excursoes-camelos/" rel="noopener" target="_blank"><strong>passeios de camelo no deserto</strong></a>. É imprescindível usar sapatos confortáveis.
+- O passeio inclui passeios a pé pelas medinas (ruas estreitas e irregulares), visitas a locais históricos e <a href="/pt-br/excursoes-camelos" rel="noopener" target="_blank"><strong>passeios de camelo no deserto</strong></a>. É imprescindível usar sapatos confortáveis.
 highlights:
 - Visite a Mesquita Hassan II em Casablanca.
 - Explore a Cidade Azul de Marrocos (Chefchaouen).
@@ -133,7 +133,7 @@ faqs:
 - q: Quanto tempo se passa a conduzir por dia durante a excursão?
   aHtml: <p>Alguns dias envolvem 4 a 6 horas de condução, com paragens para passeios turísticos e refeições. Os dias mais longos são compensados com tempo para descansar e explorar a pé.</p>
 - q: Tem outra excursão semelhante à excursão de 10 dias a partir de Casablanca?
-  aHtml: <p>Para quem procura uma viagem mais longa, oferecemos uma <a href="https://morocco-excursion.com/pt-br/tours/12-dias-de-casablanca/" rel="noopener" target="_blank"><strong>viagem de 12 dias</strong></a> e <a href="https://morocco-excursion.com/pt-br/tours/15-dias-de-casablanca/" rel="noopener" target="_blank"><strong>15 dias pelo Marrocos a partir de Casablanca</strong></a>.</p>
+  aHtml: <p>Para quem procura uma viagem mais longa, oferecemos uma <a href="/pt-br/tours/12-dias-de-casablanca" rel="noopener" target="_blank"><strong>viagem de 12 dias</strong></a> e <a href="/pt-br/tours/15-dias-de-casablanca" rel="noopener" target="_blank"><strong>15 dias pelo Marrocos a partir de Casablanca</strong></a>.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

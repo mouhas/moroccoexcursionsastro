@@ -128,7 +128,7 @@ faqs:
 - q: Existe-t-il d'autres circuits similaires au circuit de 4 jours dans le désert du Sahara de Marrakech à Merzouga ?
   aHtml: '<p>Voici deux circuits similaires au circuit de 4 jours dans le désert du Sahara au départ de Marrakech :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/4-jours-marrakech-fes/" rel="noopener" target="_blank"><strong>Circuit de 4 jours de Marrakech à Fès via le Sahara</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/5-jours-marrakech-desert/" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a></p>'
+    <p><a href="/fr/tours/4-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 4 jours de Marrakech à Fès via le Sahara</strong></a><br/><a href="/fr/tours/5-jours-marrakech-desert" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -34,7 +34,7 @@ notes:
 - Essaouira is known for its strong winds, especially in summer. If you prefer calmer weather, plan your trip during the cooler months or early in the day.
 - The medina offers many crafts, especially woodwork and textiles. Be ready to bargain politely if you want to shop.
 - Essaouira is famous for fresh seafood. Trying local dishes is a must, but check if meals are included or if you need to pay separately.
-- For guests who book the day trip to Essaouira, we offer a discount on our <a href="https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/" rel="noopener" target="_blank"><strong>3-day desert tour from Marrakech to Merzouga</strong></a>.
+- For guests who book the day trip to Essaouira, we offer a discount on our <a href="/tours/3-days-marrakech-to-merzouga" rel="noopener" target="_blank"><strong>3-day desert tour from Marrakech to Merzouga</strong></a>.
 highlights:
 - Visit an argan oil cooperative
 - Explore the Skala Kasbah
@@ -78,9 +78,9 @@ faqs:
 - q: When does the excursion to Essaouira starts?
   aHtml: <p>This day trip starts at 8:00 a.m. We will pick you up from your hotel or riad in Marrakech.</p>
 - q: Are there other day trips similar to the Essaouira tour?
-  aHtml: '<p>Yes, there are other day trips similar to the Essaouira day trip. One popular option is a <a href="https://morocco-excursion.com/tours/ouzoud-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>day trip to the Ouzoud Waterfalls</strong></a>, which is about a three-hour drive from Marrakech. There, you can enjoy beautiful waterfalls, stunning mountain views, and even see wild monkeys.</p>
+  aHtml: '<p>Yes, there are other day trips similar to the Essaouira day trip. One popular option is a <a href="/tours/ouzoud-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>day trip to the Ouzoud Waterfalls</strong></a>, which is about a three-hour drive from Marrakech. There, you can enjoy beautiful waterfalls, stunning mountain views, and even see wild monkeys.</p>
 
-    <p>Another great alternative is a <a href="https://morocco-excursion.com/tours/day-trip-to-ourika/" rel="noopener" target="_blank"><strong>day trip to Ourika Valley</strong></a>, located closer to Marrakech. This trip takes you through the High Atlas Mountains, traditional Berber villages, and peaceful riverside spots, with the option to hike to nearby waterfalls. Both trips offer a nice mix of nature, culture, and relaxation like the Essaouira day tour.</p>'
+    <p>Another great alternative is a <a href="/tours/day-trip-to-ourika" rel="noopener" target="_blank"><strong>day trip to Ourika Valley</strong></a>, located closer to Marrakech. This trip takes you through the High Atlas Mountains, traditional Berber villages, and peaceful riverside spots, with the option to hike to nearby waterfalls. Both trips offer a nice mix of nature, culture, and relaxation like the Essaouira day tour.</p>'
 reviews:
 - name: Charles
   date: 04/09/2021

@@ -37,7 +37,7 @@ Even in a short trip, Morocco gives a rich experience with busy markets, desert 
 
 Featured
 
-#### [3-day desert trip from Fes to Marrakech via Sahara](https://morocco-excursion.com/tours/3-days-fes-to-marrakech/)
+### [3-day desert trip from Fes to Marrakech via Sahara](https://morocco-excursion.com/tours/3-days-fes-to-marrakech/)
 
 2 [**Reviews**](https://morocco-excursion.com/reviews/)
 
@@ -49,7 +49,7 @@ from
 
 Featured
 
-#### [3-day tour from Fes to Merzouga desert (Erg Chebbi)](https://morocco-excursion.com/tours/3-day-fes-desert-tour-to-merzouga/)
+### [3-day tour from Fes to Merzouga desert (Erg Chebbi)](https://morocco-excursion.com/tours/3-day-fes-desert-tour-to-merzouga/)
 
 0 reviews
 
@@ -61,7 +61,7 @@ from
 
 Featured
 
-#### [3-Day Desert Tour From Marrakech To Merzouga](https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/)
+### [3-Day Desert Tour From Marrakech To Merzouga](https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/)
 
 6 Reviews
 
@@ -73,7 +73,7 @@ from
 
 Featured
 
-#### [3-Day Shared Desert Tour From Marrakech](https://morocco-excursion.com/tours/shared-group-3-days-marrakech-desert-trip/)
+### [3-Day Shared Desert Tour From Marrakech](https://morocco-excursion.com/tours/shared-group-3-days-marrakech-desert-trip/)
 
 5 Reviews
 
@@ -83,7 +83,7 @@ from
 
  €0,00
 
-#### [Marrakech to Fes 3-day desert tour](https://morocco-excursion.com/tours/marrakech-to-fes-3-days/)
+### [Marrakech to Fes 3-day desert tour](https://morocco-excursion.com/tours/marrakech-to-fes-3-days/)
 
 14 Reviews
 
@@ -93,7 +93,7 @@ from
 
  €130,00
 
-#### [3-Day Merzouga camel tour, 4×4 and ATV/Quad excursion](https://morocco-excursion.com/tours/3-days-2-nights-merzouga-tour/)
+### [3-Day Merzouga camel tour, 4×4 and ATV/Quad excursion](https://morocco-excursion.com/tours/3-days-2-nights-merzouga-tour/)
 
 0 reviews
 
@@ -103,7 +103,7 @@ from
 
  €180,00
 
-#### [3-Days Marrakech to Fes Shared Desert Tour](https://morocco-excursion.com/tours/shared-group-marrakech-fes-3-days/)
+### [3-Days Marrakech to Fes Shared Desert Tour](https://morocco-excursion.com/tours/shared-group-marrakech-fes-3-days/)
 
 0 reviews
 
@@ -113,7 +113,7 @@ from
 
  €0,00
 
-#### [3 Days From Fes to Marrakech via Sahara (Group Tour)](https://morocco-excursion.com/tours/fes-marrakech-3-days-group-tour/)
+### [3 Days From Fes to Marrakech via Sahara (Group Tour)](https://morocco-excursion.com/tours/fes-marrakech-3-days-group-tour/)
 
 0 reviews
 
@@ -123,7 +123,7 @@ from
 
  €0,00
 
-#### [3-Day Group Tour From Fes to Sahara Desert](https://morocco-excursion.com/tours/3-day-group-tour-fes-desert/)
+### [3-Day Group Tour From Fes to Sahara Desert](https://morocco-excursion.com/tours/3-day-group-tour-fes-desert/)
 
 0 reviews
 
@@ -133,7 +133,7 @@ from
 
  €0,00
 
-#### [3-day trip from Errachidia to Fes via desert](https://morocco-excursion.com/tours/3-days-errachidia-fes/)
+### [3-day trip from Errachidia to Fes via desert](https://morocco-excursion.com/tours/3-days-errachidia-fes/)
 
 0 reviews
 
@@ -160,27 +160,27 @@ Our team will then design a tailor-made 3-day Morocco tour that ensures every de
 
 ### Questions about the 3-day tours in Morocco
 
-#### Can I see all major cities in Morocco in 3 days?
+### Can I see all major cities in Morocco in 3 days?
 
 Yes, but it will be a fast-paced trip. It’s best to focus on key cities like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, Tangier, and Casablanca, and plan your travel carefully.
 
-#### What is the best way to travel between cities?
+### What is the best way to travel between cities?
 
 Domestic flights or private cars with drivers are the fastest options to save time.
 
-#### Can I visit the Sahara Desert in 3 days?
+### Can I visit the Sahara Desert in 3 days?
 
 Yes, you can visit Merzouga or Zagora for a short desert experience, including camel rides and desert camps.
 
-#### How much time should I spend in each city?
+### How much time should I spend in each city?
 
 If you have only 3 days in Morocco, it is better to stay in one city. If you have 3 days to do activities, then a desert tour or a trip to the imperial cities is recommended.
 
-#### Can I visit Morocco on a budget in 3 days?
+### Can I visit Morocco on a budget in 3 days?
 
 Yes, you can. Use public transport or shared tours, eat local food, and stay in budget riads.
 
-#### Can I combine city and desert experiences in 3 days?
+### Can I combine city and desert experiences in 3 days?
 
 Yes, a well-planned itinerary can include city sightseeing and a short desert trip, utilizing flights or private cars to travel efficiently between locations.
 

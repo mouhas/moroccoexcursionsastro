@@ -31,7 +31,7 @@ notes:
 - You can hire a local guide at the site to learn more and get help navigating the trails.
 - <p>There are local restaurants with beautiful views of the falls. Most offer traditional Moroccan dishes.</p>
 - The walk to the base of the waterfall and back up includes steps and steep paths. It’s not too hard, but not ideal for people with walking difficulties.
-- During your trip to Ouzoud’s area, you can also take a <strong><a href="https://morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/" rel="noopener" target="_blank">2-day desert tour from Marrakech to Zagora</a></strong> if you have an extra day.
+- During your trip to Ouzoud’s area, you can also take a <strong><a href="/tours/2-day-marrakech-to-zagora-desert-tour" rel="noopener" target="_blank">2-day desert tour from Marrakech to Zagora</a></strong> if you have an extra day.
 highlights:
 - Enjoy the beautiful view of the waterfalls
 - See the amazing scenery of the Atlas Mountains
@@ -80,7 +80,7 @@ faqs:
 - q: Are there alternative tours to day trip from Marrakech to Ouzoud Waterfalls?
   aHtml: '<p>Here are two alternative day trips from Marrakech that are similar to the Ouzoud trip:</p>
 
-    <p><a href="https://morocco-excursion.com/tours/day-trip-to-ourika/" rel="noopener" target="_blank"><strong>Ourika Valley Day Trip</strong></a></p>
+    <p><a href="/tours/day-trip-to-ourika" rel="noopener" target="_blank"><strong>Ourika Valley Day Trip</strong></a></p>
 
     <p>About 30 km from Marrakech</p>
 
@@ -88,7 +88,7 @@ faqs:
 
     <p>Great for nature lovers and easy hiking</p>
 
-    <p><a href="https://morocco-excursion.com/tours/essaouira-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>Essaouira Day Trip</strong></a></p>
+    <p><a href="/tours/essaouira-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>Essaouira Day Trip</strong></a></p>
 
     <p>About 180 km from Marrakech</p>
 

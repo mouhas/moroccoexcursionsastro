@@ -68,9 +68,9 @@ faqs:
 - q: Are there other tours like the Ait Ben Haddou day trip?
   aHtml: '<p>Yes, there are other tours similar to the Ait Ben Haddou day trip. Here are two popular options:</p>
 
-    <p><a href="https://morocco-excursion.com/tours/imlil-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>Imlil Day Trip</strong></a> – This tour takes you from Marrakech to the beautiful Imlil Village in the Atlas Mountains. You will see traditional Berber villages, rivers, and waterfalls.</p>
+    <p><a href="/tours/imlil-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>Imlil Day Trip</strong></a> – This tour takes you from Marrakech to the beautiful Imlil Village in the Atlas Mountains. You will see traditional Berber villages, rivers, and waterfalls.</p>
 
-    <p><a href="https://morocco-excursion.com/tours/ouzoud-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>Ouzoud Waterfalls Day Trip</strong></a> – This tour visits the stunning Ouzoud Waterfalls, where you can enjoy nature, walk along the falls, and maybe spot some monkeys. It’s a great way to experience Morocco’s natural beauty.</p>'
+    <p><a href="/tours/ouzoud-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>Ouzoud Waterfalls Day Trip</strong></a> – This tour visits the stunning Ouzoud Waterfalls, where you can enjoy nature, walk along the falls, and maybe spot some monkeys. It’s a great way to experience Morocco’s natural beauty.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

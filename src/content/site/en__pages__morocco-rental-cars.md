@@ -279,7 +279,7 @@ When you rent a car with a driver in Morocco, the price typically includes:
 
 4x4 (4WD Cars)
 
-#### [Luxury SUV 4×4](https://morocco-excursion.com/car/suv/)
+### [Luxury SUV 4×4](https://morocco-excursion.com/car/suv/)
 
 6
 
@@ -294,7 +294,7 @@ Manual
 
 Luxury Car
 
-#### [Luxury Van](https://morocco-excursion.com/car/luxury-van/)
+### [Luxury Van](https://morocco-excursion.com/car/luxury-van/)
 
 8
 
@@ -309,7 +309,7 @@ Auto
 
 Minivan
 
-#### [8 Seats Minivan](https://morocco-excursion.com/car/minivan/)
+### [8 Seats Minivan](https://morocco-excursion.com/car/minivan/)
 
 8
 
@@ -326,27 +326,27 @@ Manual
 
 ### Reviews
 
-#### Anna P
+### Anna P
 
 My mom and I rented a car with a driver, Mohammed, for three days to explore the Sahara. The experience was fantastic! Mohammed was great—friendly, knowledgeable, and always ready to help. He made our trip enjoyable and stress-free. We felt safe and comfortable throughout the journey. Mohammed knew all the best spots to visit and gave us interesting information about each place. The car was clean and comfortable, perfect for our adventure. I highly recommend renting a car with Mohammed if you're planning a trip to the Sahara. It was a wonderful experience that we will always remember.
 
-#### Daniel O
+### Daniel O
 
 My friends and I rented a car with a local driver from Morocco Excursions for 10 days to explore Morocco. Our driver, Ali, was fantastic. He was knowledgeable about all the places we visited, including the Imperial cities, the North, and the South of Morocco. Ali made sure we were comfortable throughout the trip and customized the itinerary to fit our interests. He shared fascinating insights about the culture and history of Morocco, making our journey even more enjoyable. Renting a car with Morocco Excursions was a great decision, and we highly recommend their services for an amazing travel experience.
 
-#### Alma S
+### Alma S
 
 Our honeymoon in Morocco was an unforgettable adventure filled with local experiences and breathtaking landscapes. Renting a car with Hassan as our driver added a personal touch, as he guided us through the winding roads of the Atlas Mountains. Starting in Tangier and exploring the enchanting blue city of Chefchaouen, the Atlas Mountains and we went off roading into the Sahara Desert. Crossing the sand dunes with a 4x4 vehicle was un unforgettable moment. This 8 days of fun and discovery, blending culture with adventure, made our honeymoon truly magical.
 
-#### Osman K
+### Osman K
 
 We rented a car with a private driver from Morocco Excursions and couldn’t be happier. Everything was perfectly organized from start to finish. The vehicle was clean, comfortable, and ideal for long distances. Our driver Hamid was professional, punctual, and very friendly. He made our journey across Morocco smooth, safe, and truly enjoyable.
 
-#### Franco T
+### Franco T
 
 Hiring a driver around Morocco with Morocco Excursions was the best decision for our trip. Hamid knew all the routes, avoided traffic, and suggested great stops along the way. He was calm, respectful, and very knowledgeable. Traveling with him allowed us to relax and enjoy Morocco without worrying about driving or navigation.
 
-#### Emily B
+### Emily B
 
 We rented a van with a driver for our family trip in Morocco, and the experience was excellent. The van was spacious and comfortable for all of us. Our driver Hamid was amazing with children, always patient and helpful. Morocco Excursions provided outstanding service and made our family holiday safe and stress-free.
 

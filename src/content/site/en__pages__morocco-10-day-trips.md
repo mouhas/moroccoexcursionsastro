@@ -29,7 +29,7 @@ A 10-day journey in Morocco is more than sightseeing. It is a chance to experien
 
 ## Morocco 10-day tour itineraries
 
-#### [10-Day tour from Marrakech to atlas desert and ocean](https://morocco-excursion.com/tours/10-day-tour-from-marrakech/)
+### [10-Day tour from Marrakech to atlas desert and ocean](https://morocco-excursion.com/tours/10-day-tour-from-marrakech/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -39,7 +39,7 @@ from
 
  €0,00
 
-#### [10-Day tour from Casablanca to north & south of Morocco](https://morocco-excursion.com/tours/10-days-from-casablanca/)
+### [10-Day tour from Casablanca to north & south of Morocco](https://morocco-excursion.com/tours/10-days-from-casablanca/)
 
 0 reviews
 
@@ -49,7 +49,7 @@ from
 
  €500,00
 
-#### [10-Days from Marrakech to desert, Fes, Chefchaouen and Rabat](https://morocco-excursion.com/tours/10-day-marrakech-tour/)
+### [10-Days from Marrakech to desert, Fes, Chefchaouen and Rabat](https://morocco-excursion.com/tours/10-day-marrakech-tour/)
 
 0 reviews
 
@@ -61,7 +61,7 @@ from
 
 Tangier, Morocco
 
-#### [10-Day Trip From Tangier](https://morocco-excursion.com/tours/10-day-trip-from-tangier/)
+### [10-Day Trip From Tangier](https://morocco-excursion.com/tours/10-day-trip-from-tangier/)
 
 0 reviews
 
@@ -73,7 +73,7 @@ from
 
 Rabat, Morocco
 
-#### [10-Day Trip From Rabat](https://morocco-excursion.com/tours/10-day-trip-from-rabat/)
+### [10-Day Trip From Rabat](https://morocco-excursion.com/tours/10-day-trip-from-rabat/)
 
 0 reviews
 
@@ -83,7 +83,7 @@ from
 
  €0,00
 
-#### [10-day tour from Agadir](https://morocco-excursion.com/tours/10-day-trip-from-agadir/)
+### [10-day tour from Agadir](https://morocco-excursion.com/tours/10-day-trip-from-agadir/)
 
 0 reviews
 
@@ -103,7 +103,7 @@ Explore the vibrant streets of Marrakech, wander through the ancient medina of F
 
 ### Questions about 10-day tours in Morocco
 
-#### Is Morocco good for solo travelers?
+### Is Morocco good for solo travelers?
 
 Yes, but it’s better to be careful not to go out late a night.
 
@@ -111,19 +111,19 @@ Yes, but it’s better to be careful not to go out late a night.
 
 In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
-#### Are there historical sites outside cities?
+### Are there historical sites outside cities?
 
 Yes, like Ait Ben Haddou, Dades and Todra Gorges, and Roman ruins in Volubilis.
 
-#### Can I visit Casablanca in 10 days?
+### Can I visit Casablanca in 10 days?
 
 Yes, mainly to see Hassan II Mosque and the city center.
 
-#### What cultural things can I try in 10 days?
+### What cultural things can I try in 10 days?
 
 Moroccan cooking, hammam spa, traditional music, and visiting Berber villages.
 
-#### What outdoor activities can I do?
+### What outdoor activities can I do?
 
 Hiking in Atlas Mountains, camel rides, quad biking in the desert, sandboarding, and visiting gorges.
 

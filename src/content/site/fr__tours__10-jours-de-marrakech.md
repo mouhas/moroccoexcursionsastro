@@ -191,7 +191,7 @@ faqs:
 - q: Pouvez-vous nous suggérer d'autres circuits similaires à celui de 10 jours au départ de Marrakech?
   aHtml: '<p>Voici deux circuits similaires à celui de 10 jours :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/12-jours-de-marrakech/" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/10-jours-depart-marrakech/" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
+    <p><a href="/fr/tours/12-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="/fr/tours/10-jours-depart-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

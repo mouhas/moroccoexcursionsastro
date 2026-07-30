@@ -31,7 +31,7 @@ To relax, visit a traditional Moroccan hammam, and in Essaouira, end the evening
 
 ## Morocco 15-day tour itineraries
 
-#### [15-Day tour from Casablanca (The Great Morocco)](https://morocco-excursion.com/tours/15-day-tour-from-casablanca/)
+### [15-Day tour from Casablanca (The Great Morocco)](https://morocco-excursion.com/tours/15-day-tour-from-casablanca/)
 
 2 [**Reviews**](https://morocco-excursion.com/reviews/)
 
@@ -43,7 +43,7 @@ from
 
 Tangier, Morocco
 
-#### [15-Day Tour From Tangier](https://morocco-excursion.com/tours/15-day-tour-from-tangier/)
+### [15-Day Tour From Tangier](https://morocco-excursion.com/tours/15-day-tour-from-tangier/)
 
 0 reviews
 
@@ -63,7 +63,7 @@ In the Sahara, our Berber guides lead [**camel treks**](https://morocco-excursio
 
 ### Questions about 15-day tours in Morocco
 
-#### How can I make the 15 day trip unique?
+### How can I make the 15 day trip unique?
 
 Hire local guides, explore lesser-known towns like Skoura or Tiznit, attend festivals, take cooking classes, and combine city life with desert and mountain adventures.
 
@@ -71,19 +71,19 @@ Hire local guides, explore lesser-known towns like Skoura or Tiznit, attend fest
 
 In a week, you can explore Marrakech, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
-#### Can I try adventure sports?
+### Can I try adventure sports?
 
 Yes, options include sandboarding, camel trekking, kitesurfing, hiking, and 4×4 desert trips.
 
-#### Are there hiking opportunities?
+### Are there hiking opportunities?
 
 Yes, the Atlas and Rif Mountains offer day hikes and multi-day treks.
 
-#### Are night drives safe in Morocco?
+### Are night drives safe in Morocco?
 
 Main highways are generally safe, but avoid poorly lit roads in remote areas at night.
 
-#### What is the best coastal city to visit?
+### What is the best coastal city to visit?
 
 Essaouira is calm and scenic; Casablanca is modern and historic. Oualidia is ideal for relaxation and seafood.
 

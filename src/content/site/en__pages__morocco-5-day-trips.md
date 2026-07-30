@@ -33,7 +33,7 @@ In just five days, Morocco offers adventure, culture, and relaxation—a mix of 
 
 ## Morocco 5-day tour itineraries
 
-#### [5-Day Sahara desert tour from Fes to the south](https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/)
+### [5-Day Sahara desert tour from Fes to the south](https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/)
 
 0 [**reviews**](https://morocco-excursion.com/reviews/)
 
@@ -43,7 +43,7 @@ from
 
  €290,00
 
-#### [5-Days Merzouga Sahara desert tour from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/)
+### [5-Days Merzouga Sahara desert tour from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/)
 
 3 Reviews
 
@@ -55,7 +55,7 @@ from
 
 Featured
 
-#### [5-Day desert tour to Fes from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/)
+### [5-Day desert tour to Fes from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/)
 
 3 Reviews
 
@@ -67,7 +67,7 @@ from
 
 Featured
 
-#### [5-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/5-day-fes-to-marrakech-tour/)
+### [5-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/5-day-fes-to-marrakech-tour/)
 
 0 reviews
 
@@ -77,7 +77,7 @@ from
 
  €300,00
 
-#### [5 days / 4 night tours from Agadir](https://morocco-excursion.com/tours/5-days-from-agadir/)
+### [5 days / 4 night tours from Agadir](https://morocco-excursion.com/tours/5-days-from-agadir/)
 
 0 reviews
 
@@ -97,27 +97,27 @@ For adventure seekers, we can include off-road excursions and 4×4 desert trips.
 
 ### Questions about the 5-day tours in Morocco
 
-#### What cities can I visit in 5 days in Morocco?
+### What cities can I visit in 5 days in Morocco?
 
 You can visit [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, Essaouira, Agadir, or take a desert tour from Marrakech or Fes.
 
-#### Is 5 days enough to see Morocco?
+### Is 5 days enough to see Morocco?
 
 No, but you can still see the main highlights, but you need a well-planned itinerary to cover cities, the desert, and the beach.
 
-#### Can I do a desert trip in 5 days?
+### Can I do a desert trip in 5 days?
 
 Yes, we have from 2 to 5-day desert tours starting from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, Agadir, and other cities.
 
-#### Can I combine beach and desert in 5 days?
+### Can I combine beach and desert in 5 days?
 
 Yes, you can visit Essaouira or Agadir for the coast and then go to the desert from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) or Fes.
 
-#### Can I hike in Morocco during a 5-day trip?
+### Can I hike in Morocco during a 5-day trip?
 
 Yes, short hikes in the Atlas Mountains or near desert and coastal areas are possible.
 
-#### Can I experience Berber culture in 5 days?
+### Can I experience Berber culture in 5 days?
 
 Yes, you can meet Berbers in Atlas villages, desert camps, and guided mountain tours.
 

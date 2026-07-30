@@ -158,7 +158,7 @@ faqs:
 - q: Quel est le prix du circuit de 6 jours au départ de Marrakech vers le sud et le désert?
   aHtml: <p>Le prix de ce voyage de 6 jours peut varier en fonction du nombre de personnes qui voyagent et du type d'hébergement que vous choisissez. Vous avez la possibilité de passer d'un hébergement standard à un hébergement de luxe dans les hôtels et les camps dans le désert. Pour plus de détails, veuillez vous reporter à la section Informations sur les prix.</p>
 - q: Quels circuits sont similaires au circuit de 6 jours au départ de Marrakech?
-  aHtml: <p>Les deux circuits alternatifs au circuit de 6 jours au départ de Marrakech sont :<br/><a href="https://morocco-excursion.com/fr/tours/10-jours-de-marrakech/" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>
+  aHtml: <p>Les deux circuits alternatifs au circuit de 6 jours au départ de Marrakech sont :<br/><a href="/fr/tours/10-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>
 reviews: []
 rating: 5.0
 reviewCount: 820

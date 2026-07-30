@@ -67,9 +67,9 @@ faqs:
 - q: Existe-t-il d'autres circuits similaires à l'excursion d'une journée à l'Ourika ?
   aHtml: '<p>Si vous cherchez d''autres excursions d''une journée à partir de Marrakech au lieu de la vallée de l''Ourika, voici d''excellentes alternatives :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-a-ait-ben-haddou/" rel="noopener" target="_blank"><strong>Excursion d''une journée de Marrakech à Ait Ben Haddou</strong></a>: Découvrez les anciennes kasbahs.</p>
+    <p><a href="/fr/tours/excursion-a-ait-ben-haddou" rel="noopener" target="_blank"><strong>Excursion d''une journée de Marrakech à Ait Ben Haddou</strong></a>: Découvrez les anciennes kasbahs.</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-a-imlil/" rel="noopener" target="_blank"><strong>Excursion d''une journée de Marrakech à Imlil</strong></a>: Explorez les montagnes de l''Atlas.</p>'
+    <p><a href="/fr/tours/excursion-a-imlil" rel="noopener" target="_blank"><strong>Excursion d''une journée de Marrakech à Imlil</strong></a>: Explorez les montagnes de l''Atlas.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

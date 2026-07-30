@@ -11,7 +11,15 @@ source: https://morocco-excursion.com/tours/12-day-tour-from-tangier/
 tourType: Private Tour
 cancellation: 48 H
 languagesSpoken: English, Multilingual
-overviewHtml: ''
+overviewHtml: '<p>This 12-day private tour from <b>Tangier</b> takes you from Morocco''s northern gateway down to the Sahara desert and back, covering the imperial cities, the High Atlas Mountains, and the blue town of Chefchaouen along the way. It''s a complete introduction to the country for travelers who want more time in each place rather than rushing through.</p>
+
+  <p>You''ll travel the entire route in a private air-conditioned vehicle with your own driver-guide. After arriving in Tangier, the route heads south through Rabat and Casablanca to Marrakech, where you''ll have a free day to explore the souks and squares before continuing over the Tizi-n-Tichka pass toward the south.</p>
+
+  <p>From Ouarzazate, the road runs through the Dades Valley and Todra Gorges to Merzouga, where you''ll ride a camel into the Erg Chebbi dunes for a night in a desert camp—with a second night and a free day to properly enjoy the dunes, including an optional 4x4 excursion.</p>
+
+  <p>Heading back north, the tour passes through Midelt and Ifrane to Fes, with a free day there too, before finishing through Meknes, the Roman ruins of Volubilis, and the hillside town of Chefchaouen on the way back to Tangier.</p>
+
+  <p>The itinerary can be adjusted to fit your schedule, and accommodations—including the desert camp—can be upgraded from standard to superior depending on your preferences.</p>'
 priceHeading: null
 priceRows:
 - - Number of travelers
@@ -40,15 +48,78 @@ priceRows:
   - …
 notesHeading: null
 notes: []
-highlights: []
-itinerary: []
-included: []
-excluded: []
-faqs: []
+highlights:
+- Stops in Rabat and Casablanca on the way south
+- Free day in Marrakech to explore the Medina and souks
+- Crossing the High Atlas Mountains and visiting Ait Ben Haddou
+- Scenic drive through the Dades Valley and Todra Gorges
+- Camel trek and two nights in a Sahara desert camp near Merzouga
+- Free day in Merzouga with an optional 4x4 dunes excursion
+- Free day in Fes to explore the Medina and tanneries
+- Roman ruins of Volubilis and the blue streets of Chefchaouen
+itinerary:
+- title: 'Day 1: Arrival in Tangier'
+  html: <p>You'll be met on arrival in Tangier, whether by ferry, flight, or train, and transferred to your hotel. The rest of the day is free to settle in and take a first walk along the coastline or through the old Kasbah.</p>
+- title: 'Day 2: Tangier - Rabat'
+  html: <p>We leave Tangier in the morning and drive south to Rabat, Morocco's capital. You'll visit the Hassan Tower, the Mausoleum of Mohammed V, and the Kasbah of the Udayas overlooking the Atlantic before checking into your hotel for the night.</p>
+- title: 'Day 3: Rabat - Casablanca - Marrakech'
+  html: '<p>After breakfast, we continue to Casablanca for a stop at the Hassan II Mosque, one of the largest mosques in the world, before heading on to Marrakech.</p>
+
+    <p>We arrive in Marrakech in the evening and check into your riad or hotel.</p>'
+- title: 'Day 4: Marrakech - Free Day'
+  html: '<p>Today is free to explore Marrakech at your own pace—the souks, the Bahia Palace, the Majorelle Garden, and Jemaa el-Fna square, which comes alive with food stalls and performers in the evening.</p>
+
+    <p>Your driver-guide is available for a half-day tour if you''d prefer a guided introduction to the city.</p>'
+- title: 'Day 5: Marrakech - Ait Ben Haddou - Ouarzazate'
+  html: <p>We cross the High Atlas Mountains via the Tizi-n-Tichka pass, stopping at the UNESCO-listed Ait Ben Haddou kasbah, before continuing to Ouarzazate, known as the gateway to the south and home to Morocco's film studios.</p>
+- title: 'Day 6: Ouarzazate - Dades Valley - Todra Gorges'
+  html: <p>We drive through Skoura's palm groves and the Valley of Roses at Mgouna, then on to the Dades Valley, with its folded rock formations, and the Todra Gorges for a walk through the narrow canyon before continuing to our overnight stop.</p>
+- title: 'Day 7: Todra Gorges - Merzouga'
+  html: <p>We continue toward Merzouga, passing through Berber villages and the town of Erfoud. In the late afternoon, you'll set off on a camel trek into the Erg Chebbi dunes to watch the sunset, followed by dinner and Berber music at the desert camp.</p>
+- title: 'Day 8: Merzouga - Free Day'
+  html: <p>After an early sunrise over the dunes, today is free to enjoy Merzouga at a relaxed pace. An optional 4x4 excursion into the dunes, a visit to a nomad family, or simply resting at the camp are all options, with a second night in the desert camp.</p>
+- title: 'Day 9: Merzouga - Midelt - Ifrane - Fes'
+  html: <p>We head north through the Ziz Valley and the market town of Midelt, then climb into the Middle Atlas through Ifrane's cedar forests before arriving in Fes in the evening.</p>
+- title: 'Day 10: Fes - Free Day'
+  html: <p>A full free day in Fes to explore the Medina, the tanneries, and the madrasas at your own pace, or with a guided half-day tour if you'd prefer.</p>
+- title: 'Day 11: Fes - Meknes - Volubilis - Chefchaouen'
+  html: <p>We stop in Meknes, one of Morocco's imperial cities, then visit the Roman ruins at Volubilis before continuing into the Rif Mountains to Chefchaouen, the blue-painted town, where we spend the night.</p>
+- title: 'Day 12: Chefchaouen - Tangier'
+  html: <p>After a final morning walk through Chefchaouen's blue alleys, we drive back to Tangier, where you'll be dropped off at your hotel, the airport, or the ferry port, bringing the 12-day tour to a close.</p>
+included:
+- Private air-conditioned vehicle for the entire 12-day tour
+- Multilingual driver-guide throughout the trip
+- Fuel and all road/highway expenses
+- Hotel nights in Tangier, Rabat, and Casablanca (breakfast)
+- 2 nights hotel in Marrakech with breakfast
+- Hotel night in the Dades Valley/Todra Gorges area with breakfast
+- Camel trek and 2 nights in a Merzouga desert camp (dinner & breakfast)
+- 2 nights hotel in Fes with breakfast
+- Hotel night in Chefchaouen with breakfast
+excluded:
+- Lunches and dinners (except the desert camp dinners)
+- Drinks
+- Entrance fees to monuments, mosques, and museums
+- Optional 4x4 excursion in the Merzouga dunes
+- Tips for your driver-guide
+- Personal expenses and souvenirs
+faqs:
+- q: What's included in the 12-day tour price?
+  aHtml: <p>The price covers your private A/C vehicle, driver-guide, fuel, and 11 nights of accommodation, including two nights in a Merzouga desert camp, with breakfast each morning. Lunches and most dinners are not included, so you can choose where to eat.</p>
+- q: Can I customize this itinerary?
+  aHtml: <p>Yes, this route is easy to adjust. Free days can be turned into guided city tours, extra stops can be added along the coast or in the desert, and hotels or the desert camp can be upgraded to a superior category.</p>
+- q: What should I pack for a 12-day trip across Morocco?
+  aHtml: <p>Pack layers, since temperatures vary a lot between the coast, the mountains, and the desert. Bring comfortable shoes for walking in medinas and gorges, sunscreen, a scarf or hat, and a warm layer for cool desert nights.</p>
+- q: Is the 4x4 excursion in Merzouga included?
+  aHtml: <p>No, the optional 4x4 dunes excursion on the free day in Merzouga is not included in the base price, but it can be booked in advance or arranged locally with your driver-guide.</p>
+- q: What kind of accommodation should I expect?
+  aHtml: <p>You'll stay in comfortable, well-located hotels or riads in each city, and in a proper desert camp in Merzouga with real beds and a shared dining tent. Standard and superior options are both available.</p>
+- q: Where does the tour start and end?
+  aHtml: <p>The tour starts and ends in Tangier, with pickup and drop-off available at your hotel, the airport, or the ferry port if you're arriving from Spain.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820
-mapUrl: null
+mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco
 tourCode: EN12DTADA
 priceTiers:
 - people: 1

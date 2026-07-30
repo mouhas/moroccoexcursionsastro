@@ -13,7 +13,13 @@ const titles: Record<string, string> = {
   it: 'Morocco Excursions | Tour nel deserto del Sahara in Marocco',
   'pt-br': 'Morocco Excursions | Tours pelo deserto do Saara no Marrocos',
 };
+const descriptions: Record<string, string> = {
+  fr: 'Nous proposons des circuits au Maroc personnalisés tout au long de l’année, au départ de Marrakech, Casablanca, Fès et Merzouga — de l’excursion d’une journée aux grands voyages d’un mois, en privé ou en groupe.',
+  es: 'Ofrecemos viajes personalizados a Marruecos durante todo el año, con salidas flexibles desde Marrakech, Casablanca, Fez y Merzouga — desde excursiones de un día hasta aventuras de un mes, privadas o en grupo.',
+  it: 'Offriamo tour personalizzati in Marocco tutto l’anno, con partenza in qualsiasi momento da Marrakech, Casablanca, Fes e Merzouga — da escursioni di un giorno a viaggi di un mese, privati o di gruppo.',
+  'pt-br': 'Oferecemos passeios personalizados em Marrocos durante todo o ano, com saídas flexíveis de Marrakech, Casablanca, Fez e Merzouga — de excursões de um dia a viagens de um mês, privadas ou em grupo.',
+};
 ---
-<Base title={titles[lang]} lang={lang} langAlternates>
+<Base title={titles[lang]} lang={lang} langAlternates description={descriptions[lang]}>
   <Home lang={lang} />
 </Base>

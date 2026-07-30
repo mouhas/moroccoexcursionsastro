@@ -14,8 +14,14 @@ tours.sort((a, z) => (z.data.price ?? -1) - (a.data.price ?? -1));
 const home = '/' + lang + '/';
 const rated = tours.filter((e) => e.data.rating);
 const avgRating = rated.length ? rated.reduce((s, e) => s + (e.data.rating ?? 0), 0) / rated.length : null;
+const descriptions: Record<string, string> = {
+  fr: 'Parcourez tous nos circuits et excursions au Maroc — désert du Sahara, randonnées à dos de chameau, excursions à la journée et grands voyages de plusieurs jours. Privé, flexible et 100 % local.',
+  es: 'Explora todos nuestros tours y excursiones por Marruecos — desierto del Sáhara, paseos en camello, excursiones de un día y grandes viajes de varios días. Privado, flexible y 100 % local.',
+  it: 'Scopri tutti i nostri tour ed escursioni in Marocco — deserto del Sahara, escursioni in cammello, gite di un giorno e grandi viaggi di più giorni. Privato, flessibile e 100% locale.',
+  'pt-br': 'Veja todos os nossos tours e excursões pelo Marrocos — deserto do Saara, passeios de camelo, excursões de um dia e grandes viagens de vários dias. Privado, flexível e 100% local.',
+};
 ---
-<Base title={`${t.allTours} | Morocco Excursions`} lang={lang} langAlternates>
+<Base title={`${t.allTours} | Morocco Excursions`} lang={lang} langAlternates description={descriptions[lang]}>
   <section class="pagehead">
     <div class="wrap">
       <div class="crumbs"><a href={home}>Home</a> · {t.allTours}</div>

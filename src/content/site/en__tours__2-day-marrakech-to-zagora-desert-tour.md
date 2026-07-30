@@ -45,7 +45,7 @@ priceRows:
 notesHeading: null
 notes:
 - The Zagora desert doesn’t have proper sand dunes; it is more of a rocky desert. While it is indeed a desert, it may not meet your dreamy expectations of high, orange sand dunes.
-- This 2-day tour from Marrakech to Zagora is the shortest desert trip and includes a lot of driving. If you have enough time in Morocco and want to visit the real desert, it is better to <a href="https://morocco-excursion.com/contact/" rel="noopener" target="_blank"><b>book</b></a> a 3- or <a href="https://www.morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/" rel="noopener" target="_blank">4-day tour to the Merzouga desert</a>, which has the highest dunes in Morocco.
+- This 2-day tour from Marrakech to Zagora is the shortest desert trip and includes a lot of driving. If you have enough time in Morocco and want to visit the real desert, it is better to <a href="https://morocco-excursion.com/contact/" rel="noopener" target="_blank"><b>book</b></a> a 3- or <a href="/tours/4-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">4-day tour to the Merzouga desert</a>, which has the highest dunes in Morocco.
 - It’s possible to miss the sunset or parts of the camel trek, depending on the weather (e.g., rain or sandstorms).
 - We generally stop at small, local restaurants that serve fresh food. However, if you prefer to choose or book a restaurant on your own, you can ask your driver to take you anywhere at any time.
 - Riding a camel for a long time can be uncomfortable and is not recommended for pregnant women, people over 70 years old, or those with back problems.

@@ -1,5 +1,5 @@
 ---
-title: "Morocco Excursions - Reviews Page"
+title: "Avis et Commentaires sur l’Agence Morocco Excursions"
 lang: "fr"
 section: "pages"
 pslug: "reviews"
@@ -9,94 +9,96 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/fr/reviews/"
 ---
-**TripAdvisor Reviews**
+Voici les avis authentiques laissés par nos voyageurs sur TripAdvisor et Google. Nous les publions tels quels, dans leur langue d’origine, pour garantir leur authenticité.
 
-Posted on Tripadvisor
+**Avis TripAdvisor**
+
+Publié sur Tripadvisor
 
 Amadeusz J
 
-Verified
+Vérifié
 
 A wonderful trip!!!
 A wonderful trip!!! We spent three days and two nights. We saw the High Atlas Mountains and the desert. We spent an unforgettable night in tents in the desert, saw a beautiful sunrise, and had a wonderful dinner. Our driver was Salem. He was a wonderful man who knew how to behave, was very polite, and cared about our comfort. I highly recommend the organization of the trip and highly recommend it.
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Jose B
 
-Verified
+Vérifié
 
 Amazing driver
 The driver was extremely professional, and punctual. They got us to our locations safely and was always ready when we needed them! Amazing experience!
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Pankaj M
 
-Verified
+Vérifié
 
 Excellent, enjoyable Moroccan desert safari
 I was coming to Morocco for the first time with the family. We wanted to have a private car for us to take us from Marrakech to fez. Morrocan excursion company provided that with a driver. Our driver, Hassan was very polite and caring and his driving was very safe. Car was nice and clean and spacious. We enjoyed our journey.
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Sejal M
 
-Verified
+Vérifié
 
 Great experience with Hasan
 Hasan was a great tour guide through out our journey. He was kind and helpful and we enjoyed touring with him throughout the 2 night 3 day tour. He was a great driver and on time for all excursions on the journey. I recommend to travel with Hasan!
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Climber14019253827
 
-Verified
+Vérifié
 
 Marakesh to Fes 3 day experience
 Great excursion! Great way to see Morocco in its beauty. Started in Marakesh and did the Sahara dunes in Merzouga. Ended the trip in fes. Would highly recommend booking through this tour company since they were on time and great with everything. The driver we had (Hassan) was phenomenal! Great personality and was very accommodating.
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Cdnwanderer111
 
-Verified
+Vérifié
 
 Well organized tour and fantastic sites
 Our tour was from Fes to Marrakech and it was a highlight of the holiday. Everything is well organized. Accommodations were quite good. The sites are truly not to be missed. Staff were very good especially our guide Hassan. He was kind and pleasant and took good care of us. Our only suggestion would be if the company were to provide a more detailed itinerary for each day and perhaps some more info about the sites. All in all we had an excellent time.
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Seasick_in_Toronto
 
-Verified
+Vérifié
 
 Fes to Marrakech in 3 days
 We had an excellent time on our three day tour from Fes to Marrakech. All of the sites we visited were absolutely stunning, and the accommodations were lovely as well. We particularly enjoyed our excursion into the Sahara - the camp was beautiful and we enjoyed stargazing early in the morning. We also had a lovely time with our driver/guide Hassan. He was very sweet and kind, and was very flexible in terms of taking breaks and visiting other sites. We really enjoyed getting to know him over the tour. Overall great experience with Hassan and Morocco Excursions!
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 mara c
 
-Verified
+Vérifié
 
 From Marrakech to Merzouga with Salem! Simply perfect
 I have just finished my tour of 3 days from Marrakech to Merzouga to see Sahara desert. Everything was very well organized, the tent in the Sahara was wonderful, the tour guide/driver Salem was simply perfect, very professional, kind, nice and always ready for all our needs. We spent really a lovely time with him and I highly recommend him and this organization for your tours. In one word: Excellent!
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Wanderer585048
 
-Verified
+Vérifié
 
 Marrakech to Merzouga desert tour
 We have spent 3 amazing days travelling all around with Salem, from Marrakech to Merzouga desert and back. He introduced us to several sites and gave always good advices.His professionality and kindness have been Top and has been a pleasure to learn a lot about Moroccan people. Highly recommended tour operator.
 
-Posted on Tripadvisor
+Publié sur Tripadvisor
 
 Alessandro F
 
-Verified
+Vérifié
 
 mega driver
 guide very polite and sociable to talk with and funny.he answered every question we asked him and was really awsome for all the tour.
@@ -120,11 +122,11 @@ For our first trip to Morocco, we wanted to hire a private car with driver and w
 
 We made a tour of 4 days from Marrakech to Merzouga...the trip is really beautiful and highly suggested...we were with Alì Barro our driver and Aziz our guide, both are really friendly and ready to satisfy all needs...I raccomand to do the tour with them because you are gonna feel they are like your close friends during the whole tripBrahim, our guide, and Ali, our driver, were fantastic. Both were considerate, compassionate, and went above and beyond to ensure that all of us were doing well at all times.
 
-[SHOW MORE](https://www.tripadvisor.com/ShowUserReviews-g293734-d6105931-r745593813-Morocco_Excursions-Marrakech_Marrakech_Safi.html)
+[VOIR PLUS](https://www.tripadvisor.com/ShowUserReviews-g293734-d6105931-r745593813-Morocco_Excursions-Marrakech_Marrakech_Safi.html)
 
-**Featured on**
+**Présenté sur**
 
-**Happy Customers**
+**Clients Satisfaits**
 
 #### Andre
 
@@ -146,4 +148,4 @@ We had a fantastic experience and would highly recommend it to all of our relati
 It's been two weeks, and we're still talking about our recent trip to Morocco. It was a fantastic journey. Our tour schedule was well-planned, and the accommodations were carefully chosen to match our needs. The places we visited and the activities we did, were just amazing. Thanks to Hassan, and the team members who accompanied us during this journey.
 Brahim, our guide, and Ali, our driver, were fantastic. Both were considerate, compassionate, and went above and beyond to ensure that all of us were doing well at all times.
 
-[SHOW MORE](https://www.morocco-excursion.com/author/moroccoexcursions/)
+[VOIR PLUS](https://www.morocco-excursion.com/author/moroccoexcursions/)

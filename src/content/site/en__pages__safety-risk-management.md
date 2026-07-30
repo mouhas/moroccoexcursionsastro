@@ -9,12 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/safety-risk-management/"
 ---
-# Safety risk management
-
-- [Home](https://morocco-excursion.com)
-- Safety risk management
-
-# Risk Management & Emergency Response Plan
+## Risk Management & Emergency Response Plan
 
 At Morocco [**Excursions**](https://morocco-excursion.com/excursions/), the safety and well-being of our participants, staff, and partners are our highest priorities. We implement proactive risk management procedures and emergency response protocols across all tours and activities to minimize risks and ensure effective responses in emergency situations.
 

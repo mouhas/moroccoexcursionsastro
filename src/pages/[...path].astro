@@ -173,9 +173,9 @@ const breadcrumbJsonld = {
       </div>
 
       <div class="gallery">
-        <div class="gallery-main"><Thumb seed={galleryTiles[0]} /></div>
+        <div class="gallery-main"><Thumb seed={galleryTiles[0]} label={d.title} /></div>
         <div class="gallery-side">
-          {galleryTiles.slice(1).map((s) => <div class="gallery-tile"><Thumb seed={s} /></div>)}
+          {galleryTiles.slice(1).map((s, i) => <div class="gallery-tile"><Thumb seed={s} label={`${d.title} — view ${i + 2}`} /></div>)}
         </div>
       </div>
     </div>

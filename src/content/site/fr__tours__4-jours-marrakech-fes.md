@@ -52,7 +52,7 @@ notesHeading: null
 notes:
 - Ce circuit de 4 jours dans le désert comprend de nombreux trajets en voiture à travers les montagnes de l’Atlas et, le dernier jour, jusqu’à Fès. Si vous préférez un rythme plus lent, nous vous suggérons de réserver un circuit de 5 jours dans le désert au départ de Marrakech ou un circuit de 6 jours afin d’éviter de passer trop de temps en voiture.
 - Veuillez noter qu’en raison des mauvaises conditions météorologiques (pluie ou tempêtes de sable, par exemple), vous pourriez manquer le coucher ou le lever du soleil, ou une partie de la balade à dos de chameau.
-- La <strong><a href="https://morocco-excursion.com/fr/randonnee-dromadaires/" rel="noopener" target="_blank">balade à dos de chameau</a></strong> n’est pas recommandée pour les femmes enceintes, les personnes âgées de plus de 70 ans ou celles souffrant de problèmes de dos.
+- La <strong><a href="/fr/randonnee-dromadaires" rel="noopener" target="_blank">balade à dos de chameau</a></strong> n’est pas recommandée pour les femmes enceintes, les personnes âgées de plus de 70 ans ou celles souffrant de problèmes de dos.
 - Nous nous arrêtons généralement dans des restaurants qui servent des produits frais, mais ceux-ci peuvent être touristiques. Si vous préférez manger ailleurs, n’hésitez pas à demander à votre chauffeur de vous emmener dans un autre endroit à tout moment.
 highlights:
 - Explorez les magnifiques montagnes de l'Atlas.
@@ -144,7 +144,7 @@ faqs:
 - q: Quels sont les circuits alternatifs au 4 jours dans le désert de Marrakech à Fès ?
   aHtml: '<p>Voici deux circuits similaires au circuit de 4 jours de Marrakech à Fès :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/5-jours-marrakech-desert/" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert de Marrakech à Fès</strong></a></p>'
+    <p><a href="/fr/tours/5-jours-marrakech-desert" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a><br/><a href="/fr/tours/5-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert de Marrakech à Fès</strong></a></p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -11,7 +11,15 @@ source: https://morocco-excursion.com/tours/3-days-from-errachidia/
 tourType: Private Tour
 cancellation: 48 H
 languagesSpoken: English, Multilingual
-overviewHtml: ''
+overviewHtml: '<p>This 3-day private round trip is built for travelers based in <b>Errachidia</b> who want a proper Sahara desert experience without committing to a longer one-way itinerary. You''ll head straight to Merzouga, spend two nights in the dunes with a full day to explore, and return to Errachidia at the end.</p>
+
+  <p>You''ll travel in a private air-conditioned vehicle with your own driver-guide. Since Merzouga is only a short drive away, you''ll arrive with plenty of time for an afternoon camel trek into the Erg Chebbi dunes and your first night in a desert camp.</p>
+
+  <p>The second day is spent entirely in Merzouga, with time to visit a nomad village and, if you''d like, add on an optional 4x4 or quad excursion into the dunes, before a second night at the camp—which can be upgraded to a luxury option.</p>
+
+  <p>On the third day, after a final sunrise over the dunes, you''ll return by vehicle to Errachidia, where the tour ends.</p>
+
+  <p>This itinerary can be adjusted, and the standard desert camp can be upgraded to a more comfortable or luxury camp depending on your preferences.</p>'
 priceHeading: null
 priceRows:
 - - Number of travelers
@@ -40,15 +48,56 @@ priceRows:
   - …
 notesHeading: null
 notes: []
-highlights: []
-itinerary: []
-included: []
-excluded: []
-faqs: []
+highlights:
+- Short, easy drive from Errachidia straight to the dunes
+- Afternoon camel trek into the Merzouga dunes at sunset
+- Two nights in a Sahara desert camp under the stars
+- Full free day in Merzouga to explore at your own pace
+- Visit to a local nomad village
+- Optional 4x4 or quad excursion in the dunes
+- Sunrise over the dunes before the return drive
+itinerary:
+- title: 'Day 1: Errachidia - Merzouga'
+  html: '<p>Your driver-guide will pick you up from your hotel or the train station in Errachidia. The drive to Merzouga is short, so you''ll have plenty of time to settle in before the afternoon.</p>
+
+    <p>In the late afternoon, you''ll set off on a camel trek into the Erg Chebbi dunes to watch the sunset, followed by dinner and Berber music at your standard desert camp for the first night.</p>'
+- title: 'Day 2: Merzouga - Full Day in the Dunes'
+  html: '<p>After watching the sunrise over the dunes, you''ll have a full day to enjoy Merzouga. A visit to a local nomad village gives you a look at how desert families still live today.</p>
+
+    <p>If you''d like, you can add an optional 4x4 excursion or quad ride into the dunes for a different perspective on the desert. You''ll spend a second night in the desert camp, with the option to upgrade to a luxury camp for extra comfort.</p>'
+- title: 'Day 3: Merzouga - Return to Errachidia'
+  html: <p>After a final sunrise over the dunes and breakfast at the camp, you'll be driven back to Errachidia, where the tour ends and you can continue your onward journey.</p>
+included:
+- Private air-conditioned vehicle for the 3-day trip
+- Multilingual driver-guide
+- Car fuel and expenses
+- Camel trekking in the Merzouga dunes
+- 2 nights in a desert camp (dinner & breakfast)
+- Visit to a local nomad village
+- Sandboarding (optional)
+excluded:
+- Lunches
+- Drinks
+- Optional 4x4 or quad excursion in the dunes
+- Entrance fees
+- Tips for your driver-guide
+faqs:
+- q: What's included in this 3-day round trip from Errachidia?
+  aHtml: <p>The tour includes your private A/C vehicle, driver-guide, fuel, the camel trek, two nights in a desert camp with dinner and breakfast, and a visit to a nomad village. The optional 4x4 or quad excursion is not included in the base price.</p>
+- q: Can I upgrade the desert camp to a luxury option?
+  aHtml: <p>Yes, the second night can be upgraded from the standard desert camp to a more comfortable or luxury camp with private bathroom facilities, on request and for an additional cost.</p>
+- q: Is two nights in the desert too much?
+  aHtml: <p>Not at all. Many travelers find one night too short to properly enjoy Merzouga. The extra day gives you time to relax, visit a nomad village, and add optional activities like a 4x4 or quad excursion without feeling rushed.</p>
+- q: What should I pack for this trip?
+  aHtml: <p>Bring comfortable closed shoes, a scarf or hat, sunglasses, sunscreen, and a warm layer for cool desert nights, along with a flashlight for getting around the camp after dark.</p>
+- q: Is the camel trek suitable for everyone?
+  aHtml: <p>The camel trek is not recommended for people with back problems, pregnant women, or travelers over 70, though a direct vehicle transfer to the camp can be arranged instead.</p>
+- q: Where does the tour start and end?
+  aHtml: <p>The tour starts and ends in Errachidia, with pickup and drop-off available at your hotel or the train station.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820
-mapUrl: null
+mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sErrachidia%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco
 tourCode: EN3DMESA
 priceTiers:
 - people: 1

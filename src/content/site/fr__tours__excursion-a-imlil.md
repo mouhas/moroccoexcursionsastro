@@ -64,9 +64,9 @@ faqs:
 - q: Existe-t-il d'autres circuits similaires à l'excursion d'une journée à Imlil ?
   aHtml: '<p>Oui, il existe deux excellentes excursions d''une journée similaires à celle d''Imlil :</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>Excursion d''une journée à Ouzoud</strong></a> - Visitez les magnifiques chutes d''eau d''Ouzoud, où vous pourrez faire des promenades dans la nature, voir des singes et même faire un tour en bateau près des chutes. Cette excursion est idéale pour les amoureux de la nature et constitue une belle aventure en plein air.</p>
+    <p><a href="/fr/tours/excursion-ouzoud" rel="noopener" target="_blank"><strong>Excursion d''une journée à Ouzoud</strong></a> - Visitez les magnifiques chutes d''eau d''Ouzoud, où vous pourrez faire des promenades dans la nature, voir des singes et même faire un tour en bateau près des chutes. Cette excursion est idéale pour les amoureux de la nature et constitue une belle aventure en plein air.</p>
 
-    <p><a href="https://morocco-excursion.com/fr/tours/excurision-a-essaouira/" rel="noopener" target="_blank"><strong>Excursion d''une journée à Essaouira</strong></a> - Explorez la charmante ville côtière d''Essaouira avec sa vieille médina, ses belles plages et ses fruits de mer frais. C''est une excursion relaxante au bord de la mer avec beaucoup de choses à voir et à faire.</p>'
+    <p><a href="/fr/tours/excurision-a-essaouira" rel="noopener" target="_blank"><strong>Excursion d''une journée à Essaouira</strong></a> - Explorez la charmante ville côtière d''Essaouira avec sa vieille médina, ses belles plages et ses fruits de mer frais. C''est une excursion relaxante au bord de la mer avec beaucoup de choses à voir et à faire.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

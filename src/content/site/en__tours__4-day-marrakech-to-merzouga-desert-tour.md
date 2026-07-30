@@ -54,7 +54,7 @@ notes:
 - Sometimes, because of bad weather like rain or sandstorms, you might miss the sunset, sunrise, or part of the camel ride.
 - Camel riding for a long time is not recommended for pregnant women, people over 70 years old, or anyone with back pain.
 - We usually stop at places that offer fresh, local food. If you want to eat at a tourist restaurant or choose your own place, you can always ask your driver to take you there anytime.
-- If you don’t want to spend an extra day in the desert, you can choose a <strong>5 or <a href="https://morocco-excursion.com/tours/marrakech-to-south-6-day-trip/" rel="noopener" target="_blank">6-day desert tour from Marrakech</a></strong> instead of the 4-day one.
+- If you don’t want to spend an extra day in the desert, you can choose a <strong>5 or <a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-day desert tour from Marrakech</a></strong> instead of the 4-day one.
 highlights:
 - Discover the beautiful Atlas Mountains
 - Explore Ouarzazate, the gateway to the desert
@@ -128,7 +128,7 @@ faqs:
 - q: Are there other tours similar to the 4-day Sahara desert tour from Marrakech to Merzouga?
   aHtml: '<p>Here are 2 alternative tours similar to the 4-day Sahara desert tour from Marrakech:</p>
 
-    <p><a href="https://www.morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/" rel="noopener" target="_blank">4-Day Tour from Marrakech to Fes via Sahara</a><br/><a href="https://www.morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a></p>'
+    <p><a href="/tours/4-day-trip-from-marrakech-to-fes" rel="noopener" target="_blank">4-Day Tour from Marrakech to Fes via Sahara</a><br/><a href="/tours/5-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a></p>'
 reviews:
 - name: Kelly O
   date: 30/08/2024

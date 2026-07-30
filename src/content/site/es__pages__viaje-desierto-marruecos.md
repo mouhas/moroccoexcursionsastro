@@ -33,7 +33,7 @@ Realizar una excursión por el desierto de Marruecos que incluya un paseo en cam
 
 Featured
 
-#### [Ruta de 3 días desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/3-dias-marrakech-merzouga/)
+### [Ruta de 3 días desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/3-dias-marrakech-merzouga/)
 
 0 opiniones
 
@@ -43,7 +43,7 @@ desde
 
  €115,00
 
-#### [Tour de 4 días al desierto de Merzouga desde Marrakech](https://morocco-excursion.com/es/tours/4-dias-marrakech-desierto/)
+### [Tour de 4 días al desierto de Merzouga desde Marrakech](https://morocco-excursion.com/es/tours/4-dias-marrakech-desierto/)
 
 0 opiniones
 
@@ -53,7 +53,7 @@ desde
 
  €200,00
 
-#### [Viaje de 8 días visitando Marrakech y el desierto](https://morocco-excursion.com/es/tours/8-dias-de-marrakech/)
+### [Viaje de 8 días visitando Marrakech y el desierto](https://morocco-excursion.com/es/tours/8-dias-de-marrakech/)
 
 0 opiniones
 
@@ -63,7 +63,7 @@ desde
 
  €380,00
 
-#### [5 Días de viaje desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/5-dias-marrakech-al-desierto/)
+### [5 Días de viaje desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/5-dias-marrakech-al-desierto/)
 
 0 opiniones
 
@@ -75,7 +75,7 @@ desde
 
 Featured
 
-#### [Excursiones en quad (ATV) por el desierto de Merzouga](https://morocco-excursion.com/es/tours/merzouga-excursion-quad/)
+### [Excursiones en quad (ATV) por el desierto de Merzouga](https://morocco-excursion.com/es/tours/merzouga-excursion-quad/)
 
 0 opiniones
 
@@ -87,7 +87,7 @@ desde
 
 Featured
 
-#### [Tour de 6 días desde Marrakech al sur y el desierto](https://morocco-excursion.com/es/tours/6-dias-marrakech-sur/)
+### [Tour de 6 días desde Marrakech al sur y el desierto](https://morocco-excursion.com/es/tours/6-dias-marrakech-sur/)
 
 0 opiniones
 
@@ -99,7 +99,7 @@ desde
 
 Featured
 
-#### [5 Días tour por el desierto desde Marrakech a Fez](https://morocco-excursion.com/es/tours/5-dias-marrakech-fez/)
+### [5 Días tour por el desierto desde Marrakech a Fez](https://morocco-excursion.com/es/tours/5-dias-marrakech-fez/)
 
 0 opiniones
 
@@ -109,7 +109,7 @@ desde
 
  €295,00
 
-#### [Viaje al desierto de 4 días desde Marrakech a Fez](https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/)
+### [Viaje al desierto de 4 días desde Marrakech a Fez](https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/)
 
 0 opiniones
 
@@ -217,15 +217,15 @@ Ajuste la lista en función de los detalles de su viaje y de la época en que lo
 
 ### Comentarios de los clientes
 
-#### Maria N
+### Maria N
 
 Recurrimos a esta empresa para nuestra excursión privada al desierto del Sahara marroquí después de leer tantas críticas y recomendaciones excelentes en numerosos sitios web de viajes, y superó nuestras expectativas. Mohammed, nuestro guía, fue amable y servicial, y nos habló mucho de la cultura bereber. Tuvimos la oportunidad de cantar, bailar y tocar los tambores alrededor de la hoguera. No hay palabras suficientes para describir esta experiencia.
 
-#### Ana O
+### Ana O
 
 Uno de los aspectos más destacados de nuestras vacaciones en Marruecos fue una excursión privada de 3 días por el desierto; la excursión en camello por las dunas no fue fácil, pero fue muy divertida y mereció la pena. Nuestro guía, Said, hablaba un inglés excelente y estaba muy bien informado. Nos divertimos mucho en el campamento del Sáhara, tocando tambores con los lugareños y contando chistes bereberes. Estoy deseando volver al desierto del Sáhara, y sin duda volveré a utilizar Morocco Excursions.
 
-#### Barbara J
+### Barbara J
 
 Mi familia y yo acabamos de regresar de un viaje privado de 5 días por el desierto de Marruecos que comenzó en Marrakech, y no puedo expresar lo fantástico que fue, especialmente el paseo en camello y la noche en el campamento del desierto. Ismael fue nuestro conductor/guía y nos dio muchísima información sobre el país. Era la primera vez que visitaba el desierto del Sáhara y se lo recomiendo a todo el mundo.
 

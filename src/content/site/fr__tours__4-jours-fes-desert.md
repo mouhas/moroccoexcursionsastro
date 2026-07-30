@@ -54,7 +54,7 @@ notes:
 - Apportez des vêtements légers pour la journée, des vêtements chauds pour la nuit, une écharpe, des lunettes de soleil et de la crème solaire. Emportez également des chaussures robustes, un petit sac à dos et une bouteille d’eau rechargeable.
 - Les balades à dos de chameau durent généralement environ une heure et peuvent être physiquement exigeantes. Informez votre guide si vous avez des limitations physiques.
 - Si vous avez des allergies alimentaires ou des préférences alimentaires, veuillez nous en informer à l’avance.
-- Le premier et le dernier jour du ce <a href="https://morocco-excursion.com/fr/circuit-desert-maroc/" rel="noopener" target="_blank"><strong>circuit dans le désert</strong></a> impliquent des trajets plus longs (environ 7 à 8 heures), mais nous ferons des arrêts réguliers pour des pauses, des repas et des visites touristiques en cours de route.
+- Le premier et le dernier jour du ce <a href="/fr/circuit-desert-maroc" rel="noopener" target="_blank"><strong>circuit dans le désert</strong></a> impliquent des trajets plus longs (environ 7 à 8 heures), mais nous ferons des arrêts réguliers pour des pauses, des repas et des visites touristiques en cours de route.
 highlights:
 - Traversée panoramique des montagnes du Moyen Atlas
 - Visite d'Ifrane, la « Suisse du Maroc »

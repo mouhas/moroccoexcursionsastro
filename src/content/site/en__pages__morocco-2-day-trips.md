@@ -29,7 +29,7 @@ Even in just two days, you can see Morocco’s mix of old and new, from historic
 
 Featured
 
-#### [2 Day Desert Tour From Marrakech To Zagora](https://morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/)
+### [2 Day Desert Tour From Marrakech To Zagora](https://morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/)
 
 3 [**Reviews**](https://morocco-excursion.com/reviews/)
 
@@ -49,19 +49,19 @@ Simply fill out the form with details such as the places you’d like to visit, 
 
 ### Questions about the 2-day tours in Morocco
 
-#### Is 2 days enough to see Morocco?
+### Is 2 days enough to see Morocco?
 
 Two days is not enough to explore the whole country, but you can enjoy highlights in one city (like Marrakech, Fes, or Casablanca) or take a short desert or mountain trip from Marrakech.
 
-#### What is the best city to visit in Morocco for 2 days?
+### What is the best city to visit in Morocco for 2 days?
 
 Marrakech is the most popular choice for a short stay, as it offers bustling souks, palaces, gardens, and vibrant nightlife. Alternatively, Chefchaouen (the blue city) or Fes (historic medina) can also make a great 2-day trip.
 
-#### Can I visit the Sahara Desert in just 2 days?
+### Can I visit the Sahara Desert in just 2 days?
 
 Yes, from Marrakech, you can take a **2-day desert tour to Zagora**, which includes a camel trek, an overnight stay at a desert camp, and a return the next day. However, reaching the Erg Chebbi dunes (Merzouga) requires at least 3 days.
 
-#### What are must-see attractions for 2 days in Marrakech?
+### What are must-see attractions for 2 days in Marrakech?
 
 1. Jemaa el-Fnaa square
 2. Koutoubia Mosque
@@ -70,11 +70,11 @@ Yes, from Marrakech, you can take a **2-day desert tour to Zagora**, which incl
 5. Souks of the medina
 6. Saadian Tombs
 
-#### Is it safe to travel for 2 days in Morocco?
+### Is it safe to travel for 2 days in Morocco?
 
 Yes, Morocco is generally safe for tourists. Like any busy destination, be mindful of pickpockets in crowded areas, negotiate prices in markets, and [**book**](https://morocco-excursion.com/contact/) tours with reputable agencies.
 
-#### Can I experience Moroccan food in just 2 days?
+### Can I experience Moroccan food in just 2 days?
 
 Absolutely! Try tagine, couscous, pastilla, Moroccan mint tea, and street food like msemen (flatbread) or fresh orange juice. Food tours in Marrakech or Fes are a great option for short visits.
 
