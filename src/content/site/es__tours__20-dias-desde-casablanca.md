@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/es/tours/20-dias-desde-casablanca/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>El viaje comienza con su llegada a Casablanca, donde podrá descansar tras el vuelo o dar un breve paseo para conocer la ciudad. Al día siguiente, viajará a Rabat, la capital de Marruecos, para visitar la Kasbah de los Udayas, la Torre de Hassan y el Palacio Real. Desde allí, el viaje continúa hacia el norte con una parada en la pequeña ciudad costera de Asilah antes de llegar a Tánger, una animada ciudad que conecta África y Europa. Después de explorar Tánger, se adentrará en las montañas del Rif hasta Chefchaouen, también conocida como la «Perla Azul». Pasará un día completo aquí paseando por sus calles azules, comprando en los mercados y disfrutando de las tranquilas vistas de las montañas.</p>
+overviewHtml: '<p>El viaje comienza con tu llegada a Casablanca, donde podrás descansar tras el vuelo o dar un breve paseo para conocer la ciudad. Al día siguiente, viajarás a Rabat, la capital de Marruecos, para visitar la Kasbah de los Udayas, la Torre de Hassan y el Palacio Real. Desde allí, el viaje continúa hacia el norte con una parada en la pequeña ciudad costera de Asilah antes de llegar a Tánger, una animada ciudad que conecta África y Europa. Después de explorar Tánger, se adentrará en las montañas del Rif hasta Chefchaouen, también conocida como la «Perla Azul». Pasarás un día completo aquí paseando por sus calles azules, comprando en los mercados y disfrutando de las tranquilas vistas de las montañas.</p>
 
-  <p>La ruta le llevará luego a <a href="https://es.wikipedia.org/wiki/Meknes" rel="noopener" target="_blank"><strong>Meknes</strong></a>, una de las antiguas ciudades imperiales de Marruecos, y a las ruinas romanas de Volubilis antes de llegar a Fez. Pasará un día entero descubriendo Fez, con su bulliciosa medina, la universidad más antigua del mundo, sus coloridas curtidurías y sus tiendas de artesanía. Después de Fez, viajará a través de las montañas del Medio Atlas, parando en Azrou para ver monos en el bosque de cedros y en Ifrane, una ciudad limpia y verde a menudo llamada «la pequeña Suiza». El día termina en Midelt, una pequeña ciudad en las montañas. Al día siguiente, pasará por el valle del Ziz hasta Rissani, antes de llegar a Merzouga. Desde aquí, un paseo en camello le llevará a las altas dunas de Erg Chebbi, donde dormirá en un campamento en el desierto bajo las estrellas.</p>
+  <p>La ruta te llevará luego a <a href="https://es.wikipedia.org/wiki/Meknes" rel="noopener" target="_blank"><strong>Meknes</strong></a>, una de las antiguas ciudades imperiales de Marruecos, y a las ruinas romanas de Volubilis antes de llegar a Fez. Pasarás un día entero descubriendo Fez, con tu bulliciosa medina, la universidad más antigua del mundo, sus coloridas curtidurías y sus tiendas de artesanía. Después de Fez, viajarás a través de las montañas del Medio Atlas, parando en Azrou para ver monos en el bosque de cedros y en Ifrane, una ciudad limpia y verde a menudo llamada «la pequeña Suiza». El día termina en Midelt, una pequeña ciudad en las montañas. Al día siguiente, pasarás por el valle del Ziz hasta Rissani, antes de llegar a Merzouga. Desde aquí, un paseo en camello te llevará a las altas dunas de Erg Chebbi, donde dormirás en un campamento en el desierto bajo las estrellas.</p>
 
-  <p>El día siguiente se dedica a explorar la zona desértica. Visitará familias nómadas, aprenderá sobre su estilo de vida y verá pueblos abandonados antes de regresar a Merzouga. El viaje continúa por Tinghir y las altas gargantas del Todra, luego por el valle del Dades y el valle de las Rosas antes de llegar a Ouarzazate, conocida como la puerta del desierto y famosa por sus estudios cinematográficos. Desde Ouarzazate, la carretera conduce a Taroudant, una ciudad que a menudo se compara con Marrakech, pero más pequeña y tranquila. El viaje continúa hacia Sidi Ifni, una ciudad costera con edificios de estilo español y amplias playas. Siguiendo la costa atlántica, pasará por Agadir antes de llegar a Taghazout, un pueblo pesquero que se ha convertido en uno de los lugares favoritos de los surfistas. Desde allí, continuará hacia Essaouira, una histórica ciudad portuaria con un ambiente relajado. Pasará un día completo explorando su medina, sus murallas y su playa.</p>
+  <p>El día siguiente se dedica a explorar la zona desértica. Visitarás familias nómadas, aprenderá sobre tu estilo de vida y verás pueblos abandonados antes de regresar a Merzouga. El viaje continúa por Tinghir y las altas gargantas del Todra, luego por el valle del Dades y el valle de las Rosas antes de llegar a Ouarzazate, conocida como la puerta del desierto y famosa por sus estudios cinematográficos. Desde Ouarzazate, la carretera conduce a Taroudant, una ciudad que a menudo se compara con Marrakech, pero más pequeña y tranquila. El viaje continúa hacia Sidi Ifni, una ciudad costera con edificios de estilo español y amplias playas. Siguiendo la costa atlántica, pasarás por Agadir antes de llegar a Taghazout, un pueblo pesquero que se ha convertido en uno de los lugares favoritos de los surfistas. Desde allí, continuará hacia Essaouira, una histórica ciudad portuaria con un ambiente relajado. Pasarás un día completo explorando tu medina, sus murallas y tu playa.</p>
 
   <p>Después de Essaouira, el viaje vuelve al interior hacia Marrakech, la «ciudad roja» de Marruecos. Por la noche, la plaza principal, Jemaa el-Fnaa, cobra vida con puestos de comida, música y una gran variedad de artistas. Se dedica un día completo a visitar los lugares más destacados de Marrakech, como el Palacio de la Bahía, la mezquita Koutoubia, las tumbas saadíes, los jardines Majorelle y los bulliciosos zocos. También se reserva un día para una <a href="https://morocco-excursion.com/es/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursión a las cataratas de Ouzoud</strong></a>, uno de los parajes naturales más bellos de Marruecos. El viaje termina de vuelta en Marrakech, donde tomarás tu vuelo de regreso a casa lleno de recuerdos de las ciudades, las montañas, el desierto y la costa de Marruecos.</p>'
 priceHeading: null
@@ -69,13 +69,13 @@ highlights:
 - Disfrute de las impresionantes cascadas de Ouzoud.
 itinerary:
 - title: 'Día 1: Llegada a Casablanca'
-  html: <p>Llegada a Casablanca y traslado al hotel. Dependiendo de la hora de llegada, podrá explorar la ciudad o relajarse después del vuelo.</p>
+  html: <p>Llegada a Casablanca y traslado al hotel. Dependiendo de la hora de llegada, podrás explorar la ciudad o relajarse después del vuelo.</p>
 - title: 'Día 2: Casablanca - Rabat'
   html: <p>Visite los lugares más destacados de Casablanca, incluida la mezquita Hassan II, antes de dirigirse a Rabat, la capital de Marruecos. Explore la Kasbah de los Udayas, la Torre Hassan y el Palacio Real. Pernocte en Rabat.</p>
 - title: 'Día 3: Rabat - Asilah - Tánger'
   html: <p>Viaje hacia el norte por la costa atlántica con una parada en Asilah, una encantadora ciudad costera conocida por sus paredes encaladas y sus coloridos murales. Continúe hacia Tánger para hacer turismo y pasar la noche.</p>
 - title: 'Día 4: Tánger - Chefchouen'
-  html: <p>Conduzca a través de las montañas del Rif para llegar a Chefchaouen, la famosa «Perla Azul» de Marruecos. Disfrute de una tarde relajada explorando su pintoresca medina.</p>
+  html: <p>Conduzca a través de las montañas del Rif para llegar a Chefchaouen, la famosa «Perla Azul» de Marruecos. Disfrute de una tarde relajada explorando tu pintoresca medina.</p>
 - title: 'Día 5: Un día para visitar Chefchaouen'
   html: <p>Pase el día descubriendo las calles pintadas de azul de Chefchaouen, los mercados locales y las vistas de las montañas. Es una gran oportunidad para comprar artesanía o disfrutar de una tranquila cafetería.</p>
 - title: 'Día 6: Chefchaouen - Meknes - Volubilis - Fez'
@@ -97,7 +97,7 @@ itinerary:
 - title: 'Día 14: Sidi Ifni - Agadir - Taghazout'
   html: <p>Viaja por la costa con una parada en Agadir y luego continúa hasta Taghazout, un tranquilo pueblo pesquero y paraíso de los surfistas.</p>
 - title: 'Día 15: Taghazout - Esauira'
-  html: <p>Conduzca hasta Essaouira, declarada Patrimonio de la Humanidad por la UNESCO, conocida por su medina fortificada, sus animados zocos y la brisa del Atlántico.</p>
+  html: <p>Conduzca hasta Essaouira, declarada Patrimonio de la Humanidad por la UNESCO, conocida por tu medina fortificada, sus animados zocos y la brisa del Atlántico.</p>
 - title: 'Día 16: Día para visitar Esauira'
   html: <p>Disfrute de un día completo en Essaouira. Visite la Skala de la Ville, pasee por la playa o explore los talleres artesanales dentro de la medina.</p>
 - title: 'Día 17: Esauira - Marrakech'
@@ -107,7 +107,7 @@ itinerary:
 - title: 'Día 19: Excursión de un día a Ouzoud'
   html: <p>Realice una excursión de un día a las cascadas de Ouzoud, una de las maravillas naturales de Marruecos. Regrese a Marrakech por la tarde.</p>
 - title: 'Día 20: Marrakech - Aeropuerto'
-  html: <p>Traslado al aeropuerto de Marrakech o Casablanca para tomar su vuelo de salida.</p>
+  html: <p>Traslado al aeropuerto de Marrakech o Casablanca para tomar tu vuelo de salida.</p>
 included:
 - 'Traslados al aeropuerto: recogida y traslado al aeropuerto.'
 - 'Transporte privado: cómodo vehículo con aire acondicionado y conductor durante todo el viaje.'

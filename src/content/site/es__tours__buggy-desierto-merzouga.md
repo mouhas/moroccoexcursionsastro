@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/es/tours/buggy-desierto-merzouga/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>Descubra el desierto del Sáhara de una forma divertida y emocionante con nuestras excursiones en buggy en Merzouga. Puede elegir entre un recorrido rápido de una hora, una excursión de medio día o una aventura completa que dura varios días. Conducir un buggy es fácil y seguro, y nuestros guías locales le llevarán a través de paisajes increíbles que la mayoría de los visitantes nunca ven.</p>
+overviewHtml: '<p>Descubra el desierto del Sáhara de una forma divertida y emocionante con nuestras excursiones en buggy en Merzouga. Puedes elegir entre un recorrido rápido de una hora, una excursión de medio día o una aventura completa que dura varios días. Conducir un buggy es fácil y seguro, y nuestros guías locales te llevarán a través de paisajes increíbles que la mayoría de los visitantes nunca ven.</p>
 
   <p>Siente la emoción al recorrer las suaves dunas doradas de Erg Chebbi, explorar tranquilas pistas desérticas y hacer una parada en hermosos oasis con palmeras. Desde lo alto de las dunas, disfrutarás de unas vistas inolvidables del vasto Sáhara.</p>
 
-  <p>Pero la excursión es mucho más que conducir. Por el camino, conocerás a simpáticas familias bereberes que te recibirán con té a la menta y crepes marroquíes recién hechos. Si se une a una excursión en buggy más larga, también disfrutará de un almuerzo tradicional de tajín, cocinado lentamente con especias locales.</p>
+  <p>Pero la excursión es mucho más que conducir. Por el camino, conocerás a simpáticas familias bereberes que te recibirán con té a la menta y crepes marroquíes recién hechos. Si se une a una excursión en buggy más larga, también disfrutarás de un almuerzo tradicional de tajín, cocinado lentamente con especias locales.</p>
 
   <p>Nuestras excursiones en buggy por el Sáhara son perfectas para cualquiera que desee aventura y cultura. Tanto si dispone de una hora como de un día completo, es la mejor manera de sentir el espíritu del desierto.</p>'
 priceHeading: Precios de las excursiones en buggies por Merzouga
@@ -48,13 +48,13 @@ highlights:
 - Visita a familias nómadas (excursiones largas).
 itinerary:
 - title: Merzouga - Dunas de Erg Chebbi - Merzouga
-  html: '<p>Conducir un buggy en Merzouga es una forma emocionante de ver el Sáhara. Estos vehículos resistentes y cómodos son perfectos para atravesar la arena blanda y subir las grandes dunas de Erg Chebbi. Tanto si desea dar un paseo corto como si prefiere pasar un día completo de aventura, las excursiones en buggy le ofrecen la oportunidad de disfrutar de la velocidad, la diversión y el silencio del desierto. Puede empezar directamente desde el pueblo de Merzouga o que le recojan directamente en su campamento en el desierto.</p>
+  html: '<p>Conducir un buggy en Merzouga es una forma emocionante de ver el Sáhara. Estos vehículos resistentes y cómodos son perfectos para atravesar la arena blanda y subir las grandes dunas de Erg Chebbi. Tanto si deseas dar un paseo corto como si prefieres pasar un día completo de aventura, las excursiones en buggy te ofrecen la oportunidad de disfrutar de la velocidad, la diversión y el silencio del desierto. Puedes empezar directamente desde el pueblo de Merzouga o que te recojan directamente en tu campamento en el desierto.</p>
 
-    <p>Si solo dispone de poco tiempo, una excursión de una o dos horas es una buena opción. El recorrido le llevará directamente a las dunas doradas, donde podrá sentir la emoción de conducir sobre las onduladas colinas de arena. Su guía le llevará a puntos elevados donde podrá detenerse, tomar fotos y contemplar el desierto infinito. Los recorridos cortos son fáciles, seguros y perfectos para familias o para cualquiera que pruebe un buggy por primera vez.</p>
+    <p>Si solo dispone de poco tiempo, una excursión de una o dos horas es una buena opción. El recorrido te llevará directamente a las dunas doradas, donde podrás sentir la emoción de conducir sobre las onduladas colinas de arena. Tu guía te llevará a puntos elevados donde podrás detenerse, tomar fotos y contemplar el desierto infinito. Los recorridos cortos son fáciles, seguros y perfectos para familias o para cualquiera que pruebe un buggy por primera vez.</p>
 
     <p>Una excursión en buggy de tres a cuatro horas te llevará más lejos en el desierto, lejos de las zonas concurridas cerca del pueblo. Cruzarás amplias llanuras, valles escondidos y dunas menos visitadas. Muchas excursiones también se detienen junto a familias nómadas que aún viven en tiendas con sus rebaños. Conocerlos y compartir un té es un momento especial que muestra cómo ha sido la vida en el Sáhara durante generaciones.</p>
 
-    <p>Si te gusta la aventura, elige una excursión larga de cinco a seis horas. Este viaje te llevará a lo más profundo de las zonas tranquilas de Erg Chebbi, donde pocos visitantes llegan. Uno de los puntos destacados es llegar a un pequeño oasis en el desierto con palmeras, donde podrás descansar y disfrutar de un almuerzo tradicional. Las excursiones más largas también te dan más tiempo para divertirte aún más, como practicar sandboard en las altas dunas.</p>
+    <p>Si te gusta la aventura, eliges una excursión larga de cinco a seis horas. Este viaje te llevará a lo más profundo de las zonas tranquilas de Erg Chebbi, donde pocos visitantes llegan. Uno de los puntos destacados es llegar a un pequeño oasis en el desierto con palmeras, donde podrás descansar y disfrutar de un almuerzo tradicional. Las excursiones más largas también te dan más tiempo para divertirte aún más, como practicar sandboard en las altas dunas.</p>
 
     <p>Todas las excursiones en buggy están dirigidas por guías locales experimentados que conocen muy bien el desierto. Se aseguran de que estés seguro, sigas las mejores rutas y veas los lugares más bonitos. No importa la duración de la excursión, conducir un buggy en Merzouga es una mezcla de emoción, aventura y la tranquila belleza del Sáhara.</p>'
 included:
@@ -72,7 +72,7 @@ faqs:
 - q: ¿Es seguro conducir un buggy en el desierto de Merzouga?
   aHtml: <p>Sí. Los buggies son seguros, estables y siempre están guiados por profesionales locales que conocen bien las rutas del desierto.</p>
 - q: ¿Pueden los niños participar en las excursiones en buggy?
-  aHtml: <p>Sí, pero los niños suelen viajar como pasajeros con un conductor adulto. La edad mínima requerida puede variar según la empresa, pero los niños pueden disfrutar con seguridad del recorrido en buggy.</p>
+  aHtml: <p>Sí, pero los niños suelen viajar como pasajeros con un conductor adulto. La edad mínima requerida puedes variar según la empresa, pero los niños pueden disfrutar con seguridad del recorrido en buggy.</p>
 - q: ¿Cuántas personas caben en un buggy?
   aHtml: <p>Disponemos de buggies con asientos para dos personas y buggies más grandes para cuatro personas.</p>
 - q: ¿Por qué elegir un buggy en lugar de un quad?

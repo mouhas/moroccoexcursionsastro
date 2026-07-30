@@ -13,7 +13,7 @@ cancellation: 48 H
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Una cena romántica en el desierto de Merzouga es una experiencia especial para las parejas. Rodeado por las altas dunas doradas de Erg Chebbi, el desierto se vuelve hermoso al atardecer con suaves colores naranjas y rosados, creando un ambiente tranquilo y apacible.</p>
 
-  <p>En nuestros campamentos, preparamos lugares privados para cenar, de modo que las parejas puedan disfrutar de su tiempo a solas. La calma del desierto, la cálida brisa y el amplio espacio abierto hacen que la velada sea mágica e inolvidable.</p>
+  <p>En nuestros campamentos, preparamos lugares privados para cenar, de modo que las parejas puedan disfrutar de tu tiempo a solas. La calma del desierto, la cálida brisa y el amplio espacio abierto hacen que la velada sea mágica e inolvidable.</p>
 
   <p>La comida en nuestros campamentos también es increíble. Platos tradicionales marroquíes, como sabrosos tajines, pan recién hecho y pasteles dulces, se sirven en mesas bellamente decoradas. La luz de las velas, los faroles o los pétalos de rosa hace que la cena sea aún más romántica.</p>
 
@@ -29,15 +29,15 @@ highlights:
 - Baila bajo las estrellas
 itinerary:
 - title: Merzouga - Campamento en el desierto - Cena - Merzouga
-  html: '<p><strong>Recogida en Merzouga:</strong> Nuestro personal le recogerá en su hotel o en el punto de encuentro designado en Merzouga y le llevará a nuestro campamento en el desierto. Disfrute de un paseo en un coche 4x4, un recorrido panorámico por las dunas mientras el sol comienza a ponerse.</p>
+  html: '<p><strong>Recogida en Merzouga:</strong> Nuestro personal te recogerá en tu hotel o en el punto de encuentro designado en Merzouga y te llevará a nuestro campamento en el desierto. Disfrute de un paseo en un coche 4x4, un recorrido panorámico por las dunas mientras el sol comienza a ponerse.</p>
 
-    <p><strong>Llegada al campamento en el desierto:</strong> Llegada a nuestro campamento, donde podrá relajarse unos minutos, disfrutar de las vistas del desierto y tomar fotos de las dunas doradas al atardecer.</p>
+    <p><strong>Llegada al campamento en el desierto:</strong> Llegada a nuestro campamento, donde podrás relajarse unos minutos, disfrutar de las vistas del desierto y tomar fotos de las dunas doradas al atardecer.</p>
 
-    <p><strong>Cena romántica:</strong> Nuestro equipo preparará un comedor privado para usted en medio de las dunas. La luz de las velas, los faroles y los pétalos de rosa crearán un ambiente mágico e íntimo. Disfrute de una deliciosa cena marroquí con platos tradicionales como tajines, pan recién hecho y pasteles dulces. Saboree un té marroquí a la menta mientras se sumerge en la serenidad del desierto.</p>
+    <p><strong>Cena romántica:</strong> Nuestro equipo preparará un comedor privado para tú en medio de las dunas. La luz de las velas, los faroles y los pétalos de rosa crearán un ambiente mágico e íntimo. Disfrute de una deliciosa cena marroquí con platos tradicionales como tajines, pan recién hecho y pasteles dulces. Saboree un té marroquí a la menta mientras se sumerge en la serenidad del desierto.</p>
 
     <p><strong>Música y observación de estrellas:</strong> Después de la cena, disfrute de música bereber en directo en el campamento o simplemente relájese bajo el claro cielo del desierto, admirando las estrellas y la Vía Láctea.</p>
 
-    <p><strong>Regreso a Merzouga:</strong> Después de una velada memorable, nuestro personal le llevará de vuelta a su hotel en Merzouga, completando su mágica experiencia gastronómica en el desierto.</p>'
+    <p><strong>Regreso a Merzouga:</strong> Después de una velada memorable, nuestro personal te llevará de vuelta a tu hotel en Merzouga, completando tu mágica experiencia gastronómica en el desierto.</p>'
 included:
 - Recogida y traslado en un vehículo 4x4
 - Cena
@@ -49,11 +49,11 @@ faqs:
 - q: ¿A qué hora comienza la cena con visita guiada?
   aHtml: <p>Normalmente comienza a última hora de la tarde. La hora se confirmará tras la reserva.</p>
 - q: ¿El transporte está incluido?
-  aHtml: <p>Sí, el traslado desde y hacia su hotel o un punto designado en Merzouga está incluido.</p>
+  aHtml: <p>Sí, el traslado desde y hacia tu hotel o un punto designado en Merzouga está incluido.</p>
 - q: ¿La cena es privada?
   aHtml: <p>Sí, nuestros campamentos ofrecen comedores privados al aire libre para parejas, lo que garantiza un ambiente íntimo y romántico; sin embargo, si hace demasiado frío o viento, la cena se servirá dentro de una tienda restaurante junto con otras personas.</p>
 - q: ¿Qué comida se sirve durante la cena?
-  aHtml: <p>Se sirven platos tradicionales marroquíes, como tajines, pan recién hecho y pasteles dulces, acompañados de té marroquí a la menta. Puede comprar y traer sus propias bebidas alcohólicas.</p>
+  aHtml: <p>Se sirven platos tradicionales marroquíes, como tajines, pan recién hecho y pasteles dulces, acompañados de té marroquí a la menta. Puedes comprar y traer sus propias bebidas alcohólicas.</p>
 - q: ¿Hay opciones vegetarianas o dietas especiales?
   aHtml: <p>Sí, podemos adaptarnos a dietas vegetarianas, veganas y otras necesidades alimentarias si se solicita con antelación.</p>
 reviews: []

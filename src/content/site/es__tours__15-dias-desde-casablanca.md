@@ -11,9 +11,9 @@ source: https://morocco-excursion.com/es/tours/15-dias-desde-casablanca/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>Este tour de 15 días por Marruecos comienza en Casablanca, donde la mezquita Hassan II y la Corniche, junto al mar, le dan la bienvenida a la vida marroquí. Desde allí, viaje hacia el norte hasta Rabat para explorar el Palacio Real, la Torre Hassan y la Kasbah de los Udayas, antes de llegar a Tánger, una ciudad vibrante situada en el punto de encuentro entre el Atlántico y el Mediterráneo.</p>
+overviewHtml: '<p>Este tour de 15 días por Marruecos comienza en Casablanca, donde la mezquita Hassan II y la Corniche, junto al mar, te dan la bienvenida a la vida marroquí. Desde allí, viaje hacia el norte hasta Rabat para explorar el Palacio Real, la Torre Hassan y la Kasbah de los Udayas, antes de llegar a Tánger, una ciudad vibrante situada en el punto de encuentro entre el Atlántico y el Mediterráneo.</p>
 
-  <p>Las montañas del Rif le llevarán a Chefchaouen, la «Perla Azul», con sus tranquilas calles y su impresionante arquitectura. Continúe hacia Meknes y las ruinas romanas de Volubilis, para llegar luego a Fez, una ciudad de estrechas calles medinenses, curtidurías tradicionales y mezquitas centenarias. El viaje hacia el sur le llevará a través de las montañas del Medio Atlas hasta Merzouga, donde los paseos en camello por las doradas dunas de Erg Chebbi y las visitas a familias nómadas le dejarán recuerdos inolvidables.</p>
+  <p>Las montañas del Rif te llevarán a Chefchaouen, la «Perla Azul», con sus tranquilas calles y tu impresionante arquitectura. Continúe hacia Meknes y las ruinas romanas de Volubilis, para llegar luego a Fez, una ciudad de estrechas calles medinenses, curtidurías tradicionales y mezquitas centenarias. El viaje hacia el sur te llevará a través de las montañas del Medio Atlas hasta Merzouga, donde los paseos en camello por las doradas dunas de Erg Chebbi y las visitas a familias nómadas te dejarán recuerdos inolvidables.</p>
 
   <p>Desde el desierto, explore las gargantas del Todra, el valle del Dades y el valle de las rosas, antes de visitar Ouarzazate y la emblemática kasbah de Ait Ben Haddou. Las ciudades costeras como Sidi Ifni, Taghazout y Essaouira ofrecen relajación y vistas al mar. El viaje termina un día después de visitar Marrakech, proporcionando una mezcla perfecta de cultura, naturaleza y aventura por todo Marruecos.</p>'
 priceHeading: null
@@ -65,11 +65,11 @@ highlights:
 - Descubra la vibrante plaza Jemaa el-Fna de Marrakech.
 itinerary:
 - title: 'Día 1: Llegada a Casablanca'
-  html: '<p>A su llegada, será recibido y trasladado a su hotel. Si su vuelo llega lo suficientemente temprano, podrá salir a visitar la mezquita Hassan II, una de las más bellas del mundo. Se encuentra justo al lado del océano Atlántico y su alto minarete se puede ver desde lejos. Un breve paseo por la Corniche, junto al mar, le permitirá conocer de primera mano la vida marroquí antes de descansar por la noche.</p>
+  html: '<p>A tu llegada, será recibido y trasladado a tu hotel. Si tu vuelo llega lo suficientemente temprano, podrás salir a visitar la mezquita Hassan II, una de las más bellas del mundo. Se encuentra justo al lado del océano Atlántico y tu alto minarete se puedes ver desde lejos. Un breve paseo por la Corniche, junto al mar, te permitirá conocer de primera mano la vida marroquí antes de descansar por la noche.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Melliber o similar.<br/><em>Superior</em>: Hotel Art Palace Suite & Spa o similar.</p>'
 - title: 'Día 2: Casablanca - Rabat - Tánger'
-  html: '<p>A la mañana siguiente, saldrá de Casablanca y se dirigirá a Rabat, la capital del país. Aquí podrá visitar el Palacio Real, la Torre Hassan y el Mausoleo de Mohammed V. Un paseo por el interior de la Kasbah de los Udayas le permitirá descubrir sus estrechas calles con casas azules y blancas con vistas al océano. Después de explorar Rabat, el viaje continúa hacia el norte por la costa atlántica hasta llegar a Tánger. Por la noche, podrá pasear por la medina de Tánger o disfrutar de la moderna Corniche junto al mar.</p>
+  html: '<p>A la mañana siguiente, saldrá de Casablanca y se dirigirá a Rabat, la capital del país. Aquí podrás visitar el Palacio Real, la Torre Hassan y el Mausoleo de Mohammed V. Un paseo por el interior de la Kasbah de los Udayas te permitirá descubrir sus estrechas calles con casas azules y blancas con vistas al océano. Después de explorar Rabat, el viaje continúa hacia el norte por la costa atlántica hasta llegar a Tánger. Por la noche, podrás pasear por la medina de Tánger o disfrutar de la moderna Corniche junto al mar.</p>
 
     <p><strong>Alojamiento</strong>:<br/><em>Estándar</em>: Hotel Fredj o similar.<br/><em>Superior</em>: Hotel Marina Bay o similar.</p>'
 - title: 'Día 3: Tánger - Chefchouen'
@@ -79,13 +79,13 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Casa Hassan o similar.<br/><em>Superior</em>: Hotel Dar Echaouen o similar.</p>'
 - title: 'Día 4: Chefchaouen - Meknes - Volubilis - Fez'
-  html: '<p>Al día siguiente, dejarás atrás las montañas del Rif y te dirigirás hacia la ciudad imperial de Meknes. Esta ciudad fue en su día la capital de Marruecos y aún conserva sus grandiosas puertas y palacios. Pasarás por la plaza El Hedim y la famosa puerta Bab Mansour. Después de Meknes, continuarás hacia Volubilis, el yacimiento romano más importante de Marruecos.</p>
+  html: '<p>Al día siguiente, dejarás atrás las montañas del Rif y te dirigirás hacia la ciudad imperial de Meknes. Esta ciudad fue en tu día la capital de Marruecos y aún conserva sus grandiosas puertas y palacios. Pasarás por la plaza El Hedim y la famosa puerta Bab Mansour. Después de Meknes, continuarás hacia Volubilis, el yacimiento romano más importante de Marruecos.</p>
 
-    <p>Aquí verá ruinas de templos, columnas y hermosos mosaicos que tienen casi dos mil años de antigüedad. Por la tarde, llegará a Fez, donde se alojará en un riad tradicional dentro de la antigua medina.</p>
+    <p>Aquí verás ruinas de templos, columnas y hermosos mosaicos que tienen casi dos mil años de antigüedad. Por la tarde, llegarás a Fez, donde se alojará en un riad tradicional dentro de la antigua medina.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Riad Palais Houyam o similar.</p>'
 - title: 'Día 5: Día para visitar Fez'
-  html: '<p>Todo el día siguiente está dedicado a Fez. La ciudad es como un museo viviente y una de las ciudades medievales más completas del mundo. Al pasear por sus interminables callejuelas, se puede ver a los artesanos trabajando con cuero, metal y madera, tal y como lo han hecho durante siglos.</p>
+  html: '<p>Todo el día siguiente está dedicado a Fez. La ciudad es como un museo viviente y una de las ciudades medievales más completas del mundo. Al pasear por sus interminables callejuelas, se puedes ver a los artesanos trabajando con cuero, metal y madera, tal y como lo han hecho durante siglos.</p>
 
     <p>La antigua Universidad de Al Quaraouiyine es una de las más antiguas del mundo, y las curtidurías de Chouara muestran cómo todavía se tiñen las pieles a mano en grandes cubas de colores. La medina está llena de energía y cada rincón revela una nueva sorpresa, desde madrasas con impresionantes tallas hasta fuentes ocultas.</p>
 
@@ -97,9 +97,9 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Mouhou Standard Camp o similar.<br/><em>Superior</em>: Mouhou Luxury Camp o similar.</p>'
 - title: 'Día 7: Merzouga - Familias nómadas - Pueblos abandonados - Dunas de Erg Chebbi'
-  html: '<p>El día siguiente está dedicado a la vida en el desierto. Después de contemplar el amanecer, visitarás a familias bereberes nómadas que aún viven en tiendas de campaña y se desplazan con sus rebaños. Compartirán contigo su sencillo estilo de vida y te invitarán a tomar té.</p>
+  html: '<p>El día siguiente está dedicado a la vida en el desierto. Después de contemplar el amanecer, visitarás a familias bereberes nómadas que aún viven en tiendas de campaña y se desplazan con sus rebaños. Compartirán contigo tu sencillo estilo de vida y te invitarán a tomar té.</p>
 
-    <p>Por el camino, pasará por pueblos abandonados y paisajes llenos de fósiles. Por la tarde, podrá relajarse o dar otro paseo en camello por las dunas para disfrutar de otra puesta de sol inolvidable antes de regresar a su campamento u hotel en Merzouga.</p>
+    <p>Por el camino, pasarás por pueblos abandonados y paisajes llenos de fósiles. Por la tarde, podrás relajarse o dar otro paseo en camello por las dunas para disfrutar de otra puesta de sol inolvidable antes de regresar a tu campamento u hotel en Merzouga.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Mouhou Standard Camp o similar.<br/><em>Superior</em>: Mouhou Luxury Camp o similar.</p>'
 - title: 'Día 8: Merzouga - Tenghir - Gargantas del Todar - Valle de los Rosales del Dadès - Ouarzazate'
@@ -115,17 +115,17 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Tafilag o similar.<br/><em>Superior</em>: Hotel Riad Dar Zitoune o similar.</p>'
 - title: 'Día 10: Taroudant - Sidi Ifni'
-  html: '<p>Su próximo destino es la ciudad costera de Sidi Ifni. Después de un paseo matutino por Taroudant, se dirigirá hacia el sur y pronto llegará al océano. Sidi Ifni estuvo bajo dominio español, y sus calles están repletas de edificios de estilo Art Déco, lo que le confiere un carácter diferente al de otras ciudades marroquíes. El ambiente tranquilo y la brisa del océano lo convierten en una parada relajante.</p>
+  html: '<p>Tu próximo destino es la ciudad costera de Sidi Ifni. Después de un paseo matutino por Taroudant, se dirigirá hacia el sur y pronto llegarás al océano. Sidi Ifni estuvo bajo dominio español, y sus calles están repletas de edificios de estilo Art Déco, lo que te confiere un carácter diferente al de otras ciudades marroquíes. El ambiente tranquilo y la brisa del océano lo convierten en una parada relajante.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Janna d''ifni o similar.<br/><em>Superior</em>: Hotel Logis La marine o similar.</p>'
 - title: 'Día 11: Sidi Ifni - Agadir - Taghazout'
-  html: '<p>Desde Sidi Ifni, la carretera sigue la costa atlántica hacia el norte. Hará una parada en Agadir, una moderna ciudad costera, donde podrá pasear por el paseo marítimo y disfrutar de marisco fresco. A continuación, continuará hacia Taghazout, un pequeño pueblo pesquero que se ha hecho popular entre los surfistas de todo el mundo. Es un lugar perfecto para relajarse junto al mar.</p>
+  html: '<p>Desde Sidi Ifni, la carretera sigue la costa atlántica hacia el norte. Hará una parada en Agadir, una moderna ciudad costera, donde podrás pasear por el paseo marítimo y disfrutar de marisco fresco. A continuación, continuará hacia Taghazout, un pequeño pueblo pesquero que se ha hecho popular entre los surfistas de todo el mundo. Es un lugar perfecto para relajarse junto al mar.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Dar Sarah o similar.<br/><em>Superior</em>: Hotel Hyatt Place Taghazout Bay o similar.</p>'
 - title: 'Día 12: Taghazout - Essaouira'
-  html: '<p>Al día siguiente, conduces por la costa hasta Essaouira, una de las ciudades con más encanto de Marruecos. La antigua medina, declarada Patrimonio de la Humanidad por la UNESCO, está rodeada por murallas construidas por los portugueses. En su interior, las estrechas calles están repletas de tiendas que venden tallas de madera, obras de arte y joyas.</p>
+  html: '<p>Al día siguiente, conduces por la costa hasta Essaouira, una de las ciudades con más encanto de Marruecos. La antigua medina, declarada Patrimonio de la Humanidad por la UNESCO, está rodeada por murallas construidas por los portugueses. En tu interior, las estrechas calles están repletas de tiendas que venden tallas de madera, obras de arte y joyas.</p>
 
-    <p>El puerto pesquero está lleno de vida, con barcos azules y el olor a pescado a la parrilla. Essaouira también es conocida por sus vientos, lo que la hace muy popular para practicar windsurf y kitesurf. Pasará la noche dentro de la medina.</p>
+    <p>El puerto pesquero está lleno de vida, con barcos azules y el olor a pescado a la parrilla. Essaouira también es conocida por sus vientos, lo que la hace muy popular para practicar windsurf y kitesurf. Pasarás la noche dentro de la medina.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Maison du Sud o similar.<br/><em>Superior</em>: Hotel Riad Raoud Rayhane o similar.</p>'
 - title: 'Día 13: Essaouira - Marrakech'
@@ -133,9 +133,9 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Palace o similar.</p>'
 - title: 'Día 14: Día completo para visitar Marrakech'
-  html: '<p>Un día completo en Marrakech con un guía local es una forma maravillosa de conocer los lugares más destacados de la ciudad y aprender sobre su cultura. El día suele comenzar en Jemaa el-Fnaa, la plaza principal, y en la cercana mezquita Koutoubia, con su famoso minarete alto. Desde allí, se explora el Palacio de la Bahía, con sus hermosos jardines y salas decoradas, y las Tumbas Saadíes, conocidas por sus coloridos azulejos y su rica historia. Alrededor del mediodía, se hace una parada para disfrutar de un almuerzo tradicional marroquí en un riad o restaurante local, donde se pueden degustar platos como el tajín o el cuscús con té a la menta.</p>
+  html: '<p>Un día completo en Marrakech con un guía local es una forma maravillosa de conocer los lugares más destacados de la ciudad y aprender sobre tu cultura. El día suele comenzar en Jemaa el-Fnaa, la plaza principal, y en la cercana mezquita Koutoubia, con tu famoso minarete alto. Desde allí, se explora el Palacio de la Bahía, con sus hermosos jardines y salas decoradas, y las Tumbas Saadíes, conocidas por sus coloridos azulejos y tu rica historia. Alrededor del mediodía, se hace una parada para disfrutar de un almuerzo tradicional marroquí en un riad o restaurante local, donde se pueden degustar platos como el tajín o el cuscús con té a la menta.</p>
 
-    <p>Por la tarde, el guía le llevará a través del Mellah, el antiguo barrio judío, antes de visitar la Madraza Ben Youssef, una antigua escuela islámica admirada por sus finas tallas y azulejos. Más tarde, paseará por los animados zocos, donde las tiendas venden especias, alfombras, lámparas y artículos de cuero. Con la ayuda de un guía, podrá disfrutar de los bulliciosos mercados y aprender el arte del regateo.</p>
+    <p>Por la tarde, el guía te llevará a través del Mellah, el antiguo barrio judío, antes de visitar la Madraza Ben Youssef, una antigua escuela islámica admirada por sus finas tallas y azulejos. Más tarde, paseará por los animados zocos, donde las tiendas venden especias, alfombras, lámparas y artículos de cuero. Con la ayuda de un guía, podrás disfrutar de los bulliciosos mercados y aprender el arte del regateo.</p>
 
     <p>Al ponerse el sol, el tour termina de nuevo en Jemaa el-Fnaa. Por la noche, la plaza se llena de puestos de comida, cuentacuentos y músicos, creando un ambiente animado. Terminar el día aquí con una cena y un zumo fresco es la forma perfecta de experimentar el verdadero espíritu de Marrakech.</p>
 

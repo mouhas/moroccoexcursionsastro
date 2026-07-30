@@ -71,7 +71,7 @@ highlights:
 - Visite la medina de Marrakech.
 itinerary:
 - title: 'Día 1: Casablanca – Traslado al hotel'
-  html: '<p>Llegada a Casablanca y traslado al hotel. Dependiendo de la hora de llegada, podrá visitar la mezquita Hassan II, pasear por la Corniche o simplemente relajarse en la ciudad. Noche en Casablanca.</p>
+  html: '<p>Llegada a Casablanca y traslado al hotel. Dependiendo de la hora de llegada, podrás visitar la mezquita Hassan II, pasear por la Corniche o simplemente relajarse en la ciudad. Noche en Casablanca.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Melliber o similar.<br/><em>Superior</em>: Hotel Art Palace Suite & Spa o similar.</p>'
 - title: 'Día 2: Casablanca – Rabat – Montañas del Rif - Chefchaouen'
@@ -87,7 +87,7 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Palais Houyam o similar.</p>'
 - title: 'Día 5: Fez - Ifrane - Azrou - Valle del Ziz - Erfoud - Merzouga'
-  html: '<p>Viaje por las montañas del Medio Atlas. Haga una parada en Ifrane, apodada «la pequeña Suiza», y en el bosque de cedros de Azrou para ver macacos de Berbería. Continúe por el valle del Ziz y Erfoud antes de llegar a Merzouga, en el límite del Sáhara, donde podrá realizar una excursión opcional en camello hasta un campamento en el desierto para pasar la noche.</p>
+  html: '<p>Viaje por las montañas del Medio Atlas. Haga una parada en Ifrane, apodada «la pequeña Suiza», y en el bosque de cedros de Azrou para ver macacos de Berbería. Continúe por el valle del Ziz y Erfoud antes de llegar a Merzouga, en el límite del Sáhara, donde podrás realizar una excursión opcional en camello hasta un campamento en el desierto para pasar la noche.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Auberge L''homme du desert o similar.<br/><em>Superior</em>: Hotel Riad Chebbi & Spa o similar.</p>'
 - title: 'Día 6: Merzouga - Familias bereberes - Desierto Negro - Merzouga'
@@ -107,7 +107,7 @@ itinerary:
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Palace o similar.</p>'
 - title: 'Día 10: Marrakech - Aeropuerto'
-  html: <p>Traslado al aeropuerto de Marrakech o Casablanca para tomar su vuelo de regreso a casa.</p>
+  html: <p>Traslado al aeropuerto de Marrakech o Casablanca para tomar tu vuelo de regreso a casa.</p>
 included:
 - Recogida en el aeropuerto de Casablanca.
 - Traslado al aeropuerto al final del viaje.
@@ -125,7 +125,7 @@ excluded:
 - Entradas (boletos)
 faqs:
 - q: ¿Este tour es privado o en grupo?
-  aHtml: <p>Este tour de 10 días desde Casablanca se puede organizar de ambas formas. La mayoría de los viajeros prefieren un tour privado por su flexibilidad, pero también hay opciones disponibles para grupos pequeños.</p>
+  aHtml: <p>Este tour de 10 días desde Casablanca se puedes organizar de ambas formas. La mayoría de los viajeros prefieren un tour privado por tu flexibilidad, pero también hay opciones disponibles para grupos pequeños.</p>
 - q: ¿Qué tipo de alojamiento se ofrece?
   aHtml: <p>Te alojarás en una combinación de hoteles y riads. En el desierto del Sáhara, tendrás la opción de alojarte en un campamento estándar o de lujo.</p>
 - q: ¿Es obligatoria la excursión en camello por el Sáhara?

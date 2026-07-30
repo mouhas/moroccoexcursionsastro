@@ -13,7 +13,7 @@ cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Este viaje de 4 días por el desierto salvaje comienza en Merzouga, donde visitarás el oasis de Tissardmine, rico en fósiles, y el tranquilo oasis de Safsaf. Más tarde, volverás a las dunas para contemplar una hermosa puesta de sol y pasar la noche en un campamento en el desierto bajo las estrellas.</p>
 
-  <p>El segundo día, se levantará temprano para ver el amanecer sobre las dunas de Erg Chebbi. También puede probar el sandboard o elegir una actividad adicional, como montar en quad o buggy. Por el camino, conocerá a familias nómadas, explorará el antiguo pueblo minero de Mifis y disfrutará de la música tradicional con el pueblo gnawa en Khamlia. Siguiendo la famosa ruta del <a href="https://es.wikipedia.org/wiki/Rally_Dakar" rel="noopener" target="_blank"><strong>Rally París-Dakar</strong></a>, llegará al desierto de Ouzina para pasar la noche.</p>
+  <p>El segundo día, te levantarás temprano para ver el amanecer sobre las dunas de Erg Chebbi. También puedes probar el sandboard o elegir una actividad adicional, como montar en quad o buggy. Por el camino, conocerás a familias nómadas, explorarás el antiguo pueblo minero de Mifis y disfrutarás de la música tradicional con el pueblo gnawa en Khamlia. Siguiendo la famosa ruta del <a href="https://es.wikipedia.org/wiki/Rally_Dakar" rel="noopener" target="_blank"><strong>Rally París-Dakar</strong></a>, llegarás al desierto de Ouzina para pasar la noche.</p>
 
   <p>El tercer día te llevará por pueblos del desierto como Ramlia y Tafraoute, y luego a la impresionante garganta de Mharech. También visitarás las antiguas ruinas de Oubahlou antes de regresar a Ouzina.</p>
 
@@ -70,11 +70,11 @@ itinerary:
 - title: 'Día 2: Campamento – Nómadas – Khamlia – Taouz – Ruta del Rally Dakar – Ouzina'
   html: '<p>Comenzamos el día temprano para ver el amanecer desde lo alto de una duna, seguido del desayuno. Si lo deseas, también puedes probar el sandboard en las dunas de Erg Chebbi antes de comenzar nuestra aventura.</p>
 
-    <p>Nuestra siguiente parada es el pueblo abandonado de Mifis, que en su día fue una importante localidad minera. Quedó abandonado cuando las minas dejaron de ser rentables. Desde los puntos más altos de aquí, disfrutamos de unas vistas panorámicas increíbles. Todavía se pueden ver minas a cielo abierto y pozos, algunos de más de 50 metros de profundidad. Estas minas fueron explotadas en su día por los franceses, que extraían plomo y zinc. El famoso polvo de kohl, utilizado por las mujeres marroquíes para maquillarse los ojos, también proviene de aquí. Ten cuidado en esta zona, ya que los pozos de las minas pueden ser infinitos.</p>
+    <p>Nuestra siguiente parada es el pueblo abandonado de Mifis, que en tu día fue una importante localidad minera. Quedó abandonado cuando las minas dejaron de ser rentables. Desde los puntos más altos de aquí, disfrutamos de unas vistas panorámicas increíbles. Todavía se pueden ver minas a cielo abierto y pozos, algunos de más de 50 metros de profundidad. Estas minas fueron explotadas en tu día por los franceses, que extraían plomo y zinc. El famoso polvo de kohl, utilizado por las mujeres marroquíes para maquillarse los ojos, también proviene de aquí. Ten cuidado en esta zona, ya que los pozos de las minas pueden ser infinitos.</p>
 
     <p>Desde Mifis, continuamos hacia el pueblo de Khamlia, donde viven unos 300 habitantes de origen bereber, árabe y subsahariano. Aquí conoceremos a los músicos gnawa, que interpretarán música y bailes tradicionales mientras disfrutamos de un vaso de té a la menta.</p>
 
-    <p>Después, nos dirigiremos a Taouz y tomaremos la antigua ruta del Rally París-Dakar. Por el camino, haremos una parada en el restaurante Itrane Sahara para disfrutar de un almuerzo tradicional bereber. Si hace buen tiempo, también podrá utilizar la piscina. Después del almuerzo, daremos un pequeño paseo para ver los grabados rupestres prehistóricos cercanos, antes de continuar nuestro viaje por el desierto.</p>
+    <p>Después, nos dirigiremos a Taouz y tomaremos la antigua ruta del Rally París-Dakar. Por el camino, haremos una parada en el restaurante Itrane Sahara para disfrutar de un almuerzo tradicional bereber. Si hace buen tiempo, también podrás utilizar la piscina. Después del almuerzo, daremos un pequeño paseo para ver los grabados rupestres prehistóricos cercanos, antes de continuar nuestro viaje por el desierto.</p>
 
     <p>De camino a Ouzina, pasamos por Jdaid, un pequeño y remoto pueblo bereber en medio del desierto. Por la tarde, llegamos a nuestro hotel en el desierto de Ouzina, donde pasaremos la noche con cena y desayuno incluidos.</p>
 
@@ -86,15 +86,15 @@ itinerary:
 
     <p>1 hora en buggy doble: 130 €</p>'
 - title: 'Día 3: Ouzina – Ramlia – Sidi Ali – Mharech – Oubahlou – Desierto de Ouzina'
-  html: '<p>Después del desayuno, partimos en nuestro 4×4 por pistas desérticas. Nuestra primera parada es el pueblo de Ramlia, un asentamiento bereber escondido en medio del desierto. Si lo deseas, podemos dedicar un tiempo a visitar el pueblo y su oasis.</p>
+  html: '<p>Después del desayuno, partimos en nuestro 4×4 por pistas desérticas. Nuestra primera parada es el pueblo de Ramlia, un asentamiento bereber escondido en medio del desierto. Si lo deseas, podemos dedicar un tiempo a visitar el pueblo y tu oasis.</p>
 
-    <p>Desde aquí, cruzamos el río Sand (Oued Ghris), un cauce seco lleno de arena blanda, hasta llegar a Tafraoute (Sidi Ali). Paramos aquí para descansar y disfrutar de una taza de té y, si lo prefiere, también podemos almorzar en el pueblo.</p>
+    <p>Desde aquí, cruzamos el río Sand (Oued Ghris), un cauce seco lleno de arena blanda, hasta llegar a Tafraoute (Sidi Ali). Paramos aquí para descansar y disfrutar de una taza de té y, si lo prefieres, también podemos almorzar en el pueblo.</p>
 
-    <p>Después, continuamos hacia el desfiladero de Mharech, pasando por Tafraoute. El desfiladero es un lugar sencillo pero impresionante, con palmeras y un pequeño oasis. A menudo se le llama la «Puerta de Belén» por su parecido con un belén.</p>
+    <p>Después, continuamos hacia el desfiladero de Mharech, pasando por Tafraoute. El desfiladero es un lugar sencillo pero impresionante, con palmeras y un pequeño oasis. A menudo se te llama la «Puerta de Belén» por tu parecido con un belén.</p>
 
     <p>A continuación, cruzamos de nuevo el río Sand y llegamos a Oubahlou, también conocida como la «ciudad perdida» o la «ciudad portuguesa». Se trata de las ruinas de un antiguo asentamiento portugués. Daremos un breve paseo para explorar el lugar antes de regresar por pistas desérticas a nuestro hotel en el desierto de Ouzina para cenar y pasar la noche.</p>'
 - title: 'Día 4: Ouzina – Taouz – Erg Znaigui – Merzouga'
-  html: <p>Después del desayuno, comenzamos nuestro viaje de regreso. Nos dirigimos de nuevo hacia Taouz y luego continuamos hacia Merzouga, cruzando las dunas de Erg Znaigui por el camino. Dependiendo de su próximo destino, esta excursión puede terminar a última hora de la mañana o por la tarde.</p>
+  html: <p>Después del desayuno, comenzamos nuestro viaje de regreso. Nos dirigimos de nuevo hacia Taouz y luego continuamos hacia Merzouga, cruzando las dunas de Erg Znaigui por el camino. Dependiendo de tu próximo destino, esta excursión puedes terminar a última hora de la mañana o por la tarde.</p>
 included:
 - Transporte en 4×4 por toda la ruta del desierto.
 - Paseos en camello en Merzouga.
@@ -110,13 +110,13 @@ excluded:
 - Propinas
 faqs:
 - q: ¿Se puede personalizar el tour de 4 días por el desierto?
-  aHtml: <p>Sí, el tour se puede adaptar a sus intereses, por ejemplo, incluyendo paseos adicionales en quad, estancias más largas en el desierto o visitas a otros oasis y pueblos de los alrededores de Merzouga.</p>
+  aHtml: <p>Sí, el tour se puedes adaptar a sus intereses, por ejemplo, incluyendo paseos adicionales en quad, estancias más largas en el desierto o visitas a otros oasis y pueblos de los alrededores de Merzouga.</p>
 - q: ¿Es seguro el desierto?
   aHtml: <p>Sí. Todas las zonas visitadas son seguras. Nuestros guías tienen mucha experiencia y garantizan la seguridad adecuada, especialmente cerca de dunas, acantilados y minas.</p>
 - q: ¿Cómo nos desplazamos durante el tour?
   aHtml: <p>El tour utiliza un vehículo 4×4 para largas distancias. Las excursiones más cortas por el desierto pueden incluir paseos en camello o excursiones opcionales en quad/buggy.</p>
 - q: ¿El tour de 4 días por el desierto es apto para niños y personas mayores?
-  aHtml: <p>Sí, el recorrido es moderado y apto para personas con una condición física básica. Caminar sobre la arena puede resultar agotador, por lo que algunas actividades pueden requerir precaución.</p>
+  aHtml: <p>Sí, el recorrido es moderado y apto para personas con una condición física básica. Caminar sobre la arena puedes resultar agotador, por lo que algunas actividades pueden requerir precaución.</p>
 - q: ¿Las comidas y el agua están incluidas?
   aHtml: <p>Sí, el agua, los desayunos, los almuerzos y las cenas están incluidos en el tour.</p>
 - q: ¿Puedo añadir otras actividades en el desierto?

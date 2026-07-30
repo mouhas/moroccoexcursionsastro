@@ -11,9 +11,9 @@ source: https://morocco-excursion.com/es/tours/excursion-oasis-safsaf/
 tourType: Tour Privado
 cancellation: 48 H
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>Únase a una de nuestras excursiones de un día en 4×4 desde Merzouga al recóndito oasis de Safsaf, un tranquilo y hermoso oasis en el desierto. La aventura comienza con un recorrido todoterreno al norte de las grandes dunas de Erg Chebbi. Por el camino, haremos una parada en el oasis de Tissardmine, conocido por sus fósiles, y visitaremos a familias nómadas que viven en tiendas de campaña. Es una gran oportunidad para conocer su forma de vida y aprender sobre las tradiciones del desierto.</p>
+overviewHtml: '<p>Únase a una de nuestras excursiones de un día en 4×4 desde Merzouga al recóndito oasis de Safsaf, un tranquilo y hermoso oasis en el desierto. La aventura comienza con un recorrido todoterreno al norte de las grandes dunas de Erg Chebbi. Por el camino, haremos una parada en el oasis de Tissardmine, conocido por sus fósiles, y visitaremos a familias nómadas que viven en tiendas de campaña. Es una gran oportunidad para conocer tu forma de vida y aprender sobre las tradiciones del desierto.</p>
 
-  <p>En el oasis de Safsaf encontrará altas palmeras y, si hay suficiente agua, pequeños lagos en los que podrá bañarse. Podrá pasear, disfrutar del aire fresco y relajarse bajo los árboles. Prepararemos un almuerzo tipo pícnic a la sombra y pasaremos un rato tranquilo en este lugar tan especial.</p>'
+  <p>En el oasis de Safsaf encontrará altas palmeras y, si hay suficiente agua, pequeños lagos en los que podrás bañarse. Podrás pasear, disfrutar del aire fresco y relajarse bajo los árboles. Prepararemos un almuerzo tipo pícnic a la sombra y pasaremos un rato tranquilo en este lugar tan especial.</p>'
 priceHeading: Precios de la excursión al oasis de Safsaf
 priceRows:
 - - 1 – 3 personas
@@ -40,15 +40,15 @@ itinerary:
 - title: Merzouga - Tissardmine - Nómadas - Oasis del desierto (Safsaf)
   html: '<p>Te recogeremos en tu hotel o campamento en Merzouga y comenzaremos la aventura con un recorrido en 4x4 por el norte de las grandes dunas doradas de Erg Chebbi. El camino está lleno de vistas desérticas: arena, mesetas rocosas y cauces secos.</p>
 
-    <p>Nuestra primera parada será en el oasis de Tissardmine, un pequeño palmeral famoso por sus fósiles. Podrá pasear y ver las piedras con antiguos fósiles marinos que hacen que este lugar sea tan especial. Es una parada tranquila rodeada de palmeras en el desierto.</p>
+    <p>Nuestra primera parada será en el oasis de Tissardmine, un pequeño palmeral famoso por sus fósiles. Podrás pasear y ver las piedras con antiguos fósiles marinos que hacen que este lugar sea tan especial. Es una parada tranquila rodeada de palmeras en el desierto.</p>
 
-    <p>Por el camino, haremos una parada para conocer a las familias nómadas locales que viven en tiendas tradicionales en el desierto. Verá cómo viven lejos de las ciudades, cuidan de sus animales y preparan té. Es una buena oportunidad para aprender sobre su cultura y su forma de vida. A continuación, continuaremos conduciendo por pistas todoterreno en el desierto hasta llegar al oasis de Safsaf.</p>
+    <p>Por el camino, haremos una parada para conocer a las familias nómadas locales que viven en tiendas tradicionales en el desierto. Verás cómo viven lejos de las ciudades, cuidan de sus animales y preparan té. Es una buena oportunidad para aprender sobre tu cultura y tu forma de vida. A continuación, continuaremos conduciendo por pistas todoterreno en el desierto hasta llegar al oasis de Safsaf.</p>
 
-    <p>Se trata de un oasis escondido y muy tranquilo en medio de la nada. El oasis tiene palmeras altas y, si hay suficiente agua, pequeños lagos naturales. Parece un paraíso secreto lejos de las ciudades y la gente. En el oasis, tendrá tiempo para pasear bajo las palmeras, disfrutar del silencio y hacer fotos. Prepararemos un almuerzo tipo pícnic a la sombra de las palmeras. Podrá relajarse y comer en este hermoso lugar natural.</p>
+    <p>Se trata de un oasis escondido y muy tranquilo en medio de la nada. El oasis tiene palmeras altas y, si hay suficiente agua, pequeños lagos naturales. Parece un paraíso secreto lejos de las ciudades y la gente. En el oasis, tendrás tiempo para pasear bajo las palmeras, disfrutar del silencio y hacer fotos. Prepararemos un almuerzo tipo pícnic a la sombra de las palmeras. Podrás relajarse y comer en este hermoso lugar natural.</p>
 
-    <p>NOTA: Si los lagos tienen suficiente agua, también se puede nadar en agua dulce, lo que es una experiencia muy especial en el desierto del Sáhara.</p>
+    <p>NOTA: Si los lagos tienen suficiente agua, también se puedes nadar en agua dulce, lo que es una experiencia muy especial en el desierto del Sáhara.</p>
 
-    <p>Después del almuerzo y un poco de descanso, tendrá más tiempo para explorar el oasis, sentarse bajo los árboles o simplemente disfrutar del ambiente tranquilo. A última hora de la tarde, regresaremos en 4x4 a Merzouga, llegando antes del atardecer a las dunas.</p>'
+    <p>Después del almuerzo y un poco de descanso, tendrás más tiempo para explorar el oasis, sentarse bajo los árboles o simplemente disfrutar del ambiente tranquilo. A última hora de la tarde, regresaremos en 4x4 a Merzouga, llegando antes del atardecer a las dunas.</p>'
 included:
 - Recogida y traslado a su hotel o campamento en el desierto de Merzouga.
 - Vehículo 4x4 privado con conductor.
@@ -63,11 +63,11 @@ excluded:
 - Bebidas adicionales (refrescos, zumos, alcohol).
 faqs:
 - q: ¿A qué hora empieza el excursion al Oasis?
-  aHtml: <p><span>El recorrido generalmente comienza alrededor de las 9:00 a. m., pero podemos cambiar la hora de inicio para adaptarla a su horario.</span></p>
+  aHtml: <p><span>El recorrido generalmente comienza alrededor de las 9:00 a. m., pero podemos cambiar la hora de inicio para adaptarla a tu horario.</span></p>
 - q: ¿Que incluye?
   aHtml: <p><span>El paquete incluye un automóvil 4x4 privado, un conductor/guía experimentado, un almuerzo tipo picnic y visitas al oasis de Tissardmine, familias nómadas y el oasis de Safsaf.</span></p>
 - q: ¿Podemos nadar en el oasis del desierto?
-  aHtml: <p><span>Sí, es posible nadar si los pequeños lagos tienen suficiente agua durante su visita.</span></p>
+  aHtml: <p><span>Sí, es posible nadar si los pequeños lagos tienen suficiente agua durante tu visita.</span></p>
 - q: ¿A qué distancia está el oasis de Safsaf del desierto de Merzouga?
   aHtml: <p><span>El oasis se encuentra a unos 60-70 km al norte de Merzouga, y se llega principalmente por caminos todo terreno a través del desierto.</span></p>
 - q: ¿Hay baños en el Oasis?

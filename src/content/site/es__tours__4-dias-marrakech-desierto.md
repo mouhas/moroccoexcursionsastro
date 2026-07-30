@@ -21,7 +21,7 @@ overviewHtml: '<p>El tour de 4 días por el desierto desde Marrakech a Merzouga 
 
   <p>El último día, regresaremos a Marrakech desde Ouarzazate después de visitar los estudios de cine. Tomaremos la misma carretera de vuelta a través de las montañas del Atlas.</p>
 
-  <p>Ofrecemos tres opciones de hotel y campamento en el desierto: estándar, superior o de lujo. Puede elegir la que mejor se adapte a sus necesidades.</p>'
+  <p>Ofrecemos tres opciones de hotel y campamento en el desierto: estándar, superior o de lujo. Puedes elegir la que mejor se adapte a sus necesidades.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajeros
@@ -66,7 +66,7 @@ highlights:
 - Disfruta de las impresionantes vistas del sur de Marruecos.
 itinerary:
 - title: 'Día 1: Marrakech - Montañas del Atlas - Ouarzazate - Skoura - Dades'
-  html: '<p>Le recogeremos en su hotel de Marrakech alrededor de las 8:00 de la mañana. A continuación, nos dirigiremos hacia el sur atravesando las montañas del Alto Atlas, pasando por el puerto de Tizi n''Tichka, la carretera más alta de Marruecos. Durante el trayecto, haremos paradas para disfrutar de las hermosas vistas de las montañas, visitaremos pueblos bereberes tradicionales y tomaremos un café o un té en una cafetería local con vistas.</p>
+  html: '<p>Te recogeremos en tu hotel de Marrakech alrededor de las 8:00 de la mañana. A continuación, nos dirigiremos hacia el sur atravesando las montañas del Alto Atlas, pasando por el puerto de Tizi n''Tichka, la carretera más alta de Marruecos. Durante el trayecto, haremos paradas para disfrutar de las hermosas vistas de las montañas, visitaremos pueblos bereberes tradicionales y tomaremos un café o un té en una cafetería local con vistas.</p>
 
     <p>Después del descanso, continuaremos hacia Ouarzazate, conocida como el «Hollywood de África». Allí visitaremos un famoso estudio de cine y exploraremos la histórica Kasbah de Taourirt, una casa fortificada tradicional. Desde Ouarzazate, atravesaremos Skoura y el Valle de las Rosas (Mgouna), pasando por más pueblos bereberes.</p>
 
@@ -80,15 +80,15 @@ itinerary:
 
     <p>Dependiendo de la hora a la que lleguemos, podrás relajarte o empezar un paseo en camello directamente por las dunas de arena. La excursión en camello suele comenzar entre las 17:00 y las 18:00 en verano y entre las 15:00 y las 16:00 en invierno. Después de aproximadamente una hora de recorrido, llegaremos al campamento del desierto.</p>
 
-    <p>En el campamento, le daremos la bienvenida con una taza de té de menta tradicional mientras disfruta de las vistas del Sáhara y la puesta de sol. Más tarde, se servirá la cena en la tienda restaurante del campamento. Después de la cena, disfrute de la música de tambores bereberes junto a la hoguera, interpretada por la población local.</p>
+    <p>En el campamento, te daremos la bienvenida con una taza de té de menta tradicional mientras disfruta de las vistas del Sáhara y la puesta de sol. Más tarde, se servirá la cena en la tienda restaurante del campamento. Después de la cena, disfrute de la música de tambores bereberes junto a la hoguera, interpretada por la población local.</p>
 
     <p>No olvide dar un paseo por las dunas y contemplar el cielo lleno de millones de estrellas. Tenga en cuenta que la hoguera solo suele estar disponible durante los meses más fríos y que las tormentas de arena son poco frecuentes.</p>
 
     <p><strong>ALOJAMIENTO:</strong><br/><em>Estándar</em>: Mouhou Standard Camp o similar.<br/><em>Superior</em>: Mouhou Luxury Camp o similar.</p>'
 - title: 'Día 3: Merzouga - Alnif - Agdz - Valle del Draa - Ouarzazate'
-  html: '<p>El tercer día, le despertaremos temprano por la mañana para subir a las dunas de arena y disfrutar de un hermoso amanecer. Después, desayunará y se dará una ducha. A continuación, volverá en camello y se reunirá con su conductor/guía para comenzar el viaje a Ouarzazate.</p>
+  html: '<p>El tercer día, te despertaremos temprano por la mañana para subir a las dunas de arena y disfrutar de un hermoso amanecer. Después, desayunarás y se dará una ducha. A continuación, volverás en camello y se reunirá con tu conductor/guía para comenzar el viaje a Ouarzazate.</p>
 
-    <p>Por el camino, haremos una parada en Rissani para visitar su mercado tradicional, el más grande del sur de Marruecos. Después, atravesaremos el amplio desierto rocoso, pasaremos por varios pueblos bereberes y veremos el increíble valle del Draa, conocido por sus miles de palmeras.</p>
+    <p>Por el camino, haremos una parada en Rissani para visitar tu mercado tradicional, el más grande del sur de Marruecos. Después, atravesaremos el amplio desierto rocoso, pasaremos por varios pueblos bereberes y veremos el increíble valle del Draa, conocido por sus miles de palmeras.</p>
 
     <p>Esperamos llegar a Ouarzazate alrededor de las 17:00, dependiendo del número de paradas y de la hora a la que salgamos de Merzouga.</p>
 
@@ -118,13 +118,13 @@ faqs:
 
     <p>In winter (November to March), the days are warm, about 26 °C, but the nights get cold, dropping to around 0 °C. For the rest of the year, the temperature stays almost the same during the day and night, between 24 °C and 30 °C.</p>'
 - q: ¿Cómo reservar el tour de 4 días al desierto desde Marrakech?
-  aHtml: '<p>Para confirmar su reserva, le solicitamos un depósito por adelantado. Puede pagar el resto posteriormente mediante PayPal, tarjeta de crédito, transferencia bancaria o efectivo. Aceptamos PayPal, transferencia bancaria y Western Union para el depósito.</p>
+  aHtml: '<p>Para confirmar tu reserva, te solicitamos un depósito por adelantado. Puedes pagar el resto posteriormente mediante PayPal, tarjeta de crédito, transferencia bancaria o efectivo. Aceptamos PayPal, transferencia bancaria y Western Union para el depósito.</p>
 
     <p>Pagos y cancelaciones: Para obtener más información sobre pagos y cancelaciones, visite nuestra página de Términos de Pago y Cancelación.</p>
 
-    <p>Condiciones: Normalmente no reservamos ningún alojamiento antes de su confirmación. Si los alojamientos anunciados están completos, reservaremos otro con la misma categoría y servicios.</p>'
+    <p>Condiciones: Normalmente no reservamos ningún alojamiento antes de tu confirmación. Si los alojamientos anunciados están completos, reservaremos otro con la misma categoría y servicios.</p>'
 - q: ¿A qué hora empieza el tour y donde nos encontramos?
-  aHtml: <p>El tour de 4 días por el desierto desde Marrakech comienza sobre las 8:00 h. Le recogeremos en su hotel de Marrakech. Si prefiere que le recojamos en otro lugar, como el aeropuerto o la estación de tren o autobús, por favor, infórmenos.</p>
+  aHtml: <p>El tour de 4 días por el desierto desde Marrakech comienza sobre las 8:00 h. Te recogeremos en tu hotel de Marrakech. Si prefieres que te recojamos en otro lugar, como el aeropuerto o la estación de tren o autobús, por favor, infórmenos.</p>
 - q: ¿Hay otros tours similares al tour de 4 días por el desierto del Sahara desde Marrakech a Merzouga?
   aHtml: '<p>Aquí tienes dos tours alternativos similares al tour de 4 días por el desierto del Sahara desde Marrakech:</p>
 

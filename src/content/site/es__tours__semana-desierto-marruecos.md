@@ -15,9 +15,9 @@ overviewHtml: '<p>Pase siete días en el desierto de Merzouga y disfrute de la a
 
   <p>El tercer día estará lleno de diversión con un paseo en quad y una aventura en buggy por las dunas, seguido de un almuerzo en un tranquilo oasis del desierto. El cuarto día, explore Tissardmine, famosa por sus fósiles, y disfrute de un picnic en el verde oasis de Safsaf.</p>
 
-  <p>El quinto día, recorra Erg Znaigui y Taous antes de llegar al tranquilo desierto de Ouzina para pasar la noche. El sexto día le llevará a Ramlia, Sidi Ali y El Mharech, con otra noche en el desierto.</p>
+  <p>El quinto día, recorra Erg Znaigui y Taous antes de llegar al tranquilo desierto de Ouzina para pasar la noche. El sexto día te llevará a Ramlia, Sidi Ali y El Mharech, con otra noche en el desierto.</p>
 
-  <p>El último día del tour, regrese a Merzouga, disfrute de un breve paseo en camello o una caminata por el desierto y termine su viaje con recuerdos del impresionante desierto marroquí.</p>'
+  <p>El último día del tour, regrese a Merzouga, disfrute de un breve paseo en camello o una caminata por el desierto y termine tu viaje con recuerdos del impresionante desierto marroquí.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajeros
@@ -72,15 +72,15 @@ itinerary:
 - title: 'Día 2: Visita a familias nómadas, pueblos bereberes y Khamlia'
   html: '<p>El segundo día está dedicado a aprender sobre la vida en el desierto. Por la mañana, visitarás familias nómadas para ver cómo viven y trabajan en el desierto. Verás sus tiendas, sus actividades diarias y sus artesanías tradicionales. Más tarde, viajarás por pueblos bereberes y conocerás a la gente local.</p>
 
-    <p>Por la tarde, visitará Khamlia, un pequeño pueblo conocido por su música gnawa. Aquí podrá escuchar la música y disfrutar de la cultura local. Al final del día, regresará a su campamento en el desierto para disfrutar de otra mágica puesta de sol, la cena y una noche bajo un cielo estrellado.</p>'
+    <p>Por la tarde, visitarás Khamlia, un pequeño pueblo conocido por tu música gnawa. Aquí podrás escuchar la música y disfrutar de la cultura local. Al final del día, regresarás a tu campamento en el desierto para disfrutar de otra mágica puesta de sol, la cena y una noche bajo un cielo estrellado.</p>'
 - title: 'Día 3: Excursiones en quad y buggy - Almuerzo en un oasis'
   html: '<p>Hoy será un día lleno de diversión y aventura. Por la mañana, montarás en un quad durante dos horas por las dunas. Más tarde, harás un descanso antes de cambiar a un buggy, que es más rápido y muy emocionante. Durante el día, harás una parada en un oasis del desierto para almorzar.</p>
 
-    <p>El oasis está lleno de palmeras y agua dulce, un lugar tranquilo en medio del desierto. Después del almuerzo, regresará a su campamento en Erg Chebbi para descansar. Por la noche, pruebe el sandboard y disfrute de una cena bajo las estrellas.</p>'
+    <p>El oasis está lleno de palmeras y agua dulce, un lugar tranquilo en medio del desierto. Después del almuerzo, regresarás a tu campamento en Erg Chebbi para descansar. Por la noche, pruebe el sandboard y disfrute de una cena bajo las estrellas.</p>'
 - title: 'Día 4: Merzouga - Fósiles en Tissardmine - Picnic en el oasis de Safsaf'
   html: '<p>El cuarto día visitarás Tissardmine, un lugar conocido por sus fósiles. Podrás ver piedras con fósiles antiguos y aprender sobre la historia de Marruecos. Después de la exploración, irás al oasis de Safsaf, una zona verde con palmeras y pequeños manantiales.</p>
 
-    <p>Aquí podrá disfrutar de un almuerzo tipo pícnic en un tranquilo entorno desértico. Después de visitar el oasis, podrá pasear y relajarse antes de regresar al campamento del desierto en Merzouga. Podrá dar un breve paseo por las dunas o descansar y contemplar la puesta de sol.</p>'
+    <p>Aquí podrás disfrutar de un almuerzo tipo pícnic en un tranquilo entorno desértico. Después de visitar el oasis, podrás pasear y relajarse antes de regresar al campamento del desierto en Merzouga. Podrás dar un breve paseo por las dunas o descansar y contemplar la puesta de sol.</p>'
 - title: 'Día 5: Desierto de Merzouga - Erg Znaigui - Taous - Desierto de Ouzina'
   html: '<p>El quinto día, viajarás a Erg Znaigui, una zona desértica con dunas de arena roja. Los colores y las vistas son diferentes a los de Erg Chebbi. Después, visitarás Taous, un pequeño pueblo con una vida tradicional desértica. Más tarde, continuaremos hacia el sur por la pista del Rally Dakar, hacia el desierto de Ouzina, un lugar tranquilo y hermoso con grandes dunas de arena.</p>
 
@@ -90,9 +90,9 @@ itinerary:
 
     <p>Más tarde, llegarás al oasis El Mharech, donde podrás montar en camello o pasear por la arena. Pasarás la noche en un hotel, un campamento en el desierto o una pensión local. La tranquila y apacible noche del desierto es perfecta para relajarse.</p>'
 - title: 'Día 7: Regreso a Merzouga'
-  html: '<p>El último día, regresará de El Mharech a Merzouga. Por el camino, podrá parar en pequeños asentamientos nómadas o miradores para hacer fotos y disfrutar de las vistas.</p>
+  html: '<p>El último día, regresarás de El Mharech a Merzouga. Por el camino, podrás parar en pequeños asentamientos nómadas o miradores para hacer fotos y disfrutar de las vistas.</p>
 
-    <p>La excursión puede terminar por la mañana o al mediodía, dependiendo de su próximo destino.</p>'
+    <p>La excursión puedes terminar por la mañana o al mediodía, dependiendo de tu próximo destino.</p>'
 included:
 - Transporte.
 - Alojamiento.
@@ -113,13 +113,13 @@ faqs:
 - q: ¿Qué actividades se incluyen?
   aHtml: <p>El tour de una semana por el desierto marroquí incluye paseos en camello, excursiones en 4x4, excursiones en quad, recorridos en buggy, sandboard, visitas a familias nómadas, pueblos bereberes, yacimientos fósiles y oasis en el desierto.</p>
 - q: ¿Cómo llegamos al desierto?
-  aHtml: '<p>Se puede llegar a Merzouga en coche o autobús desde Erfoud, Rissani o ciudades cercanas. Se pueden organizar traslados privados desde Marrakech, Fez u Ouarzazate.</p>
+  aHtml: '<p>Se puedes llegar a Merzouga en coche o autobús desde Erfoud, Rissani o ciudades cercanas. Se pueden organizar traslados privados desde Marrakech, Fez u Ouarzazate.</p>
 
     <p>Es posible volar desde Marrakech o Casablanca a Errachidia, y desde allí podemos organizar un traslado a Merzouga que dura aproximadamente 1 hora y 30 minutos.</p>'
 - q: ¿Es seguro montar en camello, quad o buggy?
   aHtml: <p>Sí, todas las actividades están supervisadas por guías experimentados y se dan instrucciones de seguridad antes de comenzar. Siga siempre las instrucciones del guía.</p>
 - q: ¿Este tour se puede personalizar?
-  aHtml: <p>Sí, el tour se puede personalizar. Podemos cambiar el itinerario, añadir o excluir algunas actividades según sus necesidades y preferencias.</p>
+  aHtml: <p>Sí, el tour se puedes personalizar. Podemos cambiar el itinerario, añadir o excluir algunas actividades según sus necesidades y preferencias.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/excursion-camello-merzouga/
 tourType: Tour en Grupo
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>Una excursión en camello por Merzouga es una de las mejores cosas que se pueden hacer en Marruecos. Montar en camello por las dunas de Erg Chebbi es una experiencia tranquila y hermosa. Estas dunas son las más altas de Marruecos y algunas de las más altas del norte de África. Su arena dorada hace que el desierto parezca un mar de olas.</p>
+overviewHtml: '<p>Una excursión en camello por Merzouga es una de las mejores cosas que se pueden hacer en Marruecos. Montar en camello por las dunas de Erg Chebbi es una experiencia tranquila y hermosa. Estas dunas son las más altas de Marruecos y algunas de las más altas del norte de África. Tu arena dorada hace que el desierto parezca un mar de olas.</p>
 
   <p>Durante la excursión, puedes parar para hacer fotos de las dunas, los camellos y las amplias vistas del desierto. La puesta de sol es el momento más especial, cuando la arena cambia de color, pasando del amarillo al naranja y al rojo. Es el momento perfecto para hacer fotos y crear recuerdos.</p>
 
@@ -39,11 +39,11 @@ highlights:
 - Noche estrellada en el desierto.
 itinerary:
 - title: '1º día por la tarde: Merzouga - Paseo en camello por las dunas - Campamento - Puesta de sol'
-  html: '<p>La excursión en camello en Merzouga comienza alrededor de las 16:00 durante el invierno y alrededor de las 18:00 durante el verano y los meses cálidos. Nos reuniremos en nuestra oficina en Merzouga, donde podrá aparcar su coche, usar el baño y prepararse para la excursión. Montará en camello por las dunas de Erg Chebbi, las más altas y famosas de Marruecos. Estas dunas doradas son algunas de las más altas del norte de África y su color cambia maravillosamente a lo largo del día.</p>
+  html: '<p>La excursión en camello en Merzouga comienza alrededor de las 16:00 durante el invierno y alrededor de las 18:00 durante el verano y los meses cálidos. Nos reuniremos en nuestra oficina en Merzouga, donde podrás aparcar tu coche, usar el baño y prepararse para la excursión. Montarás en camello por las dunas de Erg Chebbi, las más altas y famosas de Marruecos. Estas dunas doradas son algunas de las más altas del norte de África y tu color cambia maravillosamente a lo largo del día.</p>
 
     <p>A medida que se adentran en el desierto, los guías harán paradas para que puedan tomar fotos y disfrutar de las impresionantes vistas. Uno de los mejores momentos es la parada en lo alto de una duna para contemplar la puesta de sol. La arena se tiñe de tonos naranjas y rojos a medida que se pone el sol, una vista verdaderamente mágica.</p>
 
-    <p>Al llegar al campamento del desierto, le recibirán con un vaso de té a la menta. Después de instalarse en su tienda, podrá pasear por las dunas, relajarse o probar el sandboard. Por la noche, se servirá una deliciosa cena marroquí en la tienda restaurante, con platos como tajín y cuscús.</p>
+    <p>Al llegar al campamento del desierto, te recibirán con un vaso de té a la menta. Después de instalarse en tu tienda, podrás pasear por las dunas, relajarse o probar el sandboard. Por la noche, se servirá una deliciosa cena marroquí en la tienda restaurante, con platos como tajín y cuscús.</p>
 
     <p>Después de la cena, el campamento cobra vida con música bereber. Los guías locales tocarán los tambores alrededor de la hoguera y podrás unirte a ellos tocando los tambores o bailando. Por la noche, el cielo se llena de estrellas brillantes, perfecto para observar las estrellas y disfrutar de la tranquilidad del Sáhara.</p>'
 - title: '2º día por la mañana: Regreso a Merzouga.'
@@ -76,7 +76,7 @@ faqs:
 - q: ¿Cuál es la diferencia entre los campamentos estándar y de lujo en Merzouga?
   aHtml: <p>Los campamentos de lujo ofrecen tiendas privadas con cómodas camas, baños y duchas. Los campamentos estándar son más sencillos, con baños compartidos e instalaciones básicas.</p>
 - q: ¿Ofrecéis otras excursiones por el desierto en Merzouga?
-  aHtml: <p>Sí, además de paseos en camello, también organizamos <a href="/es/tours/merzouga-excursion-quad" rel="noopener" target="_blank"><strong>excursiones en quad</strong></a>, aventuras en buggy y <a href="/es/tours/excursion-4x4-merzouga" rel="noopener" target="_blank"><strong>excursiones todoterreno 4x4 por el desierto</strong></a> para explorarlo. Estas excursiones pueden incluir visitas a familias nómadas, pueblos bereberes y lugares recónditos del desierto. Si prefiere no montar en camello, puede ir en 4x4 o quad y pasar la noche en el campamento.</p>
+  aHtml: <p>Sí, además de paseos en camello, también organizamos <a href="/es/tours/merzouga-excursion-quad" rel="noopener" target="_blank"><strong>excursiones en quad</strong></a>, aventuras en buggy y <a href="/es/tours/excursion-4x4-merzouga" rel="noopener" target="_blank"><strong>excursiones todoterreno 4x4 por el desierto</strong></a> para explorarlo. Estas excursiones pueden incluir visitas a familias nómadas, pueblos bereberes y lugares recónditos del desierto. Si prefieres no montar en camello, puedes ir en 4x4 o quad y pasar la noche en el campamento.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

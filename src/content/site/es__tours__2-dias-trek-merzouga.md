@@ -11,9 +11,9 @@ source: https://morocco-excursion.com/es/tours/2-dias-trek-merzouga/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>Descubra la magia del Sáhara en una excursión de senderismo y caminata de dos días por las dunas doradas del Erg Chebbi, en Merzouga. Esta aventura única le llevará a adentrarse en el desierto a pie, ofreciéndole una forma más pausada e íntima de conectar con el paisaje. Camine por las onduladas dunas, suba a las crestas arenosas para disfrutar de unas vistas impresionantes y disfrute de tranquilos descansos con comidas tradicionales bereberes en lugares sombreados.</p>
+overviewHtml: '<p>Descubra la magia del Sáhara en una excursión de senderismo y caminata de dos días por las dunas doradas del Erg Chebbi, en Merzouga. Esta aventura única te llevará a adentrarse en el desierto a pie, ofreciéndole una forma más pausada e íntima de conectar con el paisaje. Camine por las onduladas dunas, suba a las crestas arenosas para disfrutar de unas vistas impresionantes y disfrute de tranquilos descansos con comidas tradicionales bereberes en lugares sombreados.</p>
 
-  <p>Al atardecer, llegue a su campamento en el desierto, donde podrá relajarse, saborear la cocina marroquí y disfrutar de la música bereber junto al fuego bajo un cielo lleno de estrellas. Pase la noche en una cómoda tienda de campaña antes de levantarse temprano para contemplar un amanecer inolvidable. El segundo día, siga una nueva ruta de regreso a Merzouga, pasando por familias nómadas y llanuras desérticas rocosas. Este tour combina la aventura, la cultura y la serenidad del Sáhara, ofreciéndole una auténtica muestra de la vida en el desierto.</p>'
+  <p>Al atardecer, llegue a tu campamento en el desierto, donde podrás relajarse, saborear la cocina marroquí y disfrutar de la música bereber junto al fuego bajo un cielo lleno de estrellas. Pase la noche en una cómoda tienda de campaña antes de levantarse temprano para contemplar un amanecer inolvidable. El segundo día, siga una nueva ruta de regreso a Merzouga, pasando por familias nómadas y llanuras desérticas rocosas. Este tour combina la aventura, la cultura y la serenidad del Sáhara, ofreciéndole una auténtica muestra de la vida en el desierto.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajeros
@@ -61,15 +61,15 @@ itinerary:
 
     <p>A última hora de la mañana, subirás a una cresta para disfrutar de unas amplias vistas sobre Erg Chebbi. Desde la cima, las dunas parecen olas en un mar dorado. Alrededor del mediodía, harás una parada para descansar a la sombra de un árbol o una tienda de campaña. Se servirá un almuerzo bereber sencillo pero sabroso: ensalada, pan, fruta fresca y té a la menta. Después de comer, tendrás tiempo para descansar y disfrutar del silencio que te rodea.</p>
 
-    <p>Por la tarde, continuaremos nuestra caminata por dunas más grandes, algunas de las cuales alcanzan los 150 metros de altura. Subirlas requiere esfuerzo, pero las vistas merecen la pena. Más tarde, llegaremos a nuestro campamento en el desierto, situado entre las dunas. Aquí podremos relajarnos o, si lo deseamos, dar un breve paseo en camello para ver la puesta de sol. El sol poniéndose detrás de las dunas es una vista mágica, con la arena tiñéndose de rojo, naranja y rosa.</p>
+    <p>Por la tarde, continuaremos nuestra caminata por dunas más grandes, algunas de las cuales alcanzan los 150 metros de altura. Subirlas requieres esfuerzo, pero las vistas merecen la pena. Más tarde, llegaremos a nuestro campamento en el desierto, situado entre las dunas. Aquí podremos relajarnos o, si lo deseamos, dar un breve paseo en camello para ver la puesta de sol. El sol poniéndose detrás de las dunas es una vista mágica, con la arena tiñéndose de rojo, naranja y rosa.</p>
 
-    <p>Al caer la noche, el campamento cobra vida. Se sirve una cena marroquí, a menudo cuscús o tajín, seguida de música bereber alrededor de una hoguera. Los tambores y los cantos resuenan en la noche mientras usted se sienta bajo un cielo lleno de estrellas. Sin luces de la ciudad cerca, la Vía Láctea brilla intensamente sobre el desierto. Cuando esté listo, regresará a su tienda privada para disfrutar de una noche de sueño tranquilo.</p>'
+    <p>Al caer la noche, el campamento cobra vida. Se sirve una cena marroquí, a menudo cuscús o tajín, seguida de música bereber alrededor de una hoguera. Los tambores y los cantos resuenan en la noche mientras tú se sienta bajo un cielo lleno de estrellas. Sin luces de la ciudad cerca, la Vía Láctea brilla intensamente sobre el desierto. Cuando esté listo, regresarás a tu tienda privada para disfrutar de una noche de sueño tranquilo.</p>'
 - title: 'Día 2: Amanecer y regreso a Merzouga'
   html: '<p>El segundo día comienza temprano. Subes a una duna cercana para ver el amanecer, uno de los momentos más hermosos del recorrido. La primera luz se extiende por la arena, creando sombras y colores que cambian cada segundo. Es una vista tranquila e inolvidable.</p>
 
     <p>De vuelta al campamento, te espera el desayuno: pan recién hecho, miel, mermelada, amlou (pasta de almendras), té y café. Después de comer, comienzas a caminar de vuelta hacia Merzouga. El guía te lleva por un camino diferente, lo que te permite ver nuevas vistas del desierto. La caminata vuelve a atravesar las dunas. Por el camino, es posible que te detengas en las dunas para hacer fotos.</p>
 
-    <p>Alrededor del mediodía, descansará de nuevo para tomar un almuerzo ligero a la sombra. Después, continuará la última parte de la caminata. Las dunas se van haciendo cada vez más pequeñas a medida que se acerca a Merzouga. A última hora de la tarde, llegará de vuelta al pueblo, cansado pero lleno de maravillosos recuerdos.</p>'
+    <p>Alrededor del mediodía, descansará de nuevo para tomar un almuerzo ligero a la sombra. Después, continuará la última parte de la caminata. Las dunas se van haciendo cada vez más pequeñas a medida que se acerca a Merzouga. A última hora de la tarde, llegarás de vuelta al pueblo, cansado pero lleno de maravillosos recuerdos.</p>'
 included:
 - Guía local.
 - Senderismo por las dunas.
@@ -85,13 +85,13 @@ faqs:
 - q: ¿Qué grado de dificultad tiene la excursión de dos días por el desierto?
   aHtml: '<p>El trek se considera moderada y es apta para la mayoría de los viajeros con un nivel básico de forma física. Caminar sobre la arena blanda del desierto es más exigente físicamente que caminar sobre terreno firme, por lo que es posible que se sienta más cansado de lo habitual.</p>
 
-    <p>Prepárese para caminar entre 5 y 6 horas cada día, pero el ritmo es flexible e incluye frecuentes paradas para descansar, beber agua, hacer fotos y disfrutar del paisaje. No se requiere experiencia previa en senderismo, pero el espíritu aventurero y la resistencia física harán que la experiencia sea más agradable.</p>'
+    <p>Prepárese para caminar entre 5 y 6 horas cada día, pero el ritmo es flexible e incluye frecuentes paradas para descansar, beber agua, hacer fotos y disfrutar del paisaje. No se requieres experiencia previa en senderismo, pero el espíritu aventurero y la resistencia física harán que la experiencia sea más agradable.</p>'
 - q: ¿Qué debo llevar por este senderismo?
   aHtml: '<p>Los viajeros deben llevar ropa cómoda y transpirable para las excursiones diurnas y varias capas de ropa para las noches más frescas. Es imprescindible llevar gorra o bufanda, gafas de sol y protector solar para protegerse del sol. Se recomienda llevar calzado resistente o botas diseñadas para la arena.</p>
 
     <p>No olvide llevar una botella de agua reutilizable, ya que es muy importante mantenerse hidratado durante el senderismo por el desierto.</p>'
 - q: ¿Puedo realizar actividades adicionales en el desierto?
-  aHtml: '<p>Sí, el tour puede incluir actividades opcionales para mejorar tu experiencia. Puedes elegir un paseo en camello por las dunas, probar el sandboard en las laderas o visitar a una familia nómada para conocer su estilo de vida y tradiciones.</p>
+  aHtml: '<p>Sí, el tour puedes incluir actividades opcionales para mejorar tu experiencia. Puedes elegir un paseo en camello por las dunas, probar el sandboard en las laderas o visitar a una familia nómada para conocer tu estilo de vida y tradiciones.</p>
 
     <p>Estas actividades te proporcionarán conocimientos culturales y una aventura adicional durante tu excursión por el desierto.</p>'
 - q: ¿Cuándo es el mejor momento para hacer esta ruta de senderismo?

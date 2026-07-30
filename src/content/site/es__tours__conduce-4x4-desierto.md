@@ -38,9 +38,9 @@ highlights:
 - Descubrir los remotos oasis del desierto.
 itinerary:
 - title: Merzouga - Nómadas - Aldeas bereberes - Oasis del desierto - Merzouga
-  html: '<p>El viaje comienza lentamente, con sencillas pistas que rodean las altas dunas siguiendo el antiguo recorrido del Rally Dakar. Por el camino, puede hacer una parada en el oasis de Hassi Labied, donde las familias locales siguen cultivando la tierra, y en el cercano pueblo de Khamlia, conocido por su música gnawa y la amabilidad de sus gentes.</p>
+  html: '<p>El viaje comienza lentamente, con sencillas pistas que rodean las altas dunas siguiendo el antiguo recorrido del Rally Dakar. Por el camino, puedes hacer una parada en el oasis de Hassi Labied, donde las familias locales siguen cultivando la tierra, y en el cercano pueblo de Khamlia, conocido por tu música gnawa y la amabilidad de sus gentes.</p>
 
-    <p>El recorrido le llevará por caminos arenosos, zonas desérticas rocosas y hermosos miradores. También puede hacer una parada en las antiguas minas francesas de Mifis, un lugar donde la historia se une a la tranquilidad del desierto, y visitar a las familias nómadas bereberes que aún viven en tiendas tradicionales. A medida que avanza, llegará al oasis de Tissardmine, un pequeño pero encantador valle lleno de palmeras. Hacer un picnic aquí, a la sombra de los árboles, es como viajar en el tiempo.</p>
+    <p>El recorrido te llevará por caminos arenosos, zonas desérticas rocosas y hermosos miradores. También puedes hacer una parada en las antiguas minas francesas de Mifis, un lugar donde la historia se une a la tranquilidad del desierto, y visitar a las familias nómadas bereberes que aún viven en tiendas tradicionales. A medida que avanza, llegarás al oasis de Tissardmine, un pequeño pero encantador valle lleno de palmeras. Hacer un picnic aquí, a la sombra de los árboles, es como viajar en el tiempo.</p>
 
     <p>Después de almorzar y explorar la zona, el viaje continúa de vuelta a Merzouga, conduciendo una vez más fuera de la carretera a través de las dunas y el amplio desierto negro.</p>'
 included:
@@ -65,13 +65,13 @@ faqs:
 
     <p>Los modelos recomendados son el Toyota Land Cruiser, el Mitsubishi o SUV similares capaces de circular tanto por dunas de arena blanda como por pistas rocosas del desierto.</p>'
 - q: ¿Es seguro conducir por el desierto?
-  aHtml: '<p>Conducir por el desierto puede ser seguro si se toman las precauciones adecuadas. Con un guía local que le acompañe, contará con el apoyo de un experto en navegación y con asistencia inmediata en caso de cualquier dificultad.</p>
+  aHtml: '<p>Conducir por el desierto puedes ser seguro si se toman las precauciones adecuadas. Con un guía local que te acompañe, contará con el apoyo de un experto en navegación y con asistencia inmediata en caso de cualquier dificultad.</p>
 
     <p>Los guías están familiarizados con el terreno desértico, los peligros ocultos y los procedimientos de emergencia, lo que reduce en gran medida los riesgos asociados a la conducción por el desierto.</p>'
 - q: ¿Necesitaré un guía?
   aHtml: '<p>Sí, un guía no solo es recomendable, sino esencial para la seguridad, la navegación y una experiencia más enriquecedora. Los guías proporcionan conocimientos locales sobre pueblos bereberes, oasis ocultos y puntos de referencia del desierto que no aparecen en los mapas.</p>
 
-    <p>Los guías también garantizan que la conducción fuera de carretera sea segura, aconsejan sobre los ajustes de la presión de los neumáticos y ayudan en las secciones difíciles de dunas o rocas, lo que hace que su aventura sin conductor sea segura y envolvente.</p>'
+    <p>Los guías también garantizan que la conducción fuera de carretera sea segura, aconsejan sobre los ajustes de la presión de los neumáticos y ayudan en las secciones difíciles de dunas o rocas, lo que hace que tu aventura sin conductor sea segura y envolvente.</p>'
 reviews: []
 rating: 5.0
 reviewCount: 820

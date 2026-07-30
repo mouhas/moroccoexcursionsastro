@@ -15,7 +15,7 @@ overviewHtml: '<p>¿Buscas una excursión completa por el desierto en Merzouga q
 
   <p>Tu viaje comienza en el <a href="https://es.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>pueblo de Merzouga</strong></a>, donde podrás aparcar tu coche de forma segura antes de comenzar una excursión en camello por las dunas de Erg Chebbi. El paseo dura aproximadamente una hora, con paradas para hacer fotos y disfrutar de la increíble puesta de sol. En el campamento, te recibirán con té a la menta, podrás probar el sandboard y relajarte antes de disfrutar de una cena tradicional marroquí. La noche continúa con música bereber junto al fuego y observación de las estrellas antes de dormir en una cómoda tienda de campaña en el desierto.</p>
 
-  <p>El día siguiente comienza con un hermoso amanecer y el desayuno. A continuación, una excursión en 4×4 le llevará al pueblo de Khamlia para disfrutar de la música gnawa, seguida de una visita a las minas de M’ifis, conocidas por sus fósiles y sus impresionantes vistas del desierto. También visitará a una familia nómada, compartirá un té y aprenderá sobre su estilo de vida. Por la tarde, disfrute de un emocionante paseo en quad por las dunas más altas al atardecer antes de regresar al campamento para cenar y pasar otra noche estrellada.</p>
+  <p>El día siguiente comienza con un hermoso amanecer y el desayuno. A continuación, una excursión en 4×4 te llevará al pueblo de Khamlia para disfrutar de la música gnawa, seguida de una visita a las minas de M’ifis, conocidas por sus fósiles y sus impresionantes vistas del desierto. También visitarás a una familia nómada, compartirá un té y aprenderá sobre tu estilo de vida. Por la tarde, disfrute de un emocionante paseo en quad por las dunas más altas al atardecer antes de regresar al campamento para cenar y pasar otra noche estrellada.</p>
 
   <p>La última mañana, vuelva a contemplar el amanecer, disfrute del desayuno y regrese a Merzouga en 4×4.</p>'
 priceHeading: Precio del paseo en camello, 4×4, quad y campamento en el desierto en Merzouga.
@@ -45,29 +45,29 @@ highlights:
 - Experiencia todoterreno por el desierto en un 4x4.
 itinerary:
 - title: 'Día 1: Merzouga - Dunas de Erg Chebbi - Campamento'
-  html: '<p>El punto de encuentro será en nuestra oficina en Merzouga a última hora de la tarde. En el punto de encuentro, podrá dejar su coche en un aparcamiento seguro y preparar una pequeña mochila con lo necesario para pasar la noche en el desierto.</p>
+  html: '<p>El punto de encuentro será en nuestra oficina en Merzouga a última hora de la tarde. En el punto de encuentro, podrás dejar tu coche en un aparcamiento seguro y preparar una pequeña mochila con lo necesario para pasar la noche en el desierto.</p>
 
-    <p>Aproximadamente dos horas antes de la puesta de sol, comenzará su recorrido en camello por las dunas de Erg Chebbi. El trayecto dura aproximadamente 1 hora. Por el camino, podrá parar para hacer fotos y disfrutar de la tranquilidad del desierto. La puesta de sol aquí es una de las más bonitas de Marruecos, con los colores de las dunas cambiando a medida que se pone el sol.</p>
+    <p>Aproximadamente dos horas antes de la puesta de sol, comenzarás tu recorrido en camello por las dunas de Erg Chebbi. El trayecto dura aproximadamente 1 hora. Por el camino, podrás parar para hacer fotos y disfrutar de la tranquilidad del desierto. La puesta de sol aquí es una de las más bonitas de Marruecos, con los colores de las dunas cambiando a medida que se pone el sol.</p>
 
-    <p>Cuando llegue al campamento del desierto, le recibirán con un vaso de té a la menta y, si lo desea, podrá probar el sandboard. Tendrá tiempo para relajarse antes de la cena. Se servirá una sabrosa comida marroquí y, más tarde, podrá disfrutar de la música tradicional bereber y los tambores alrededor de la hoguera. La noche es perfecta para observar las estrellas antes de dormir en una acogedora tienda bereber.</p>
+    <p>Cuando llegue al campamento del desierto, te recibirán con un vaso de té a la menta y, si lo deseas, podrás probar el sandboard. Tendrás tiempo para relajarse antes de la cena. Se servirá una sabrosa comida marroquí y, más tarde, podrás disfrutar de la música tradicional bereber y los tambores alrededor de la hoguera. La noche es perfecta para observar las estrellas antes de dormir en una acogedora tienda bereber.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Campamento estándar</em>: Mouhou Standard Camp o similar.<br/><em>Campamento de lujo</em>: Mouhou Luxury Camp o similar.</p>'
 - title: 'Día 2: Campamento - Excursión en 4x4 - Familias nómadas - Pueblos bereberes - Excursión en Quad'
   html: '<p>Hoy te levantarás temprano para ver el amanecer sobre las dunas, un momento mágico y tranquilo en el Sáhara. Después del desayuno en el campamento, comenzaremos nuestro viaje en 4x4 para descubrir el desierto y sus tesoros ocultos.</p>
 
-    <p>Nuestra primera parada será Khamlia, un pequeño pueblo conocido por su pueblo Gnawa. Son descendientes de africanos que llegaron a Marruecos hace más de cien años. Los gnawa han mantenido viva su cultura a través de la música y la danza. En el pueblo, visitarás una asociación local donde interpretan su música tradicional gnawa, un ritmo espiritual y enérgico que refleja su historia y su patrimonio.</p>
+    <p>Nuestra primera parada será Khamlia, un pequeño pueblo conocido por tu pueblo Gnawa. Son descendientes de africanos que llegaron a Marruecos hace más de cien años. Los gnawa han mantenido viva tu cultura a través de la música y la danza. En el pueblo, visitarás una asociación local donde interpretan tu música tradicional gnawa, un ritmo espiritual y enérgico que refleja tu historia y tu patrimonio.</p>
 
     <p><strong>Minas y fósiles</strong><br/>A continuación, continuaremos hacia las minas de M''ifis. Además de ser un destino turístico, el desierto de Merzouga es famoso por sus fósiles y minerales. Las minas se encuentran en una alta meseta que ofrece una increíble vista panorámica de las dunas de Erg Chebbi. Estas minas a cielo abierto siguen activas, y los trabajadores bereberes se enfrentan al reto diario de trabajar en pozos de más de 35 metros de profundidad. Por el camino, también es posible encontrar piedras fósiles, por las que esta región es muy conocida.</p>
 
-    <p><strong>Familias nómadas bereberes</strong><br/>Durante la excursión, también visitaremos a una familia nómada bereber que aún vive en tiendas tradicionales en medio del Sáhara. Serás recibido calurosamente con un vaso de té a la menta mientras aprendes sobre su estilo de vida sencillo, sus costumbres y su día a día en el desierto.</p>
+    <p><strong>Familias nómadas bereberes</strong><br/>Durante la excursión, también visitaremos a una familia nómada bereber que aún vive en tiendas tradicionales en medio del Sáhara. Serás recibido calurosamente con un vaso de té a la menta mientras aprendes sobre tu estilo de vida sencillo, sus costumbres y tu día a día en el desierto.</p>
 
-    <p><strong>Aventura en quad al atardecer</strong><br/>Al final de la tarde, la aventura continúa con un emocionante paseo en quad (ATV). Pasará aproximadamente una hora recorriendo las dunas de arena más altas de Merzouga, el lugar perfecto para contemplar la puesta de sol y tomar fotos increíbles. Esta emocionante experiencia es divertida e inolvidable.</p>
+    <p><strong>Aventura en quad al atardecer</strong><br/>Al final de la tarde, la aventura continúa con un emocionante paseo en quad (ATV). Pasarás aproximadamente una hora recorriendo las dunas de arena más altas de Merzouga, el lugar perfecto para contemplar la puesta de sol y tomar fotos increíbles. Esta emocionante experiencia es divertida e inolvidable.</p>
 
     <p>Después del paseo en quad, regresaremos al campamento, donde se servirá una deliciosa cena, seguida de otra noche mágica bajo el cielo del desierto.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Campamento estándar</em>: Mouhou Standard Camp o similar.<br/><em>Campamento de lujo</em>: Mouhou Luxury Camp o similar.</p>'
 - title: 'Día 3: Amanecer, desayuno y regreso a Merzouga'
-  html: <p>En su última mañana, vale la pena levantarse temprano de nuevo para ver el amanecer. Después del desayuno y una ducha en el campamento, se preparará para el regreso a Merzouga en un vehículo 4x4 que le trasladará directamente desde el campamento.</p>
+  html: <p>En tu última mañana, vale la pena levantarse temprano de nuevo para ver el amanecer. Después del desayuno y una ducha en el campamento, se preparará para el regreso a Merzouga en un vehículo 4x4 que te trasladará directamente desde el campamento.</p>
 included:
 - Aparcamiento gratuito.
 - Paseo en camello por las dunas.
@@ -83,15 +83,15 @@ excluded:
 - Bebidas
 faqs:
 - q: ¿Este paquete turístico de 3 días se puede personalizar?
-  aHtml: <p>Sí, el tour de 3 días por el desierto de Merzouga se puede personalizar completamente. Puedes cambiar el itinerario y elegir las actividades que más te gusten. Por ejemplo, puedes pasar más tiempo montando en camello o disfrutar de más aventuras todoterreno en un vehículo 4x4.</p>
+  aHtml: <p>Sí, el tour de 3 días por el desierto de Merzouga se puedes personalizar completamente. Puedes cambiar el itinerario y elegir las actividades que más te gusten. Por ejemplo, puedes pasar más tiempo montando en camello o disfrutar de más aventuras todoterreno en un vehículo 4x4.</p>
 - q: ¿Cuál es la diferencia entre el campamento estándar y el campamento de lujo?
-  aHtml: <p>La diferencia entre los campamentos estándar y de lujo radica en la comodidad y la privacidad. El campamento estándar cuenta con tiendas sencillas y baños compartidos. Es una buena opción si desea disfrutar de una experiencia asequible en el desierto. El campamento de lujo ofrece tiendas privadas con camas adecuadas y baños privados. Es más cómodo y perfecto para los viajeros que desean una estancia de primera clase en el desierto.</p>
+  aHtml: <p>La diferencia entre los campamentos estándar y de lujo radica en la comodidad y la privacidad. El campamento estándar cuenta con tiendas sencillas y baños compartidos. Es una buena opción si deseas disfrutar de una experiencia asequible en el desierto. El campamento de lujo ofrece tiendas privadas con camas adecuadas y baños privados. Es más cómodo y perfecto para los viajeros que desean una estancia de primera clase en el desierto.</p>
 - q: ¿Puedo omitir alguna actividad y añadir otra?
-  aHtml: <p>También puede omitir algunas actividades y sustituirlas por otras. Si lo prefiere, puede omitir el paseo en quad y realizar una excursión en camello más larga, u omitir parte del paseo en camello para disfrutar de más tiempo en una excursión por el desierto en 4x4. El tour se puede ajustar para adaptarse a sus intereses.</p>
+  aHtml: <p>También puedes omitir algunas actividades y sustituirlas por otras. Si lo prefieres, puedes omitir el paseo en quad y realizar una excursión en camello más larga, u omitir parte del paseo en camello para disfrutar de más tiempo en una excursión por el desierto en 4x4. El tour se puedes ajustar para adaptarse a sus intereses.</p>
 - q: ¿Puedo añadir otra excursión en buggy o motocross?
   aHtml: <p>También se pueden añadir actividades adicionales, como un paseo en buggy o motocross. Un paseo en buggy de una hora cuesta 75 euros por persona (para dos personas en el buggy), y un paseo en motocross de una hora cuesta 150 euros por persona. Estas actividades te permiten explorar más el desierto y añadir emoción a tu viaje.</p>
 - q: ¿Es posible reservar solo una de esas excursiones?
-  aHtml: <p>También es posible reservar solo una actividad sin realizar el tour completo. Puede elegir solo un paseo en camello, un <strong>tour en quad</strong>, una <strong>excursión en buggy</strong>, un tour en motocross o una <strong>excursión por el desierto en 4x4</strong>. De esta manera, podrá disfrutar del desierto exactamente como desee, ya sea para una aventura corta o una experiencia completa.</p>
+  aHtml: <p>También es posible reservar solo una actividad sin realizar el tour completo. Puedes elegir solo un paseo en camello, un <strong>tour en quad</strong>, una <strong>excursión en buggy</strong>, un tour en motocross o una <strong>excursión por el desierto en 4x4</strong>. De esta manera, podrás disfrutar del desierto exactamente como desee, ya sea para una aventura corta o una experiencia completa.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820

@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/es/tours/excursion-4x4-merzouga/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>La mejor manera de explorar esta zona es en un vehículo 4×4 con un conductor local. Podrá disfrutar de un breve y emocionante recorrido por las dunas de arena. Si desea realizar una excursión más larga, puede visitar a una familia nómada. Le invitarán a entrar en su tienda para tomar una taza de té dulce con menta. También podrá escuchar música especial en un pueblo llamado Khamlia.</p>
+overviewHtml: '<p>La mejor manera de explorar esta zona es en un vehículo 4×4 con un conductor local. Podrás disfrutar de un breve y emocionante recorrido por las dunas de arena. Si deseas realizar una excursión más larga, puedes visitar a una familia nómada. Te invitarán a entrar en su tienda para tomar una taza de té dulce con menta. También podrás escuchar música especial en un pueblo llamado Khamlia.</p>
 
-  <p>El desierto no es solo arena. Puede ver un lugar llamado el Desierto Negro, donde el suelo está cubierto de rocas oscuras. También puede encontrar jardines de palmeras verdes, llamados oasis, y ver dónde la gente desentierra antiguos fósiles marinos.</p>
+  <p>El desierto no es solo arena. Puedes ver un lugar llamado el Desierto Negro, donde el suelo está cubierto de rocas oscuras. También puedes encontrar jardines de palmeras verdes, llamados oasis, y ver dónde la gente desentierra antiguos fósiles marinos.</p>
 
-  <p>Una excursión de día completo le puede llevar a un oasis remoto para disfrutar de un almuerzo tipo picnic. La aventura termina con un emocionante viaje de vuelta por las hermosas dunas de arena. Este viaje es una maravillosa mezcla de conducción emocionante, cultura interesante y paisajes naturales increíbles.</p>'
+  <p>Una excursión de día completo te puedes llevar a un oasis remoto para disfrutar de un almuerzo tipo picnic. La aventura termina con un emocionante viaje de vuelta por las hermosas dunas de arena. Este viaje es una maravillosa mezcla de conducción emocionante, cultura interesante y paisajes naturales increíbles.</p>'
 priceHeading: Precios de la excursión todoterreno 4×4 por el desierto de Merzouga
 priceRows:
 - - Opciones
@@ -56,31 +56,31 @@ highlights:
 - Experiencia todoterreno en las pistas del Rally Dakar.
 itinerary:
 - title: 'Opciones de excursiones:'
-  html: '<p>El desierto que rodea Merzouga es un lugar hermoso y emocionante para explorar. La mejor manera de verlo es en un vehículo todoterreno llamado 4x4. Es muy importante contar con un conductor local que conozca las carreteras del desierto. Él velará por su seguridad y podrá llevarlo a conocer a familias locales de manera respetuosa.</p>
+  html: '<p>El desierto que rodea Merzouga es un lugar hermoso y emocionante para explorar. La mejor manera de verlo es en un vehículo todoterreno llamado 4x4. Es muy importante contar con un conductor local que conozca las carreteras del desierto. Él velará por tu seguridad y podrás llevarlo a conocer a familias locales de manera respetuosa.</p>
 
     <p>Recuerde llevar agua, protector solar y un pañuelo para protegerse la cabeza del sol y la arena. También es cortés pedir permiso antes de tomar fotografías de las personas.</p>
 
-    <p>Esta breve excursión es perfecta si desea sentir rápidamente la emoción del desierto. Saldrá de su hotel y se dirigirá directamente al gran mar de arena llamado Erg Chebbi. El coche subirá y bajará por las olas de arena dorada. Es como montar en una montaña rusa sobre la arena.</p>
+    <p>Esta breve excursión es perfecta si deseas sentir rápidamente la emoción del desierto. Saldrá de tu hotel y se dirigirá directamente al gran mar de arena llamado Erg Chebbi. El coche subirás y bajará por las olas de arena dorada. Es como montar en una montaña rusa sobre la arena.</p>
 
-    <p>El conductor le llevará directamente a las dunas de arena más altas. Estas dunas pueden alcanzar la altura de un gran edificio. Hará una parada para tomar fotos increíbles de la arena infinita que le rodea. Incluso puede intentar subir un poco por la duna para ver aún más lejos. A continuación, disfrutará de un divertido viaje de vuelta a su hotel.</p>
+    <p>El conductor te llevará directamente a las dunas de arena más altas. Estas dunas pueden alcanzar la altura de un gran edificio. Hará una parada para tomar fotos increíbles de la arena infinita que te rodea. Incluso puedes intentar subir un poco por la duna para ver aún más lejos. A continuación, disfrutarás de un divertido viaje de vuelta a tu hotel.</p>
 
-    <p>Esta excursión le permitirá contemplar la belleza del desierto y conocer cómo viven sus habitantes. Comenzará conduciendo por las dunas de arena y disfrutando del trayecto mientras el coche se desplaza por las colinas de arena.</p>
+    <p>Esta excursión te permitirá contemplar la belleza del desierto y conocer cómo viven sus habitantes. Comenzarás conduciendo por las dunas de arena y disfrutando del trayecto mientras el coche se desplaza por las colinas de arena.</p>
 
-    <p>Al cabo de un rato, el conductor le llevará a un lugar especial donde vive una familia nómada. Los nómadas son personas que se desplazan de un lugar a otro. Su casa es una tienda hecha con pelo de camello. Es probable que la familia le invite a entrar para tomar una taza de té dulce con menta. Es una tradición muy amable. Podrá ver cómo viven en el desierto. Es una vida sencilla y tranquila. Después de la visita, volverá por la arena y podrá disfrutar de más vistas preciosas durante el trayecto.</p>
+    <p>Al cabo de un rato, el conductor te llevará a un lugar especial donde vive una familia nómada. Los nómadas son personas que se desplazan de un lugar a otro. Tu casa es una tienda hecha con pelo de camello. Es probable que la familia te invite a entrar para tomar una taza de té dulce con menta. Es una tradición muy amable. Podrás ver cómo viven en el desierto. Es una vida sencilla y tranquila. Después de la visita, volverás por la arena y podrás disfrutar de más vistas preciosas durante el trayecto.</p>
 
     <p>Este viaje más largo te ayudará a comprender la cultura y la historia del desierto. Primero te llevaremos a un pueblo llamado Khamlia, también conocido como «el pueblo negro». Sus habitantes llegaron aquí hace mucho tiempo desde países situados muy al sur.</p>
 
-    <p>Son famosos por su música, llamada música gnawa. Entrará en una casa sencilla y los escuchará tocar los tambores y cantar. La música es potente y alegre. Después, irá a un lugar donde la gente encuentra fósiles. Todo este desierto estuvo en su día bajo el océano. La gente desentierra piedras antiguas que tienen formas de animales marinos en su interior. Cortan y pulen estas piedras para crear objetos hermosos. Por último, es posible que atraviese un pueblo bereber tradicional para ver las casas de adobe antes de regresar.</p>
+    <p>Son famosos por tu música, llamada música gnawa. Entrará en una casa sencilla y los escuchará tocar los tambores y cantar. La música es potente y alegre. Después, irá a un lugar donde la gente encuentra fósiles. Todo este desierto estuvo en tu día bajo el océano. La gente desentierra piedras antiguas que tienen formas de animales marinos en tu interior. Cortan y pulen estas piedras para crear objetos hermosos. Por último, es posible que atraviese un pueblo bereber tradicional para ver las casas de adobe antes de regresar.</p>
 
     <p>Esta es una excursión completa para ver todas las diferentes caras del desierto que rodea Merzouga. Verás que el desierto no es solo arena. Conducirás hasta un lugar llamado Oasis de Tissardmin, donde crece un verde jardín de palmeras en medio del desierto. Es como un milagro.</p>
 
-    <p>A continuación, verá el Desierto Negro, donde el suelo está cubierto de piedras negras en lugar de arena. Parece otro planeta. También verá las grandes gargantas de Kem Kem, que son valles rocosos y profundos. Su conductor le llevará a tomar té con una simpática familia nómada en su tienda. También hará una parada para ver cómo la gente encuentra y trabaja con fósiles del antiguo océano. El viaje incluye un recorrido por un pueblo tradicional y un divertido paseo por las dunas de arena antes de regresar.</p>
+    <p>A continuación, verás el Desierto Negro, donde el suelo está cubierto de piedras negras en lugar de arena. Parece otro planeta. También verás las grandes gargantas de Kem Kem, que son valles rocosos y profundos. Tu conductor te llevará a tomar té con una simpática familia nómada en tu tienda. También hará una parada para ver cómo la gente encuentra y trabaja con fósiles del antiguo océano. El viaje incluye un recorrido por un pueblo tradicional y un divertido paseo por las dunas de arena antes de regresar.</p>
 
-    <p>Este viaje es para exploradores que desean alejarse de todo y descubrir una parte recóndita del desierto. Pasará todo el día en un todoterreno 4x4, adentrándose en el desierto rocoso. Primero hará una breve parada para ver las minas de fósiles.</p>
+    <p>Este viaje es para exploradores que desean alejarse de todo y descubrir una parte recóndita del desierto. Pasarás todo el día en un todoterreno 4x4, adentrándose en el desierto rocoso. Primero hará una breve parada para ver las minas de fósiles.</p>
 
     <p>A continuación, conducirás durante mucho tiempo a través de un vasto paisaje desierto hasta encontrar un lugar verde secreto llamado el oasis de Safsaf. Se trata de un hermoso grupo de palmeras situadas en el fondo de un profundo cañón. Podrás pasear y disfrutar de la fresca sombra. Aquí, disfrutarás de un almuerzo tipo pícnic justo debajo de las palmeras.</p>
 
-    <p>Después del almuerzo, comenzará el largo viaje de regreso. En el camino, se detendrá para contemplar las impresionantes vistas. Finalmente, llegará a las famosas dunas de arena dorada de Erg Chebbi. Su conductor le llevará a dar un emocionante paseo por estas altas dunas. Podrá jugar en la arena, hacer fotos y disfrutar de la paz del desierto mientras termina el día. A continuación, regresará a su hotel, cansado pero lleno de maravillosos recuerdos.</p>'
+    <p>Después del almuerzo, comenzarás el largo viaje de regreso. En el camino, se detendrás para contemplar las impresionantes vistas. Finalmente, llegarás a las famosas dunas de arena dorada de Erg Chebbi. Tu conductor te llevará a dar un emocionante paseo por estas altas dunas. Podrás jugar en la arena, hacer fotos y disfrutar de la paz del desierto mientras termina el día. A continuación, regresarás a tu hotel, cansado pero lleno de maravillosos recuerdos.</p>'
 included:
 - Coche 4x4.
 - Experiencia todoterreno.
@@ -93,13 +93,13 @@ excluded:
 - Propinas
 faqs:
 - q: ¿Qué ropa es la más adecuada para la excursión en 4x4 por el desierto de Merzouga?
-  aHtml: <p>Lleve ropa ligera que no sea ajustada. La ropa que cubre los brazos y las piernas es buena para bloquear el sol. Debe llevar un sombrero y gafas de sol. Además, lleve una chaqueta para más tarde. El desierto puede enfriarse muy rápidamente después de la puesta del sol.</p>
+  aHtml: <p>Lleve ropa ligera que no sea ajustada. La ropa que cubre los brazos y las piernas es buena para bloquear el sol. Debes llevar un sombrero y gafas de sol. Además, lleve una chaqueta para más tarde. El desierto puedes enfriarse muy rápidamente después de la puesta del sol.</p>
 - q: ¿Es seguro el recorrido en 4x4 por las dunas?
-  aHtml: <p>Sí, es seguro. El viaje es divertido y emocionante, como una pequeña aventura. Los conductores conocen perfectamente el desierto. Son expertos. Si te sientes asustado, solo tienes que decírselo al conductor. Él puede conducir de una manera más tranquila para ti.</p>
+  aHtml: <p>Sí, es seguro. El viaje es divertido y emocionante, como una pequeña aventura. Los conductores conocen perfectamente el desierto. Son expertos. Si te sientes asustado, solo tienes que decírselo al conductor. Él puedes conducir de una manera más tranquila para ti.</p>
 - q: ¿Debo llevar comida y agua?
-  aHtml: <p>Para excursiones cortas, traiga una botella de agua. Para excursiones que duran muchas horas o todo el día, la empresa turística le proporcionará el almuerzo y agua. Es recomendable preguntarles sobre esto cuando reserven su excursión.</p>
+  aHtml: <p>Para excursiones cortas, traiga una botella de agua. Para excursiones que duran muchas horas o todo el día, la empresa turística te proporcionará el almuerzo y agua. Es recomendable preguntarles sobre esto cuando reserven tu excursión.</p>
 - q: ¿Las familias nómadas que visitamos son personas reales?
-  aHtml: <p>Sí, son familias reales que viven realmente en el desierto. Tu guía las conoce. Estás visitando su verdadero hogar. No se trata de una actuación. Es una mirada a su vida real. Por favor, pregúntales siempre si les parece bien antes de hacerles una foto.</p>
+  aHtml: <p>Sí, son familias reales que viven realmente en el desierto. Tu guía las conoce. Estás visitando tu verdadero hogar. No se trata de una actuación. Es una mirada a tu vida real. Por favor, pregúntales siempre si les parece bien antes de hacerles una foto.</p>
 - q: ¿Qué otras cosas divertidas puedo hacer?
   aHtml: <p>Hay otras actividades divertidas en el desierto. También puedes montar en camello, conducir un quad o alquilar un buggy en el desierto de Merzouga.</p>
 reviews: []

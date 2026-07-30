@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/es/tours/12-dias-desde-casablanca/
 tourType: Tour Privado
 cancellation: Up to 0 days
 languagesSpoken: Español, Multilíngue
-overviewHtml: '<p>El viaje comienza en Casablanca, la moderna ciudad marroquí situada junto al Atlántico, y continúa hacia Rabat, la capital del país, donde se puede admirar la impresionante Torre Hassan y la tranquila Kasbah de los Udayas. Desde allí, la carretera se dirige hacia el norte hasta Chefchaouen, la famosa ciudad azul escondida en las montañas del Rif, un lugar que parece casi mágico. De camino hacia el sur, se hace una parada en las ruinas romanas de Volubilis, se explora la ciudad imperial de Meknes y se llega a Fez, donde las estrechas calles revelan antiguas mezquitas, escuelas y coloridos mercados.</p>
+overviewHtml: '<p>El viaje comienza en Casablanca, la moderna ciudad marroquí situada junto al Atlántico, y continúa hacia Rabat, la capital del país, donde se puedes admirar la impresionante Torre Hassan y la tranquila Kasbah de los Udayas. Desde allí, la carretera se dirige hacia el norte hasta Chefchaouen, la famosa ciudad azul escondida en las montañas del Rif, un lugar que parece casi mágico. De camino hacia el sur, se hace una parada en las ruinas romanas de Volubilis, se explora la ciudad imperial de Meknes y se llega a Fez, donde las estrechas calles revelan antiguas mezquitas, escuelas y coloridos mercados.</p>
 
-  <p>Continuando el viaje, la ruta pasa por los bosques de cedros de Azrou y la ciudad de estilo alpino de Ifrane antes de abrirse al amplio valle del Ziz. Pronto, las dunas doradas de Merzouga se elevan en la distancia. Aquí, los paseos en camello, los campamentos en el desierto y las noches bajo el cielo estrellado dan vida al Sáhara. También conocerá a familias nómadas y escuchará la música tradicional gnawa, que lleva el ritmo del desierto.</p>
+  <p>Continuando el viaje, la ruta pasa por los bosques de cedros de Azrou y la ciudad de estilo alpino de Ifrane antes de abrirse al amplio valle del Ziz. Pronto, las dunas doradas de Merzouga se elevan en la distancia. Aquí, los paseos en camello, los campamentos en el desierto y las noches bajo el cielo estrellado dan vida al Sáhara. También conocerás a familias nómadas y escuchará la música tradicional gnawa, que lleva el ritmo del desierto.</p>
 
-  <p>Desde Merzouga, la aventura continúa a través de las espectaculares gargantas del Todra, la sinuosa carretera del valle del Dades y el valle de las Rosas, con su dulce fragancia. El camino conduce luego a Ouarzazate, famosa por sus antiguas kasbahs y estudios cinematográficos. Otro punto destacado es Ait Benhaddou, un pueblo declarado Patrimonio de la Humanidad por la UNESCO con casas de arcilla, antes de cruzar las montañas del Alto Atlas y llegar a Marrakech. En esta animada ciudad, los palacios, los jardines y la bulliciosa plaza Jemaa el-Fnaa capturan la energía y la cultura de Marruecos.</p>
+  <p>Desde Merzouga, la aventura continúa a través de las espectaculares gargantas del Todra, la sinuosa carretera del valle del Dades y el valle de las Rosas, con tu dulce fragancia. El camino conduce luego a Ouarzazate, famosa por sus antiguas kasbahs y estudios cinematográficos. Otro punto destacado es Ait Benhaddou, un pueblo declarado Patrimonio de la Humanidad por la UNESCO con casas de arcilla, antes de cruzar las montañas del Alto Atlas y llegar a Marrakech. En esta animada ciudad, los palacios, los jardines y la bulliciosa plaza Jemaa el-Fnaa capturan la energía y la cultura de Marruecos.</p>
 
   <p>El tour también te lleva a una <a href="https://morocco-excursion.com/es/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursión de un día a las cascadas de Ouzoud</strong></a>, las más altas de Marruecos, y termina junto al océano en Essaouira, una encantadora ciudad con casas blancas, contraventanas azules, murallas históricas y marisco fresco.</p>'
 priceHeading: null
@@ -71,29 +71,29 @@ itinerary:
 - title: 'Día 1: Llegada a Casablanca'
   html: '<p>Tu viaje comienza el día 1 con la llegada a Casablanca, el bullicioso centro comercial de Marruecos en el Atlántico. Dependiendo de la hora de llegada de tu vuelo, es posible que tengas tiempo para explorar. La mezquita Hassan II, que se erige orgullosa frente al mar, ofrece una impresionante primera impresión de la arquitectura y la espiritualidad marroquíes.</p>
 
-    <p>Más tarde, podrá pasear por la Corniche, donde la brisa marina le preparará para la aventura que le espera. Pasará la noche en Casablanca, descansando para los días de viaje que le esperan.</p>
+    <p>Más tarde, podrás pasear por la Corniche, donde la brisa marina te preparará para la aventura que te espera. Pasarás la noche en Casablanca, descansando para los días de viaje que te esperan.</p>
 
     <p><strong>Alojamiento</strong>:<br/><em>Estándar</em>: Hotel Melliber o similar.<br/><em>Superior</em>: Hotel Art Palace Suite & Spa o similar.</p>'
 - title: 'Día 2: Casablanca - Rabat - Chefchaouen'
-  html: '<p>El segundo día, saldrá de Casablanca y se dirigirá hacia Rabat, la capital política del país. Aquí, el Palacio Real, la Torre Hassan y el Mausoleo de Mohammed V muestran el pasado y el presente majestuosos de Marruecos. Un paseo por la Kasbah de los Udayas, con sus casas andaluzas blancas y azules y sus tranquilos jardines, le hará sentir como si estuviera en otro mundo. Después, la carretera le llevará hacia el norte, a Chefchaouen.</p>
+  html: '<p>El segundo día, saldrá de Casablanca y se dirigirá hacia Rabat, la capital política del país. Aquí, el Palacio Real, la Torre Hassan y el Mausoleo de Mohammed V muestran el pasado y el presente majestuosos de Marruecos. Un paseo por la Kasbah de los Udayas, con sus casas andaluzas blancas y azules y sus tranquilos jardines, te hará sentir como si estuviera en otro mundo. Después, la carretera te llevará hacia el norte, a Chefchaouen.</p>
 
-    <p>Esta pequeña ciudad de montaña, pintada en tonos azules, invita a pasear por sus tranquilas calles. Al atardecer, el mirador de la Mezquita Española ofrece unas vistas panorámicas de la medina y las montañas del Rif. Pasará la noche en Chefchaouen.</p>
+    <p>Esta pequeña ciudad de montaña, pintada en tonos azules, invita a pasear por sus tranquilas calles. Al atardecer, el mirador de la Mezquita Española ofrece unas vistas panorámicas de la medina y las montañas del Rif. Pasarás la noche en Chefchaouen.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Casa Hassan o similar.<br/><em>Superior</em>: Hotel Dar Echaouen o similar.</p>'
 - title: 'Día 3: Chefchaouen - Volubilis - Meknes - Fez'
-  html: '<p>El tercer día comienza con un recorrido en coche desde Chefchaouen, atravesando colinas onduladas, hasta las ruinas romanas de Volubilis. El yacimiento, declarado Patrimonio de la Humanidad por la UNESCO, está repleto de mosaicos y columnas que dan testimonio de la antigua grandeza de la ciudad. A poca distancia se encuentra Meknes, que en su día fue la capital bajo el sultán Moulay Ismail.</p>
+  html: '<p>El tercer día comienza con un recorrido en coche desde Chefchaouen, atravesando colinas onduladas, hasta las ruinas romanas de Volubilis. El yacimiento, declarado Patrimonio de la Humanidad por la UNESCO, está repleto de mosaicos y columnas que dan testimonio de la antigua grandeza de la ciudad. A poca distancia se encuentra Meknes, que en tu día fue la capital bajo el sultán Moulay Ismail.</p>
 
-    <p>Aquí, la gran puerta de Bab Mansour y los graneros reales ponen de relieve la ambición del sultán. Al caer la tarde, la carretera le llevará a Fez, el corazón espiritual y cultural de Marruecos, donde pasará la noche.</p>
+    <p>Aquí, la gran puerta de Bab Mansour y los graneros reales ponen de relieve la ambición del sultán. Al caer la tarde, la carretera te llevará a Fez, el corazón espiritual y cultural de Marruecos, donde pasarás la noche.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Riad Palais Houyam o similar.</p>'
 - title: 'Día 4: Un día para visitar Fez'
-  html: '<p>El cuarto día está dedicado por completo a descubrir Fez. La medina medieval de Fez el Bali es un laberinto de callejuelas estrechas rebosantes de historia. Podrá visitar la madraza Bou Inania, admirar la universidad más antigua del mundo en Al-Qarawiyyin y ser testigo de las coloridas tradiciones del teñido del cuero en las curtidurías.</p>
+  html: '<p>El cuarto día está dedicado por completo a descubrir Fez. La medina medieval de Fez el Bali es un laberinto de callejuelas estrechas rebosantes de historia. Podrás visitar la madraza Bou Inania, admirar la universidad más antigua del mundo en Al-Qarawiyyin y ser testigo de las coloridas tradiciones del teñido del cuero en las curtidurías.</p>
 
     <p>Las puertas del Palacio Real y el antiguo barrio judío, el Mellah, ofrecen una perspectiva más amplia del diverso patrimonio de la ciudad. Al atardecer, Fez se revela como un museo viviente del pasado de Marruecos.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Riad Palais Houyam o similar.</p>'
 - title: 'Día 5: Fez - Azrou - Ifrane - Medilt - Erfoud - Merzouga'
-  html: '<p>El quinto día te lleva hacia el sur, ascendiendo por las montañas del Medio Atlas. La primera parada es Ifrane, a menudo llamada la «Pequeña Suiza» de Marruecos por su arquitectura de estilo europeo. Más adelante se encuentra Azrou, donde los bosques de cedros albergan macacos de Berbería.</p>
+  html: '<p>El quinto día te lleva hacia el sur, ascendiendo por las montañas del Medio Atlas. La primera parada es Ifrane, a menudo llamada la «Pequeña Suiza» de Marruecos por tu arquitectura de estilo europeo. Más adelante se encuentra Azrou, donde los bosques de cedros albergan macacos de Berbería.</p>
 
     <p>El almuerzo se disfruta en Midelt antes de que la carretera descienda hacia el valle del Ziz, bordeado por miles de palmeras. Pasando por Erfoud, conocida por sus fósiles y dátiles, el viaje continúa hasta que las dunas doradas de Merzouga se alzan en el horizonte. Aquí, un paseo en camello o un traslado en 4x4 te llevará al corazón del desierto de Erg Chebbi. La noche transcurre bajo un cielo estrellado en un campamento en el desierto.</p>
 
@@ -115,13 +115,13 @@ itinerary:
 - title: 'Día 8: Ouarzazate - Kasbah Ait Benhaddou - Montañas del Alto Atlas - Marrakech'
   html: '<p>La aventura del día 8 nos lleva a uno de los lugares más emblemáticos de Marruecos, el pueblo fortificado de Ait Benhaddou. Este lugar, declarado Patrimonio de la Humanidad por la UNESCO, ha aparecido en innumerables películas y series de televisión, pero sigue siendo una kasbah habitada por algunas familias.</p>
 
-    <p>Después de explorar su laberinto de edificios de arcilla, la carretera asciende hacia las montañas del Alto Atlas. Tras cruzar el puerto de Tizi n''Tichka, el más alto de Marruecos, se desciende hacia Marrakech.</p>
+    <p>Después de explorar tu laberinto de edificios de arcilla, la carretera asciende hacia las montañas del Alto Atlas. Tras cruzar el puerto de Tizi n''Tichka, el más alto de Marruecos, se desciende hacia Marrakech.</p>
 
     <p>Al caer la noche, la famosa plaza Jemaa el-Fnaa cobra vida con puestos de comida, artistas y cuentacuentos.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Salam o similar.</p>'
 - title: 'Día 9: Día para visitar Marrakech'
-  html: '<p>El día 9 está dedicado íntegramente a Marrakech. La mezquita Koutoubia se alza imponente con su elegante minarete, mientras que el Palacio de la Bahía cautiva a los visitantes con sus intrincados azulejos y jardines. Las tumbas saadíes cuentan historias de dinastías pasadas, y el Jardín Majorelle, que en su día fue propiedad de Yves Saint Laurent, ofrece un remanso de paz en una ciudad llena de energía. Por su parte, los zocos de Marrakech bullen de actividad con artesanos que venden de todo, desde especias hasta alfombras.</p>
+  html: '<p>El día 9 está dedicado íntegramente a Marrakech. La mezquita Koutoubia se alza imponente con tu elegante minarete, mientras que el Palacio de la Bahía cautiva a los visitantes con sus intrincados azulejos y jardines. Las tumbas saadíes cuentan historias de dinastías pasadas, y el Jardín Majorelle, que en tu día fue propiedad de Yves Saint Laurent, ofrece un remanso de paz en una ciudad llena de energía. Por tu parte, los zocos de Marrakech bullen de actividad con artesanos que venden de todo, desde especias hasta alfombras.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Salam o similar.</p>'
 - title: 'Día 10: Excursión de un día a Ouzoud'
@@ -133,11 +133,11 @@ itinerary:
 - title: 'Día 11: Marrakech - Esauira'
   html: '<p>El día 11 trae un cambio de escenario al viajar hacia el oeste hasta Essaouira, en la costa atlántica. Con sus casas encaladas con detalles en azul, sus estrechas callejuelas y la brisa marina, Essaouira se siente diferente a cualquier otro lugar de Marruecos.</p>
 
-    <p>La medina, declarada Patrimonio de la Humanidad por la UNESCO, es tranquila y encantadora, mientras que el bullicioso puerto revela a los pescadores trabajando. La fortaleza de Skala ofrece unas vistas panorámicas del océano, y el marisco aquí es de lo más fresco que probará. El día termina en este paraíso costero.</p>
+    <p>La medina, declarada Patrimonio de la Humanidad por la UNESCO, es tranquila y encantadora, mientras que el bullicioso puerto revela a los pescadores trabajando. La fortaleza de Skala ofrece unas vistas panorámicas del océano, y el marisco aquí es de lo más fresco que probarás. El día termina en este paraíso costero.</p>
 
     <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Maison du Sud o similar.<br/><em>Superior</em>: Hotel Riad Raoud Rayhane o similar.</p>'
 - title: 'Día 12: Essaouira - Aeropuerto de Casablanca'
-  html: <p>Hoy, conduciremos desde Essaouira de vuelta a Casablanca, un viaje de unas cinco horas. Dependiendo del horario de su vuelo, es posible que haya tiempo para hacer una parada en la costa, en ciudades como Safi o El Jadida, antes de dirigirse al aeropuerto. Su viaje termina donde comenzó, pero con recuerdos de desiertos, montañas, medinas y océanos entrelazados en una historia de viaje inolvidable.</p>
+  html: <p>Hoy, conduciremos desde Essaouira de vuelta a Casablanca, un viaje de unas cinco horas. Dependiendo del horario de tu vuelo, es posible que haya tiempo para hacer una parada en la costa, en ciudades como Safi o El Jadida, antes de dirigirse al aeropuerto. Tu viaje termina donde comenzó, pero con recuerdos de desiertos, montañas, medinas y océanos entrelazados en una historia de viaje inolvidable.</p>
 included:
 - Transporte privado con aire acondicionado.
 - Conductor local experto.
@@ -163,9 +163,9 @@ faqs:
 - q: ¿Cuántas horas pasamos conduciendo cada día?
   aHtml: '<p>Los tiempos de conducción varían: algunos días son más cortos, como en Marrakech o Essaouira (3-4 horas), mientras que los días de viaje por el desierto (como de Fez a Merzouga) pueden durar entre 8 y 9 horas con paradas. Los trayectos son pintorescos, con muchas oportunidades para hacer fotos y descansos.</p>'
 - q: ¿Puedo ampliar o acortar este itinerario de 12 días?
-  aHtml: <p>Sí, el itinerario se puede personalizar completamente. Puedes añadir noches adicionales en Marrakech, Fez o Chefchaouen, o acortar el tour para centrarte solo en regiones específicas.</p>
+  aHtml: <p>Sí, el itinerario se puedes personalizar completamente. Puedes añadir noches adicionales en Marrakech, Fez o Chefchaouen, o acortar el tour para centrarte solo en regiones específicas.</p>
 - q: ¿Qué otros tours recomiendas?
-  aHtml: <p>Si dispone de más tiempo en Marruecos, le recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
+  aHtml: <p>Si dispone de más tiempo en Marruecos, te recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
 reviews: []
 rating: 5.0
 reviewCount: 820
