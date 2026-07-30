@@ -73,9 +73,14 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: null
-tourCode: MEX-85710
+tourCode: EN3DMAFE
 priceTiers: []
 autoPricing: null
 pricingMode: group
 hasDesertExtras: true
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

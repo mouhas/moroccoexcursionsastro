@@ -49,7 +49,7 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: null
-tourCode: MEX-70318
+tourCode: EN3DMESA
 priceTiers:
 - people: 1
   perPerson: 980.0
@@ -71,4 +71,9 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: true
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

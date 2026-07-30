@@ -50,9 +50,14 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: null
-tourCode: MEX-32615
+tourCode: EN3DFESA
 priceTiers: []
 autoPricing: null
 pricingMode: group
 hasDesertExtras: true
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

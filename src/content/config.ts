@@ -12,6 +12,12 @@ const review = z.object({
   text: z.string(),
 });
 const priceTier = z.object({ people: z.number(), perPerson: z.number() });
+const ratingBreakdown = z.object({
+  hotels: z.number(),
+  guides: z.number(),
+  transport: z.number(),
+  activities: z.number(),
+});
 const autoPricing = z.object({
   days: z.number(),
   nights: z.number(),
@@ -36,6 +42,7 @@ const site = defineCollection({
     // Structured tour/car data scraped from the live site (Traveler WP theme).
     rating: z.number().nullable().default(null),
     reviewCount: z.number().nullable().default(null),
+    ratingBreakdown: ratingBreakdown.nullable().default(null),
     tourType: z.string().nullable().default(null),
     cancellation: z.string().nullable().default(null),
     languagesSpoken: z.string().nullable().default(null),

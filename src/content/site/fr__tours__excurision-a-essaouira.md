@@ -85,14 +85,14 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d870315.2729128638!2d-9.534125609899723!3d31.560696432097995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!5e0!3m2!1sfr!2sbg!4v1753437940961!5m2!1sen!2sbg
-tourCode: MEX-49662
+tourCode: FR1DMAES
 priceTiers: []
-autoPricing:
-  days: 1
-  nights: 0
-  hotelPerNight: 40
-  superiorSurcharge: 50
-  transportPerDay: 300
-pricingMode: auto
+autoPricing: null
+pricingMode: group
 hasDesertExtras: false
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

@@ -87,7 +87,7 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: null
-tourCode: MEX-74959
+tourCode: EN19DTADA
 priceTiers:
 - people: 1
   perPerson: 6420.0
@@ -109,4 +109,9 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: false
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

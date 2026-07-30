@@ -18,5 +18,6 @@ carFeatures:
 - 5 Doors
 - 8 Seats
 - A/C
-tourCode: MEC-70057
+tourCode: ENSEAT
+ratingBreakdown: null
 ---

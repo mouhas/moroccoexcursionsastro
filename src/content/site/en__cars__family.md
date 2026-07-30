@@ -15,5 +15,6 @@ carBadges:
 - Shuttle to Car
 carCategory: null
 carFeatures: []
-tourCode: MEC-74775
+tourCode: ENMORO
+ratingBreakdown: null
 ---

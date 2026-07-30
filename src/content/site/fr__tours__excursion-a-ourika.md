@@ -74,14 +74,14 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d217726.13766048136!2d-8.06899116402523!3d31.49748365378822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdb0000c4d9d59e1%3A0x575f0b6fa2ee16b5!2sOurika%2C%20Morocco!3m2!1d31.3737358!2d-7.790594!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sbg!4v1753276287446!5m2!1sfr!2sbg
-tourCode: MEX-58842
+tourCode: FR1DMAOR
 priceTiers: []
-autoPricing:
-  days: 1
-  nights: 0
-  hotelPerNight: 40
-  superiorSurcharge: 50
-  transportPerDay: 300
-pricingMode: auto
+autoPricing: null
+pricingMode: group
 hasDesertExtras: false
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

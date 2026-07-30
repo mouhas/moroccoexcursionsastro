@@ -16,5 +16,6 @@ carBadges:
 carCategory: Normal Cars, Taxi
 carFeatures:
 - 5 Doors
-tourCode: MEC-44577
+tourCode: ENRENT2
+ratingBreakdown: null
 ---

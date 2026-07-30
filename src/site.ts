@@ -128,6 +128,7 @@ export const UI = {
     extraQuadShared: 'Quad Bike/2 People', extraQuadSharedNote: '€75 / pair',
     extraBuggy: 'Buggy/2 People', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'For groups this size, contact us for a custom quote.',
+    ratingHotels: 'Hotels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activities', overallRating: 'Overall Rating',
   },
   fr: {
     book: 'Réserver', viewAll: 'Voir tous les circuits', from: 'à partir de', bookNow: 'Réserver ce circuit', planTrip: 'Circuit sur mesure',
@@ -152,6 +153,7 @@ export const UI = {
     extraQuadShared: 'Quad/2 Personnes', extraQuadSharedNote: '75 € / paire',
     extraBuggy: 'Buggy/2 Personnes', extraBuggyNote: '130 € / buggy',
     contactForQuote: 'Pour ce nombre de personnes, contactez-nous pour un devis sur mesure.',
+    ratingHotels: 'Hôtels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activités', overallRating: 'Note Globale',
   },
   es: {
     book: 'Reservar', viewAll: 'Ver todos los tours', from: 'desde', bookNow: 'Reservar este tour', planTrip: 'Viaje personalizado',
@@ -176,6 +178,7 @@ export const UI = {
     extraQuadShared: 'Quad/2 Personas', extraQuadSharedNote: '€75 / pareja',
     extraBuggy: 'Buggy/2 Personas', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Para grupos de este tamaño, contáctanos para una cotización personalizada.',
+    ratingHotels: 'Hoteles', ratingGuides: 'Guías', ratingTransport: 'Transporte', ratingActivities: 'Actividades', overallRating: 'Valoración General',
   },
   it: {
     book: 'Prenota', viewAll: 'Vedi tutti i tour', from: 'da', bookNow: 'Prenota questo tour', planTrip: 'Viaggio su misura',
@@ -200,6 +203,7 @@ export const UI = {
     extraQuadShared: 'Quad/2 Persone', extraQuadSharedNote: '€75 / coppia',
     extraBuggy: 'Buggy/2 Persone', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Per gruppi di queste dimensioni, contattaci per un preventivo personalizzato.',
+    ratingHotels: 'Hotel', ratingGuides: 'Guide', ratingTransport: 'Trasporto', ratingActivities: 'Attività', overallRating: 'Valutazione Complessiva',
   },
   'pt-br': {
     book: 'Reservar', viewAll: 'Ver todos os tours', from: 'a partir de', bookNow: 'Reservar este tour', planTrip: 'Viagem personalizada',
@@ -224,5 +228,6 @@ export const UI = {
     extraQuadShared: 'Quadriciclo/2 Pessoas', extraQuadSharedNote: '€75 / dupla',
     extraBuggy: 'Buggy/2 Pessoas', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Para grupos deste tamanho, entre em contato para um orçamento personalizado.',
+    ratingHotels: 'Hotéis', ratingGuides: 'Guias', ratingTransport: 'Transporte', ratingActivities: 'Atividades', overallRating: 'Avaliação Geral',
   },
 } as const;

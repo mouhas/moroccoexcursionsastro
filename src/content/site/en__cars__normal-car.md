@@ -17,5 +17,6 @@ carCategory: Normal Cars
 carFeatures:
 - 5 Doors
 - A/C
-tourCode: MEC-79361
+tourCode: ENNORM2
+ratingBreakdown: null
 ---

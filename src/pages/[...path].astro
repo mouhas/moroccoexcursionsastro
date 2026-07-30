@@ -226,17 +226,33 @@ const breadcrumbJsonld = {
       {isTour && (
         <div id="reviews" class="sec">
           <h2>{t.customerReviews}</h2>
-          {d.reviews.length > 0 ? (
-            <>
-              {d.rating && (
-                <div class="rev-summary">
-                  <div class="big rating-num">{d.rating.toFixed(1)}</div>
-                  <div class="meta">
-                    <span class="stars"><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /></span>
-                    <span>{d.reviewCount ?? d.reviews.length} {t.reviewsLabel}</span>
-                  </div>
+          {d.rating && (
+            <div class="rev-summary">
+              <div class="big rating-num">{d.rating.toFixed(1)}</div>
+              <div class="meta">
+                <span class="stars"><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /></span>
+                <span>{d.reviewCount ?? d.reviews.length} {t.reviewsLabel}</span>
+              </div>
+              {d.ratingBreakdown && (
+                <div class="rating-bars">
+                  {([
+                    [t.ratingHotels, d.ratingBreakdown.hotels],
+                    [t.ratingGuides, d.ratingBreakdown.guides],
+                    [t.ratingTransport, d.ratingBreakdown.transport],
+                    [t.ratingActivities, d.ratingBreakdown.activities],
+                  ] as [string, number][]).map(([label, score]) => (
+                    <div class="rating-bar-row">
+                      <span class="rb-label">{label}</span>
+                      <span class="rb-track"><span class="rb-fill" style={`width:${(score / 5) * 100}%`}></span></span>
+                      <span class="rb-score">{score.toFixed(1)}</span>
+                    </div>
+                  ))}
                 </div>
               )}
+            </div>
+          )}
+          {d.reviews.length > 0 ? (
+            <>
               {d.reviews.map((r: { name: string; date: string; stars: number; title: string; text: string; likes: number }) => (
                 <div class="rev-card">
                   <div class="head">

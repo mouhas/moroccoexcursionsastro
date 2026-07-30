@@ -16,5 +16,6 @@ carBadges:
 carCategory: Bus
 carFeatures:
 - A/C
-tourCode: MEC-26260
+tourCode: ENBUSH
+ratingBreakdown: null
 ---

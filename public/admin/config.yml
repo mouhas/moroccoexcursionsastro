@@ -54,6 +54,16 @@ collections:
 
       - { label: "Rating (0-5)", name: "rating", widget: "number", required: false, value_type: "float" }
       - { label: "Review Count", name: "reviewCount", widget: "number", required: false, value_type: "int" }
+      - label: "Rating Breakdown (0-5 each)"
+        name: "ratingBreakdown"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Hotels", name: "hotels", widget: "number", value_type: "float" }
+          - { label: "Guides", name: "guides", widget: "number", value_type: "float" }
+          - { label: "Transport", name: "transport", widget: "number", value_type: "float" }
+          - { label: "Activities", name: "activities", widget: "number", value_type: "float" }
       - { label: "Tour Code", name: "tourCode", widget: "string", required: false }
       - { label: "Tour Type", name: "tourType", widget: "string", required: false }
       - { label: "Free Cancellation Window", name: "cancellation", widget: "string", required: false }

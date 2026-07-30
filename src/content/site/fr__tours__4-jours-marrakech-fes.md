@@ -149,7 +149,7 @@ reviews: []
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d871272.4980025856!2d-4.58951715198614!3d31.457955561287427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Marruecos!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sKsar%20de%20Ait%20Ben%20Hadu%2C%20Marruecos!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sUarzazate%2C%2045000%2C%20Marruecos!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGarganta%20del%20Dad%C3%A8s%2C%20Marruecos!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinerhir%2C%20Marruecos!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973d0051369e87%3A0xfbc7a872aec9f783!2sMerzouga%20(Marruecos)!3m2!1d31.081499299999997!2d-4.0142555!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzr%C3%BA%2C%20Marruecos!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfr%C3%A1n%2C%20Marruecos!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFez%2C%20Marruecos!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sfr!2sfr!4v1753543206443!5m2!1sfr!2sfr
-tourCode: MEX-30606
+tourCode: FR4DMAFE
 priceTiers:
 - people: 1
   perPerson: 1320.0
@@ -171,4 +171,9 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: true
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

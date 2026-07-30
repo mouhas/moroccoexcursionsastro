@@ -169,7 +169,7 @@ reviews:
 rating: 5.0
 reviewCount: 600
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1748469.5183186634!2d-7.320579031970023!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2z0KPQsNGA0LfQsNC30LDRgtC1LCBPdWFyemF6YXRlIFByb3ZpbmNlLCDQnNCw0YDQvtC60L4!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Maroc!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2z0JzQsNGA0LDQutC10YgsINCc0LDRgNGA0LDQutC10YgsINCc0LDRgNC-0LrQvg!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sus!2sus!4v1722355654232!5m2!1sus!2sus
-tourCode: MEX-63384
+tourCode: EN3DMAME
 priceTiers:
 - people: 1
   perPerson: 980.0
@@ -191,4 +191,9 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: true
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

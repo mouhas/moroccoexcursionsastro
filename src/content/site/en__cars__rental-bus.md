@@ -16,5 +16,6 @@ carBadges:
 carCategory: null
 carFeatures:
 - A/C
-tourCode: MEC-54874
+tourCode: ENRENT
+ratingBreakdown: null
 ---

@@ -101,7 +101,7 @@ reviews:
 rating: 5.0
 reviewCount: 100
 mapUrl: null
-tourCode: MEX-79286
+tourCode: EN17DRADA
 priceTiers:
 - people: 1
   perPerson: 5740.0
@@ -123,4 +123,9 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: false
+ratingBreakdown:
+  hotels: 5.0
+  guides: 5.0
+  transport: 5.0
+  activities: 5.0
 ---

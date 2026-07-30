@@ -18,5 +18,6 @@ carFeatures:
 - 5 Doors
 - 6 Seats
 - A/C
-tourCode: MEC-96054
+tourCode: ENLUXU
+ratingBreakdown: null
 ---

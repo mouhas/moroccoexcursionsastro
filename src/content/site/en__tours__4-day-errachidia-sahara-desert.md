@@ -49,7 +49,7 @@ reviews: []
 rating: null
 reviewCount: 820
 mapUrl: null
-tourCode: MEX-47120
+tourCode: EN4DSADA
 priceTiers:
 - people: 1
   perPerson: 1320.0
@@ -71,4 +71,5 @@ autoPricing:
   transportPerDay: 300
 pricingMode: auto
 hasDesertExtras: true
+ratingBreakdown: null
 ---

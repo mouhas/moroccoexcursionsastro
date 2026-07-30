@@ -18,5 +18,6 @@ carFeatures:
 - 4 Doors
 - 4 Seats
 - A/C
-tourCode: MEC-35124
+tourCode: ENPICK
+ratingBreakdown: null
 ---
