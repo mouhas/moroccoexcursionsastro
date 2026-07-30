@@ -55,13 +55,74 @@ const priceStr = d.price && d.price > 0 ? '€' + d.price.toLocaleString('en-US'
 const generalReviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
 const galleryTiles = [d.pslug, d.pslug + '-2', d.pslug + '-3', d.pslug + '-4'];
 
+// --- SEO helpers -----------------------------------------------------------
+
+function stripHtml(html: string): string {
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+// A real, tour-specific meta description built from the actual overview
+// text (not a generic template), trimmed to a clean sentence boundary.
+function metaDescriptionFor(): string {
+  if (d.overviewHtml) {
+    const plain = stripHtml(d.overviewHtml);
+    if (plain.length <= 160) return plain;
+    const cut = plain.slice(0, 157);
+    const lastStop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf(', '), cut.lastIndexOf(' '));
+    return (lastStop > 80 ? cut.slice(0, lastStop) : cut).trim() + '…';
+  }
+  return isTour || isCar
+    ? `${d.title}${d.duration ? ' — ' + d.duration : ''}. ${priceStr ? t.from + ' ' + priceStr + '. ' : ''}Private, local, tailor-made.`
+    : `${d.title} — Morocco Excursions, a 100% local Berber-owned travel agency.`;
+}
+
+// "23/10/2024" -> "2024-10-23" (ISO 8601, what Review/datePublished expects).
+// Returns null rather than guessing when the format doesn't match.
+function toIsoDate(dmy: string): string | null {
+  const m = dmy.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (!m) return null;
+  const [, day, month, year] = m;
+  return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+}
+
+// Best-effort pickup time pulled from the real Day 1 itinerary text
+// ("...meet you at your hotel...at 8:00 AM..."). Omitted if not found —
+// never invented.
+function extractPickupTime(): string | null {
+  const day1 = d.itinerary?.[0]?.html;
+  if (!day1) return null;
+  const plain = stripHtml(day1);
+  const m = plain.match(/\b(\d{1,2}[:h.]\d{2})\s*(am|pm|AM|PM)?\b/);
+  return m ? (m[1].replace('h', ':') + (m[2] ? ' ' + m[2].toUpperCase() : '')) : null;
+}
+const pickupTime = isTour ? extractPickupTime() : null;
+
 const jsonld = (isTour || isCar) ? {
   '@context': 'https://schema.org',
-  '@type': isTour ? 'TouristTrip' : 'Product',
+  '@type': 'Product',
   name: d.title,
-  description: d.title + '. Offered by Morocco Excursions.',
+  description: metaDescriptionFor(),
   ...(priceStr ? { offers: { '@type': 'Offer', price: d.price, priceCurrency: 'EUR' } } : {}),
   ...(d.rating && d.reviewCount ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: String(d.rating), reviewCount: String(d.reviewCount) } } : {}),
+  ...(isTour && d.reviews.length > 0 ? {
+    review: d.reviews.map((r) => ({
+      '@type': 'Review',
+      reviewRating: { '@type': 'Rating', ratingValue: String(r.stars), bestRating: '5' },
+      author: { '@type': 'Person', name: r.name },
+      reviewBody: r.text,
+      ...(toIsoDate(r.date) ? { datePublished: toIsoDate(r.date) } : {}),
+    })),
+  } : {}),
+} : null;
+
+const faqJsonld = (isTour && d.faqs.length > 0) ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: d.faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: stripHtml(f.aHtml) },
+  })),
 } : null;
 
 const breadcrumbJsonld = {
@@ -74,12 +135,10 @@ const breadcrumbJsonld = {
   ],
 };
 ---
-<Base title={`${d.title} | Morocco Excursions`} lang={lang}
-  description={isTour || isCar
-    ? `${d.title}${d.duration ? ' — ' + d.duration : ''}. ${priceStr ? t.from + ' ' + priceStr + '. ' : ''}Private, local, tailor-made.`
-    : `${d.title} — Morocco Excursions, a 100% local Berber-owned travel agency.`}>
+<Base title={`${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()}>
 
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+  {faqJsonld && <script type="application/ld+json" set:html={JSON.stringify(faqJsonld)} />}
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonld)} />
 
   {isPage && (
@@ -142,6 +201,24 @@ const breadcrumbJsonld = {
       {isTour && (
         <div id="overview" class="sec">
           <h2>{t.tabOverview}</h2>
+
+          {(pickupTime || d.autoPricing?.nights || d.hasDesertExtras || d.cancellation || d.languagesSpoken) && (
+            <div class="kbyg">
+              <h3>{t.knowBeforeYouGo}</h3>
+              <div class="kbyg-grid">
+                {pickupTime && <div class="kbyg-item"><Icon name="clock" class="ico" /><span><b>{t.pickupTimeLabel}</b><small>{pickupTime}</small></span></div>}
+                {typeof d.autoPricing?.nights === 'number' && (
+                  <div class="kbyg-item"><Icon name="cal" class="ico" /><span><b>{t.nightsIncluded}</b><small>{d.autoPricing.nights} — {t.nightsIncludedNote}</small></span></div>
+                )}
+                {d.cancellation && <div class="kbyg-item"><Icon name="shield" class="ico" /><span><b>{t.freeCancellation}</b><small>{d.cancellation}</small></span></div>}
+                {d.languagesSpoken && <div class="kbyg-item"><Icon name="globe" class="ico" /><span><b>{t.languagesLabel}</b><small>{d.languagesSpoken}</small></span></div>}
+                {d.hasDesertExtras && (
+                  <div class="kbyg-item"><Icon name="compass" class="ico" /><span><b>{t.optionalActivities}</b><small>{t.optionalActivitiesNote}</small></span></div>
+                )}
+              </div>
+            </div>
+          )}
+
           <div set:html={d.overviewHtml} />
 
           {d.highlights.length > 0 && (

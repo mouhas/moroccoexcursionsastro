@@ -163,6 +163,16 @@ section.pad{padding:70px 0}
 .tour-info-row .ti.link{cursor:pointer}
 .tour-info-row .ti.link:hover b{color:var(--orange)}
 .tour-info-row .stars{color:var(--orange)}
+
+/* KNOW BEFORE YOU GO */
+.kbyg{background:var(--blue-lt);border-radius:var(--r);padding:20px 22px;margin-bottom:22px}
+.kbyg h3{font-size:15px;margin-bottom:14px;color:var(--blue-dk)}
+.kbyg-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.kbyg-item{display:flex;align-items:flex-start;gap:10px}
+.kbyg-item .ico{color:var(--orange);width:20px;height:20px;flex:none;margin-top:1px}
+.kbyg-item span{display:flex;flex-direction:column;line-height:1.3}
+.kbyg-item b{font-size:13.5px;color:var(--ink)}
+.kbyg-item small{font-size:12.5px;color:var(--muted)}
 .tour-info-row .stars svg{width:20px;height:20px}
 .gallery{display:grid;grid-template-columns:2fr 1fr;gap:10px;border-radius:var(--r);overflow:hidden;margin-bottom:8px}
 .gallery-main{position:relative;min-height:460px}

@@ -129,6 +129,8 @@ export const UI = {
     extraBuggy: 'Buggy/2 People', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'For groups this size, contact us for a custom quote.',
     ratingHotels: 'Hotels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activities', overallRating: 'Overall Rating',
+    knowBeforeYouGo: 'Know Before You Go', pickupTimeLabel: 'Pickup Time', nightsIncluded: 'Nights Included', optionalActivities: 'Optional Activities',
+    nightsIncludedNote: 'upgradeable to Superior', optionalActivitiesNote: 'Quad biking, dune buggy available', languagesLabel: 'Languages',
   },
   fr: {
     book: 'Réserver', viewAll: 'Voir tous les circuits', from: 'à partir de', bookNow: 'Réserver ce circuit', planTrip: 'Circuit sur mesure',
@@ -154,6 +156,8 @@ export const UI = {
     extraBuggy: 'Buggy/2 Personnes', extraBuggyNote: '130 € / buggy',
     contactForQuote: 'Pour ce nombre de personnes, contactez-nous pour un devis sur mesure.',
     ratingHotels: 'Hôtels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activités', overallRating: 'Note Globale',
+    knowBeforeYouGo: 'À Savoir Avant de Partir', pickupTimeLabel: 'Heure de Prise en Charge', nightsIncluded: 'Nuits Incluses', optionalActivities: 'Activités en Option',
+    nightsIncludedNote: 'surclassable en Supérieur', optionalActivitiesNote: 'Quad, buggy des dunes disponibles', languagesLabel: 'Langues',
   },
   es: {
     book: 'Reservar', viewAll: 'Ver todos los tours', from: 'desde', bookNow: 'Reservar este tour', planTrip: 'Viaje personalizado',
@@ -179,6 +183,8 @@ export const UI = {
     extraBuggy: 'Buggy/2 Personas', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Para grupos de este tamaño, contáctanos para una cotización personalizada.',
     ratingHotels: 'Hoteles', ratingGuides: 'Guías', ratingTransport: 'Transporte', ratingActivities: 'Actividades', overallRating: 'Valoración General',
+    knowBeforeYouGo: 'Antes de Reservar', pickupTimeLabel: 'Hora de Recogida', nightsIncluded: 'Noches Incluidas', optionalActivities: 'Actividades Opcionales',
+    nightsIncludedNote: 'mejorable a Superior', optionalActivitiesNote: 'Quad, buggy de dunas disponibles', languagesLabel: 'Idiomas',
   },
   it: {
     book: 'Prenota', viewAll: 'Vedi tutti i tour', from: 'da', bookNow: 'Prenota questo tour', planTrip: 'Viaggio su misura',
@@ -204,6 +210,8 @@ export const UI = {
     extraBuggy: 'Buggy/2 Persone', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Per gruppi di queste dimensioni, contattaci per un preventivo personalizzato.',
     ratingHotels: 'Hotel', ratingGuides: 'Guide', ratingTransport: 'Trasporto', ratingActivities: 'Attività', overallRating: 'Valutazione Complessiva',
+    knowBeforeYouGo: 'Da Sapere Prima Di Partire', pickupTimeLabel: 'Orario di Ritiro', nightsIncluded: 'Notti Incluse', optionalActivities: 'Attività Opzionali',
+    nightsIncludedNote: 'aggiornabile a Superiore', optionalActivitiesNote: 'Quad, buggy delle dune disponibili', languagesLabel: 'Lingue',
   },
   'pt-br': {
     book: 'Reservar', viewAll: 'Ver todos os tours', from: 'a partir de', bookNow: 'Reservar este tour', planTrip: 'Viagem personalizada',
@@ -229,5 +237,7 @@ export const UI = {
     extraBuggy: 'Buggy/2 Pessoas', extraBuggyNote: '€130 / buggy',
     contactForQuote: 'Para grupos deste tamanho, entre em contato para um orçamento personalizado.',
     ratingHotels: 'Hotéis', ratingGuides: 'Guias', ratingTransport: 'Transporte', ratingActivities: 'Atividades', overallRating: 'Avaliação Geral',
+    knowBeforeYouGo: 'Saiba Antes de Reservar', pickupTimeLabel: 'Horário de Retirada', nightsIncluded: 'Noites Incluídas', optionalActivities: 'Atividades Opcionais',
+    nightsIncludedNote: 'melhorável para Superior', optionalActivitiesNote: 'Quadriciclo, buggy nas dunas disponíveis', languagesLabel: 'Idiomas',
   },
 } as const;
