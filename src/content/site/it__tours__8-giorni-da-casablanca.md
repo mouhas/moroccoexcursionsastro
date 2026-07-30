@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: 8-giorni-da-casablanca
 urlPath: it/tours/8-giorni-da-casablanca
-price: 480
+price: 1480.0
 duration: 8 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/8-giorni-da-casablanca/
@@ -20,44 +20,32 @@ overviewHtml: '<p>Il tour avventuroso di 8 giorni inizia a Casablanca, dove la s
   <p>Questo itinerario accuratamente studiato bilancia l’immersione culturale con le meraviglie naturali, offrendo un viaggio confortevole tra una destinazione e l’altra e lasciando il tempo di scoprire il fascino autentico del Marocco. Dalla costa atlantica al <strong><a href="https://it.wikipedia.org/wiki/Deserto_del_Sahara" rel="noopener" target="_blank">deserto del Sahara</a></strong>, ogni giorno rivela nuovi aspetti di questo paese così variegato: città imperiali, panorami montani, paesaggi desertici e mercati vivaci. Il viaggio si conclude con ricordi indelebili della calda ospitalità del Marocco, della sua ricca storia e dei suoi paesaggi mozzafiato.</p>
 
   <p>Perfetto per chi visita il Paese per la prima volta, questo tour mette in mostra le attrazioni principali del Marocco, fornendo al contempo approfondimenti sulla sua affascinante cultura e tradizioni.</p>'
-priceHeading: Breve itinerario degli 8 giorni da Casablanca alle città imperiali e al deserto
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Fes
-  - 320km
-- - '#3'
-  - Fes
-  - —
-  - —
-- - '#4'
-  - Fes
-  - Deserto di Merzouga
-  - 470 km
-- - '#5'
-  - Merzouga
-  - Dades
-  - 250 km
-- - '#6'
-  - Dades
-  - Marrakech
-  - 330 km
-- - '#7'
-  - Marrakech
-  - —
-  - —
-- - '#8'
-  - Marrakech
-  - Aeroporto
-  - 6 km
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 2680 Euro a persona
+  - 2680 euro
+- - 2 Persone
+  - 1480 Euro a persona
+  - 2960 euro
+- - 3 Persone
+  - 1080 Euro a persona
+  - 3240 euro
+- - 4 Persone
+  - 880 Euro a persona
+  - 3520 euro
+- - 5 Persone
+  - 760 Euro a persona
+  - 3800 euro
+- - 6 Persone
+  - 680 Euro a persona
+  - 4080 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - Questo emozionante viaggio di 8 giorni ti porterà alla scoperta dei luoghi più belli del Marocco, partendo da Casablanca e terminando a Marrakech. Visiterai città storiche come Rabat e Fes, ammirerai incredibili paesaggi desertici a Merzouga ed esplorerai splendide valli e montagne lungo il percorso. L’intero viaggio copre circa 1.500 chilometri (930 miglia) di paesaggi diversi.
@@ -151,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755183565542!5m2!1sit!2sit
 tourCode: MEX-79434
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2680.0
+- people: 2
+  perPerson: 1480.0
+- people: 3
+  perPerson: 1080.0
+- people: 4
+  perPerson: 880.0
+- people: 5
+  perPerson: 760.0
+- people: 6
+  perPerson: 680.0
 autoPricing:
   days: 8
   nights: 7

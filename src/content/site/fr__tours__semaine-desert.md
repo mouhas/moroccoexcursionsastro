@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: semaine-desert
 urlPath: fr/tours/semaine-desert
-price: null
+price: 1290.0
 duration: 7 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/semaine-desert/
@@ -18,40 +18,32 @@ overviewHtml: '<p>Passez sept jours dans le désert de Merzouga et profitez de l
   <p>Le cinquième jour, traversez Erg Znaigui et Taous avant d’atteindre le paisible désert d’Ouzina pour y passer la nuit. Le sixième jour, vous vous rendrez à Ramlia, Sidi Ali et El Mharech, avec une autre nuit dans le désert.</p>
 
   <p>Le dernier jour du circuit, retournez à Merzouga, profitez d’une courte balade à dos de chameau ou d’une promenade dans le désert, et terminez votre voyage avec des souvenirs du magnifique désert marocain.</p>'
-priceHeading: Bref itinéraire d’une semaine dans le désert Marocain
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Highlights
-  - Distance
-- - '#1'
-  - Merzouga
-  - Désert
-  - 25 km
-- - '#2'
-  - Merzouga
-  - Erg Chebbi
-  - 30 km
-- - '#3'
-  - Merzouga
-  - Dunes de Sables
-  - 20 km
-- - '#4'
-  - Merzouga
-  - Oasis de Safsaf
-  - 70 km
-- - '#5'
-  - Erg Chebbi
-  - Ouzina
-  - 80 km
-- - '#6'
-  - Ouzina
-  - El Mharech
-  - 70 km
-- - '#7'
-  - El Mharech
-  - Merzouga
-  - 40 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 2340 Euros par personne
+  - 2340 euros
+- - 2 Personnes
+  - 1290 Euros par personne
+  - 2580 euros
+- - 3 Personnes
+  - 940 Euros par personne
+  - 2820 euros
+- - 4 Personnes
+  - 765 Euros par personne
+  - 3060 euros
+- - 5 Personnes
+  - 660 Euros par personne
+  - 3300 euros
+- - 6 Personnes
+  - 590 Euros par personne
+  - 3540 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Lorsque vous planifiez un circuit dans le désert de Merzouga, il est important de savoir que certaines activités peuvent être physiquement fatigantes. Monter à dos de chameau, escalader de hautes dunes ou marcher sur de longues distances dans le sable mou peut demander beaucoup d’énergie. Assurez-vous d’être prêt pour ce niveau d’activité et faites des pauses lorsque vous en avez besoin pour éviter de vous fatiguer trop.
@@ -133,7 +125,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sfr!2sfr!4v1757243889444!5m2!1sfr!2sfr
 tourCode: MEX-94936
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2340.0
+- people: 2
+  perPerson: 1290.0
+- people: 3
+  perPerson: 940.0
+- people: 4
+  perPerson: 765.0
+- people: 5
+  perPerson: 660.0
+- people: 6
+  perPerson: 590.0
 autoPricing:
   days: 7
   nights: 6

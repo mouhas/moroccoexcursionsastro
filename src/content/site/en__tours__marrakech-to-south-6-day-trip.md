@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: marrakech-to-south-6-day-trip
 urlPath: tours/marrakech-to-south-6-day-trip
-price: 300
+price: 1100.0
 duration: 6 Days
 tag: null
 source: https://morocco-excursion.com/tours/marrakech-to-south-6-day-trip/
@@ -26,36 +26,32 @@ overviewHtml: '<p>If you want to explore the south of Morocco and discover its h
   <p>On the final day, we will return to Marrakech, driving again through the High Atlas Mountains.</p>
 
   <p>If you want to upgrade your stay during this 6-day tour, we offer two types of <a href="https://morocco-excursion.com/accommodations/" rel="noopener" target="_blank"><b>accommodations</b></a>: standard and luxury. You can choose between comfortable hotels and desert camps in Merzouga, depending on your budget and preferences.</p>'
-priceHeading: Brief itinerary of the 6-day tour from Marrakech to south and desert
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Marrakech
-  - Dades
-  - 330km
-- - '#2'
-  - Dades
-  - Merzouga
-  - 300 km
-- - '#3'
-  - Merzouga
-  - Merzouga
-  - 45 km
-- - '#4'
-  - Merzouga
-  - Merzouga
-  - 70 km
-- - '#5'
-  - Merzouga
-  - Ouarzazate
-  - 396 km
-- - '#6'
-  - Ouarzazate
-  - Marrakech
-  - 200 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2000 Euros per person
+  - 2000 euros
+- - 2 People
+  - 1100 Euros per person
+  - 2200 euros
+- - 3 People
+  - 800 Euros per person
+  - 2400 euros
+- - 4 People
+  - 650 Euros per person
+  - 2600 euros
+- - 5 People
+  - 560 Euros per person
+  - 2800 euros
+- - 6 People
+  - 500 Euros per person
+  - 3000 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - This 6-day tour combines mountains, valleys, oases, ancient villages, and the Sahara Desert—all in one journey. It’s a great way to experience Morocco’s rich culture and stunning nature in a short time.
@@ -198,7 +194,19 @@ rating: 5.0
 reviewCount: 400
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1748469.5183186634!2d-7.3029302819699495!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd974519f1562e3f%3A0x8fd020361d14debb!2stissardmine%2C%20Tisserdmine%2C%20Morocco!3m2!1d31.295187499999997!2d-3.9751874999999997!4m5!1s0xdbc7f0025c02c8d%3A0x67ac93d734312f29!2sDraa%20Valley!3m2!1d30.6700922!2d-6.3991938!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753693279725!5m2!1sen!2sen
 tourCode: MEX-69307
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2000.0
+- people: 2
+  perPerson: 1100.0
+- people: 3
+  perPerson: 800.0
+- people: 4
+  perPerson: 650.0
+- people: 5
+  perPerson: 560.0
+- people: 6
+  perPerson: 500.0
 autoPricing:
   days: 6
   nights: 5

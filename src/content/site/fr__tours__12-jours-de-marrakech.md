@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 12-jours-de-marrakech
 urlPath: fr/tours/12-jours-de-marrakech
-price: null
+price: 2240.0
 duration: 12 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/12-jours-de-marrakech/
@@ -22,60 +22,32 @@ overviewHtml: '<p>Si vous recherchez une expérience marocaine complète, ce cir
   <p>Les deux jours suivants seront consacrés à la découverte de la ville antique de Fès, guidés par un expert local qui vous fera parcourir ses rues labyrinthiques et ses sites culturels. Après vous être imprégnés du riche patrimoine de Fès, vous voyagerez vers le sud en direction du désert du Sahara pour une randonnée unique à dos de chameau et un coucher de soleil à couper le souffle sur les dunes.</p>
 
   <p>Ensuite, le circuit serpente à travers la pittoresque vallée du <strong><a href="https://fr.wikipedia.org/wiki/Gorges_du_Dad%C3%A8s" rel="noopener" target="_blank">Dadès</a></strong>, en passant par des villages berbères traditionnels et des paysages montagneux spectaculaires. Après avoir traversé les majestueuses montagnes de l’Atlas, vous retournerez à Marrakech où vous aurez du temps libre pour vous détendre ou faire du shopping avant votre transfert à l’aéroport le lendemain.</p>'
-priceHeading: Bref itinéraire du voyage de 12 jours au départ de Marrakech
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Aéroport
-  - Marrakech
-  - 8 km
-- - '#2'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#3'
-  - Marrakech
-  - Essaouira
-  - 184 km
-- - '#4'
-  - Essaouira
-  - Rabat
-  - 457 km
-- - '#5'
-  - Rabat
-  - Chefchaouen
-  - 353 km
-- - '#6'
-  - Chefchaouen
-  - Fes
-  - 197 km
-- - '#7'
-  - Fes
-  - Fes
-  - —
-- - '#8'
-  - Fes
-  - Merzouga
-  - 469 km
-- - '#9'
-  - Merzouga
-  - Désert
-  - 45 km
-- - '#10'
-  - Désert de Merzouga
-  - Dades
-  - 266 km
-- - '#11'
-  - Dades
-  - Marrakech
-  - 330 km
-- - '#12'
-  - Marrakech
-  - Aéroport
-  - 8 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 4040 Euros par personne
+  - 4040 euros
+- - 2 Personnes
+  - 2240 Euros par personne
+  - 4480 euros
+- - 3 Personnes
+  - 1640 Euros par personne
+  - 4920 euros
+- - 4 Personnes
+  - 1340 Euros par personne
+  - 5360 euros
+- - 5 Personnes
+  - 1160 Euros par personne
+  - 5800 euros
+- - 6 Personnes
+  - 1040 Euros par personne
+  - 6240 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Ce circuit comprend une visite guidée à pied avec un guide local qui vous fera découvrir Marrakech et <strong>Fès</strong>, vous aidant à explorer des joyaux cachés, des rues anciennes et la culture locale que vous pourriez manquer si vous voyagiez seul.
@@ -227,7 +199,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753800762390!5m2!1sfr!2sfr
 tourCode: MEX-37688
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 4040.0
+- people: 2
+  perPerson: 2240.0
+- people: 3
+  perPerson: 1640.0
+- people: 4
+  perPerson: 1340.0
+- people: 5
+  perPerson: 1160.0
+- people: 6
+  perPerson: 1040.0
 autoPricing:
   days: 12
   nights: 11

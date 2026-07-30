@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 19-day-tour-from-tangier
 urlPath: tours/19-day-tour-from-tangier
-price: null
+price: 3570.0
 duration: 19 Days
 tag: null
 source: https://morocco-excursion.com/tours/19-day-tour-from-tangier/
@@ -13,7 +13,31 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: ''
 priceHeading: null
-priceRows: []
+priceRows:
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 6420 Euros per person
+  - 6420 euros
+- - 2 People
+  - 3570 Euros per person
+  - 7140 euros
+- - 3 People
+  - 2620 Euros per person
+  - 7860 euros
+- - 4 People
+  - 2145 Euros per person
+  - 8580 euros
+- - 5 People
+  - 1860 Euros per person
+  - 9300 euros
+- - 6 People
+  - 1670 Euros per person
+  - 10020 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes: []
 highlights: []
@@ -64,7 +88,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-74959
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 6420.0
+- people: 2
+  perPerson: 3570.0
+- people: 3
+  perPerson: 2620.0
+- people: 4
+  perPerson: 2145.0
+- people: 5
+  perPerson: 1860.0
+- people: 6
+  perPerson: 1670.0
 autoPricing:
   days: 19
   nights: 18

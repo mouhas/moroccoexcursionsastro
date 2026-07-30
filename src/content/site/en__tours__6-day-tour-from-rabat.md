@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 6-day-tour-from-rabat
 urlPath: tours/6-day-tour-from-rabat
-price: null
+price: 1100.0
 duration: 6 Days
 tag: null
 source: https://morocco-excursion.com/tours/6-day-tour-from-rabat/
@@ -13,7 +13,31 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: ''
 priceHeading: null
-priceRows: []
+priceRows:
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2000 Euros per person
+  - 2000 euros
+- - 2 People
+  - 1100 Euros per person
+  - 2200 euros
+- - 3 People
+  - 800 Euros per person
+  - 2400 euros
+- - 4 People
+  - 650 Euros per person
+  - 2600 euros
+- - 5 People
+  - 560 Euros per person
+  - 2800 euros
+- - 6 People
+  - 500 Euros per person
+  - 3000 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes: []
 highlights: []
@@ -50,7 +74,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-55245
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2000.0
+- people: 2
+  perPerson: 1100.0
+- people: 3
+  perPerson: 800.0
+- people: 4
+  perPerson: 650.0
+- people: 5
+  perPerson: 560.0
+- people: 6
+  perPerson: 500.0
 autoPricing:
   days: 6
   nights: 5

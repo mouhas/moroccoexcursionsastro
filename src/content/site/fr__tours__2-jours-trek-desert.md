@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 2-jours-trek-desert
 urlPath: fr/tours/2-jours-trek-desert
-price: 100
+price: 340.0
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-trek-desert/
@@ -14,20 +14,32 @@ languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Découvrez la magie du Sahara lors d’un trek et d’une randonnée de deux jours à travers les dunes dorées de l’Erg Chebbi, près de Merzouga. Cette aventure unique vous emmène au cœur du désert à pied, vous offrant une façon plus lente et plus intime de vous connecter avec le paysage. Marchez à travers les dunes ondulantes, escaladez les crêtes sablonneuses pour profiter d’une vue imprenable et profitez de pauses paisibles avec des repas berbères traditionnels à l’ombre.</p>
 
   <p>Au coucher du soleil, rejoignez votre campement dans le désert où vous pourrez vous détendre, savourer la cuisine marocaine et écouter de la musique berbère autour d’un feu sous un ciel étoilé. Passez la nuit dans une tente confortable avant de vous réveiller tôt pour assister à un lever de soleil inoubliable. Le deuxième jour, empruntez un nouvel itinéraire pour retourner à Merzouga, en passant devant des familles nomades et des plaines désertiques rocheuses. Ce circuit combine l’aventure, la culture et la sérénité du Sahara, vous offrant un véritable aperçu de la vie dans le désert.</p>'
-priceHeading: Bref itinéraire du trek de 2 jours dans le désert
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Merzouga
-  - Erg Chebbi
-  - 15 km
-- - '#2'
-  - Erg Chebbi
-  - Merzouga
-  - 10 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 640 Euros par personne
+  - 640 euros
+- - 2 Personnes
+  - 340 Euros par personne
+  - 680 euros
+- - 3 Personnes
+  - 240 Euros par personne
+  - 720 euros
+- - 4 Personnes
+  - 190 Euros par personne
+  - 760 euros
+- - 5 Personnes
+  - 160 Euros par personne
+  - 800 euros
+- - 6 Personnes
+  - 140 Euros par personne
+  - 840 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Marcher sur le sable mou du désert est plus difficile que marcher sur un sol normal, alors prévoyez 5 à 6 heures de marche par jour. Une condition physique modérée est recommandée pour profiter pleinement de l’expérience.
@@ -91,7 +103,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sfr!2sfr!4v1757162605013!5m2!1sfr!2sfr
 tourCode: MEX-11159
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

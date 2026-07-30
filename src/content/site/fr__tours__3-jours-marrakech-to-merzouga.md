@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 3-jours-marrakech-to-merzouga
 urlPath: fr/tours/3-jours-marrakech-to-merzouga
-price: 115
+price: 530.0
 duration: 3 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/3-jours-marrakech-to-merzouga/
@@ -18,24 +18,32 @@ overviewHtml: '<p>Ce circuit privé de 3 jours de Marrakech vers le désert de M
   <p>Le troisième jour, le circuit se termine par un retour à Marrakech. Après un réveil matinal pour admirer le lever du soleil, vous prendrez votre petit-déjeuner et une douche avant de commencer la journée.</p>
 
   <p>Vous pouvez personnaliser votre excursion de 3 jours au départ de Marrakech dans le désert de Merzouga en choisissant différents types d’hébergement. Les options vont des camps de base dans le désert aux hébergements de milieu de gamme , vous permettant de personnaliser votre voyage pour qu’il soit aussi luxueux et confortable que vous le souhaitez</p>'
-priceHeading: Bref itinéraire du circuit de 3 jours de Marrakech au désert
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - 1er
-  - Marrakech
-  - données
-  - 270 km
-- - 2ème
-  - données
-  - Désert de Merzouga
-  - 300 km
-- - 3ème
-  - Merzouga
-  - Marrakech
-  - 560 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 980 Euros par personne
+  - 980 euros
+- - 2 Personnes
+  - 530 Euros par personne
+  - 1060 euros
+- - 3 Personnes
+  - 380 Euros par personne
+  - 1140 euros
+- - 4 Personnes
+  - 305 Euros par personne
+  - 1220 euros
+- - 5 Personnes
+  - 260 Euros par personne
+  - 1300 euros
+- - 6 Personnes
+  - 230 Euros par personne
+  - 1380 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: Que dois-je savoir avant de réserve?
 notes:
 - Le coût par personne pour le circuit dépend de la taille de votre groupe et du type d’hébergement. Le circuit privé de 3 jours de Marrakech à Merzouga comprend beaucoup de conduite, surtout le dernier jour. Si vous avez suffisamment de temps, nous vous recommandons un circuit de 4 à <strong><a href="https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/" rel="noopener" target="_blank">6 jours au depart de Maarrakech</a></strong>.
@@ -138,7 +146,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1748469.5183186634!2d-7.320579031970023!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2z0KPQsNGA0LfQsNC30LDRgtC1LCBPdWFyemF6YXRlIFByb3ZpbmNlLCDQnNCw0YDQvtC60L4!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Maroc!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2z0JzQsNGA0LDQutC10YgsINCc0LDRgNGA0LDQutC10YgsINCc0LDRgNC-0LrQvg!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1722355654232!5m2!1sfr!2sfr
 tourCode: MEX-31963
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 980.0
+- people: 2
+  perPerson: 530.0
+- people: 3
+  perPerson: 380.0
+- people: 4
+  perPerson: 305.0
+- people: 5
+  perPerson: 260.0
+- people: 6
+  perPerson: 230.0
 autoPricing:
   days: 3
   nights: 2

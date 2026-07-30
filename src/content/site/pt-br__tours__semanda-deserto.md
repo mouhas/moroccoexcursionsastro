@@ -4,7 +4,7 @@ lang: pt-br
 section: tours
 pslug: semanda-deserto
 urlPath: pt-br/tours/semanda-deserto
-price: 450
+price: 1290.0
 duration: 7 Days
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/semanda-deserto/
@@ -18,40 +18,32 @@ overviewHtml: '<p>Passe sete dias no deserto de Merzouga e desfrute de aventura,
   <p>No quinto dia, viaje por Erg Znaigui e Taous antes de chegar ao pacífico deserto de Ouzina para passar a noite. O sexto dia leva-o a Ramlia, Sidi Ali e El Mharech, com mais uma noite no deserto.</p>
 
   <p>No último dia da excursão, regresse a Merzouga, desfrute de um pequeno passeio de camelo ou caminhada no deserto e termine a sua viagem com memórias do deslumbrante deserto marroquino.</p>'
-priceHeading: Breve itinerário de uma semana no deserto do Marrocos
+priceHeading: null
 priceRows:
-- - Dia
-  - Partida
-  - Destaques
-  - Distância
-- - '#1'
-  - Merzouga
-  - Deserto
-  - 25 km
-- - '#2'
-  - Merzouga
-  - Erg Chebbi
-  - 30 km
-- - '#3'
-  - Merzouga
-  - Dunas de areia
-  - 20 km
-- - '#4'
-  - Merzouga
-  - Oasis do Safsaf
-  - 70 km
-- - '#5'
-  - Erg Chebbi
-  - Ouzina
-  - 80 km
-- - '#6'
-  - Ouzina
-  - El Mharech
-  - 70 km
-- - '#7'
-  - El Mharech
-  - Merzouga
-  - 40 km
+- - Número de viajantes
+  - Preço por pessoa
+  - Total
+- - 1 Pessoa
+  - 2340 Euros por pessoa
+  - 2340 euros
+- - 2 Pessoas
+  - 1290 Euros por pessoa
+  - 2580 euros
+- - 3 Pessoas
+  - 940 Euros por pessoa
+  - 2820 euros
+- - 4 Pessoas
+  - 765 Euros por pessoa
+  - 3060 euros
+- - 5 Pessoas
+  - 660 Euros por pessoa
+  - 3300 euros
+- - 6 Pessoas
+  - 590 Euros por pessoa
+  - 3540 euros
+- - +6 pessoas
+  - Contate-nos para o preço
+  - …
 notesHeading: null
 notes:
 - Ao planear uma excursão ao deserto de Merzouga, é importante saber que algumas atividades podem ser fisicamente cansativas. Andar de camelo, escalar dunas altas ou caminhar longas distâncias na areia fofa pode exigir muita energia. Certifique-se de que está pronto para esse nível de atividade e faça pausas quando necessário para evitar ficar muito cansado.
@@ -133,7 +125,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1spt-br!2spt-br!4v1757243889444!5m2!1spt-br!2spt-br
 tourCode: MEX-80383
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2340.0
+- people: 2
+  perPerson: 1290.0
+- people: 3
+  perPerson: 940.0
+- people: 4
+  perPerson: 765.0
+- people: 5
+  perPerson: 660.0
+- people: 6
+  perPerson: 590.0
 autoPricing:
   days: 7
   nights: 6

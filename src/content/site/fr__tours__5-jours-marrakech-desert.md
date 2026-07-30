@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 5-jours-marrakech-desert
 urlPath: fr/tours/5-jours-marrakech-desert
-price: 260
+price: 910.0
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/5-jours-marrakech-desert/
@@ -24,32 +24,32 @@ overviewHtml: '<p>Le circuit privé de 5 jours dans le désert, de Marrakech à 
   <p>Le dernier jour, nous retournerons à Marrakech. Avant cela, nous visiterons les célèbres studios de cinéma de Ouarzazate. Nous emprunterons la même route panoramique à travers les montagnes du Haut Atlas.</p>
 
   <p>Pour ceux qui souhaitent plus de confort, ce circuit de 5 jours propose deux options de surclassement. Vous pouvez choisir entre des hôtels standard, supérieurs ou de luxe et des camps dans le désert, selon vos besoins.</p>'
-priceHeading: Bref itinéraire du circuit de 5 jours dans le désert au départ de Marrakech
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Marrakech
-  - Vallée du Dadès
-  - 260 km
-- - '#2'
-  - Dades
-  - Merzouga
-  - 300 km
-- - '#3'
-  - Merzouga
-  - Désert de l’Erg Chebbi
-  - 45 km
-- - '#4'
-  - Merzouga
-  - Ouarzazate
-  - 396 km
-- - '#5'
-  - Ouarzazate
-  - Marrakech
-  - 200 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 1660 Euros par personne
+  - 1660 euros
+- - 2 Personnes
+  - 910 Euros par personne
+  - 1820 euros
+- - 3 Personnes
+  - 660 Euros par personne
+  - 1980 euros
+- - 4 Personnes
+  - 535 Euros par personne
+  - 2140 euros
+- - 5 Personnes
+  - 460 Euros par personne
+  - 2300 euros
+- - 6 Personnes
+  - 410 Euros par personne
+  - 2460 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes: []
 highlights:
@@ -148,7 +148,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1748469.5183186634!2d-7.294922531969985!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1753611183046!5m2!1sen!2sit
 tourCode: MEX-39290
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1660.0
+- people: 2
+  perPerson: 910.0
+- people: 3
+  perPerson: 660.0
+- people: 4
+  perPerson: 535.0
+- people: 5
+  perPerson: 460.0
+- people: 6
+  perPerson: 410.0
 autoPricing:
   days: 5
   nights: 4

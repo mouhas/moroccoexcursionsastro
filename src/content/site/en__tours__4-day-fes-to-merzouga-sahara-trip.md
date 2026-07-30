@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 4-day-fes-to-merzouga-sahara-trip
 urlPath: tours/4-day-fes-to-merzouga-sahara-trip
-price: 220
+price: 720.0
 duration: 4 Days
 tag: null
 source: https://morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/
@@ -22,28 +22,32 @@ overviewHtml: '<p>Set off on an unforgettable journey through Morocco, from Fes 
   <p>Wind through the beautiful valleys of the Atlas and its thousand Kasbahs, before returning to Fes with incredible memories of camel rides, desert nights, and Morocco’s wild landscapes.</p>
 
   <p>This tour blends adventure and culture—ride camels, sleep under the stars, meet nomads, and explore dramatic gorges and valleys. Whether you choose a small-group or private tour, it’s the perfect way to discover Morocco’s magic.</p>'
-priceHeading: Brief itinerary of the 4-day trip from Fes to the desert?
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Fes
-  - Merzouga
-  - 471 km
-- - '#2'
-  - Merzouga
-  - Desert
-  - 45km
-- - '#3'
-  - Merzouga
-  - Todra
-  - 196 km
-- - '#4'
-  - Todra
-  - Fes
-  - 477 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 1320 Euros per person
+  - 1320 euros
+- - 2 People
+  - 720 Euros per person
+  - 1440 euros
+- - 3 People
+  - 520 Euros per person
+  - 1560 euros
+- - 4 People
+  - 420 Euros per person
+  - 1680 euros
+- - 5 People
+  - 360 Euros per person
+  - 1800 euros
+- - 6 People
+  - 320 Euros per person
+  - 1920 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - The most comfortable months are March to May and September to November. Winters can be freezing at night, and summer temperatures can be extreme, especially in the desert.
@@ -134,7 +138,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d1722116.7729230525!2d-6.079640175008169!3d32.53924965676884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzrou%2C%20Morocco!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sen!2sen!4v1754141018069!5m2!1sen!2sen
 tourCode: MEX-63803
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1320.0
+- people: 2
+  perPerson: 720.0
+- people: 3
+  perPerson: 520.0
+- people: 4
+  perPerson: 420.0
+- people: 5
+  perPerson: 360.0
+- people: 6
+  perPerson: 320.0
 autoPricing:
   days: 4
   nights: 3

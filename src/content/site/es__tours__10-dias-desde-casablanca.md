@@ -4,7 +4,7 @@ lang: es
 section: tours
 pslug: 10-dias-desde-casablanca
 urlPath: es/tours/10-dias-desde-casablanca
-price: 500
+price: 1860.0
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/10-dias-desde-casablanca/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Este tour de 10 días por Marruecos, con salida desde Casablan
   <p>Desde el desierto, la ruta continúa por el animado mercado de Rissani, las espectaculares gargantas del Todra y el hermoso valle del Dades. La carretera conduce luego a Ouarzazate, conocida como el «Hollywood de África», y al sitio declarado Patrimonio de la Humanidad por la UNESCO de Aït Ben Haddou, un pueblo fortificado que ha servido de escenario para numerosas películas. Tras cruzar las montañas del Alto Atlas, el recorrido llega finalmente a Marrakech.</p>
 
   <p>El último día completo se dedica a explorar los lugares más destacados de Marrakech, como la mezquita Koutoubia, <a href="https://es.wikipedia.org/wiki/Palacio_de_la_Bah%C3%ADa" rel="noopener" target="_blank"><strong>el palacio Bahía</strong></a>, las tumbas saadíes, los jardines Majorelle y la bulliciosa plaza Jemaa el-Fnaa. La aventura termina con el traslado al aeropuerto el último día.</p>'
-priceHeading: Breve itinerario del tour de 10 días por Marruecos desde Casablanca
+priceHeading: null
 priceRows:
-- - Día
-  - Salida
-  - Llegada
-  - Distancia
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Chefchaouen
-  - 340km
-- - '#3'
-  - Chefchaouen
-  - Fez
-  - 200km
-- - '#4'
-  - Fez
-  - Fez
-  - —
-- - '#5'
-  - Fez
-  - Merzouga
-  - 470 km
-- - '#6'
-  - Merzouga
-  - Desierto
-  - 40km
-- - '#7'
-  - Merzouga
-  - Dades
-  - 270 km
-- - '#8'
-  - Dades
-  - Marrakech
-  - 320 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#10'
-  - Marrakech
-  - Aeroporto
-  - —
+- - Número de viajeros
+  - Precio por persona
+  - Total
+- - 1 Persona
+  - 3360 Euros por persona
+  - 3360 euros
+- - 2 Personas
+  - 1860 Euros por persona
+  - 3720 euros
+- - 3 Personas
+  - 1360 Euros por persona
+  - 4080 euros
+- - 4 Personas
+  - 1110 Euros por persona
+  - 4440 euros
+- - 5 Personas
+  - 960 Euros por persona
+  - 4800 euros
+- - 6 Personas
+  - 860 Euros por persona
+  - 5160 euros
+- - +6 personas
+  - Contáctanos para el precio
+  - …
 notesHeading: null
 notes:
 - El viaje dura 10 días y recorre varias ciudades y regiones, desde Casablanca hasta Marrakech, incluyendo el desierto del Sáhara. Prepárate para una mezcla de visitas a ciudades y largos trayectos en coche.
@@ -159,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-8.641051502583316!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1ses!2ses!4v1755358067049!5m2!1ses!2ses
 tourCode: MEX-80689
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 3360.0
+- people: 2
+  perPerson: 1860.0
+- people: 3
+  perPerson: 1360.0
+- people: 4
+  perPerson: 1110.0
+- people: 5
+  perPerson: 960.0
+- people: 6
+  perPerson: 860.0
 autoPricing:
   days: 10
   nights: 9

@@ -4,7 +4,7 @@ lang: es
 section: tours
 pslug: senderismo-5-dias-desierto
 urlPath: es/tours/senderismo-5-dias-desierto
-price: null
+price: 910.0
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/senderismo-5-dias-desierto/
@@ -16,32 +16,32 @@ overviewHtml: '<p>El trekking de 5 días por el Sáhara comienza en Merzouga, do
   <p>Desde allí, la ruta continúa a través de Hamada du Guir, un desierto rocoso que contrasta con las arenas doradas, antes de llegar a las tranquilas dunas de Erg Znaigui para otro campamento bajo las estrellas. El cuarto día te lleva al pueblo de Begaa, un oasis rodeado de montañas, donde disfrutarás de un picnic y descubrirás las tradiciones locales antes de regresar a las dunas para ver la puesta de sol.</p>
 
   <p>El último día, tras un último amanecer en el desierto, la ruta termina en <a href="https://es.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>Merzouga</strong> </a>o Khamlia, dejándole con recuerdos eternos del Sáhara.</p>'
-priceHeading: Breve itinerario del senderismo de 5 días por el Sáhara desde Merzouga
+priceHeading: null
 priceRows:
-- - Día
-  - Salida
-  - Llegada
-  - Distancia
-- - '#1'
-  - Merzouga
-  - Bouighd
-  - 10 km
-- - '#2'
-  - Bouird
-  - Merdani
-  - 15 km
-- - '#3'
-  - Merdani
-  - Erg Znaigui
-  - 15 km
-- - '#4'
-  - Erg Znaigui
-  - Erg Znaigui
-  - —
-- - '#5'
-  - Erg Znaigui
-  - Merzouga
-  - 10 km
+- - Número de viajeros
+  - Precio por persona
+  - Total
+- - 1 Persona
+  - 1660 Euros por persona
+  - 1660 euros
+- - 2 Personas
+  - 910 Euros por persona
+  - 1820 euros
+- - 3 Personas
+  - 660 Euros por persona
+  - 1980 euros
+- - 4 Personas
+  - 535 Euros por persona
+  - 2140 euros
+- - 5 Personas
+  - 460 Euros por persona
+  - 2300 euros
+- - 6 Personas
+  - 410 Euros por persona
+  - 2460 euros
+- - +6 personas
+  - Contáctanos para el precio
+  - …
 notesHeading: null
 notes:
 - Pasará las noches en campamentos tradicionales del desierto, tiendas de campaña y acampadas libres. No hay opciones de lujo, así que prepárese para una experiencia rústica con instalaciones básicas.
@@ -128,7 +128,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1ses!2ses!4v1756995114878!5m2!1ses!2ses
 tourCode: MEX-54815
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1660.0
+- people: 2
+  perPerson: 910.0
+- people: 3
+  perPerson: 660.0
+- people: 4
+  perPerson: 535.0
+- people: 5
+  perPerson: 460.0
+- people: 6
+  perPerson: 410.0
 autoPricing:
   days: 5
   nights: 4

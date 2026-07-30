@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: excursion-merzouga-3-jours
 urlPath: fr/tours/excursion-merzouga-3-jours
-price: 180
+price: 530.0
 duration: 3 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-merzouga-3-jours/
@@ -18,14 +18,32 @@ overviewHtml: '<p>Vous recherchez une excursion complète dans le désert à Mer
   <p>Le lendemain commence par un magnifique lever de soleil et un petit-déjeuner. Ensuite, une excursion en 4×4 vous emmène au village de Khamlia pour profiter de la musique gnawa, suivie d’une visite des mines de M’ifis, connues pour leurs fossiles et leurs vues imprenables sur le désert. Vous rendrez également visite à une famille nomade, partagerez un thé et découvrirez leur mode de vie. Dans l’après-midi, profitez d’une excursion passionnante en quad à travers les plus hautes dunes au coucher du soleil avant de retourner au camp pour le dîner et une autre nuit étoilée.</p>
 
   <p>Le dernier matin, admirez à nouveau le lever du soleil, savourez votre petit-déjeuner et retournez à Merzouga en 4×4.</p>'
-priceHeading: Prix pour l’excursion en 4×4, chameau, quad et bivouac à Merzouga
+priceHeading: null
 priceRows:
-- - Bivouacs dans le désert
+- - Nombre de voyageurs
   - Prix par personne
-- - Bivouac standard
-  - 180 Euros
-- - Bivouac de luxe
-  - 250 Euros
+  - Total
+- - 1 Personne
+  - 980 Euros par personne
+  - 980 euros
+- - 2 Personnes
+  - 530 Euros par personne
+  - 1060 euros
+- - 3 Personnes
+  - 380 Euros par personne
+  - 1140 euros
+- - 4 Personnes
+  - 305 Euros par personne
+  - 1220 euros
+- - 5 Personnes
+  - 260 Euros par personne
+  - 1300 euros
+- - 6 Personnes
+  - 230 Euros par personne
+  - 1380 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - La visite commence dans le village de Merzouga en fin d’après-midi, vers 16h00 en hiver et 18h00 pendant les mois les plus chauds. À votre arrivée à notre bureau, vous pouvez garer votre voiture en toute sécurité et préparer un petit sac avec tout ce dont vous avez besoin pour passer deux nuits dans le campement du désert. Les bagages supplémentaires peuvent être entreposés dans nos bureaux ou, si vous préférez, nous pouvons les transférer directement au camp pour vous. Ce circuit est un forfait aventure complet dans le désert, comprenant des balades à dos de chameau, des randonnées en quad et un circuit en 4×4 dans le désert. Les deux activités sont sécurisées et guidées par des professionnels expérimentés, vous garantissant une expérience amusante et sûre dans le Sahara.
@@ -97,7 +115,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sfr!2sfr!4v1756648805984!5m2!1sfr!2sfr
 tourCode: MEX-70069
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 980.0
+- people: 2
+  perPerson: 530.0
+- people: 3
+  perPerson: 380.0
+- people: 4
+  perPerson: 305.0
+- people: 5
+  perPerson: 260.0
+- people: 6
+  perPerson: 230.0
 autoPricing:
   days: 3
   nights: 2

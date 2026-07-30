@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 10-day-marrakech-tour
 urlPath: tours/10-day-marrakech-tour
-price: 450
+price: 1480.0
 duration: 8 Days
 tag: null
 source: https://morocco-excursion.com/tours/10-day-marrakech-tour/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Join us on an unforgettable 10-day tour across Morocco, starti
   <p>From there, we travel to the north of Morocco to visit the beautiful town of <strong>Chefchaouen</strong>, famous for its peaceful atmosphere and blue-painted streets, set high in the <strong>Rif Mountains</strong>. Afterward, we head to <strong>Rabat</strong>, Morocco’s capital city, where you’ll visit royal landmarks and coastal views, followed by a stop in <strong>Casablanca</strong> to see the impressive <strong>Hassan II Mosque</strong> by the sea.</p>
 
   <p>The tour ends back in <strong>Marrakech</strong>, where you’ll have time to relax, shop, or enjoy the city one more time before departure.</p>'
-priceHeading: Brief itinerary of the Moroccan tour of 10 days from Marrakech
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Airport
-  - Marrakech
-  - —
-- - '#2'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#3'
-  - Marrakech
-  - Valley of Dades
-  - 340 km
-- - '#4'
-  - Dades
-  - Merzouga Desert
-  - 255 km
-- - '#5'
-  - Merzouga
-  - Fes
-  - 470 km
-- - '#6'
-  - Fes
-  - Fes
-  - —
-- - '#7'
-  - Fes
-  - Chefchaouen
-  - 265 km
-- - '#8'
-  - Chefchaouen
-  - Rabat
-  - 250 km
-- - '#9'
-  - Rabat
-  - Marrakech
-  - 320 km
-- - '#10'
-  - Marrakech
-  - Airport
-  - —
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2680 Euros per person
+  - 2680 euros
+- - 2 People
+  - 1480 Euros per person
+  - 2960 euros
+- - 3 People
+  - 1080 Euros per person
+  - 3240 euros
+- - 4 People
+  - 880 Euros per person
+  - 3520 euros
+- - 5 People
+  - 760 Euros per person
+  - 3800 euros
+- - 6 People
+  - 680 Euros per person
+  - 4080 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - Some days involve 6–8 hours of driving, especially between Marrakech–Dades, Merzouga–<strong><a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank">Fes</a></strong>, and Chefchaouen–Rabat. The scenery is beautiful, with stops along the way, but bring snacks, water, and motion sickness medicine if needed.
@@ -236,7 +216,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425707.1096300003!2d-8.65925717332393!3d33.01914009082002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda067e2acf2ef09%3A0x8bdbd265c6bd6453!2sOualili%2C%20Morocco!3m2!1d34.0390802!2d-5.5624455!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753870727378!5m2!1sen!2sen
 tourCode: MEX-98613
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2680.0
+- people: 2
+  perPerson: 1480.0
+- people: 3
+  perPerson: 1080.0
+- people: 4
+  perPerson: 880.0
+- people: 5
+  perPerson: 760.0
+- people: 6
+  perPerson: 680.0
 autoPricing:
   days: 8
   nights: 7

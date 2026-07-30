@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 10-jours-casablanca
 urlPath: fr/tours/10-jours-casablanca
-price: null
+price: 1860.0
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/10-jours-casablanca/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Ce circuit de 10 jours au Maroc au départ de Casablanca est u
   <p>Depuis le désert, l’itinéraire se poursuit à travers le marché animé de Rissani, les spectaculaires gorges du Todra et la magnifique vallée du Dadès. La route mène ensuite à Ouarzazate, surnommée « Hollywood de l’Afrique », et au site classé au patrimoine mondial de l’UNESCO d’Aït Ben Haddou, un village fortifié qui a servi de décor à de nombreux films. Après avoir traversé le Haut Atlas, le circuit arrive enfin à Marrakech.</p>
 
   <p>La dernière journée complète est consacrée à la découverte des sites incontournables de Marrakech, notamment la mosquée Koutoubia, <a href="https://fr.wikipedia.org/wiki/Palais_de_la_Bahia" rel="noopener" target="_blank"><strong>le palais Bahia</strong></a>, les tombeaux saadiens, les jardins Majorelle et la place animée Jemaa el-Fnaa. L’aventure se termine par un transfert à l’aéroport le dernier jour.</p>'
-priceHeading: Itinéraire succinct du circuit de 10 jours au départ de Casablanca
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Aéroport
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Chefchaouen
-  - 340km
-- - '#3'
-  - Chefchaouen
-  - Fes
-  - 200km
-- - '#4'
-  - Fes
-  - Fes
-  - —
-- - '#5'
-  - Fes
-  - Merzouga
-  - 470 km
-- - '#6'
-  - Merzouga
-  - Désert
-  - 40km
-- - '#7'
-  - Merzouga
-  - Dades
-  - 270 km
-- - '#8'
-  - Dades
-  - Marrakech
-  - 320 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#10'
-  - Marrakech
-  - Aéroport
-  - —
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 3360 Euros par personne
+  - 3360 euros
+- - 2 Personnes
+  - 1860 Euros par personne
+  - 3720 euros
+- - 3 Personnes
+  - 1360 Euros par personne
+  - 4080 euros
+- - 4 Personnes
+  - 1110 Euros par personne
+  - 4440 euros
+- - 5 Personnes
+  - 960 Euros par personne
+  - 4800 euros
+- - 6 Personnes
+  - 860 Euros par personne
+  - 5160 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Le voyage dure 10 jours et couvre plusieurs villes et régions, de Casablanca à Marrakech, en passant par le désert du Sahara. Préparez-vous à un mélange de visites urbaines et de longs trajets en voiture.
@@ -159,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m72!1m8!1m3!1d6849233.40593251!2d-6.000155!3d33.047192!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755364801818!5m2!1sfr!2sfr
 tourCode: MEX-84235
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 3360.0
+- people: 2
+  perPerson: 1860.0
+- people: 3
+  perPerson: 1360.0
+- people: 4
+  perPerson: 1110.0
+- people: 5
+  perPerson: 960.0
+- people: 6
+  perPerson: 860.0
 autoPricing:
   days: 10
   nights: 9

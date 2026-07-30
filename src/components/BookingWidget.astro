@@ -11,15 +11,13 @@ interface Props {
   price?: number | null;
   perUnit?: string; // e.g. t.perDay, or '' for tours
   isCar?: boolean;
-  rating?: number | null;
-  reviewCount?: number | null;
   pricingMode?: 'group' | 'tiers' | 'auto';
   priceTiers?: PriceTier[];
   autoPricing?: AutoPricing | null;
   hasDesertExtras?: boolean;
 }
 const {
-  lang, title, price, perUnit = '', isCar = false, rating, reviewCount,
+  lang, title, price, perUnit = '', isCar = false,
   pricingMode = 'group', priceTiers = [], autoPricing = null, hasDesertExtras = false,
 } = Astro.props;
 const t = UI[lang];
@@ -39,11 +37,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
   {priceStr
     ? <div class="amt">{priceStr}<small>{perUnit}</small></div>
     : <div class="amt" style="font-size:22px">On request</div>}
-  {rating
-    ? <div class="row"><span class="stars"><Icon name="star" /></span> {rating.toFixed(1)} · {reviewCount ?? 0} {t.reviewsLabel}</div>
-    : <div class="row"><Icon name="star" class="ico" style="color:#c7cfd8" /> {t.notRated}</div>}
-  <div class="row"><Icon name="shield" /> {t.freeCancellation}</div>
-  <div class="row"><Icon name="globe" /> {isCar ? t.category : t.private}</div>
+  {isCar && <div class="row"><Icon name="globe" /> {t.category}</div>}
 
   <div class="bk-field">
     <label>{isCar ? t.pickupDate : t.preferredDate}</label>

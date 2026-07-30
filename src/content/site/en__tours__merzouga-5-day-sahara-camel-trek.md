@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: merzouga-5-day-sahara-camel-trek
 urlPath: tours/merzouga-5-day-sahara-camel-trek
-price: null
+price: 910.0
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/tours/merzouga-5-day-sahara-camel-trek/
@@ -16,32 +16,32 @@ overviewHtml: '<p>The 5-day Sahara <a href="https://morocco-excursion.com/sahara
   <p>From there, the route continues across the Hamada du Guir, a rocky desert that contrasts with the golden sands, before reaching the tranquil Erg Znaigui dunes for another starlit bivouac. Day four takes you to Begaa Village, an oasis surrounded by mountains, where you enjoy a picnic and discover local traditions before returning to the dunes for sunset.</p>
 
   <p>On the final day, after a last sunrise in the desert, the trek ends in <a href="https://en.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>Merzouga village</strong></a> or Khamlia, leaving you with timeless Sahara memories.</p>'
-priceHeading: Brief itinerary of the 5-day Sahara trekking from Merzouga
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Merzouga
-  - Bouighd
-  - 10 km
-- - '#2'
-  - Bouird
-  - Merdani
-  - 15 km
-- - '#3'
-  - Merdani
-  - Erg Znaigui
-  - 15 km
-- - '#4'
-  - Erg Znaigui
-  - Erg Znaigui
-  - —
-- - '#5'
-  - Erg Znaigui
-  - Merzouga
-  - 10 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 1660 Euros per person
+  - 1660 euros
+- - 2 People
+  - 910 Euros per person
+  - 1820 euros
+- - 3 People
+  - 660 Euros per person
+  - 1980 euros
+- - 4 People
+  - 535 Euros per person
+  - 2140 euros
+- - 5 People
+  - 460 Euros per person
+  - 2300 euros
+- - 6 People
+  - 410 Euros per person
+  - 2460 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - You will spend nights in traditional desert bivouacs, tents, and wild camping. <a href="https://morocco-excursion.com/morocco-luxury-tours/" rel="noopener" target="_blank"><b>Luxury</b></a> options are not available, so be prepared for a rustic experience with basic facilities.
@@ -128,7 +128,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sen!2sus!4v1756995114878!5m2!1sen!2sus
 tourCode: MEX-52463
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1660.0
+- people: 2
+  perPerson: 910.0
+- people: 3
+  perPerson: 660.0
+- people: 4
+  perPerson: 535.0
+- people: 5
+  perPerson: 460.0
+- people: 6
+  perPerson: 410.0
 autoPricing:
   days: 5
   nights: 4

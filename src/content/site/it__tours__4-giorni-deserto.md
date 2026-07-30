@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: 4-giorni-deserto
 urlPath: it/tours/4-giorni-deserto
-price: 170
+price: 720.0
 duration: 4 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/4-giorni-deserto/
@@ -18,28 +18,32 @@ overviewHtml: '<p>Questo viaggio di 4 giorni nel deserto selvaggio inizia a Merz
   <p>Il terzo giorno attraverserete villaggi desertici come Ramlia e Tafraoute, per poi raggiungere l’imponente gola di Mharech. Visiterete anche le antiche rovine di Oubahlou prima di tornare a Ouzina.</p>
 
   <p>L’ultimo giorno tornerete a Merzouga attraverso le dune di Erg Znaigui, concludendo la vostra avventura nel deserto.</p>'
-priceHeading: Breve itinerario del tour di 4 giorni da Merzouga
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Merzouga
-  - Erg Chebbi
-  - 95 km
-- - '#2'
-  - Erg Chebbi
-  - Ouzina
-  - 80 km
-- - '#3'
-  - Ouzina
-  - Ouzina
-  - 150 km
-- - '#4'
-  - Ouzina
-  - Merzouga
-  - 120 km
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 1320 Euro a persona
+  - 1320 euro
+- - 2 Persone
+  - 720 Euro a persona
+  - 1440 euro
+- - 3 Persone
+  - 520 Euro a persona
+  - 1560 euro
+- - 4 Persone
+  - 420 Euro a persona
+  - 1680 euro
+- - 5 Persone
+  - 360 Euro a persona
+  - 1800 euro
+- - 6 Persone
+  - 320 Euro a persona
+  - 1920 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - La maggior parte del viaggio si svolge a bordo di un veicolo 4×4, il mezzo migliore per percorrere le piste desertiche accidentate. A Merzouga avrete anche la possibilità di godervi un giro in cammello tra le dune. Per un’esperienza ancora più avventurosa, potrete scegliere attività opzionali come il quad o il buggy tra le dune.
@@ -120,7 +124,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sit!2sit!4v1757232785170!5m2!1sit!2sit
 tourCode: MEX-42935
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1320.0
+- people: 2
+  perPerson: 720.0
+- people: 3
+  perPerson: 520.0
+- people: 4
+  perPerson: 420.0
+- people: 5
+  perPerson: 360.0
+- people: 6
+  perPerson: 320.0
 autoPricing:
   days: 4
   nights: 3

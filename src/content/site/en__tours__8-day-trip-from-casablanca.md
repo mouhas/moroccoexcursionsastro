@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 8-day-trip-from-casablanca
 urlPath: tours/8-day-trip-from-casablanca
-price: 480
+price: 1480.0
 duration: 8 Days
 tag: null
 source: https://morocco-excursion.com/tours/8-day-trip-from-casablanca/
@@ -20,44 +20,32 @@ overviewHtml: '<p>The 8-day tour adventure begins in Casablanca, where the stunn
   <p>This carefully crafted itinerary balances cultural immersion with natural wonders, offering comfortable travel between destinations while allowing time to experience Morocco’s authentic charm. From the Atlantic coast to the <a href="https://en.wikipedia.org/wiki/Sahara" rel="noopener" target="_blank"><strong>Sahara Desert</strong></a>, each day reveals new facets of this diverse country – imperial cities, mountain vistas, desert landscapes, and vibrant markets. The trip concludes with lasting memories of Morocco’s warm hospitality, rich history, and breathtaking scenery.</p>
 
   <p>Perfect for first-time visitors, this tour showcases Morocco’s highlights while providing insights into its fascinating culture and traditions.</p>'
-priceHeading: Brief itinerary of the 8 days from Casablanca to the Imperial cities and the desert
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Airport
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Fes
-  - 320km
-- - '#3'
-  - Fes
-  - —
-  - —
-- - '#4'
-  - Fes
-  - Merzouga Desert
-  - 470 km
-- - '#5'
-  - Merzouga
-  - Dades
-  - 250 km
-- - '#6'
-  - Dades
-  - Marrakech
-  - 330 km
-- - '#7'
-  - Marrakech
-  - —
-  - —
-- - '#8'
-  - Marrakech
-  - Airport
-  - 6 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2680 Euros per person
+  - 2680 euros
+- - 2 People
+  - 1480 Euros per person
+  - 2960 euros
+- - 3 People
+  - 1080 Euros per person
+  - 3240 euros
+- - 4 People
+  - 880 Euros per person
+  - 3520 euros
+- - 5 People
+  - 760 Euros per person
+  - 3800 euros
+- - 6 People
+  - 680 Euros per person
+  - 4080 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - This exciting 8-day journey takes you through Morocco’s most beautiful places, starting in Casablanca and ending in Marrakech. You’ll visit historic cities like Rabat and Fes, see amazing desert landscapes in Merzouga, and explore stunning valleys and mountains along the way. The entire trip spans approximately 1,500 kilometers (930 miles) of diverse scenery.
@@ -151,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sus!4v1755183565542!5m2!1sen!2sus
 tourCode: MEX-45397
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2680.0
+- people: 2
+  perPerson: 1480.0
+- people: 3
+  perPerson: 1080.0
+- people: 4
+  perPerson: 880.0
+- people: 5
+  perPerson: 760.0
+- people: 6
+  perPerson: 680.0
 autoPricing:
   days: 8
   nights: 7

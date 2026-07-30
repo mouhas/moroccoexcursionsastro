@@ -4,7 +4,7 @@ lang: pt-br
 section: tours
 pslug: 10-dias-de-casablanca
 urlPath: pt-br/tours/10-dias-de-casablanca
-price: 500
+price: 1860.0
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/10-dias-de-casablanca/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Esta excursão de 10 dias pelo Marrocos, com partida de Casabl
   <p>Do deserto, a rota continua pelo animado mercado de Rissani, pelas espetaculares Gargantas do Todra e pelo belo Vale do Dades. A estrada leva então a Ouarzazate, conhecida como a «Hollywood da África», e ao Património Mundial da UNESCO de Aït Ben Haddou, uma aldeia fortificada usada como cenário em muitos filmes. Atravessando as montanhas do Alto Atlas, a excursão chega finalmente a Marraquexe.</p>
 
   <p>O último dia inteiro é dedicado a explorar os pontos turísticos de Marraquexe, incluindo a Mesquita Koutoubia, <a href="https://pt.wikipedia.org/wiki/Pal%C3%A1cio_da_Bahia" rel="noopener" target="_blank"><strong>o Palácio Bahia</strong></a>, os Túmulos Saadianos, os Jardins Majorelle e a movimentada praça Jemaa el-Fnaa. A aventura termina com um transfer para o aeroporto no último dia.</p>'
-priceHeading: Breve itinerário da excursão de 10 dias pelo Marrocos a partir de Casablanca
+priceHeading: null
 priceRows:
-- - Dia
-  - Partida
-  - Chegada
-  - Distância
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Chefchaouen
-  - 340km
-- - '#3'
-  - Chefchaouen
-  - Fes
-  - 200km
-- - '#4'
-  - Fes
-  - Fes
-  - —
-- - '#5'
-  - Fes
-  - Merzouga
-  - 470 km
-- - '#6'
-  - Merzouga
-  - Deserto
-  - 40km
-- - '#7'
-  - Merzouga
-  - Dades
-  - 270 km
-- - '#8'
-  - Dades
-  - Marrakech
-  - 320 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#10'
-  - Marrakech
-  - Aeroporto
-  - —
+- - Número de viajantes
+  - Preço por pessoa
+  - Total
+- - 1 Pessoa
+  - 3360 Euros por pessoa
+  - 3360 euros
+- - 2 Pessoas
+  - 1860 Euros por pessoa
+  - 3720 euros
+- - 3 Pessoas
+  - 1360 Euros por pessoa
+  - 4080 euros
+- - 4 Pessoas
+  - 1110 Euros por pessoa
+  - 4440 euros
+- - 5 Pessoas
+  - 960 Euros por pessoa
+  - 4800 euros
+- - 6 Pessoas
+  - 860 Euros por pessoa
+  - 5160 euros
+- - +6 pessoas
+  - Contate-nos para o preço
+  - …
 notesHeading: null
 notes:
 - A viagem dura 10 dias e abrange várias cidades e regiões, de Casablanca a Marraquexe, incluindo o deserto do Saara. Esteja preparado para uma mistura de passeios pela cidade e longas viagens de carro.
@@ -159,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-8.641051502583316!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1spt-pt!2spt-pt!4v1755358067049!5m2!1spt-pt!2spt-pt
 tourCode: MEX-40354
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 3360.0
+- people: 2
+  perPerson: 1860.0
+- people: 3
+  perPerson: 1360.0
+- people: 4
+  perPerson: 1110.0
+- people: 5
+  perPerson: 960.0
+- people: 6
+  perPerson: 860.0
 autoPricing:
   days: 10
   nights: 9

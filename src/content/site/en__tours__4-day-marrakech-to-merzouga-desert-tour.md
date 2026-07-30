@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 4-day-marrakech-to-merzouga-desert-tour
 urlPath: tours/4-day-marrakech-to-merzouga-desert-tour
-price: 200
+price: 720.0
 duration: 4 Days
 tag: null
 source: https://morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/
@@ -22,28 +22,32 @@ overviewHtml: '<p>The 4-day desert tour from <a href="https://morocco-excursion.
   <p>On the last day, we will return to Marrakech from Ouarzazate after visiting the movie studios. We will take the same road back through the Atlas Mountains.</p>
 
   <p>We offer three hotel and desert camp options: standard, superior, or luxury — you can choose the one that best suits your needs.</p>'
-priceHeading: Brief itinerary of the 4-day desert tour from Marrakech to Merzouga
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - 1st
-  - Marrakech
-  - Dades
-  - 258 km
-- - 2nd
-  - Dades
-  - Merzouga Desert
-  - 300 km
-- - 3rd
-  - Merzouga
-  - Ouarzazate
-  - 396 km
-- - 4th
-  - Ouarzazate
-  - Marrakech
-  - 200 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 1320 Euros per person
+  - 1320 euros
+- - 2 People
+  - 720 Euros per person
+  - 1440 euros
+- - 3 People
+  - 520 Euros per person
+  - 1560 euros
+- - 4 People
+  - 420 Euros per person
+  - 1680 euros
+- - 5 People
+  - 360 Euros per person
+  - 1800 euros
+- - 6 People
+  - 320 Euros per person
+  - 1920 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - This trip includes a lot of driving, especially through the High Atlas Mountains.
@@ -160,7 +164,19 @@ rating: 5.0
 reviewCount: 500
 mapUrl: https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d3497684.3150255904!2d-8.642006129471948!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sbg!4v1753530877704!5m2!1sen!2sbg
 tourCode: MEX-42487
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1320.0
+- people: 2
+  perPerson: 720.0
+- people: 3
+  perPerson: 520.0
+- people: 4
+  perPerson: 420.0
+- people: 5
+  perPerson: 360.0
+- people: 6
+  perPerson: 320.0
 autoPricing:
   days: 4
   nights: 3

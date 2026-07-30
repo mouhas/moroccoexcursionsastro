@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 12-day-trip-from-marrakech
 urlPath: tours/12-day-trip-from-marrakech
-price: null
+price: 2240.0
 duration: 12 Days
 tag: null
 source: https://morocco-excursion.com/tours/12-day-trip-from-marrakech/
@@ -22,60 +22,32 @@ overviewHtml: '<p>If you are looking for a full Moroccan experience, this 12-day
   <p>The following two days are dedicated to exploring the ancient city of <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a>, guided by a local expert who will take you through its labyrinthine streets and cultural sites. After soaking in the rich heritage of Fes, you’ll journey south toward the Sahara Desert for a unique camel trek and a breathtaking sunset over the dunes.</p>
 
   <p>Next, the tour winds through the scenic <a href="https://en.wikipedia.org/wiki/Dad%C3%A8s_River" rel="noopener" target="_blank"><strong>Dades Valley</strong></a>, passing traditional Berber villages and dramatic mountain landscapes. As you cross the majestic Atlas Mountains, you’ll return to Marrakech where you’ll have some free time to relax or shop before your airport transfer the next day.</p>'
-priceHeading: Brief itinerary of the 12-day trip from Marrakech
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Airport
-  - Marrakech
-  - 8 km
-- - '#2'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#3'
-  - Marrakech
-  - Essaouira
-  - 184 km
-- - '#4'
-  - Essaouira
-  - Rabat
-  - 457 km
-- - '#5'
-  - Rabat
-  - Chefchaouen
-  - 353 km
-- - '#6'
-  - Chefchaouen
-  - Fes
-  - 197 km
-- - '#7'
-  - Fes
-  - Fes
-  - —
-- - '#8'
-  - Fes
-  - Merzouga
-  - 469 km
-- - '#9'
-  - Merzouga
-  - Desert
-  - 45 km
-- - '#10'
-  - Merzouga Desert
-  - Dades
-  - 266 km
-- - '#11'
-  - Dades
-  - Marrakech
-  - 330 km
-- - '#12'
-  - Marrakech
-  - Airport
-  - 8 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 4040 Euros per person
+  - 4040 euros
+- - 2 People
+  - 2240 Euros per person
+  - 4480 euros
+- - 3 People
+  - 1640 Euros per person
+  - 4920 euros
+- - 4 People
+  - 1340 Euros per person
+  - 5360 euros
+- - 5 People
+  - 1160 Euros per person
+  - 5800 euros
+- - 6 People
+  - 1040 Euros per person
+  - 6240 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - This tour includes a guided walking tour with a local guide who will show you around Marrakech and <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><strong>Fes</strong></a>, helping you explore hidden gems, ancient streets, and local culture you may miss on your own.
@@ -227,7 +199,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sus!4v1753800762390!5m2!1sen!2sus
 tourCode: MEX-55303
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 4040.0
+- people: 2
+  perPerson: 2240.0
+- people: 3
+  perPerson: 1640.0
+- people: 4
+  perPerson: 1340.0
+- people: 5
+  perPerson: 1160.0
+- people: 6
+  perPerson: 1040.0
 autoPricing:
   days: 12
   nights: 11

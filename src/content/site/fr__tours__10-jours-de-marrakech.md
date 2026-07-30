@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 10-jours-de-marrakech
 urlPath: fr/tours/10-jours-de-marrakech
-price: null
+price: 1860.0
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/10-jours-de-marrakech/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Vous rêvez de passer 10 jours mystérieux et aventureux au Ma
   <p>Les sixième et septième jours, nous retournerons à Marrakech par la route du sud. Ce voyage vous fera traverser des paysages désertiques rocailleux, de petits villages berbères, des marchés locaux animés et des vallées luxuriantes remplies de palmiers.</p>
 
   <p>Les trois derniers jours sont consacrés à deux excursions passionnantes au départ de Marrakech. L’une d’entre elles consiste à se rendre aux chutes d’eau d’<strong><a href="https://fr.wikipedia.org/wiki/Cascades_d%27Ouzoud" rel="noopener" target="_blank">Ouzoud</a></strong>, les deuxièmes plus hautes d’Afrique. L’autre est à Essaouira, une ville côtière connue pour sa médina calme et ses vents marins puissants. Le dernier jour, vous aurez du temps libre à Marrakech avant d’être transféré à l’aéroport.</p>'
-priceHeading: Brief itinéraire du voyage de 10 jours au départ de Marrakech
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Aéroport
-  - Marrakech
-  - —
-- - '#2'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#3'
-  - Marrakech
-  - Valle de Dades
-  - 330 km
-- - '#4'
-  - Dades
-  - Merzouga
-  - 300 km
-- - '#5'
-  - Merzouga
-  - Désert de Erg Chebbi
-  - 50 km
-- - '#6'
-  - Merzouga
-  - Ouarzazate
-  - 396 km
-- - '#7'
-  - Ouarzazate
-  - Marrakech
-  - 300 km
-- - '#8'
-  - Marrakech
-  - Marrakech
-  - 195 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - 191 km
-- - '#10'
-  - Aéroport
-  - Marrakech
-  - —
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 3360 Euros par personne
+  - 3360 euros
+- - 2 Personnes
+  - 1860 Euros par personne
+  - 3720 euros
+- - 3 Personnes
+  - 1360 Euros par personne
+  - 4080 euros
+- - 4 Personnes
+  - 1110 Euros par personne
+  - 4440 euros
+- - 5 Personnes
+  - 960 Euros par personne
+  - 4800 euros
+- - 6 Personnes
+  - 860 Euros par personne
+  - 5160 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Le circuit couvre Marrakech, les montagnes de l’Atlas et la mer. Vous découvrirez des villes animées comme Marrakech, Essaouira et Ouarzazate, ainsi que la beauté calme et sauvage du désert du Sahara. Préparez-vous à un mélange de culture, de nature et d’aventure.
@@ -217,7 +197,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3490480.340150224!2d-9.526072093675358!3d31.312803790105967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Morocco!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753779891580!5m2!1sfr!2sfr
 tourCode: MEX-36138
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 3360.0
+- people: 2
+  perPerson: 1860.0
+- people: 3
+  perPerson: 1360.0
+- people: 4
+  perPerson: 1110.0
+- people: 5
+  perPerson: 960.0
+- people: 6
+  perPerson: 860.0
 autoPricing:
   days: 10
   nights: 9

@@ -4,7 +4,7 @@ lang: pt-br
 section: tours
 pslug: 2-dias-merzouga-trek
 urlPath: pt-br/tours/2-dias-merzouga-trek
-price: 100
+price: 340.0
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/2-dias-merzouga-trek/
@@ -14,20 +14,32 @@ languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Descubra a magia do Saara numa caminhada de dois dias pelas dunas douradas de Erg Chebbi, em Merzouga. Esta aventura única leva-o a pé até às profundezas do deserto, oferecendo uma forma mais lenta e íntima de se conectar com a paisagem. Caminhe pelas dunas ondulantes, escale cumes arenosos para desfrutar de vistas deslumbrantes e aproveite pausas tranquilas com refeições tradicionais berberes em locais sombreados.</p>
 
   <p>Ao pôr do sol, chegue ao seu acampamento no deserto, onde poderá relaxar, saborear a culinária marroquina e apreciar a música berbere ao redor da fogueira, sob um céu estrelado. Passe a noite numa tenda confortável antes de acordar cedo para testemunhar um nascer do sol inesquecível. No segundo dia, siga uma nova rota de volta a Merzouga, passando por famílias nómadas e planícies rochosas do deserto. Este passeio combina a aventura, a cultura e a serenidade do Saara, proporcionando-lhe um verdadeiro sabor da vida no deserto.</p>'
-priceHeading: Breve itinerário da caminhada de 2 dias pelo deserto
+priceHeading: null
 priceRows:
-- - Dia
-  - Partida
-  - Chegada
-  - Distância
-- - '#1'
-  - Merzouga
-  - Erg Chebbi
-  - 15 km
-- - '#2'
-  - Erg Chebbi
-  - Merzouga
-  - 10 km
+- - Número de viajantes
+  - Preço por pessoa
+  - Total
+- - 1 Pessoa
+  - 640 Euros por pessoa
+  - 640 euros
+- - 2 Pessoas
+  - 340 Euros por pessoa
+  - 680 euros
+- - 3 Pessoas
+  - 240 Euros por pessoa
+  - 720 euros
+- - 4 Pessoas
+  - 190 Euros por pessoa
+  - 760 euros
+- - 5 Pessoas
+  - 160 Euros por pessoa
+  - 800 euros
+- - 6 Pessoas
+  - 140 Euros por pessoa
+  - 840 euros
+- - +6 pessoas
+  - Contate-nos para o preço
+  - …
 notesHeading: null
 notes:
 - Caminhar na areia fofa do deserto é mais desafiante do que caminhar em terreno normal, por isso planeie 5 a 6 horas de caminhada por dia. Recomenda-se um nível moderado de condicionamento físico para aproveitar plenamente a experiência.
@@ -89,7 +101,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1spt-pt!2spt-pt!4v1757162605013!5m2!1spt-pt!2spt-pt
 tourCode: MEX-24137
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

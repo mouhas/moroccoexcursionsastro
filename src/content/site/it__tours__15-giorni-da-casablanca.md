@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: 15-giorni-da-casablanca
 urlPath: it/tours/15-giorni-da-casablanca
-price: 580
+price: 2810.0
 duration: 15 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/15-giorni-da-casablanca/
@@ -16,72 +16,32 @@ overviewHtml: '<p>Questo tour di 15 giorni in Marocco inizia a Casablanca, dove 
   <p>Le montagne del Rif vi condurranno a Chefchaouen, la “Perla Blu”, con le sue strade tranquille e la sua splendida architettura. Proseguite verso Meknes e le rovine romane di Volubilis, per poi arrivare a Fes, una città caratterizzata da strette stradine della medina, concerie tradizionali e moschee secolari. Il viaggio verso sud vi porterà attraverso le montagne del Medio Atlante fino a Merzouga, dove le escursioni in cammello sulle dune dorate dell’Erg Chebbi e le visite alle famiglie nomadi creeranno ricordi indimenticabili.</p>
 
   <p>Dal deserto, esplora le Gole del Todra, la Valle del Dades e la profumata Valle delle Rose, prima di visitare Ouarzazate e l’iconica kasbah di Ait Ben Haddou. Le città costiere come Sidi Ifni, Taghazout ed Essaouira offrono relax e vista sull’oceano. Il viaggio termina il giorno dopo la visita a Marrakech, offrendo un mix perfetto di cultura, natura e avventura in tutto il Marocco.</p>'
-priceHeading: Breve itinerario del viaggio di 15 giorni in Marocco da Casablanca
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30 km
-- - '#2'
-  - Casablanca
-  - Tanger
-  - 340 km
-- - '#3'
-  - Tanger
-  - Chefchaouen
-  - 115 km
-- - '#4'
-  - Chefchaouen
-  - Fes
-  - 200 km
-- - '#5'
-  - Fes
-  - —
-  - —
-- - '#6'
-  - Fes
-  - Merzouga
-  - 460 km
-- - '#7'
-  - Merzouga
-  - Deserto
-  - 45 km
-- - '#8'
-  - Merzouga
-  - Ouarzazate
-  - 370 km
-- - '#9'
-  - Ouarzazate
-  - Taroudant
-  - 300 km
-- - '#10'
-  - Taroudant
-  - Sidi Ifni
-  - 250 km
-- - '#11'
-  - Sidi Ifni
-  - Taghazout
-  - 160 km
-- - '#12'
-  - Taghazout
-  - Essaouira
-  - 150 km
-- - '#13'
-  - Essaouira
-  - Marrakech
-  - 190 km
-- - '#14'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#15'
-  - Marrakech
-  - Aeroporto
-  - —
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 5060 Euro a persona
+  - 5060 euro
+- - 2 Persone
+  - 2810 Euro a persona
+  - 5620 euro
+- - 3 Persone
+  - 2060 Euro a persona
+  - 6180 euro
+- - 4 Persone
+  - 1685 Euro a persona
+  - 6740 euro
+- - 5 Persone
+  - 1460 Euro a persona
+  - 7300 euro
+- - 6 Persone
+  - 1310 Euro a persona
+  - 7860 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - Il Marocco è un paese molto bello e fotogenico, ricco di paesaggi colorati, città storiche e mercati vivaci. Se desiderate fotografare le persone, chiedete sempre il permesso prima di scattare. Molti abitanti del luogo sono felici di essere fotografati, ma alcuni potrebbero chiedere una piccola mancia. Essere educati e rispettosi renderà la vostra esperienza più piacevole.
@@ -219,7 +179,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755608529674!5m2!1sit!2sit
 tourCode: MEX-27564
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 5060.0
+- people: 2
+  perPerson: 2810.0
+- people: 3
+  perPerson: 2060.0
+- people: 4
+  perPerson: 1685.0
+- people: 5
+  perPerson: 1460.0
+- people: 6
+  perPerson: 1310.0
 autoPricing:
   days: 15
   nights: 14

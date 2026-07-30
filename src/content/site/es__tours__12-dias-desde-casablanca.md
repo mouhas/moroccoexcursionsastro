@@ -4,7 +4,7 @@ lang: es
 section: tours
 pslug: 12-dias-desde-casablanca
 urlPath: es/tours/12-dias-desde-casablanca
-price: null
+price: 2240.0
 duration: 12 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/12-dias-desde-casablanca/
@@ -18,60 +18,32 @@ overviewHtml: '<p>El viaje comienza en Casablanca, la moderna ciudad marroquí s
   <p>Desde Merzouga, la aventura continúa a través de las espectaculares gargantas del Todra, la sinuosa carretera del valle del Dades y el valle de las Rosas, con su dulce fragancia. El camino conduce luego a Ouarzazate, famosa por sus antiguas kasbahs y estudios cinematográficos. Otro punto destacado es Ait Benhaddou, un pueblo declarado Patrimonio de la Humanidad por la UNESCO con casas de arcilla, antes de cruzar las montañas del Alto Atlas y llegar a Marrakech. En esta animada ciudad, los palacios, los jardines y la bulliciosa plaza Jemaa el-Fnaa capturan la energía y la cultura de Marruecos.</p>
 
   <p>El tour también te lleva a una <a href="https://morocco-excursion.com/es/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursión de un día a las cascadas de Ouzoud</strong></a>, las más altas de Marruecos, y termina junto al océano en Essaouira, una encantadora ciudad con casas blancas, contraventanas azules, murallas históricas y marisco fresco.</p>'
-priceHeading: Breve itinerario del viaje de 12 días por Marruecos desde Casablanca
+priceHeading: null
 priceRows:
-- - Día
-  - Salida
-  - Llegada
-  - Distancia
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30 km
-- - '#2'
-  - Casablanca
-  - Chefchaouen
-  - 340 km
-- - '#3'
-  - Chefchaouen
-  - Fez
-  - 200 km
-- - '#4'
-  - Fez
-  - Fez
-  - —
-- - '#5'
-  - Fez
-  - Desierto de Merzouga
-  - 470 km
-- - '#6'
-  - Merzouga
-  - Desierto de Eg Chebbi
-  - 40 km
-- - '#7'
-  - Merzouga
-  - Dades
-  - 270 km
-- - '#8'
-  - Dades
-  - Marrakech
-  - 320 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#10'
-  - Marrakech
-  - Ouzoud
-  - 360 km
-- - '#11'
-  - Marrakech
-  - Essaouira
-  - 190 km
-- - '#12'
-  - Essaouira
-  - Aeroporto
-  - 370 km
+- - Número de viajeros
+  - Precio por persona
+  - Total
+- - 1 Persona
+  - 4040 Euros por persona
+  - 4040 euros
+- - 2 Personas
+  - 2240 Euros por persona
+  - 4480 euros
+- - 3 Personas
+  - 1640 Euros por persona
+  - 4920 euros
+- - 4 Personas
+  - 1340 Euros por persona
+  - 5360 euros
+- - 5 Personas
+  - 1160 Euros por persona
+  - 5800 euros
+- - 6 Personas
+  - 1040 Euros por persona
+  - 6240 euros
+- - +6 personas
+  - Contáctanos para el precio
+  - …
 notesHeading: null
 notes:
 - Marruecos es más grande de lo que parece en el mapa. Conducir de Fez a Merzouga o de Esauira a Casablanca puede llevar entre 6 y 9 horas, incluyendo las paradas. Muchos tours implican varias horas en la carretera, así que prepárate para viajes largos pero hermosos a través de montañas, valles y desiertos.
@@ -199,7 +171,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1ses!2ses!4v1755433740429!5m2!1ses!2ses
 tourCode: MEX-29651
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 4040.0
+- people: 2
+  perPerson: 2240.0
+- people: 3
+  perPerson: 1640.0
+- people: 4
+  perPerson: 1340.0
+- people: 5
+  perPerson: 1160.0
+- people: 6
+  perPerson: 1040.0
 autoPricing:
   days: 12
   nights: 11

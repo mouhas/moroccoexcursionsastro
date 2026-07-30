@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 5-day-marrakech-to-fes-desert-tour
 urlPath: tours/5-day-marrakech-to-fes-desert-tour
-price: 295
+price: 910.0
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/
@@ -24,32 +24,32 @@ overviewHtml: '<p>This private 5-day desert tour to <a href="https://morocco-exc
   <p>On the last day, the road to Fes passes through scenic mountain areas. Highlights include a stop in Zaida, a small town known for its fresh mountain air, and the cedar forest near Azrou, where you might see monkeys in the wild. Before reaching Fes, the tour also passes through Ifrane, a town known for its clean streets, green spaces, and European-style houses — often called “Little Switzerland.”</p>
 
   <p>For your comfort, this tour offers two accommodation options: standard and luxury. Whether you prefer a simple stay or a more luxurious experience, you can choose the option that fits your style and budget. This private 5-day desert tour is perfect for those who want to explore Morocco’s most famous landscapes and cultural highlights in a short but unforgettable journey.</p>'
-priceHeading: Brief itinerary of the 5-day desert tour to Fes from Marrakech
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Marrakech
-  - Dades
-  - 285 km
-- - '#2'
-  - Dades
-  - Merzouga
-  - 300 km
-- - '#3'
-  - Merzouga
-  - Erg Chebbi Desert
-  - 45 km
-- - '#4'
-  - Erg Chebbi Desert
-  - Medilt
-  - 265 km
-- - '#5'
-  - Medilt
-  - Fes
-  - 198 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 1660 Euros per person
+  - 1660 euros
+- - 2 People
+  - 910 Euros per person
+  - 1820 euros
+- - 3 People
+  - 660 Euros per person
+  - 1980 euros
+- - 4 People
+  - 535 Euros per person
+  - 2140 euros
+- - 5 People
+  - 460 Euros per person
+  - 2300 euros
+- - 6 People
+  - 410 Euros per person
+  - 2460 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - The roads are beautiful but have many curves, so get ready for a long drive with amazing views.
@@ -164,7 +164,19 @@ rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1723547.140043255!2d-7.320556939730211!3d32.46458625769901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd99ad0ff58d7e67%3A0xf5cd04ffe907ee71!2sZiz%20Valley%2C%20N13%2C%20Morocco!3m2!1d32.133578299999996!2d-4.3657376999999995!4m5!1s0xd98bf42e8441e9f%3A0x88269ca6a8dbb536!2sMidelt%2C%20Morocco!3m2!1d32.6799423!2d-4.7329267999999995!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sen!2snl!4v1753630621321!5m2!1sen!2snl
 tourCode: MEX-69346
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1660.0
+- people: 2
+  perPerson: 910.0
+- people: 3
+  perPerson: 660.0
+- people: 4
+  perPerson: 535.0
+- people: 5
+  perPerson: 460.0
+- people: 6
+  perPerson: 410.0
 autoPricing:
   days: 5
   nights: 4

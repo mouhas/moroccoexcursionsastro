@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 17-day-trip-from-rabat
 urlPath: tours/17-day-trip-from-rabat
-price: null
+price: 3190.0
 duration: 17 Days
 tag: null
 source: https://morocco-excursion.com/tours/17-day-trip-from-rabat/
@@ -13,7 +13,31 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: ''
 priceHeading: null
-priceRows: []
+priceRows:
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 5740 Euros per person
+  - 5740 euros
+- - 2 People
+  - 3190 Euros per person
+  - 6380 euros
+- - 3 People
+  - 2340 Euros per person
+  - 7020 euros
+- - 4 People
+  - 1915 Euros per person
+  - 7660 euros
+- - 5 People
+  - 1660 Euros per person
+  - 8300 euros
+- - 6 People
+  - 1490 Euros per person
+  - 8940 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes: []
 highlights: []
@@ -78,7 +102,19 @@ rating: 5.0
 reviewCount: 100
 mapUrl: null
 tourCode: MEX-79286
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 5740.0
+- people: 2
+  perPerson: 3190.0
+- people: 3
+  perPerson: 2340.0
+- people: 4
+  perPerson: 1915.0
+- people: 5
+  perPerson: 1660.0
+- people: 6
+  perPerson: 1490.0
 autoPricing:
   days: 17
   nights: 16

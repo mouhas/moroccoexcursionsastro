@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 8-days-from-marrakech
 urlPath: tours/8-days-from-marrakech
-price: 380
+price: 1480.0
 duration: 8 Days
 tag: null
 source: https://morocco-excursion.com/tours/8-days-from-marrakech/
@@ -26,44 +26,32 @@ overviewHtml: '<p>This 8-day Morocco tour begins in <a href="https://morocco-exc
   <p>Day seven is free for you to relax, shop, or enjoy more of the city at your own pace.</p>
 
   <p>On the final day, a driver will take you to the airport for your flight home. This tour gives you a perfect mix of culture, adventure, and natural beauty in Morocco.</p>'
-priceHeading: Brief itinerary of the 8-day trip visiting Marrakech and the desert
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Airport
-  - Marrakech
-  - —
-- - '#2'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#3'
-  - Marrakech
-  - Dades
-  - 350 km
-- - '#4'
-  - Dades
-  - Merzouga
-  - 330 km
-- - '#5'
-  - Merzouga
-  - Erg Chebbi desert
-  - 45 km
-- - '#6'
-  - Merzouga
-  - Ouarzazate
-  - 367 km
-- - '#7'
-  - Ouarzazate
-  - Marrakech
-  - 200 km
-- - '#8'
-  - Marrakech
-  - Airport
-  - —
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2680 Euros per person
+  - 2680 euros
+- - 2 People
+  - 1480 Euros per person
+  - 2960 euros
+- - 3 People
+  - 1080 Euros per person
+  - 3240 euros
+- - 4 People
+  - 880 Euros per person
+  - 3520 euros
+- - 5 People
+  - 760 Euros per person
+  - 3800 euros
+- - 6 People
+  - 680 Euros per person
+  - 4080 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - The tour begins and finishes in Marrakech, making it easy to arrange flights in and out of the city.
@@ -219,7 +207,19 @@ rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3497684.3150255904!2d-8.642006129471952!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbc7f04e51fff23%3A0x79b4b748288512bd!2sMJC2%2B28M!3m2!1d30.670087499999998!2d-6.399203099999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753709188965!5m2!1sen!2sen
 tourCode: MEX-69143
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2680.0
+- people: 2
+  perPerson: 1480.0
+- people: 3
+  perPerson: 1080.0
+- people: 4
+  perPerson: 880.0
+- people: 5
+  perPerson: 760.0
+- people: 6
+  perPerson: 680.0
 autoPricing:
   days: 8
   nights: 7

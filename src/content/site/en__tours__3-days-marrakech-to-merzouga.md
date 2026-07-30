@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 3-days-marrakech-to-merzouga
 urlPath: tours/3-days-marrakech-to-merzouga
-price: 115
+price: 530.0
 duration: 3 Days
 tag: null
 source: https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/
@@ -20,27 +20,30 @@ overviewHtml: '<p>This 3-day private tour from <a href="https://morocco-excursio
   <p>On the third day, you will wake up early to watch the sunrise over the dunes. After breakfast and a shower, the journey back to Marrakech begins.</p>
 
   <p>This tour can be customized based on your comfort level. You can choose from standard desert camps to more comfortable or luxury <a href="https://morocco-excursion.com/accommodations/" rel="noopener" target="_blank"><b>accommodations</b></a>, depending on your preferences and budget.</p>'
-priceHeading: Marrakech to Merzouga 3-Day Desert Tour Prices
+priceHeading: null
 priceRows:
 - - Number of travelers
-  - Standard Tour Price
+  - Price Per Person
   - Total
 - - 1 Person
-  - 600 Euros per person
-  - 600 euros
+  - 980 Euros per person
+  - 980 euros
 - - 2 People
-  - 325 Euros per person
-  - 650 euros
+  - 530 Euros per person
+  - 1060 euros
 - - 3 People
-  - 233 Euros per person
-  - 700 euros
+  - 380 Euros per person
+  - 1140 euros
 - - 4 People
-  - 200 Euros per person
-  - 800 euros
+  - 305 Euros per person
+  - 1220 euros
 - - 5 People
-  - 170 Euros per person
-  - 850 euros
-- - +5 People
+  - 260 Euros per person
+  - 1300 euros
+- - 6 People
+  - 230 Euros per person
+  - 1380 euros
+- - +6 people
   - Contact us for prices
   - …
 notesHeading: What should I know before booking?
@@ -169,16 +172,23 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1748469.5183186634
 tourCode: MEX-63384
 priceTiers:
 - people: 1
-  perPerson: 600.0
+  perPerson: 980.0
 - people: 2
-  perPerson: 325.0
+  perPerson: 530.0
 - people: 3
-  perPerson: 233.0
+  perPerson: 380.0
 - people: 4
-  perPerson: 200.0
+  perPerson: 305.0
 - people: 5
-  perPerson: 170.0
-autoPricing: null
-pricingMode: tiers
+  perPerson: 260.0
+- people: 6
+  perPerson: 230.0
+autoPricing:
+  days: 3
+  nights: 2
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
 hasDesertExtras: true
 ---

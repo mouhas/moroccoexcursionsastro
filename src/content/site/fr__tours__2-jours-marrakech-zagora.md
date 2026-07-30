@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 2-jours-marrakech-zagora
 urlPath: fr/tours/2-jours-marrakech-zagora
-price: null
+price: 340.0
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-marrakech-zagora/
@@ -16,20 +16,32 @@ overviewHtml: '<p>Le circuit de 2 jours dans le désert de Marrakech à Zagora e
   <p>Le premier jour du circuit, vous traverserez les montagnes du Haut Atlas et explorerez quelques villages berbères avant de continuer vers le désert de Zagora. Une fois arrivé à Zagora, vous monterez à dos de chameau dans le désert rocheux et passerez la nuit dans une tente du désert.</p>
 
   <p>Le dernier jour commencera par un lever de soleil matinal, un petit-déjeuner et une douche. Ensuite, nous commencerons notre voyage de retour vers Marrakech, avec des arrêts pour visiter la Kasbah Ait Ben Haddou, Ouarzazate et la vallée du Draa. Le circuit de 2 jours dans le désert à Zagora propose deux options d’hébergement : un camp de désert ordinaire et un camp de désert de luxe.</p>'
-priceHeading: Bref itinéraire du circuit de 2 jours de Marrakech à Zagora
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance en Kms
-- - 1er
-  - Marrakech
-  - Zagora
-  - 360 km
-- - 2ème
-  - Zagora
-  - Marrakech
-  - 360 km
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 640 Euros par personne
+  - 640 euros
+- - 2 Personnes
+  - 340 Euros par personne
+  - 680 euros
+- - 3 Personnes
+  - 240 Euros par personne
+  - 720 euros
+- - 4 Personnes
+  - 190 Euros par personne
+  - 760 euros
+- - 5 Personnes
+  - 160 Euros par personne
+  - 800 euros
+- - 6 Personnes
+  - 140 Euros par personne
+  - 840 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: Que dois-je savoir avant de réserver ?
 notes:
 - Le désert de Zagora ne possède pas de dunes de sable à proprement parler ; il s’agit plutôt d’un désert rocheux. Bien qu’il s’agisse bel et bien d’un désert, il ne répondra peut-être pas à vos attentes de dunes de sable hautes et oranges.
@@ -113,7 +125,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d875658.0734407692!2d-7.575518987531441!3d30.98333485285529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.7041312!2d-6.4530072999999994!4m5!1s0xdbc36ea58680e95%3A0x75e9e9fb616de232!2sZagora%2C%20Maroc!3m2!1d30.345899799999998!2d-5.8406587!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sbg!2sbg!4v1722158542169!5m2!1sbg!2sbg
 tourCode: MEX-41590
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

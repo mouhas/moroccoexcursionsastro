@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: grand-morocco-20-day-tour-from-casablanca
 urlPath: tours/grand-morocco-20-day-tour-from-casablanca
-price: 2000
+price: 3760.0
 duration: 20 Days
 tag: null
 source: https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/
@@ -18,92 +18,32 @@ overviewHtml: '<p>The trip begins with your arrival in <a href="https://morocco-
   <p>The following day is spent exploring the desert area. You visit nomad families, learn about their lifestyle, and see abandoned villages before returning to Merzouga. The trip continues through Tinghir and the tall Todra Gorges, then along the Dades Valley and the Valley of Roses before arriving in Ouarzazate, known as the gateway to the desert and famous for its film studios. From Ouarzazate, the road leads to Taroudant, a city often compared to Marrakech but smaller and quieter. The journey goes on to Sidi Ifni, a coastal town with Spanish-style buildings and wide beaches. Following the Atlantic coast, you pass through <a href="https://morocco-excursion.com/agadir-tours/" rel="noopener" target="_blank"><b>Agadir</b></a> before reaching Taghazout, a fishing village that has become a favorite spot for surfers. From there, you continue to Essaouira, a historic port city with a relaxed atmosphere. You spend a full day exploring its medina, sea walls, and beach.</p>
 
   <p>After Essaouira, the trip turns inland again to Marrakech, Morocco’s “Red City.” In the evening, the main square, Jemaa el-Fnaa, comes alive with food stalls, music, and a variety of performers. A full day is spent visiting Marrakech’s highlights, such as the Bahia Palace, Koutoubia Mosque, Saadian Tombs, Majorelle Gardens, and the busy souks. One day is also set aside for an <a href="https://morocco-excursion.com/tours/ouzoud-day-trip-from-marrakech/" rel="noopener" target="_blank"><strong>excursion to the Ouzoud Waterfalls</strong></a>, one of Morocco’s most beautiful natural sights. The journey ends back in Marrakech, where you take your flight home filled with memories of Morocco’s cities, mountains, desert, and coast.</p>'
-priceHeading: Brief itinerary of the Moroccan 20-day trip from Casablanca
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Airport
-  - Casablanca
-  - 30 km
-- - '#2'
-  - Casablanca
-  - Rabat
-  - 87 km
-- - '#3'
-  - Rabat
-  - Tanger
-  - 338 km
-- - '#4'
-  - Tanger
-  - Chefchaouen
-  - 115 km
-- - '#5'
-  - Chefchaouen
-  - —
-  - —
-- - '#6'
-  - Chefchaouen
-  - Fes
-  - 200 km
-- - '#7'
-  - Fes
-  - —
-  - —
-- - '#8'
-  - Fes
-  - Midelt
-  - 270 km
-- - '#9'
-  - Midelt
-  - Merzouga
-  - 360 km
-- - '#10'
-  - Merzouga
-  - Desert
-  - 40 km
-- - '#11'
-  - Merzouga
-  - Ouarzazate
-  - 365 km
-- - '#12'
-  - Ouarzazate
-  - Taroudant
-  - 310 km
-- - '#13'
-  - Taroudant
-  - Sidi Ifni
-  - 220 km
-- - '#14'
-  - Sidi Ifni
-  - Taghazout
-  - 330 km
-- - '#15'
-  - Taghazout
-  - Essaouira
-  - 265 km
-- - '#16'
-  - Essaouira
-  - —
-  - —
-- - '#17'
-  - Essaouira
-  - Marrakech
-  - 190 km
-- - '#18'
-  - Marrakech
-  - —
-  - —
-- - '#19'
-  - Marrakech
-  - Ouzoud
-  - 200 km
-- - '#20'
-  - Marrakech
-  - Airport
-  - —
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 6760 Euros per person
+  - 6760 euros
+- - 2 People
+  - 3760 Euros per person
+  - 7520 euros
+- - 3 People
+  - 2760 Euros per person
+  - 8280 euros
+- - 4 People
+  - 2260 Euros per person
+  - 9040 euros
+- - 5 People
+  - 1960 Euros per person
+  - 9800 euros
+- - 6 People
+  - 1760 Euros per person
+  - 10560 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - This 20-day itinerary takes you on an incredible journey across Morocco, from the lively coastal towns to the majestic mountains, vast deserts, and historic imperial cities. As you travel, you will notice big changes in the landscape, weather, and atmosphere. The coastal regions are fresh and breezy, the mountains are cooler and often green, while the desert is hot during the day and surprisingly cold at night. Each region has its unique charm, culture, and scenery, making every stop a new experience.
@@ -200,7 +140,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1755675314275!5m2!1sen!2sen
 tourCode: MEX-67438
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 6760.0
+- people: 2
+  perPerson: 3760.0
+- people: 3
+  perPerson: 2760.0
+- people: 4
+  perPerson: 2260.0
+- people: 5
+  perPerson: 1960.0
+- people: 6
+  perPerson: 1760.0
 autoPricing:
   days: 20
   nights: 19

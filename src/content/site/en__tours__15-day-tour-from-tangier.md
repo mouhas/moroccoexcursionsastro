@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 15-day-tour-from-tangier
 urlPath: tours/15-day-tour-from-tangier
-price: null
+price: 2810.0
 duration: 15 days
 tag: null
 source: https://morocco-excursion.com/tours/15-day-tour-from-tangier/
@@ -13,7 +13,31 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: ''
 priceHeading: null
-priceRows: []
+priceRows:
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 5060 Euros per person
+  - 5060 euros
+- - 2 People
+  - 2810 Euros per person
+  - 5620 euros
+- - 3 People
+  - 2060 Euros per person
+  - 6180 euros
+- - 4 People
+  - 1685 Euros per person
+  - 6740 euros
+- - 5 People
+  - 1460 Euros per person
+  - 7300 euros
+- - 6 People
+  - 1310 Euros per person
+  - 7860 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes: []
 highlights: []
@@ -58,7 +82,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-74331
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 5060.0
+- people: 2
+  perPerson: 2810.0
+- people: 3
+  perPerson: 2060.0
+- people: 4
+  perPerson: 1685.0
+- people: 5
+  perPerson: 1460.0
+- people: 6
+  perPerson: 1310.0
 autoPricing:
   days: 15
   nights: 14

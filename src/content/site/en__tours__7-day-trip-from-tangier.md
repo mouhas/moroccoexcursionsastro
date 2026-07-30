@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 7-day-trip-from-tangier
 urlPath: tours/7-day-trip-from-tangier
-price: null
+price: 1290.0
 duration: 7 Days
 tag: null
 source: https://morocco-excursion.com/tours/7-day-trip-from-tangier/
@@ -13,7 +13,31 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: ''
 priceHeading: null
-priceRows: []
+priceRows:
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 2340 Euros per person
+  - 2340 euros
+- - 2 People
+  - 1290 Euros per person
+  - 2580 euros
+- - 3 People
+  - 940 Euros per person
+  - 2820 euros
+- - 4 People
+  - 765 Euros per person
+  - 3060 euros
+- - 5 People
+  - 660 Euros per person
+  - 3300 euros
+- - 6 People
+  - 590 Euros per person
+  - 3540 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes: []
 highlights: []
@@ -40,7 +64,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-99867
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 2340.0
+- people: 2
+  perPerson: 1290.0
+- people: 3
+  perPerson: 940.0
+- people: 4
+  perPerson: 765.0
+- people: 5
+  perPerson: 660.0
+- people: 6
+  perPerson: 590.0
 autoPricing:
   days: 7
   nights: 6

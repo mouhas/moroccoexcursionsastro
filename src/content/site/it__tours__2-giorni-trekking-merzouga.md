@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: 2-giorni-trekking-merzouga
 urlPath: it/tours/2-giorni-trekking-merzouga
-price: null
+price: 340.0
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/2-giorni-trekking-merzouga/
@@ -14,20 +14,32 @@ languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Scoprite la magia del Sahara con un tour di 2 giorni di trekking e passeggiate tra le dune dorate dell’Erg Chebbi di Merzouga. Questa avventura unica vi porterà nel cuore del deserto a piedi, offrendovi un modo più lento e intimo per entrare in contatto con il paesaggio. Camminate tra le dune ondulate, scalate le creste sabbiose per ammirare panorami mozzafiato e godetevi pause tranquille con pasti tradizionali berberi in luoghi ombreggiati.</p>
 
   <p>Al tramonto, raggiungi il tuo campo nel deserto dove potrai rilassarti, assaporare la cucina marocchina e ascoltare la musica berbera accanto al fuoco sotto un cielo stellato. Trascorrete la notte in una comoda tenda prima di svegliarvi presto per assistere a un’alba indimenticabile. Il secondo giorno, seguite un nuovo percorso per tornare a Merzouga, passando accanto a famiglie nomadi e pianure desertiche rocciose. Questo tour combina l’avventura, la cultura e la serenità del Sahara, offrendovi un assaggio della vera vita nel deserto.</p>'
-priceHeading: Breve itinerario del trekking di 2 giorni nel deserto
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Merzouga
-  - Erg Chebbi
-  - 15 km
-- - '#2'
-  - Erg Chebbi
-  - Merzouga
-  - 10 km
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 640 Euro a persona
+  - 640 euro
+- - 2 Persone
+  - 340 Euro a persona
+  - 680 euro
+- - 3 Persone
+  - 240 Euro a persona
+  - 720 euro
+- - 4 Persone
+  - 190 Euro a persona
+  - 760 euro
+- - 5 Persone
+  - 160 Euro a persona
+  - 800 euro
+- - 6 Persone
+  - 140 Euro a persona
+  - 840 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - Camminare sulla morbida sabbia del deserto è più impegnativo che camminare su un terreno normale, quindi prevedete 5-6 ore di cammino al giorno. Per godervi appieno l’esperienza è consigliabile un livello di forma fisica moderato.
@@ -89,7 +101,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sit!2sit!4v1757162605013!5m2!1sit!2sit
 tourCode: MEX-59137
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

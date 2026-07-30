@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 20-jours-de-casablanca
 urlPath: fr/tours/20-jours-de-casablanca
-price: 2000
+price: 3760.0
 duration: 20 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/20-jours-de-casablanca/
@@ -18,92 +18,32 @@ overviewHtml: '<p>Le voyage commence à votre arrivée à Casablanca, où vous p
   <p>Le lendemain, vous explorez la région désertique. Vous rendez visite à des familles nomades, découvrez leur mode de vie et visitez des villages abandonnés avant de retourner à Merzouga. Le voyage se poursuit à travers Tinghir et les hautes gorges du Todra, puis le long de la vallée du Dadès et de la vallée des Roses avant d’arriver à Ouarzazate, connue comme la porte du désert et célèbre pour ses studios de cinéma. Depuis Ouarzazate, la route mène à Taroudant, une ville souvent comparée à Marrakech, mais plus petite et plus calme. Le voyage se poursuit vers Sidi Ifni, une ville côtière avec des bâtiments de style espagnol et de larges plages. En suivant la côte atlantique, vous passez par Agadir avant d’atteindre Taghazout, un village de pêcheurs devenu un lieu de prédilection pour les surfeurs. De là, vous continuez vers Essaouira, une ville portuaire historique à l’atmosphère détendue. Vous passez une journée entière à explorer sa médina, ses remparts et sa plage.</p>
 
   <p>Après Essaouira, le voyage se poursuit vers l’intérieur des terres jusqu’à Marrakech, la « ville rouge » du Maroc. Le soir, la place principale, Jemaa el-Fnaa, s’anime avec ses stands de nourriture, sa musique et ses nombreux artistes. Une journée entière est consacrée à la visite des sites incontournables de Marrakech, tels que le palais Bahia, la mosquée Koutoubia, les tombeaux saadiens, les jardins Majorelle et les souks animés. Une journée est également réservée à une <a href="https://morocco-excursion.com/fr/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursion aux cascades d’Ouzoud</strong></a>, l’un des plus beaux sites naturels du Maroc. Le voyage se termine à Marrakech, où vous prendrez votre vol de retour, la tête pleine de souvenirs des villes, des montagnes, du désert et de la côte marocains.</p>'
-priceHeading: Itinéraire succinct du voyage de 20 jours au Maroc au départ de Casablanca
+priceHeading: null
 priceRows:
-- - Jour
-  - Départ
-  - Arrivée
-  - Distance
-- - '#1'
-  - Aéroport
-  - Casablanca
-  - 30 km
-- - '#2'
-  - Casablanca
-  - Rabat
-  - 87 km
-- - '#3'
-  - Rabat
-  - Tanger
-  - 338 km
-- - '#4'
-  - Tanger
-  - Chefchaouen
-  - 115 km
-- - '#5'
-  - Chefchaouen
-  - —
-  - —
-- - '#6'
-  - Chefchaouen
-  - Fes
-  - 200 km
-- - '#7'
-  - Fes
-  - —
-  - —
-- - '#8'
-  - Fes
-  - Midelt
-  - 270 km
-- - '#9'
-  - Midelt
-  - Merzouga
-  - 360 km
-- - '#10'
-  - Merzouga
-  - Désert
-  - 40 km
-- - '#11'
-  - Merzouga
-  - Ouarzazate
-  - 365 km
-- - '#12'
-  - Ouarzazate
-  - Taroudant
-  - 310 km
-- - '#13'
-  - Taroudant
-  - Sidi Ifni
-  - 220 km
-- - '#14'
-  - Sidi Ifni
-  - Taghazout
-  - 330 km
-- - '#15'
-  - Taghazout
-  - Essaouira
-  - 265 km
-- - '#16'
-  - Essaouira
-  - —
-  - —
-- - '#17'
-  - Essaouira
-  - Marrakech
-  - 190 km
-- - '#18'
-  - Marrakech
-  - —
-  - —
-- - '#19'
-  - Marrakech
-  - Ouzoud
-  - 200 km
-- - '#20'
-  - Marrakech
-  - Aéroport
-  - —
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 6760 Euros par personne
+  - 6760 euros
+- - 2 Personnes
+  - 3760 Euros par personne
+  - 7520 euros
+- - 3 Personnes
+  - 2760 Euros par personne
+  - 8280 euros
+- - 4 Personnes
+  - 2260 Euros par personne
+  - 9040 euros
+- - 5 Personnes
+  - 1960 Euros par personne
+  - 9800 euros
+- - 6 Personnes
+  - 1760 Euros par personne
+  - 10560 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Cet itinéraire de 20 jours vous emmène dans un incroyable voyage à travers le Maroc, des villes côtières animées aux montagnes majestueuses, en passant par les vastes déserts et les villes impériales historiques. Au fil de votre voyage, vous remarquerez de grands changements dans le paysage, le climat et l’atmosphère. Les régions côtières sont fraîches et venteuses, les montagnes sont plus fraîches et souvent verdoyantes, tandis que le désert est chaud pendant la journée et étonnamment froid la nuit. Chaque région a son charme, sa culture et ses paysages uniques, faisant de chaque étape une nouvelle expérience.
@@ -200,7 +140,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755675314275!5m2!1sfr!2sfr
 tourCode: MEX-73826
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 6760.0
+- people: 2
+  perPerson: 3760.0
+- people: 3
+  perPerson: 2760.0
+- people: 4
+  perPerson: 2260.0
+- people: 5
+  perPerson: 1960.0
+- people: 6
+  perPerson: 1760.0
 autoPricing:
   days: 20
   nights: 19

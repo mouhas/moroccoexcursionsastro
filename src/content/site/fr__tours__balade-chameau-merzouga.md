@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: balade-chameau-merzouga
 urlPath: fr/tours/balade-chameau-merzouga
-price: 40
+price: 340.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/balade-chameau-merzouga/
@@ -16,14 +16,32 @@ overviewHtml: '<p>Une randonnée à dos de chameau à Merzouga est l’une des m
   <p>Pendant la balade en dromadaire, vous pouvez vous arrêter pour prendre des photos des dunes, des chameaux et des vastes paysages désertiques. Le coucher de soleil est le moment le plus spécial, lorsque le sable passe du jaune à l’orange et au rouge. C’est le moment idéal pour prendre des photos et créer des souvenirs.</p>
 
   <p>Au campement dans le désert, vous serez accueillis avec un thé à la menthe. Vous pourrez vous promener sur les dunes, profiter du calme ou vous amuser en glissant sur une planche de sandboard. Passer la nuit à <a href="https://fr.wikipedia.org/wiki/Erg_Chebbi" rel="noopener" target="_blank"><strong>Erg Chebbi</strong></a> est une expérience magique : le silence, la musique et le ciel étoilé en font une aventure inoubliable dans le désert.</p>'
-priceHeading: Prix pour la balade à dos de chameau et nuit au désert
+priceHeading: null
 priceRows:
-- - Bivouacs
-  - Prix
-- - Bivouac standard
-  - 40 Euros par personne
-- - Bivouac de luxe
-  - 80 Euros par personne
+- - Nombre de voyageurs
+  - Prix par personne
+  - Total
+- - 1 Personne
+  - 640 Euros par personne
+  - 640 euros
+- - 2 Personnes
+  - 340 Euros par personne
+  - 680 euros
+- - 3 Personnes
+  - 240 Euros par personne
+  - 720 euros
+- - 4 Personnes
+  - 190 Euros par personne
+  - 760 euros
+- - 5 Personnes
+  - 160 Euros par personne
+  - 800 euros
+- - 6 Personnes
+  - 140 Euros par personne
+  - 840 euros
+- - +6 personnes
+  - Contactez-nous pour le prix
+  - …
 notesHeading: null
 notes:
 - Nous fournissons gratuitement des planches de sandboard au camp, idéales pour tous ceux qui souhaitent ajouter une touche d’aventure à leur expérience dans le désert. Glisser sur les dunes dorées et douces est très amusant et permet de prendre de superbes photos. Cependant, il est important de savoir que remonter les dunes peut être fatigant, en particulier les plus hautes, alors prévoyez des chaussures confortables et de l’eau.
@@ -82,7 +100,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sfr!2sfr!4v1756312207723!5m2!1sfr!2sfr
 tourCode: MEX-80749
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

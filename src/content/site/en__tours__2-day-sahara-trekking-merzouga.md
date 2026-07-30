@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 2-day-sahara-trekking-merzouga
 urlPath: tours/2-day-sahara-trekking-merzouga
-price: 100
+price: 340.0
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/tours/2-day-sahara-trekking-merzouga/
@@ -14,20 +14,32 @@ languagesSpoken: English, Multilingual
 overviewHtml: '<p>Discover the magic of the Sahara on a 2-day trekking and walking tour through the golden dunes of Merzouga’s Erg Chebbi. This unique adventure takes you deep into the desert on foot, offering a slower, more intimate way to connect with the landscape. Walk across rolling dunes, climb sandy ridges for breathtaking views, and enjoy peaceful breaks with traditional Berber meals in shaded spots.</p>
 
   <p>At sunset, reach your desert camp where you’ll relax, savor Moroccan cuisine, and experience Berber music by the fire under a sky full of stars. Spend the night in a comfortable tent before waking early to witness an unforgettable sunrise. On the second day, follow a new route back to <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>, passing nomadic families and rocky desert plains. This tour combines the Sahara adventure, culture, and serenity, giving you a true taste of life in the desert.</p>'
-priceHeading: Brief itinerary of the 2-day trek around the desert
+priceHeading: null
 priceRows:
-- - Day
-  - Departure
-  - Arrival
-  - Distance
-- - '#1'
-  - Merzouga
-  - Erg Chebbi
-  - 15 km
-- - '#2'
-  - Erg Chebbi
-  - Merzouga
-  - 10 km
+- - Number of travelers
+  - Price Per Person
+  - Total
+- - 1 Person
+  - 640 Euros per person
+  - 640 euros
+- - 2 People
+  - 340 Euros per person
+  - 680 euros
+- - 3 People
+  - 240 Euros per person
+  - 720 euros
+- - 4 People
+  - 190 Euros per person
+  - 760 euros
+- - 5 People
+  - 160 Euros per person
+  - 800 euros
+- - 6 People
+  - 140 Euros per person
+  - 840 euros
+- - +6 people
+  - Contact us for prices
+  - …
 notesHeading: null
 notes:
 - Trekking on soft desert sand is more challenging than walking on regular ground, so plan for 5–6 hours of walking each day. A moderate level of fitness is recommended to fully enjoy the experience.
@@ -89,7 +101,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sen!2sen!4v1757162605013!5m2!1sen!2sen
 tourCode: MEX-89338
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 640.0
+- people: 2
+  perPerson: 340.0
+- people: 3
+  perPerson: 240.0
+- people: 4
+  perPerson: 190.0
+- people: 5
+  perPerson: 160.0
+- people: 6
+  perPerson: 140.0
 autoPricing:
   days: 2
   nights: 1

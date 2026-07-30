@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: 10-giorni-da-casablanca
 urlPath: it/tours/10-giorni-da-casablanca
-price: 500
+price: 1860.0
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/10-giorni-da-casablanca/
@@ -22,52 +22,32 @@ overviewHtml: '<p>Questo tour di 10 giorni in Marocco con partenza da Casablanca
   <p>Dal deserto, il percorso prosegue attraverso il vivace mercato di Rissani, le spettacolari Gole del Todra e la splendida Valle del Dades. La strada conduce poi a Ouarzazate, conosciuta come la “Hollywood dell’Africa”, e al sito patrimonio mondiale dell’UNESCO di Aït Ben Haddou, un villaggio fortificato utilizzato come sfondo in molti film. Attraversando le montagne dell’Alto Atlante, il tour raggiunge infine Marrakech.</p>
 
   <p>L’ultimo giorno intero è dedicato alla scoperta delle attrazioni principali di Marrakech, tra cui la Moschea Koutoubia, <a href="https://it.wikipedia.org/wiki/Palazzo_El_Bahia" rel="noopener" target="_blank"><strong>il Palazzo Bahia</strong></a>, le Tombe Saadiane, i Giardini Majorelle e la vivace piazza Jemaa el-Fnaa. L’avventura si conclude con il trasferimento all’aeroporto l’ultimo giorno.</p>'
-priceHeading: Breve itinerario del tour marocchino di 10 giorni da Casablanca
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Aeroporto
-  - Casablanca
-  - 30km
-- - '#2'
-  - Casablanca
-  - Chefchaouen
-  - 340km
-- - '#3'
-  - Chefchaouen
-  - Fes
-  - 200km
-- - '#4'
-  - Fes
-  - Fes
-  - —
-- - '#5'
-  - Fes
-  - Merzouga
-  - 470 km
-- - '#6'
-  - Merzouga
-  - Deserto
-  - 40km
-- - '#7'
-  - Merzouga
-  - Dades
-  - 270 km
-- - '#8'
-  - Dades
-  - Marrakech
-  - 320 km
-- - '#9'
-  - Marrakech
-  - Marrakech
-  - —
-- - '#10'
-  - Marrakech
-  - Aeroporto
-  - —
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 3360 Euro a persona
+  - 3360 euro
+- - 2 Persone
+  - 1860 Euro a persona
+  - 3720 euro
+- - 3 Persone
+  - 1360 Euro a persona
+  - 4080 euro
+- - 4 Persone
+  - 1110 Euro a persona
+  - 4440 euro
+- - 5 Persone
+  - 960 Euro a persona
+  - 4800 euro
+- - 6 Persone
+  - 860 Euro a persona
+  - 5160 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - Il viaggio dura 10 giorni e copre diverse città e regioni, da Casablanca a Marrakech, compreso il deserto del Sahara. Preparatevi a un mix di tour cittadini e lunghi viaggi in auto.
@@ -159,7 +139,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-8.641051502583316!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755358067049!5m2!1sit!2sit
 tourCode: MEX-84417
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 3360.0
+- people: 2
+  perPerson: 1860.0
+- people: 3
+  perPerson: 1360.0
+- people: 4
+  perPerson: 1110.0
+- people: 5
+  perPerson: 960.0
+- people: 6
+  perPerson: 860.0
 autoPricing:
   days: 10
   nights: 9

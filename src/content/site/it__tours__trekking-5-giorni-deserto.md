@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: trekking-5-giorni-deserto
 urlPath: it/tours/trekking-5-giorni-deserto
-price: null
+price: 910.0
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/trekking-5-giorni-deserto/
@@ -16,32 +16,32 @@ overviewHtml: '<p>Il trekking di 5 giorni nel Sahara inizia a Merzouga, dove par
   <p>Da lì, il percorso prosegue attraverso l’Hamada du Guir, un deserto roccioso che contrasta con le sabbie dorate, prima di raggiungere le tranquille dune dell’Erg Znaigui per un altro bivacco sotto le stelle. Il quarto giorno vi porta al villaggio di Begaa, un’oasi circondata da montagne, dove potrete godervi un picnic e scoprire le tradizioni locali prima di tornare alle dune per il tramonto.</p>
 
   <p>L’ultimo giorno, dopo un’ultima alba nel deserto, il trekking termina nel <a href="https://it.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>villaggio di Merzouga</strong></a> o Khamlia, lasciandovi ricordi indelebili del Sahara.</p>'
-priceHeading: Breve itinerario del trekking di 5 giorni nel Sahara da Merzouga
+priceHeading: null
 priceRows:
-- - Giorno
-  - Partenza
-  - Arrivo
-  - Distanza
-- - '#1'
-  - Merzouga
-  - Bouighd
-  - 10 km
-- - '#2'
-  - Bouird
-  - Merdani
-  - 15 km
-- - '#3'
-  - Merdani
-  - Erg Znaigui
-  - 15 km
-- - '#4'
-  - Erg Znaigui
-  - Erg Znaigui
-  - —
-- - '#5'
-  - Erg Znaigui
-  - Merzouga
-  - 10 km
+- - Numero di viaggiatori
+  - Prezzo per persona
+  - Totale
+- - 1 Persona
+  - 1660 Euro a persona
+  - 1660 euro
+- - 2 Persone
+  - 910 Euro a persona
+  - 1820 euro
+- - 3 Persone
+  - 660 Euro a persona
+  - 1980 euro
+- - 4 Persone
+  - 535 Euro a persona
+  - 2140 euro
+- - 5 Persone
+  - 460 Euro a persona
+  - 2300 euro
+- - 6 Persone
+  - 410 Euro a persona
+  - 2460 euro
+- - +6 persone
+  - Contattaci per il prezzo
+  - …
 notesHeading: null
 notes:
 - Passerai le notti in tradizionali bivacchi nel deserto, tende e campeggi selvaggi. Non ci sono opzioni di lusso, quindi preparati a un’esperienza rustica con servizi essenziali.
@@ -125,7 +125,19 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sit!2sit!4v1756995114878!5m2!1sit!2sit
 tourCode: MEX-16294
-priceTiers: []
+priceTiers:
+- people: 1
+  perPerson: 1660.0
+- people: 2
+  perPerson: 910.0
+- people: 3
+  perPerson: 660.0
+- people: 4
+  perPerson: 535.0
+- people: 5
+  perPerson: 460.0
+- people: 6
+  perPerson: 410.0
 autoPricing:
   days: 5
   nights: 4
