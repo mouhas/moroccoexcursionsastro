@@ -1,0 +1,19 @@
+{
+  "name": "morocco-excursion-site",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Morocco Excursions — new Astro site (content migrated from morocco-excursion.com)",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.4.1",
+    "astro": "^4.16.18"
+  },
+  "devDependencies": {
+    "decap-server": "^3.10.0"
+  }
+}

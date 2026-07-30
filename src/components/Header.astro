@@ -1,0 +1,41 @@
+---
+import Icon from './Icon.astro';
+import { getNav, homeHref, LANGS, LANG_LABELS, UI, type Lang } from '../site';
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const nav = getNav(lang);
+const t = UI[lang];
+---
+<header class="site">
+  <div class="wrap nav">
+    <a class="logo" href={homeHref(lang)}>
+      <span class="mark"><Icon name="star" class="ico" /></span>
+      <span>Morocco Excursions<small>100% Local · Berber Owned</small></span>
+    </a>
+    <nav class="menu">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+    <div class="nav-right">
+      <div class="lang">
+        <button><Icon name="globe" class="ico sm" /> {lang.toUpperCase()}</button>
+        <div class="lang-menu">
+          {LANGS.map((l) => <a href={homeHref(l)}>{LANG_LABELS[l]}</a>)}
+        </div>
+      </div>
+      <a href={nav[1]?.href ?? homeHref(lang)} class="btn sm">{t.book}</a>
+      <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
+    </div>
+  </div>
+</header>
+<script>
+  const b = document.getElementById('burger');
+  b?.addEventListener('click', () => {
+    const m = document.querySelector('.menu') as HTMLElement | null;
+    if (!m) return;
+    const open = m.style.display === 'flex';
+    m.style.display = open ? '' : 'flex';
+    if (!open) {
+      Object.assign(m.style, { position: 'absolute', flexDirection: 'column', top: '72px', left: '0', right: '0', background: '#fff', padding: '18px 22px', borderBottom: '1px solid var(--line)', gap: '6px', zIndex: '40' });
+    }
+  });
+</script>

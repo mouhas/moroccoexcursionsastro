@@ -1,0 +1,162 @@
+---
+title: Viaje de 10 Días de Casablanca al Norte y Sur de Marruecos
+lang: es
+section: tours
+pslug: 10-dias-desde-casablanca
+urlPath: es/tours/10-dias-desde-casablanca
+price: 500
+duration: 10 Days
+tag: null
+source: https://morocco-excursion.com/es/tours/10-dias-desde-casablanca/
+tourType: null
+cancellation: null
+languagesSpoken: null
+overviewHtml: '<p>Este tour de 10 días por Marruecos, con salida desde Casablanca, es un viaje a través de las ciudades más emblemáticas del país, sus monumentos históricos y sus impresionantes paisajes. El viaje, que comienza en Casablanca y termina en Marrakech, combina cultura, historia y aventura para ofrecer una experiencia marroquí completa.</p>
+
+  <p>El tour comienza en Casablanca, donde los viajeros pueden explorar la impresionante mezquita Hassan II antes de dirigirse a Rabat, la capital de Marruecos. Desde allí, la carretera serpentea a través de las montañas del Rif hasta llegar a Chefchaouen, la famosa «Perla Azul» con sus encantadoras calles pintadas de azul.</p>
+
+  <p>Los amantes de la historia disfrutarán visitando las ruinas romanas de Volubilis y la ciudad imperial de Meknes antes de continuar hacia Fez, el corazón cultural del país. En Fez, destacan la medina medieval, las curtidurías tradicionales y la universidad más antigua del mundo.</p>
+
+  <p>El viaje se adentra entonces en la naturaleza, pasando por las montañas del Medio Atlas, los bosques de cedros de Azrou y el pintoresco valle del Ziz antes de llegar a Merzouga, al borde del desierto del Sáhara. Aquí, los huéspedes pueden montar en camello, alojarse en campamentos en el desierto y contemplar inolvidables puestas de sol sobre las dunas. Un día completo en Merzouga permite visitar a familias bereberes, disfrutar de la música tradicional y explorar el singular Desierto Negro.</p>
+
+  <p>Desde el desierto, la ruta continúa por el animado mercado de Rissani, las espectaculares gargantas del Todra y el hermoso valle del Dades. La carretera conduce luego a Ouarzazate, conocida como el «Hollywood de África», y al sitio declarado Patrimonio de la Humanidad por la UNESCO de Aït Ben Haddou, un pueblo fortificado que ha servido de escenario para numerosas películas. Tras cruzar las montañas del Alto Atlas, el recorrido llega finalmente a Marrakech.</p>
+
+  <p>El último día completo se dedica a explorar los lugares más destacados de Marrakech, como la mezquita Koutoubia, <a href="https://es.wikipedia.org/wiki/Palacio_de_la_Bah%C3%ADa" rel="noopener" target="_blank"><strong>el palacio Bahía</strong></a>, las tumbas saadíes, los jardines Majorelle y la bulliciosa plaza Jemaa el-Fnaa. La aventura termina con el traslado al aeropuerto el último día.</p>'
+priceHeading: Breve itinerario del tour de 10 días por Marruecos desde Casablanca
+priceRows:
+- - Día
+  - Salida
+  - Llegada
+  - Distancia
+- - '#1'
+  - Aeroporto
+  - Casablanca
+  - 30km
+- - '#2'
+  - Casablanca
+  - Chefchaouen
+  - 340km
+- - '#3'
+  - Chefchaouen
+  - Fez
+  - 200km
+- - '#4'
+  - Fez
+  - Fez
+  - —
+- - '#5'
+  - Fez
+  - Merzouga
+  - 470 km
+- - '#6'
+  - Merzouga
+  - Desierto
+  - 40km
+- - '#7'
+  - Merzouga
+  - Dades
+  - 270 km
+- - '#8'
+  - Dades
+  - Marrakech
+  - 320 km
+- - '#9'
+  - Marrakech
+  - Marrakech
+  - —
+- - '#10'
+  - Marrakech
+  - Aeroporto
+  - —
+notesHeading: null
+notes:
+- El viaje dura 10 días y recorre varias ciudades y regiones, desde Casablanca hasta Marrakech, incluyendo el desierto del Sáhara. Prepárate para una mezcla de visitas a ciudades y largos trayectos en coche.
+- Los hoteles suelen ser de gama media (3-4 estrellas) o riads tradicionales marroquíes. Se incluye una noche en un campamento en el desierto en Merzouga (tiendas cómodas o de lujo, según el paquete).
+- 'Marruecos tiene climas variados: suave en la costa, más fresco en las montañas y muy caluroso en el desierto. Lleve ropa de abrigo, protección solar y una chaqueta para las noches más frescas.'
+- Se trata de un itinerario guiado pero flexible. A menudo se pueden añadir actividades adicionales (globo aerostático en Marrakech, quads en Merzouga, clases de cocina, etc.) con un coste adicional.
+- El tour incluye recorridos a pie por las medinas (calles estrechas y irregulares), visitas a lugares históricos y <a href="https://morocco-excursion.com/es/excursion-camellos/" rel="noopener" target="_blank"><strong>excursiones en camello por el desierto</strong></a>. Es imprescindible llevar calzado cómodo.
+highlights:
+- Visita la mezquita Hassan II en Casablanca.
+- Explora la ciudad azul de Marruecos (Chefchaouen).
+- Descubre Volubilis (ruinas romanas).
+- Visita la medina de Fez.
+- Descubra el famoso bosque de cedros de Azrou.
+- Monte en camello por las dunas doradas.
+- Pase la noche bajo el cielo estrellado del desierto.
+- Conozca a las familias bereberes locales.
+- Pasee por las gargantas del Todra.
+- Pase una noche en el valle del Dades.
+- Visite Ouarzazate (el Hollywood de África).
+- Descubra las antiguas kasbahs de Aït Ben Haddou.
+- Visite la medina de Marrakech.
+itinerary:
+- title: 'Día 1: Casablanca – Traslado al hotel'
+  html: '<p>Llegada a Casablanca y traslado al hotel. Dependiendo de la hora de llegada, podrá visitar la mezquita Hassan II, pasear por la Corniche o simplemente relajarse en la ciudad. Noche en Casablanca.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Melliber o similar.<br/><em>Superior</em>: Hotel Art Palace Suite & Spa o similar.</p>'
+- title: 'Día 2: Casablanca – Rabat – Montañas del Rif - Chefchaouen'
+  html: '<p>Diríjase a Rabat, la capital de Marruecos, para ver el Palacio Real, la Torre Hassan y la Kasbah de los Udayas. Continúe por las pintorescas montañas del Rif antes de llegar a Chefchaouen, conocida como la «Perla Azul». Pernocte en Chefchaouen.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Casa Hassan o similar.<br/><em>Superior</em>: Hotel Dar Echaouen o similar.</p>'
+- title: 'Día 3: Chefchaouen - Volubilis - Meknes - Fez'
+  html: '<p>Disfrute de un paseo matutino por las famosas calles pintadas de azul de Chefchaouen. Conduzca hasta las ruinas romanas de Volubilis y luego visite Meknes para ver la puerta Bab Mansour y la antigua medina. Llegada a Fez por la tarde. Alojamiento en Fez.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Palais Houyam o similar.</p>'
+- title: 'Día 4: Día completo para visitar Fez'
+  html: '<p>Descubra Fez con un guia local. Fez es la ciudad imperial más antigua de Marruecos. Visite la medina medieval, la Universidad Al Quaraouiyine, la madraza Bou Inania, las curtidurías tradicionales y los talleres de artesanía local. Pernocte en Fez.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Fes Yamanda o similar.<br/><em>Superior</em>: Hotel Palais Houyam o similar.</p>'
+- title: 'Día 5: Fez - Ifrane - Azrou - Valle del Ziz - Erfoud - Merzouga'
+  html: '<p>Viaje por las montañas del Medio Atlas. Haga una parada en Ifrane, apodada «la pequeña Suiza», y en el bosque de cedros de Azrou para ver macacos de Berbería. Continúe por el valle del Ziz y Erfoud antes de llegar a Merzouga, en el límite del Sáhara, donde podrá realizar una excursión opcional en camello hasta un campamento en el desierto para pasar la noche.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Auberge L''homme du desert o similar.<br/><em>Superior</em>: Hotel Riad Chebbi & Spa o similar.</p>'
+- title: 'Día 6: Merzouga - Familias bereberes - Desierto Negro - Merzouga'
+  html: '<p>Pase el día explorando el Sáhara. Visite familias bereberes, disfrute de la música gnawa en Khamlia y contemple los paisajes volcánicos del Desierto Negro. Regrese a Merzouga para ver la puesta de sol sobre las dunas. Pernocte en Merzouga.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Mouhou Standard Camp o similar.<br/><em>Superior</em>: Mouhou Luxury Camp o similar.</p>'
+- title: 'Día 7: Merzouga - Errissani - Jorf - Gargantas del Todra - Dades'
+  html: '<p>Visite el mercado tradicional de Rissani y luego contemple los antiguos sistemas de riego de Jorf. Continúe hacia las espectaculares gargantas del Todra, con sus imponentes acantilados. Termine el día en el valle del Dades. Pernocte en Dades.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Kasbah Didis o similar.<br/><em>Superior</em>: Hotel Ksar Sultan o similar.</p>'
+- title: 'Day 8: Dades - Roses Valley - Skoura - Ouarzazate - Ait Ben Haddou - Atlas - Marrakech'
+  html: '<p>Viaje por el Valle de las Rosas y los palmerales de Skoura. Haga una parada en Ouarzazate, conocida como el «Hollywood de África», y explore la kasbah de Aït Ben Haddou, declarada Patrimonio de la Humanidad por la UNESCO. Cruce las montañas del Alto Atlas por el puerto de Tizi n''Tichka para llegar a Marrakech. Noche en Marrakech.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Palace o similar.</p>'
+- title: 'Día 9: Día completo para visitar Marrakech'
+  html: '<p>Visita los lugares más destacados de Marrakech: la mezquita Koutoubia, las tumbas saadíes, el palacio Bahía, los jardines Majorelle y la animada plaza Jemaa el-Fnaa. Pasea por los zocos, los mercados de especias y las tiendas de artesanía. Noche en Marrakech.</p>
+
+    <p><strong>Alojamiento:</strong><br/><em>Estándar</em>: Hotel Riad Marana o similar.<br/><em>Superior</em>: Hotel Riad Bahia Palace o similar.</p>'
+- title: 'Día 10: Marrakech - Aeropuerto'
+  html: <p>Traslado al aeropuerto de Marrakech o Casablanca para tomar su vuelo de regreso a casa.</p>
+included:
+- Recogida en el aeropuerto de Casablanca.
+- Traslado al aeropuerto al final del viaje.
+- Vehículo privado moderno con aire acondicionado.
+- Conductor privado.
+- Combustible.
+- Alojamiento con cena y desayuno (hoteles/riads).
+- Excursión en camello por las dunas.
+- Una noche en un campamento en el desierto (cena y desayuno).
+- Guía local para visitar Fez y Marrakech.
+excluded:
+- Vuelos
+- Bebidas
+- Almuerzos
+- Entradas (boletos)
+faqs:
+- q: ¿Este tour es privado o en grupo?
+  aHtml: <p>Este tour de 10 días desde Casablanca se puede organizar de ambas formas. La mayoría de los viajeros prefieren un tour privado por su flexibilidad, pero también hay opciones disponibles para grupos pequeños.</p>
+- q: ¿Qué tipo de alojamiento se ofrece?
+  aHtml: <p>Te alojarás en una combinación de hoteles y riads. En el desierto del Sáhara, tendrás la opción de alojarte en un campamento estándar o de lujo.</p>
+- q: ¿Es obligatoria la excursión en camello por el Sáhara?
+  aHtml: <p>No, es opcional. Si lo prefieres, puedes utilizar un vehículo 4x4 para llegar al campamento del desierto en lugar de montar en camello.</p>
+- q: ¿Cuánto tiempo se pasa conduciendo cada día del tour?
+  aHtml: <p>Algunos días implican entre 4 y 6 horas de conducción, con paradas para hacer turismo y comer. Los días más largos se compensan con tiempo para descansar y explorar a pie.</p>
+- q: ¿Tienen algún otro tour similar al tour de 10 días desde Casablanca?
+  aHtml: <p>Para aquellos que buscan un tour más largo, ofrecemos un tour por Marruecos de <a href="https://morocco-excursion.com/es/tours/12-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>12 días</strong></a> y de <a href="https://morocco-excursion.com/es/tours/15-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>15 días desde Casablanca</strong></a>.</p>
+reviews: []
+rating: 5.0
+reviewCount: 820
+mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-8.641051502583316!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1ses!2ses!4v1755358067049!5m2!1ses!2ses
+tourCode: MEX-80689
+---

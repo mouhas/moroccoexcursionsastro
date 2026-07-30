@@ -1,0 +1,180 @@
+---
+import Icon from './Icon.astro';
+import { UI, type Lang } from '../site';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  price?: number | null;
+  perUnit?: string; // e.g. t.perDay, or '' for tours (per person handled in price tiers)
+  isCar?: boolean;
+  rating?: number | null;
+  reviewCount?: number | null;
+}
+const { lang, title, price, perUnit = '', isCar = false, rating, reviewCount } = Astro.props;
+const t = UI[lang];
+const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
+const waNumber = '212673555408';
+const wid = 'bk-' + Math.random().toString(36).slice(2, 9);
+const canPay = !isCar && price && price > 0;
+---
+<aside class="booking" id={wid}>
+  <div class="from">{t.from}</div>
+  {priceStr
+    ? <div class="amt">{priceStr}<small>{perUnit}</small></div>
+    : <div class="amt" style="font-size:22px">On request</div>}
+  {rating
+    ? <div class="row"><span class="stars"><Icon name="star" /></span> {rating.toFixed(1)} · {reviewCount ?? 0} {t.reviewsLabel}</div>
+    : <div class="row"><Icon name="star" class="ico" style="color:#c7cfd8" /> {t.notRated}</div>}
+  <div class="row"><Icon name="shield" /> {t.freeCancellation}</div>
+  <div class="row"><Icon name="globe" /> {isCar ? t.category : t.private}</div>
+
+  <div class="bk-field">
+    <label>{isCar ? t.pickupDate : t.preferredDate}</label>
+    <input type="date" form={wid + '-form'} name="date" required />
+  </div>
+  {isCar ? (
+    <div class="bk-field">
+      <label>{t.returnDate}</label>
+      <input type="date" form={wid + '-form'} name="dateEnd" />
+    </div>
+  ) : (
+    <div class="bk-field">
+      <label>{t.travelers}</label>
+      <div class="bk-stepper">
+        <button type="button" data-step="-1" aria-label="minus">−</button>
+        <input type="number" data-travelers name="travelers_display" value="2" min="1" max="30" readonly />
+        <button type="button" data-step="1" aria-label="plus">+</button>
+      </div>
+    </div>
+  )}
+
+  {canPay && (
+    <div class="pay-box">
+      <div class="pay-toggle">
+        <label class="pay-opt"><input type="radio" name={`paymode-${wid}`} value="deposit" checked /> {t.payDeposit}</label>
+        <label class="pay-opt"><input type="radio" name={`paymode-${wid}`} value="full" /> {t.payFull}</label>
+      </div>
+      <div class="pay-total"><span>{t.totalDue}</span><b data-pay-total>€0</b></div>
+      <div id={`pp-${wid}`} class="pp-container"></div>
+      <p class="pp-note">{t.paypalSandboxNote}</p>
+      <div class="pay-ok" data-pay-ok>{t.paymentSuccess}</div>
+    </div>
+  )}
+
+  <p class="assure sep">{t.orRequestInstead}</p>
+  <form class="bk-form" id={wid + '-form'} data-title={title}>
+    <div class="bk-field">
+      <label>{t.fullName}</label>
+      <input type="text" name="name" required />
+    </div>
+    <div class="bk-field">
+      <label>{t.email}</label>
+      <input type="email" name="email" required />
+    </div>
+    <div class="bk-field">
+      <label>{t.phone}</label>
+      <input type="tel" name="phone" />
+    </div>
+    <div class="bk-field">
+      <label>{t.message}</label>
+      <textarea name="message" placeholder={t.messagePlaceholder}></textarea>
+    </div>
+
+    <button type="submit" class="btn" style="width:100%;justify-content:center;margin-top:6px">{t.sendEmail}</button>
+    <div class="bk-alt">
+      <a class="btn wa" target="_blank" rel="noopener" data-wa-link href={`https://wa.me/${waNumber}`}>
+        <Icon name="whatsapp" class="ico sm" style="fill:#fff;stroke:none" /> {t.chatWhatsapp}
+      </a>
+    </div>
+    <div class="bk-ok" data-ok>{t.bookSuccess}</div>
+  </form>
+  <p class="assure">Our team replies within a few hours and is happy to help you plan the perfect trip.</p>
+</aside>
+
+{canPay && <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=EUR" data-pp-sdk></script>}
+
+<script define:vars={{ wid, waNumber, price, canPay, title }}>
+  (function () {
+    const root = document.getElementById(wid);
+    if (!root) return;
+    const form = document.getElementById(wid + '-form');
+    const stepBtns = root.querySelectorAll('.bk-stepper button');
+    const stepInput = root.querySelector('[data-travelers]');
+    const totalEl = root.querySelector('[data-pay-total]');
+
+    function travelers() {
+      return stepInput ? (parseInt(stepInput.value, 10) || 1) : 1;
+    }
+    function amount() {
+      if (!price) return 0;
+      const mode = root.querySelector(`input[name="paymode-${wid}"]:checked`);
+      const total = price * travelers();
+      return mode && mode.value === 'deposit' ? total * 0.1 : total;
+    }
+    function refreshTotal() {
+      if (totalEl) totalEl.textContent = '€' + amount().toFixed(2);
+    }
+    stepBtns.forEach((b) => b.addEventListener('click', () => {
+      if (!stepInput) return;
+      const delta = parseInt(b.getAttribute('data-step'), 10);
+      const val = Math.max(1, Math.min(30, travelers() + delta));
+      stepInput.value = String(val);
+      refreshTotal();
+    }));
+    root.querySelectorAll(`input[name="paymode-${wid}"]`).forEach((r) => r.addEventListener('change', refreshTotal));
+    refreshTotal();
+
+    function buildMessage() {
+      const data = new FormData(form);
+      const dateInput = root.querySelector('input[name="date"]');
+      const lines = [`Booking request: ${title}`, `Date: ${(dateInput && dateInput.value) || ''}`];
+      const dateEnd = root.querySelector('input[name="dateEnd"]');
+      if (dateEnd && dateEnd.value) lines.push(`Return date: ${dateEnd.value}`);
+      if (stepInput) lines.push(`Travelers: ${stepInput.value}`);
+      lines.push(`Name: ${data.get('name') || ''}`);
+      lines.push(`Email: ${data.get('email') || ''}`);
+      if (data.get('phone')) lines.push(`Phone: ${data.get('phone')}`);
+      if (data.get('message')) lines.push(`Message: ${data.get('message')}`);
+      return lines.join('\n');
+    }
+
+    const waLink = root.querySelector('[data-wa-link]');
+    root.addEventListener('input', () => {
+      if (!waLink) return;
+      waLink.href = `https://wa.me/${waNumber}?text=${encodeURIComponent(buildMessage())}`;
+    });
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (!form.checkValidity()) { form.reportValidity(); return; }
+      const body = buildMessage();
+      const subject = `Booking request: ${title}`;
+      window.location.href = `mailto:MoroccoExcursions@Gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      const ok = root.querySelector('[data-ok]');
+      if (ok) ok.style.display = 'block';
+    });
+
+    if (canPay) {
+      const renderPaypal = () => {
+        if (!window.paypal) return;
+        window.paypal.Buttons({
+          style: { layout: 'vertical', color: 'gold', shape: 'pill', label: 'paypal' },
+          createOrder: (_data, actions) => actions.order.create({
+            purchase_units: [{
+              description: title.slice(0, 120),
+              amount: { currency_code: 'EUR', value: amount().toFixed(2) },
+            }],
+          }),
+          onApprove: (_data, actions) => actions.order.capture().then(() => {
+            const ok = root.querySelector('[data-pay-ok]');
+            if (ok) ok.style.display = 'block';
+          }),
+        }).render(`#pp-${wid}`);
+      };
+      const sdk = document.querySelector('script[data-pp-sdk]');
+      if (window.paypal) renderPaypal();
+      else if (sdk) sdk.addEventListener('load', renderPaypal);
+    }
+  })();
+</script>

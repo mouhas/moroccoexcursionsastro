@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import Home from '../../components/Home.astro';
+import { LANGS, type Lang } from '../../site';
+
+export function getStaticPaths() {
+  return LANGS.filter((l) => l !== 'en').map((l) => ({ params: { lang: l } }));
+}
+const lang = Astro.params.lang as Lang;
+const titles: Record<string, string> = {
+  fr: 'Morocco Excursions | Circuits désert Sahara & Excursions au Maroc',
+  es: 'Morocco Excursions | Tours por el desierto del Sáhara en Marruecos',
+  it: 'Morocco Excursions | Tour nel deserto del Sahara in Marocco',
+  'pt-br': 'Morocco Excursions | Tours pelo deserto do Saara no Marrocos',
+};
+---
+<Base title={titles[lang]} lang={lang} langAlternates>
+  <Home lang={lang} />
+</Base>

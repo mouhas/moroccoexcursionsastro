@@ -1,0 +1,371 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import TourCard from '../components/TourCard.astro';
+import Thumb from '../components/Thumb.astro';
+import BookingWidget from '../components/BookingWidget.astro';
+import { getCollection } from 'astro:content';
+import { base, UI, GENERAL_REVIEWS, type Lang } from '../site';
+
+export async function getStaticPaths() {
+  const all = await getCollection('site');
+  return all.map((entry) => ({ params: { path: entry.data.urlPath }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+const lang = d.lang as Lang;
+const t = UI[lang];
+const b = base(lang);
+const { Content } = await entry.render();
+
+const isTour = d.section === 'tours';
+const isCar = d.section === 'cars';
+const isPage = d.section === 'pages';
+
+const siblings = await getCollection(
+  'site',
+  (e) => e.data.lang === lang && e.data.section === d.section && e.data.urlPath !== d.urlPath
+);
+
+// Stable, deterministic "random" order seeded by this tour's slug — every tour
+// gets its own unique similar-tours combination instead of always the same three.
+function seededShuffle<T>(arr: T[], seed: string): T[] {
+  let h = 0;
+  for (const c of seed) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    h = (Math.imul(h, 1103515245) + 12345) >>> 0;
+    const j = h % (i + 1);
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+const priced = siblings.filter((e) => e.data.price);
+const similar = seededShuffle(priced, d.pslug).slice(0, 3);
+
+// Previous / next navigation, ordered alphabetically by slug for a stable sequence.
+const ordered = [...siblings, entry].sort((a, z) => a.data.pslug.localeCompare(z.data.pslug));
+const curIdx = ordered.findIndex((e) => e.data.urlPath === d.urlPath);
+const prevEntry = ordered.length > 1 ? ordered[(curIdx - 1 + ordered.length) % ordered.length] : null;
+const nextEntry = ordered.length > 1 ? ordered[(curIdx + 1) % ordered.length] : null;
+
+const homeHref = b + '/';
+const priceStr = d.price && d.price > 0 ? '€' + d.price.toLocaleString('en-US') : null;
+const generalReviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
+const galleryTiles = [d.pslug, d.pslug + '-2', d.pslug + '-3', d.pslug + '-4'];
+
+const jsonld = (isTour || isCar) ? {
+  '@context': 'https://schema.org',
+  '@type': isTour ? 'TouristTrip' : 'Product',
+  name: d.title,
+  description: d.title + '. Offered by Morocco Excursions.',
+  ...(priceStr ? { offers: { '@type': 'Offer', price: d.price, priceCurrency: 'EUR' } } : {}),
+  ...(d.rating && d.reviewCount ? { aggregateRating: { '@type': 'AggregateRating', ratingValue: String(d.rating), reviewCount: String(d.reviewCount) } } : {}),
+} : null;
+
+const breadcrumbJsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@position': 1, '@type': 'ListItem', name: 'Home', item: 'https://morocco-excursion.com' + homeHref },
+    ...(isTour ? [{ '@position': 2, '@type': 'ListItem', name: 'Tours', item: 'https://morocco-excursion.com' + b + '/tours' }] : []),
+    { '@position': isTour ? 3 : 2, '@type': 'ListItem', name: d.title, item: 'https://morocco-excursion.com/' + d.urlPath },
+  ],
+};
+---
+<Base title={`${d.title} | Morocco Excursions`} lang={lang}
+  description={isTour || isCar
+    ? `${d.title}${d.duration ? ' — ' + d.duration : ''}. ${priceStr ? t.from + ' ' + priceStr + '. ' : ''}Private, local, tailor-made.`
+    : `${d.title} — Morocco Excursions, a 100% local Berber-owned travel agency.`}>
+
+  {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonld)} />
+
+  {isPage && (
+    <section class="pagehead">
+      <div class="wrap">
+        <div class="crumbs"><a href={homeHref}>Home</a> · {d.title}</div>
+        <h1>{d.title}</h1>
+      </div>
+    </section>
+  )}
+
+  {(isTour || isCar) && (
+    <div class="wrap tour-head">
+      <div class="crumbs">
+        <a href={homeHref}>Home</a>
+        {isTour && <> · <a href={b + '/tours'}>Tours</a></>}
+        {isCar && <> · <a href={b + '/morocco-rental-cars'}>Car Rental</a></>}
+        · {d.title}
+      </div>
+      <h1>{d.title}</h1>
+
+      <div class="tour-info-row">
+        {d.duration && <div class="ti"><Icon name="clock" class="ico" /><span><small>{t.duration}</small><b>{d.duration}</b></span></div>}
+        {d.tourCode && <div class="ti"><Icon name="tag" class="ico" /><span><small>{t.tourCode}</small><b>{d.tourCode}</b></span></div>}
+        {isTour && d.tourType && <div class="ti"><Icon name="user" class="ico" /><span><small>{t.tourType}</small><b>{d.tourType}</b></span></div>}
+        {isCar && d.carCategory && <div class="ti"><Icon name="car" class="ico" /><span><small>{t.category}</small><b>{d.carCategory}</b></span></div>}
+        <a href="#reviews" class="ti link">
+          {d.rating
+            ? <><span class="stars"><Icon name="star" /></span><span><small>{d.rating.toFixed(1)} / 5</small><b>{d.reviewCount ?? 0} {t.reviewsLabel}</b></span></>
+            : <><Icon name="star" class="ico" style="color:#c7cfd8" /><span><b>{t.notRated}</b></span></>}
+        </a>
+      </div>
+
+      <div class="gallery">
+        <div class="gallery-main"><Thumb seed={galleryTiles[0]} /></div>
+        <div class="gallery-side">
+          {galleryTiles.slice(1).map((s) => <div class="gallery-tile"><Thumb seed={s} /></div>)}
+        </div>
+      </div>
+    </div>
+  )}
+
+  {isTour && (
+    <nav class="subnav" id="subnav">
+      <div class="wrap">
+        <a href="#overview" data-nav="overview">{t.tabOverview}</a>
+        {d.itinerary.length > 0 && <a href="#itinerary" data-nav="itinerary">{t.tabItinerary}</a>}
+        {(d.included.length > 0 || d.excluded.length > 0) && <a href="#included" data-nav="included">{t.tabIncluded}</a>}
+        {d.mapUrl && <a href="#map" data-nav="map">{t.tabMap}</a>}
+        <a href="#reviews" data-nav="reviews">{t.tabReviews}</a>
+        {d.faqs.length > 0 && <a href="#faq" data-nav="faq">{t.tabFaq}</a>}
+      </div>
+    </nav>
+  )}
+
+  <div class="wrap layout">
+    <article class="prose">
+      {isPage && <Content />}
+
+      {isTour && (
+        <div id="overview" class="sec">
+          <h2>{t.tabOverview}</h2>
+          <div set:html={d.overviewHtml} />
+
+          {d.highlights.length > 0 && (
+            <>
+              <h3 style="font-size:17px;margin:22px 0 12px">{t.highlights}</h3>
+              <div class="check-grid">
+                {d.highlights.map((h: string) => (
+                  <div class="check-item"><Icon name="check" class="ico sm" /> {h}</div>
+                ))}
+              </div>
+            </>
+          )}
+
+          {d.priceRows.length > 1 && (
+            <>
+              <h3 style="font-size:17px;margin:26px 0 12px">{d.priceHeading || t.pricing}</h3>
+              <div class="price-table-wrap">
+                <table class="price-table">
+                  <thead><tr>{d.priceRows[0].map((c: string) => <th>{c}</th>)}</tr></thead>
+                  <tbody>
+                    {d.priceRows.slice(1).map((row: string[]) => <tr>{row.map((c) => <td>{c}</td>)}</tr>)}
+                  </tbody>
+                </table>
+              </div>
+            </>
+          )}
+
+          {d.notes.length > 0 && (
+            <div class="notes-box">
+              <h4>{d.notesHeading || t.goodToKnow}</h4>
+              <ol>
+                {d.notes.map((n: string) => <li set:html={n} />)}
+              </ol>
+            </div>
+          )}
+        </div>
+      )}
+
+      {isTour && d.itinerary.length > 0 && (
+        <div id="itinerary" class="sec">
+          <h2>{t.dayItinerary}</h2>
+          <div class="accordion">
+            {d.itinerary.map((day: { title: string; html: string }, i: number) => (
+              <details class="acc-item" open={i === 0}>
+                <summary><span class="num">{i + 1}</span> {day.title} <Icon name="chevron" class="ico chev" /></summary>
+                <div class="acc-body" set:html={day.html} />
+              </details>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {isTour && (d.included.length > 0 || d.excluded.length > 0) && (
+        <div id="included" class="sec">
+          <h2>{t.tabIncluded}</h2>
+          <div class="incl-grid">
+            {d.included.length > 0 && (
+              <div class="incl-col yes">
+                <h3><Icon name="check" class="ico" /> {t.included}</h3>
+                {d.included.map((i: string) => <div class="check-item"><Icon name="check" class="ico sm" /> {i}</div>)}
+              </div>
+            )}
+            {d.excluded.length > 0 && (
+              <div class="incl-col no">
+                <h3><Icon name="cross" class="ico" /> {t.excluded}</h3>
+                {d.excluded.map((i: string) => <div class="check-item no"><Icon name="cross" class="ico sm" /> {i}</div>)}
+              </div>
+            )}
+          </div>
+        </div>
+      )}
+
+      {isTour && d.mapUrl && (
+        <div id="map" class="sec">
+          <h2>{t.tourMap}</h2>
+          <div class="map-embed">
+            <iframe src={d.mapUrl} width="100%" height="380" style="border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title={t.tourMap}></iframe>
+          </div>
+        </div>
+      )}
+
+      {isTour && (
+        <div id="reviews" class="sec">
+          <h2>{t.customerReviews}</h2>
+          {d.reviews.length > 0 ? (
+            <>
+              {d.rating && (
+                <div class="rev-summary">
+                  <div class="big rating-num">{d.rating.toFixed(1)}</div>
+                  <div class="meta">
+                    <span class="stars"><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /></span>
+                    <span>{d.reviewCount ?? d.reviews.length} {t.reviewsLabel}</span>
+                  </div>
+                </div>
+              )}
+              {d.reviews.map((r: { name: string; date: string; stars: number; title: string; text: string; likes: number }) => (
+                <div class="rev-card">
+                  <div class="head">
+                    <span class="av">{r.name[0]}</span>
+                    <span class="who"><b>{r.name}</b><small>{r.date}</small></span>
+                    <span class="stars">{Array.from({ length: r.stars }).map(() => <Icon name="star" />)}</span>
+                  </div>
+                  {r.title && <div class="title">{r.title}</div>}
+                  <p>{r.text}</p>
+                  {r.likes > 0 && <div class="likes"><Icon name="heart" class="ico sm" /> {r.likes}</div>}
+                </div>
+              ))}
+            </>
+          ) : (
+            <>
+              <p class="sec-sub" style="margin:0 0 16px">{t.noReviewsYet} {t.generalReviewsNote}</p>
+              {generalReviews.map((r) => (
+                <div class="rev-card">
+                  <div class="head">
+                    <span class="av">{r.name[0]}</span>
+                    <span class="who"><b>{r.name}</b>{r.place && <small>{r.place}</small>}</span>
+                    <span class="stars"><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /><Icon name="star" /></span>
+                  </div>
+                  <p>{r.text}</p>
+                </div>
+              ))}
+              <div class="center" style="margin-top:10px"><a href={b + '/reviews'} class="btn blue">{t.readReviews} →</a></div>
+            </>
+          )}
+        </div>
+      )}
+
+      {isTour && d.faqs.length > 0 && (
+        <div id="faq" class="sec">
+          <h2>{t.frequentlyAsked}</h2>
+          <div class="accordion">
+            {d.faqs.map((f: { q: string; aHtml: string }) => (
+              <details class="acc-item faq">
+                <summary>{f.q} <Icon name="chevron" class="ico chev" /></summary>
+                <div class="acc-body" set:html={f.aHtml} />
+              </details>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {isCar && (
+        <div class="sec">
+          {d.carCategory && (
+            <>
+              <h2>{t.category}</h2>
+              <p class="sec-sub" style="margin-bottom:6px">{d.carCategory}</p>
+            </>
+          )}
+          {d.carFeatures.length > 0 && (
+            <>
+              <h3 style="font-size:17px;margin:20px 0 10px">{t.features}</h3>
+              <div class="spec-grid">
+                {d.carFeatures.map((f: string) => (
+                  <div class="spec"><Icon name="check" class="ico" /><span>{f}</span></div>
+                ))}
+              </div>
+            </>
+          )}
+        </div>
+      )}
+
+      {(isTour || isCar) && (prevEntry || nextEntry) && (
+        <div class="prevnext">
+          {prevEntry
+            ? <a href={'/' + prevEntry.data.urlPath} class="pn-link prev"><Icon name="chevron" class="ico pn-chev" /><span><small>{t.prevTour}</small><b>{prevEntry.data.title}</b></span></a>
+            : <span />}
+          {nextEntry
+            ? <a href={'/' + nextEntry.data.urlPath} class="pn-link next"><span><small>{t.nextTour}</small><b>{nextEntry.data.title}</b></span><Icon name="chevron" class="ico pn-chev" /></a>
+            : <span />}
+        </div>
+      )}
+    </article>
+
+    <BookingWidget
+      lang={lang}
+      title={d.title}
+      price={d.price}
+      perUnit={isCar ? t.perDay : (priceStr && d.priceRows.length > 1 ? ' ' + t.perPerson : '')}
+      isCar={isCar}
+      rating={isTour ? d.rating : null}
+      reviewCount={isTour ? d.reviewCount : null}
+    />
+  </div>
+
+  {similar.length > 0 && (
+    <section class="pad soft2">
+      <div class="wrap">
+        <div class="sec-head" style="margin-bottom:32px"><h2>{t.similar}</h2></div>
+        <div class="grid">
+          {similar.map((e) => (
+            <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
+              duration={e.data.duration} lang={lang} seed={e.data.pslug}
+              rating={e.data.rating} reviewCount={e.data.reviewCount} />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  {isTour && (
+    <script>
+      (function () {
+        const links = Array.from(document.querySelectorAll('.subnav a[data-nav]'));
+        if (!links.length) return;
+        const sections = links
+          .map((a) => document.getElementById(a.getAttribute('data-nav') || ''))
+          .filter((el) => !!el);
+        const setActive = (id) => {
+          links.forEach((a) => a.classList.toggle('active', a.getAttribute('data-nav') === id));
+        };
+        const io = new IntersectionObserver(
+          (entries) => {
+            const visible = entries.filter((e) => e.isIntersecting).sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+            if (visible.length) setActive(visible[0].target.id);
+          },
+          { rootMargin: '-120px 0px -70% 0px', threshold: 0 }
+        );
+        sections.forEach((s) => io.observe(s));
+      })();
+    </script>
+  )}
+</Base>
+
+<style>
+  .soft2{background:var(--blue-lt)}
+</style>

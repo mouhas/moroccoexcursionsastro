@@ -1,0 +1,49 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { LANGS, homeHref, type Lang } from '../site';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang: Lang;
+  langAlternates?: boolean; // set true when this exact path exists for every language (home, /tours)
+}
+const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false } = Astro.props;
+const htmlLang = lang === 'pt-br' ? 'pt-BR' : lang;
+const site = 'https://morocco-excursion.com';
+const canonical = site + Astro.url.pathname;
+const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').replace(/\/$/, '') === '/tours';
+---
+<!DOCTYPE html>
+<html lang={htmlLang}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  {langAlternates && LANGS.map((l) => (
+    <link rel="alternate" hreflang={l === 'pt-br' ? 'pt-BR' : l} href={site + homeHref(l) + (isToursListing ? 'tours' : '')} />
+  ))}
+  {langAlternates && <link rel="alternate" hreflang="x-default" href={site + '/' + (isToursListing ? 'tours' : '')} />}
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonical} />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <Header lang={lang} />
+  <main>
+    <slot />
+  </main>
+  <Footer lang={lang} />
+</body>
+</html>

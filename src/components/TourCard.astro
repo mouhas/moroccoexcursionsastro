@@ -1,0 +1,40 @@
+---
+import Icon from './Icon.astro';
+import Thumb from './Thumb.astro';
+import { UI, type Lang } from '../site';
+interface Props {
+  href: string;
+  title: string;
+  price?: number | null;
+  duration?: string | null;
+  tag?: string | null;
+  lang: Lang;
+  seed?: string;
+  rating?: number | null;
+  reviewCount?: number | null;
+}
+const { href, title, price, duration, tag, lang, seed, rating, reviewCount } = Astro.props;
+const t = UI[lang];
+const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
+---
+<article class="card">
+  <a href={href} class="thumb" aria-label={title}>
+    {tag && <span class="tag">{tag}</span>}
+    <Thumb seed={seed ?? title} class="" />
+  </a>
+  <div class="card-body">
+    <div class="meta">
+      {duration && <span><Icon name="clock" class="ico sm" />{duration}</span>}
+      <span><Icon name="user" class="ico sm" />Private</span>
+    </div>
+    <h3><a href={href}>{title}</a></h3>
+    <div class="foot">
+      <div class="price">
+        {priceStr ? <><small>{t.from}</small><b>{priceStr}</b></> : <b style="font-size:15px">On request</b>}
+      </div>
+      {rating
+        ? <div class="rev"><span class="stars"><Icon name="star" /></span> {rating.toFixed(1)} · {reviewCount ?? 0}</div>
+        : <div class="rev">{t.notRated}</div>}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,148 @@
+# Decap CMS config — edits the same markdown files in src/content/site/
+# that the Astro site reads. See ADMIN-SETUP.md at the project root for how
+# to go from "works on my laptop" to a real login at yoursite.com/admin.
+
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/YOUR_REPO_NAME   # <-- replace after creating the GitHub repo
+  branch: main
+  base_url: https://your-oauth-proxy.example.com   # <-- replace with your OAuth proxy URL (see ADMIN-SETUP.md)
+
+# Lets this same config work with zero setup on your own machine:
+# run `npx decap-server` alongside `npm run dev`, then open /admin.
+local_backend: true
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+publish_mode: simple
+
+collections:
+  - name: "site"
+    label: "Site Content"
+    folder: "src/content/site"
+    create: false
+    delete: false
+    extension: "md"
+    format: "frontmatter"
+    identifier_field: "title"
+    summary: "{{title}} ({{lang}}/{{section}})"
+    sortable_fields: ["title", "lang", "section", "price"]
+    view_filters:
+      - label: "Tours"
+        field: section
+        pattern: "tours"
+      - label: "Cars"
+        field: section
+        pattern: "cars"
+      - label: "Pages"
+        field: section
+        pattern: "pages"
+      - label: "English"
+        field: lang
+        pattern: "en"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Language", name: "lang", widget: "select", options: ["en", "fr", "es", "it", "pt-br"] }
+      - { label: "Section", name: "section", widget: "select", options: ["pages", "tours", "cars"] }
+      - { label: "Slug (pslug)", name: "pslug", widget: "string" }
+      - { label: "URL Path", name: "urlPath", widget: "string" }
+      - { label: "Price (EUR, number only)", name: "price", widget: "number", required: false, value_type: "float" }
+      - { label: "Duration", name: "duration", widget: "string", required: false }
+      - { label: "Tag", name: "tag", widget: "string", required: false }
+      - { label: "Source URL (original page)", name: "source", widget: "string", required: false }
+
+      - { label: "Rating (0-5)", name: "rating", widget: "number", required: false, value_type: "float" }
+      - { label: "Review Count", name: "reviewCount", widget: "number", required: false, value_type: "int" }
+      - { label: "Tour Code", name: "tourCode", widget: "string", required: false }
+      - { label: "Tour Type", name: "tourType", widget: "string", required: false }
+      - { label: "Free Cancellation Window", name: "cancellation", widget: "string", required: false }
+      - { label: "Languages Spoken", name: "languagesSpoken", widget: "string", required: false }
+      - { label: "Google Maps Embed URL", name: "mapUrl", widget: "string", required: false }
+
+      - label: "Overview (HTML)"
+        name: "overviewHtml"
+        widget: "text"
+        required: false
+        hint: "Raw HTML paragraphs shown in the Overview section. Wrap paragraphs in <p>...</p>."
+
+      - { label: "Price Table Heading", name: "priceHeading", widget: "string", required: false }
+      - label: "Price Table Rows"
+        name: "priceRows"
+        widget: "list"
+        required: false
+        summary: "{{fields.row}}"
+        field: { label: "Row (one cell per column)", name: "row", widget: "list", field: { label: "Cell", name: "cell", widget: "string" } }
+
+      - { label: "Notes Heading", name: "notesHeading", widget: "string", required: false }
+      - label: "Notes (HTML list items)"
+        name: "notes"
+        widget: "list"
+        required: false
+        field: { label: "Note", name: "note", widget: "text" }
+
+      - label: "Highlights"
+        name: "highlights"
+        widget: "list"
+        required: false
+        field: { label: "Highlight", name: "highlight", widget: "string" }
+
+      - label: "Day-by-Day Itinerary"
+        name: "itinerary"
+        widget: "list"
+        required: false
+        summary: "{{fields.title}}"
+        fields:
+          - { label: "Day Title", name: "title", widget: "string" }
+          - { label: "Day Description (HTML)", name: "html", widget: "text" }
+
+      - label: "Included"
+        name: "included"
+        widget: "list"
+        required: false
+        field: { label: "Item", name: "item", widget: "string" }
+
+      - label: "Not Included"
+        name: "excluded"
+        widget: "list"
+        required: false
+        field: { label: "Item", name: "item", widget: "string" }
+
+      - label: "FAQs"
+        name: "faqs"
+        widget: "list"
+        required: false
+        summary: "{{fields.q}}"
+        fields:
+          - { label: "Question", name: "q", widget: "string" }
+          - { label: "Answer (HTML)", name: "aHtml", widget: "text" }
+
+      - label: "Reviews"
+        name: "reviews"
+        widget: "list"
+        required: false
+        summary: "{{fields.name}} — {{fields.stars}}★"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Date", name: "date", widget: "string" }
+          - { label: "Stars (1-5)", name: "stars", widget: "number", value_type: "int", default: 5 }
+          - { label: "Likes", name: "likes", widget: "number", value_type: "int", default: 0, required: false }
+          - { label: "Review Title", name: "title", widget: "string", required: false }
+          - { label: "Review Text", name: "text", widget: "text" }
+
+      - label: "Car: Badges"
+        name: "carBadges"
+        widget: "list"
+        required: false
+        field: { label: "Badge", name: "badge", widget: "string" }
+      - { label: "Car: Category", name: "carCategory", widget: "string", required: false }
+      - label: "Car: Features"
+        name: "carFeatures"
+        widget: "list"
+        required: false
+        field: { label: "Feature", name: "feature", widget: "string" }
+
+      - label: "Page Body (markdown — info pages only)"
+        name: "body"
+        widget: "markdown"
+        required: false

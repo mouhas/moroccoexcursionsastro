@@ -1,0 +1,19 @@
+---
+// Deterministic placeholder graphic (blue sky + orange dunes) varied by seed.
+// Real photos replace these later.
+interface Props { seed?: string; class?: string; }
+const { seed = 'x', class: cls = '' } = Astro.props;
+let h = 0;
+for (const c of seed) h = (h * 31 + c.charCodeAt(0)) & 0xffff;
+const variant = h % 4;
+const sun = h % 2 === 0;
+const skies = ['#3a93d8', '#1a78c9', '#5aa7e0', '#2f8fd6'];
+const sky = skies[variant];
+---
+<svg class={cls} viewBox="0 0 400 200" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill={sky} />
+  {sun && <circle cx={variant % 2 ? 315 : 75} cy="52" r="28" fill="#fff3d6" />}
+  <path d="M0 128 C120 88 260 152 400 108 L400 200 L0 200Z" fill="#ef7f22" />
+  <path d="M0 165 C140 130 280 174 400 150 L400 200 L0 200Z" fill="#cf5f10" />
+  {variant === 3 && <><rect x="150" y="96" width="30" height="66" fill="#12558f" /><rect x="192" y="82" width="36" height="80" fill="#0d3c66" /></>}
+</svg>

@@ -1,0 +1,52 @@
+---
+import Icon from './Icon.astro';
+import { getNav, base, CONTACT, type Lang } from '../site';
+interface Props { lang: Lang; }
+const { lang } = Astro.props;
+const b = base(lang);
+const nav = getNav(lang);
+---
+<footer class="site">
+  <div class="wrap">
+    <div class="fgrid">
+      <div class="fbrand">
+        <a class="logo" href={b + '/'} style="color:#fff">
+          <span class="mark"><Icon name="star" class="ico" /></span>
+          <span style="color:#fff">Morocco Excursions</span>
+        </a>
+        <p>A 100% local, Berber-owned tour company sharing authentic Sahara desert tours, camel treks and tailor-made journeys across Morocco.</p>
+        <div class="social">
+          <a href="https://www.facebook.com/MoroccoExcursionsCompany/" target="_blank" rel="noopener" aria-label="Facebook"><Icon name="facebook" class="ico" /></a>
+          <a href="https://www.instagram.com/moroccoexcursions/" target="_blank" rel="noopener" aria-label="Instagram"><Icon name="instagram" class="ico" /></a>
+          <a href="https://twitter.com/Morocco_Touring" target="_blank" rel="noopener" aria-label="X"><Icon name="x" class="ico" /></a>
+          <a href={b + '/reviews'} aria-label="TripAdvisor"><Icon name="tripadvisor" class="ico" /></a>
+        </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        {nav.slice(1).map((n) => <a href={n.href}>{n.label}</a>)}
+      </div>
+      <div>
+        <h4>Company</h4>
+        <a href={b + '/reviews'}>Reviews</a>
+        <a href={b + '/'}>About Us</a>
+        <a href={b + '/tours'}>All Tours</a>
+      </div>
+      <div>
+        <h4>Get in Touch</h4>
+        <a href={CONTACT.phoneHref}><Icon name="phone" class="ico sm" /> {CONTACT.phone}</a>
+        <a href="mailto:MoroccoExcursions@Gmail.com"><Icon name="mail" class="ico sm" /> MoroccoExcursions@Gmail.com</a>
+        <a href={b + '/tours'}><Icon name="map" class="ico sm" /> Customise Your Trip</a>
+        <div style="margin-top:14px">
+          <span style="background:rgba(255,255,255,.08);padding:6px 12px;border-radius:20px;font-size:12.5px;display:inline-flex;align-items:center;gap:7px">
+            <Icon name="globe" class="ico sm" /> EN · FR · ES · IT · PT
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="fbot">
+      <span>© Morocco Excursions 2026. All rights reserved.</span>
+      <span>Terms &amp; Conditions · Privacy Policy · Payment Policy</span>
+    </div>
+  </div>
+</footer>

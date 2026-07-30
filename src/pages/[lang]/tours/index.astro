@@ -1,0 +1,37 @@
+---
+import Base from '../../../layouts/Base.astro';
+import TourCard from '../../../components/TourCard.astro';
+import { getCollection } from 'astro:content';
+import { LANGS, UI, type Lang } from '../../../site';
+
+export function getStaticPaths() {
+  return LANGS.filter((l) => l !== 'en').map((l) => ({ params: { lang: l } }));
+}
+const lang = Astro.params.lang as Lang;
+const t = UI[lang];
+const tours = await getCollection('site', (e) => e.data.lang === lang && e.data.section === 'tours');
+tours.sort((a, z) => (z.data.price ?? -1) - (a.data.price ?? -1));
+const home = '/' + lang + '/';
+const rated = tours.filter((e) => e.data.rating);
+const avgRating = rated.length ? rated.reduce((s, e) => s + (e.data.rating ?? 0), 0) / rated.length : null;
+---
+<Base title={`${t.allTours} | Morocco Excursions`} lang={lang} langAlternates>
+  <section class="pagehead">
+    <div class="wrap">
+      <div class="crumbs"><a href={home}>Home</a> · {t.allTours}</div>
+      <h1>{t.allTours}</h1>
+      <div class="sub"><span>{tours.length} tours</span>{avgRating && <span>{avgRating.toFixed(1)}/5</span>}</div>
+    </div>
+  </section>
+  <section class="pad">
+    <div class="wrap">
+      <div class="grid">
+        {tours.map((e) => (
+          <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
+            duration={e.data.duration} lang={lang} seed={e.data.pslug}
+            rating={e.data.rating} reviewCount={e.data.reviewCount} />
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
