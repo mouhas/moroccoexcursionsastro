@@ -61,16 +61,30 @@ src/
 
 ## Editing content
 
-Right now content lives as markdown files in `src/content/site/`. Each file's
-frontmatter holds the title, price, and duration; the body is the page text.
-Edit a file, save, and the dev server refreshes automatically.
+Content lives as markdown files in `src/content/site/`. Each file's
+frontmatter holds the title, price, duration, itinerary, FAQs, reviews, etc.;
+the body is used for the free-form info pages. Edit a file, save, and the
+dev server refreshes automatically.
 
-## Next step: the admin panel (Sanity)
+## Admin panel
 
-The plan is to connect **Sanity** as the CMS so you can edit tours, prices, and
-translations from a friendly admin panel instead of markdown files, and later add
-the online booking system. That's a follow-up step — this project is the
-front-end foundation it plugs into.
+There's a full admin panel (Decap CMS) at `/admin` for editing every tour/page
+field — no code required. It already works locally:
+
+```bash
+npm run dev          # terminal 1
+npx decap-server      # terminal 2 — local CMS backend
+```
+
+Then open http://localhost:4321/admin/index.html. See **ADMIN-SETUP.md** for
+how to turn this into a real login at yoursite.com/admin and auto-deploy to
+GoDaddy on every save.
+
+## Payments
+
+Tour pages have a working PayPal checkout (10% deposit or pay-in-full) using
+PayPal's sandbox mode — safe to test, no real charges. Swap in your live
+PayPal Client ID when ready (see ADMIN-SETUP.md).
 
 ## Notes
 
