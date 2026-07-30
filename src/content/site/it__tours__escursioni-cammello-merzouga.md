@@ -8,9 +8,9 @@ price: 40
 duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/escursioni-cammello-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour di Gruppo
+cancellation: Up to 0 days
+languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Un’escursione in cammello a Merzouga è una delle cose più belle da fare in Marocco. Cavalcare un cammello sulle dune dell’Erg Chebbi è un’esperienza tranquilla e meravigliosa. Queste dune sono le più alte del Marocco e tra le più alte del Nord Africa. La loro sabbia dorata fa sembrare il deserto un mare di onde.</p>
 
   <p>Durante il tour, potrete fermarvi per scattare foto delle dune, dei cammelli e degli ampi panorami desertici. Il tramonto è il momento più speciale, quando la sabbia cambia colore da giallo ad arancione e rosso. È il momento perfetto per scattare foto e creare ricordi.</p>
@@ -82,4 +82,8 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sit!2sit!4v1756312207723!5m2!1sit!2sit
 tourCode: MEX-36475
+priceTiers: []
+autoPricing: null
+pricingMode: group
+hasDesertExtras: true
 ---

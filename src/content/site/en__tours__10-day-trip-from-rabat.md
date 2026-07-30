@@ -58,4 +58,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-30191
+priceTiers: []
+autoPricing:
+  days: 10
+  nights: 9
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

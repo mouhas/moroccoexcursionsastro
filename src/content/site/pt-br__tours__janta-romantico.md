@@ -8,9 +8,9 @@ price: 60
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/janta-romantico/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: 48 H
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Um jantar romântico no deserto de Merzouga é uma experiência especial para casais. Cercado pelas altas dunas douradas de Erg Chebbi, o deserto fica lindo ao pôr do sol, com suaves tons de laranja e rosa, criando um ambiente tranquilo e pacífico.</p>
 
   <p>Nos nossos acampamentos, montamos locais privados para jantar, para que os casais possam desfrutar do seu tempo a sós. O deserto calmo, a brisa quente e o espaço aberto tornam a noite mágica e inesquecível.</p>
@@ -61,4 +61,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.90441753612!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1spt-pt!2spt-pt!4v1757769311963!5m2!1spt-pt!2spt-pt
 tourCode: MEX-13554
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

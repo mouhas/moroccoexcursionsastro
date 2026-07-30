@@ -8,9 +8,9 @@ price: null
 duration: 1 Day
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-a-ourika/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: <p>Ce voyage est parfait pour les personnes qui veulent la paix, des vues magnifiques et découvrir la culture <strong><a href="https://fr.wikipedia.org/wiki/Berb%C3%A8res" rel="noopener" target="_blank">berbère</a></strong>. Que vous marchiez jusqu’aux cascades, que vous visitiez les villages ou que vous profitiez simplement du calme de la nature, une excursion dans la vallée de l’Ourika rendra votre séjour à Marrakech encore plus agréable.</p>
 priceHeading: Que faut-il savoir avant de réserver une excursion d’une journée la vallée de l’Ourika ?
 priceRows: []
@@ -75,4 +75,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d217726.13766048136!2d-8.06899116402523!3d31.49748365378822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdb0000c4d9d59e1%3A0x575f0b6fa2ee16b5!2sOurika%2C%20Morocco!3m2!1d31.3737358!2d-7.790594!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sbg!4v1753276287446!5m2!1sfr!2sbg
 tourCode: MEX-58842
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

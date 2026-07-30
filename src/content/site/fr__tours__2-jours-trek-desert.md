@@ -8,9 +8,9 @@ price: 100
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-trek-desert/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Découvrez la magie du Sahara lors d’un trek et d’une randonnée de deux jours à travers les dunes dorées de l’Erg Chebbi, près de Merzouga. Cette aventure unique vous emmène au cœur du désert à pied, vous offrant une façon plus lente et plus intime de vous connecter avec le paysage. Marchez à travers les dunes ondulantes, escaladez les crêtes sablonneuses pour profiter d’une vue imprenable et profitez de pauses paisibles avec des repas berbères traditionnels à l’ombre.</p>
 
   <p>Au coucher du soleil, rejoignez votre campement dans le désert où vous pourrez vous détendre, savourer la cuisine marocaine et écouter de la musique berbère autour d’un feu sous un ciel étoilé. Passez la nuit dans une tente confortable avant de vous réveiller tôt pour assister à un lever de soleil inoubliable. Le deuxième jour, empruntez un nouvel itinéraire pour retourner à Merzouga, en passant devant des familles nomades et des plaines désertiques rocheuses. Ce circuit combine l’aventure, la culture et la sérénité du Sahara, vous offrant un véritable aperçu de la vie dans le désert.</p>'
@@ -91,4 +91,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sfr!2sfr!4v1757162605013!5m2!1sfr!2sfr
 tourCode: MEX-11159
+priceTiers: []
+autoPricing:
+  days: 2
+  nights: 1
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

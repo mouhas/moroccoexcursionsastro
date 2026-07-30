@@ -8,9 +8,9 @@ price: 60
 duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/cena-deserto/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privato
+cancellation: 48 H
+languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Una cena romantica nel deserto di Merzouga è un’esperienza speciale per le coppie. Circondato dalle alte dune dorate dell’Erg Chebbi, il deserto diventa bellissimo al tramonto con morbidi colori arancioni e rosa, creando un ambiente tranquillo e pacifico.</p>
 
   <p>Nei nostri campi, allestiamo luoghi privati per la cena in modo che le coppie possano godersi il loro tempo da sole. Il deserto calmo, la brezza calda e gli ampi spazi aperti rendono la serata magica e indimenticabile.</p>
@@ -61,4 +61,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.90441753612!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sit!2sit!4v1757769311963!5m2!1sit!2sit
 tourCode: MEX-30707
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

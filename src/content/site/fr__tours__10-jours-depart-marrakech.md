@@ -8,9 +8,9 @@ price: 450
 duration: 10 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/10-jours-depart-marrakech/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: 48 H
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Rejoignez-nous pour un circuit inoubliable de 10 jours à travers le Maroc, au départ de la ville animée de Marrakech. Ce voyage vous fera découvrir les plus beaux et les plus célèbres sites du Maroc, notamment les villes impériales, les montagnes de l’Atlas et le désert du Sahara.</p>
 
   <p>Nous commencerons à Marrakech, une ville animée et colorée connue pour ses palais anciens, ses souks animés et sa riche culture. De là, nous traverserons les montagnes époustouflantes du Haut Atlas, en passant par des villages berbères traditionnels et des vallées pittoresques. En chemin, vous découvrirez des <a href="https://fr.wikipedia.org/wiki/Kasbah" rel="noopener" target="_blank"><strong>kasbahs</strong></a> historiques (villages fortifiés) et rencontrerez des familles nomades locales qui vivent dans les montagnes et les zones désertiques.</p>
@@ -232,4 +232,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425707.1096300003!2d-8.65925717332393!3d33.01914009082002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda067e2acf2ef09%3A0x8bdbd265c6bd6453!2sOualili%2C%20Morocco!3m2!1d34.0390802!2d-5.5624455!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753870727378!5m2!1sfr!2sfr
 tourCode: MEX-57149
+priceTiers: []
+autoPricing:
+  days: 10
+  nights: 9
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

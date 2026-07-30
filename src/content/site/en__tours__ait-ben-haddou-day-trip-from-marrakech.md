@@ -76,4 +76,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d436374.7449574149!2d-7.877261014826095!3d31.298833477199743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!5e0!3m2!1sen!2sbg!4v1753353322946!5m2!1sen!2sbg
 tourCode: MEX-30584
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

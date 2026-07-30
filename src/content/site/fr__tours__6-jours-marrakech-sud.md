@@ -8,9 +8,9 @@ price: 300
 duration: 6 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Si vous souhaitez explorer le sud du Maroc et découvrir ses trésors cachés, ce circuit de 6 jours au départ de Marrakech est fait pour vous. Le circuit comprend une nuit à Dadès, trois nuits dans la région désertique de Merzouga et une nuit à Ouarzazate.</p>
 
   <p>Le premier jour, nous traverserons le Haut Atlas, visiterons le célèbre Aït Ben Haddou, puis continuerons vers la vallée du Dadès en passant par Skoura et la Vallée des Roses.</p>
@@ -168,4 +168,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m72!1m8!1m3!1d3496691.0525293327!2d-5.983509!3d31.144808!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0x9cdc08902fffe2e9!2s72WF%2B3W%2C%20Tisserdmine%2C%20Morocco!3m2!1d31.295187499999997!2d-3.9751874999999997!4m5!1s0xdbc7f04e51fff23%3A0x79b4b748288512bd!2zTUpDMisyOE3YjCDZhdiy2YPZiti32KksIE1vcm9jY2_igK0!3m2!1d30.670087499999998!2d-6.399203099999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sbg!4v1753702975299!5m2!1sfr!2sbg
 tourCode: MEX-15406
+priceTiers: []
+autoPricing:
+  days: 6
+  nights: 5
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

@@ -11,6 +11,14 @@ const review = z.object({
   title: z.string().default(''),
   text: z.string(),
 });
+const priceTier = z.object({ people: z.number(), perPerson: z.number() });
+const autoPricing = z.object({
+  days: z.number(),
+  nights: z.number(),
+  hotelPerNight: z.number().default(40),
+  superiorSurcharge: z.number().default(50),
+  transportPerDay: z.number().default(300),
+});
 
 const site = defineCollection({
   type: 'content',
@@ -44,6 +52,14 @@ const site = defineCollection({
     reviews: z.array(review).default([]),
     mapUrl: z.string().nullable().default(null),
     tourCode: z.string().nullable().default(null),
+
+    // Pricing engine: 'group' = flat per-person price × travelers,
+    // 'tiers' = manual price-per-group-size table, 'auto' = formula
+    // (hotel/night × people × nights + transport/day) ÷ people.
+    pricingMode: z.enum(['group', 'tiers', 'auto']).default('group'),
+    priceTiers: z.array(priceTier).default([]),
+    autoPricing: autoPricing.nullable().default(null),
+    hasDesertExtras: z.boolean().default(false),
 
     // Car-specific
     carBadges: z.array(z.string()).default([]),

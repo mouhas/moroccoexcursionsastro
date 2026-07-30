@@ -8,9 +8,9 @@ price: 450
 duration: 7 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/settimana-deserto/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privato
+cancellation: Up to 0 days
+languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Trascorrete sette giorni nel deserto di Merzouga e godetevi l’avventura, la cultura e gli splendidi panorami desertici. Il primo giorno, arrivate a Merzouga e fate un giro in cammello tra le dune dorate. Trascorrete la notte in un campo nel deserto sotto le stelle. Il secondo giorno, visitate le famiglie nomadi, i piccoli villaggi berberi e Khamlia, un villaggio noto per la musica tradizionale Gnawa.</p>
 
   <p>Il terzo giorno è all’insegna del divertimento con un giro in quad e un’avventura in buggy tra le dune, seguito da un pranzo in una tranquilla oasi nel deserto. Il quarto giorno esplora Tissardmine, famosa per i fossili, e goditi un picnic nella verde oasi di Safsaf.</p>
@@ -133,4 +133,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sit!2sit!4v1757243889444!5m2!1sit!2sit
 tourCode: MEX-97386
+priceTiers: []
+autoPricing:
+  days: 7
+  nights: 6
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

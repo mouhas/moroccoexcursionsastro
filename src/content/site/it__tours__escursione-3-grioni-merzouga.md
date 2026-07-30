@@ -8,9 +8,9 @@ price: 180
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/it/tours/escursione-3-grioni-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour di Gruppo
+cancellation: Up to 0 days
+languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Stai cercando un tour completo del deserto a Merzouga che includa un giro in cammello, un campo nel deserto, sandboarding, un tour in 4×4 e un’avventura in ATV/Quad? Questa esperienza ha tutto ciò che desideri!</p>
 
   <p>Il tuo viaggio inizia nel <a href="https://it.wikivoyage.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>villaggio di Merzouga</strong></a>, dove potrai parcheggiare la tua auto in tutta sicurezza prima di iniziare un trekking in cammello tra le dune dell’Erg Chebbi. Il viaggio dura circa un’ora, con soste per scattare foto e godersi lo straordinario tramonto. Al campo, sarai accolto con tè alla menta, potrai provare il sandboarding e rilassarti prima di una cena tradizionale marocchina. La serata prosegue con musica berbera attorno al fuoco e osservazione delle stelle prima di dormire in una comoda tenda nel deserto.</p>
@@ -97,4 +97,8 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sit!2sit!4v1756648805984!5m2!1sit!2sit
 tourCode: MEX-13721
+priceTiers: []
+autoPricing: null
+pricingMode: group
+hasDesertExtras: true
 ---

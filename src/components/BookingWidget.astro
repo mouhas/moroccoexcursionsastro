@@ -2,21 +2,37 @@
 import Icon from './Icon.astro';
 import { UI, type Lang } from '../site';
 
+interface PriceTier { people: number; perPerson: number; }
+interface AutoPricing { days: number; nights: number; hotelPerNight: number; superiorSurcharge: number; transportPerDay: number; }
+
 interface Props {
   lang: Lang;
   title: string;
   price?: number | null;
-  perUnit?: string; // e.g. t.perDay, or '' for tours (per person handled in price tiers)
+  perUnit?: string; // e.g. t.perDay, or '' for tours
   isCar?: boolean;
   rating?: number | null;
   reviewCount?: number | null;
+  pricingMode?: 'group' | 'tiers' | 'auto';
+  priceTiers?: PriceTier[];
+  autoPricing?: AutoPricing | null;
+  hasDesertExtras?: boolean;
 }
-const { lang, title, price, perUnit = '', isCar = false, rating, reviewCount } = Astro.props;
+const {
+  lang, title, price, perUnit = '', isCar = false, rating, reviewCount,
+  pricingMode = 'group', priceTiers = [], autoPricing = null, hasDesertExtras = false,
+} = Astro.props;
 const t = UI[lang];
 const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
 const waNumber = '212673555408';
 const wid = 'bk-' + Math.random().toString(36).slice(2, 9);
-const canPay = !isCar && price && price > 0;
+
+const canPay = !isCar && (
+  (pricingMode === 'group' && !!price && price > 0) ||
+  (pricingMode === 'tiers' && priceTiers.length > 0) ||
+  (pricingMode === 'auto' && !!autoPricing)
+);
+const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.people)) : 0;
 ---
 <aside class="booking" id={wid}>
   <div class="from">{t.from}</div>
@@ -51,12 +67,41 @@ const canPay = !isCar && price && price > 0;
 
   {canPay && (
     <div class="pay-box">
+      {pricingMode === 'auto' && (
+        <div class="calc-row">
+          <label>{t.accommodation}</label>
+          <div class="pay-toggle">
+            <label class="pay-opt"><input type="radio" name={`acc-${wid}`} value="standard" checked /> {t.accStandard}</label>
+            <label class="pay-opt"><input type="radio" name={`acc-${wid}`} value="superior" /> {t.accSuperior}</label>
+          </div>
+        </div>
+      )}
+
+      {hasDesertExtras && (
+        <div class="calc-row extras">
+          <label>{t.extras}</label>
+          <div class="extra-item">
+            <span><b>{t.extraQuadSingle}</b><small>{t.extraQuadSingleNote}</small></span>
+            <div class="bk-stepper sm"><button type="button" data-extra-step="quadSingle" data-step="-1">−</button><input type="number" data-extra="quadSingle" value="0" min="0" max="20" readonly /><button type="button" data-extra-step="quadSingle" data-step="1">+</button></div>
+          </div>
+          <div class="extra-item">
+            <span><b>{t.extraQuadShared}</b><small>{t.extraQuadSharedNote}</small></span>
+            <div class="bk-stepper sm"><button type="button" data-extra-step="quadShared" data-step="-1">−</button><input type="number" data-extra="quadShared" value="0" min="0" max="20" readonly /><button type="button" data-extra-step="quadShared" data-step="1">+</button></div>
+          </div>
+          <div class="extra-item">
+            <span><b>{t.extraBuggy}</b><small>{t.extraBuggyNote}</small></span>
+            <div class="bk-stepper sm"><button type="button" data-extra-step="buggy" data-step="-1">−</button><input type="number" data-extra="buggy" value="0" min="0" max="20" readonly /><button type="button" data-extra-step="buggy" data-step="1">+</button></div>
+          </div>
+        </div>
+      )}
+
       <div class="pay-toggle">
         <label class="pay-opt"><input type="radio" name={`paymode-${wid}`} value="deposit" checked /> {t.payDeposit}</label>
         <label class="pay-opt"><input type="radio" name={`paymode-${wid}`} value="full" /> {t.payFull}</label>
       </div>
       <div class="pay-total"><span>{t.totalDue}</span><b data-pay-total>€0</b></div>
-      <div id={`pp-${wid}`} class="pp-container"></div>
+      <p class="contact-quote" data-contact-quote>{t.contactForQuote}</p>
+      <div id={`pp-${wid}`} class="pp-container" data-pp-container></div>
       <p class="pp-note">{t.paypalSandboxNote}</p>
       <div class="pay-ok" data-pay-ok>{t.paymentSuccess}</div>
     </div>
@@ -94,26 +139,67 @@ const canPay = !isCar && price && price > 0;
 
 {canPay && <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=EUR" data-pp-sdk></script>}
 
-<script define:vars={{ wid, waNumber, price, canPay, title }}>
+<script define:vars={{ wid, waNumber, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople }}>
   (function () {
     const root = document.getElementById(wid);
     if (!root) return;
     const form = document.getElementById(wid + '-form');
-    const stepBtns = root.querySelectorAll('.bk-stepper button');
+    const stepBtns = root.querySelectorAll('.bk-stepper button[data-step]:not([data-extra-step])');
     const stepInput = root.querySelector('[data-travelers]');
     const totalEl = root.querySelector('[data-pay-total]');
+    const ppContainer = root.querySelector('[data-pp-container]');
+    const contactQuote = root.querySelector('[data-contact-quote]');
 
     function travelers() {
       return stepInput ? (parseInt(stepInput.value, 10) || 1) : 1;
     }
+    function extraQty(name) {
+      const el = root.querySelector(`[data-extra="${name}"]`);
+      return el ? parseInt(el.value, 10) || 0 : 0;
+    }
+    function extrasTotal() {
+      return extraQty('quadSingle') * 50 + extraQty('quadShared') * 75 + extraQty('buggy') * 130;
+    }
+    // Returns the tour cost (excluding extras), or null if this group size
+    // needs a custom quote (beyond the tiers we have data for).
+    function tourTotal() {
+      const n = travelers();
+      if (pricingMode === 'tiers') {
+        if (!priceTiers.length) return null;
+        if (maxTierPeople && n > maxTierPeople) return null;
+        let best = priceTiers[0];
+        for (const tier of priceTiers) {
+          if (tier.people <= n && tier.people >= best.people) best = tier;
+        }
+        return best.perPerson * n;
+      }
+      if (pricingMode === 'auto') {
+        if (!autoPricing) return null;
+        const accEl = root.querySelector(`input[name="acc-${wid}"]:checked`);
+        const superior = accEl && accEl.value === 'superior';
+        const rate = autoPricing.hotelPerNight + (superior ? autoPricing.superiorSurcharge : 0);
+        const hotel = rate * n * autoPricing.nights;
+        const transport = autoPricing.transportPerDay * autoPricing.days;
+        return hotel + transport;
+      }
+      // group mode: flat per-person price × travelers
+      return price ? price * n : null;
+    }
     function amount() {
-      if (!price) return 0;
+      const base = tourTotal();
+      if (base === null) return null;
+      const grand = base + extrasTotal();
       const mode = root.querySelector(`input[name="paymode-${wid}"]:checked`);
-      const total = price * travelers();
-      return mode && mode.value === 'deposit' ? total * 0.1 : total;
+      return mode && mode.value === 'deposit' ? grand * 0.1 : grand;
     }
     function refreshTotal() {
-      if (totalEl) totalEl.textContent = '€' + amount().toFixed(2);
+      const amt = amount();
+      const needsQuote = amt === null;
+      if (contactQuote) contactQuote.style.display = needsQuote ? 'block' : 'none';
+      if (ppContainer) ppContainer.style.display = needsQuote ? 'none' : '';
+      const totalRow = totalEl ? totalEl.closest('.pay-total') : null;
+      if (totalRow) totalRow.style.display = needsQuote ? 'none' : 'flex';
+      if (totalEl && !needsQuote) totalEl.textContent = '€' + amt.toFixed(2);
     }
     stepBtns.forEach((b) => b.addEventListener('click', () => {
       if (!stepInput) return;
@@ -122,7 +208,15 @@ const canPay = !isCar && price && price > 0;
       stepInput.value = String(val);
       refreshTotal();
     }));
-    root.querySelectorAll(`input[name="paymode-${wid}"]`).forEach((r) => r.addEventListener('change', refreshTotal));
+    root.querySelectorAll('[data-extra-step]').forEach((b) => b.addEventListener('click', () => {
+      const name = b.getAttribute('data-extra-step');
+      const el = root.querySelector(`[data-extra="${name}"]`);
+      if (!el) return;
+      const delta = parseInt(b.getAttribute('data-step'), 10);
+      el.value = String(Math.max(0, Math.min(20, (parseInt(el.value, 10) || 0) + delta)));
+      refreshTotal();
+    }));
+    root.querySelectorAll(`input[name="paymode-${wid}"], input[name="acc-${wid}"]`).forEach((r) => r.addEventListener('change', refreshTotal));
     refreshTotal();
 
     function buildMessage() {
@@ -132,6 +226,11 @@ const canPay = !isCar && price && price > 0;
       const dateEnd = root.querySelector('input[name="dateEnd"]');
       if (dateEnd && dateEnd.value) lines.push(`Return date: ${dateEnd.value}`);
       if (stepInput) lines.push(`Travelers: ${stepInput.value}`);
+      const accEl = root.querySelector(`input[name="acc-${wid}"]:checked`);
+      if (accEl) lines.push(`Accommodation: ${accEl.value}`);
+      if (extraQty('quadSingle')) lines.push(`Quad (single ATV): ${extraQty('quadSingle')}`);
+      if (extraQty('quadShared')) lines.push(`Quad (shared ATV): ${extraQty('quadShared')}`);
+      if (extraQty('buggy')) lines.push(`Dune buggy: ${extraQty('buggy')}`);
       lines.push(`Name: ${data.get('name') || ''}`);
       lines.push(`Email: ${data.get('email') || ''}`);
       if (data.get('phone')) lines.push(`Phone: ${data.get('phone')}`);
@@ -163,7 +262,7 @@ const canPay = !isCar && price && price > 0;
           createOrder: (_data, actions) => actions.order.create({
             purchase_units: [{
               description: title.slice(0, 120),
-              amount: { currency_code: 'EUR', value: amount().toFixed(2) },
+              amount: { currency_code: 'EUR', value: (amount() || 0).toFixed(2) },
             }],
           }),
           onApprove: (_data, actions) => actions.order.capture().then(() => {

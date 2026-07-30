@@ -50,4 +50,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-55245
+priceTiers: []
+autoPricing:
+  days: 6
+  nights: 5
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

@@ -8,9 +8,9 @@ price: 180
 duration: 3 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-3-dias-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour en Grupo
+cancellation: Up to 0 days
+languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>¿Buscas una excursión completa por el desierto en Merzouga que incluya un paseo en camello, un campamento en el desierto, sandboard, una excursión en 4×4 y una aventura en quad? ¡Esta experiencia lo tiene todo!</p>
 
   <p>Tu viaje comienza en el <a href="https://es.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>pueblo de Merzouga</strong></a>, donde podrás aparcar tu coche de forma segura antes de comenzar una excursión en camello por las dunas de Erg Chebbi. El paseo dura aproximadamente una hora, con paradas para hacer fotos y disfrutar de la increíble puesta de sol. En el campamento, te recibirán con té a la menta, podrás probar el sandboard y relajarte antes de disfrutar de una cena tradicional marroquí. La noche continúa con música bereber junto al fuego y observación de las estrellas antes de dormir en una cómoda tienda de campaña en el desierto.</p>
@@ -97,4 +97,8 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1ses!2ses!4v1756648805984!5m2!1ses!2ses
 tourCode: MEX-47571
+priceTiers: []
+autoPricing: null
+pricingMode: group
+hasDesertExtras: true
 ---

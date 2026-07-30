@@ -8,9 +8,9 @@ price: null
 duration: 7 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/semaine-desert/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Passez sept jours dans le désert de Merzouga et profitez de l’aventure, de la culture et des magnifiques paysages désertiques. Le premier jour, arrivez à Merzouga et partez en balade à dos de chameau dans les dunes dorées. Passez la nuit dans un campement désertique sous les étoiles. Le deuxième jour, rendez visite à des familles nomades, à de petits villages berbères et à Khamlia, un village connu pour sa musique traditionnelle gnawa.</p>
 
   <p>Le troisième jour est placé sous le signe du divertissement avec une balade en quad et une aventure en buggy dans les dunes, suivies d’un déjeuner dans une oasis désertique paisible. Le quatrième jour, explorez Tissardmine, célèbre pour ses fossiles, et profitez d’un pique-nique dans la verdoyante oasis de Safsaf.</p>
@@ -133,4 +133,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sfr!2sfr!4v1757243889444!5m2!1sfr!2sfr
 tourCode: MEX-94936
+priceTiers: []
+autoPricing:
+  days: 7
+  nights: 6
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

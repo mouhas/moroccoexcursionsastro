@@ -8,9 +8,9 @@ price: 25
 duration: 1 Day
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursoes-4x4-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 1 day
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>A melhor maneira de explorar esta área é num carro 4×4 com um motorista local. Pode fazer um passeio curto e emocionante pelas dunas de areia. Para uma viagem mais longa, pode visitar uma família nómada. Eles vão convidá-lo para entrar na sua tenda para tomar um chá de menta doce. Também pode ouvir música especial numa aldeia chamada Khamlia.</p>
 
   <p>O deserto tem mais do que apenas areia. Pode ver um lugar chamado Deserto Negro, onde o solo é coberto por rochas escuras. Também pode encontrar jardins de palmeiras verdes, chamados oásis, e ver onde as pessoas escavam fósseis marinhos antigos.</p>
@@ -107,4 +107,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d207989.26901849997!2d-4.016495704350869!3d31.134824578958135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!5e1!3m2!1spt-br!2spt-br!4v1757427880845!5m2!1spt-br!2sus
 tourCode: MEX-95094
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

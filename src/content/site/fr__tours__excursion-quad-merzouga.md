@@ -8,9 +8,9 @@ price: 35
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-quad-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 1 day
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Nous proposons des excursions en quad dans le désert du Sahara, allant de courtes balades d’une heure à des aventures d’une journée ou de plusieurs jours. Nos guides locaux sympathiques vous emmèneront dans des endroits secrets, loin de la foule, où vous pourrez profiter de la véritable beauté du désert. Traversez les dunes de sable doré de l’Erg Chebbi, passez par une oasis verdoyante pleine de palmiers et grimpez sur de petites collines désertiques pour profiter d’une vue imprenable sur le Sahara.</p>
 
   <p>Ce voyage n’est pas seulement une aventure, c’est aussi l’occasion de rencontrer des gens et de découvrir une culture. Vous vous arrêterez dans une maison berbère pour déguster un thé à la menthe et des crêpes marocaines maison avec une famille accueillante. Lors des excursions plus longues, vous partagerez un déjeuner traditionnel avec les habitants et dégusterez un délicieux tajine préparé avec amour.</p>
@@ -85,4 +85,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1sfr!2sfr!4v1757252086435!5m2!1sfr!2sfr
 tourCode: MEX-51435
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

@@ -8,9 +8,9 @@ price: null
 duration: 2 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-marrakech-zagora/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: 48 H
+languagesSpoken: Anglais, Multilingue
 overviewHtml: '<p>Le circuit de 2 jours dans le désert de Marrakech à Zagora est l’option parfaite si vous n’avez que quelques jours au Maroc et que vous souhaitez explorer le désert. Ce circuit de 2 jours dans le désert de Marrakech à <a href="https://fr.wikipedia.org/wiki/Zagora_(Maroc)" rel="noopener" target="_blank">Zagora</a> pourrait être le meilleur choix pour vous. Le voyage comprend des visites des montagnes du Haut Atlas, des villages berbères, de l’oasis saharienne, une randonnée à dos de chameau, le coucher du soleil, le lever du soleil et une nuit dans le désert.</p>
 
   <p>Le premier jour du circuit, vous traverserez les montagnes du Haut Atlas et explorerez quelques villages berbères avant de continuer vers le désert de Zagora. Une fois arrivé à Zagora, vous monterez à dos de chameau dans le désert rocheux et passerez la nuit dans une tente du désert.</p>
@@ -113,4 +113,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d875658.0734407692!2d-7.575518987531441!3d30.98333485285529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.7041312!2d-6.4530072999999994!4m5!1s0xdbc36ea58680e95%3A0x75e9e9fb616de232!2sZagora%2C%20Maroc!3m2!1d30.345899799999998!2d-5.8406587!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sbg!2sbg!4v1722158542169!5m2!1sbg!2sbg
 tourCode: MEX-41590
+priceTiers: []
+autoPricing:
+  days: 2
+  nights: 1
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

@@ -26,4 +26,13 @@ rating: null
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-47120
+priceTiers: []
+autoPricing:
+  days: 4
+  nights: 3
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

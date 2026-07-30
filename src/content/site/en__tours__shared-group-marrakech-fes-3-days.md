@@ -74,4 +74,8 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-85710
+priceTiers: []
+autoPricing: null
+pricingMode: group
+hasDesertExtras: true
 ---

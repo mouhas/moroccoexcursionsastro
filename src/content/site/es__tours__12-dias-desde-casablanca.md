@@ -8,9 +8,9 @@ price: null
 duration: 12 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/12-dias-desde-casablanca/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 0 days
+languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>El viaje comienza en Casablanca, la moderna ciudad marroquí situada junto al Atlántico, y continúa hacia Rabat, la capital del país, donde se puede admirar la impresionante Torre Hassan y la tranquila Kasbah de los Udayas. Desde allí, la carretera se dirige hacia el norte hasta Chefchaouen, la famosa ciudad azul escondida en las montañas del Rif, un lugar que parece casi mágico. De camino hacia el sur, se hace una parada en las ruinas romanas de Volubilis, se explora la ciudad imperial de Meknes y se llega a Fez, donde las estrechas calles revelan antiguas mezquitas, escuelas y coloridos mercados.</p>
 
   <p>Continuando el viaje, la ruta pasa por los bosques de cedros de Azrou y la ciudad de estilo alpino de Ifrane antes de abrirse al amplio valle del Ziz. Pronto, las dunas doradas de Merzouga se elevan en la distancia. Aquí, los paseos en camello, los campamentos en el desierto y las noches bajo el cielo estrellado dan vida al Sáhara. También conocerá a familias nómadas y escuchará la música tradicional gnawa, que lleva el ritmo del desierto.</p>
@@ -199,4 +199,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1ses!2ses!4v1755433740429!5m2!1ses!2ses
 tourCode: MEX-29651
+priceTiers: []
+autoPricing:
+  days: 12
+  nights: 11
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

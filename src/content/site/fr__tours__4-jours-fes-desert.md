@@ -8,9 +8,9 @@ price: 220
 duration: 4 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/4-jours-fes-desert/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Embarquez pour un voyage inoubliable à travers le Maroc, de Fès aux magnifiques gorges du Todra. Traversez les montagnes de l’Atlas et le désert du Sahara pour un voyage riche en paysages à couper le souffle et en découvertes culturelles.</p>
 
   <p>Votre aventure commence par une route panoramique à travers les forêts de cèdres du Moyen Atlas, où vous pourrez apercevoir des singes sauvages. Traversez de charmants villages berbères et la spectaculaire vallée du Ziz avant d’atteindre Merzouga. Là, vous chevaucherez un chameau dans les dunes dorées de l’Erg Chebbi et passerez la nuit dans un campement de luxe dans le désert. Profitez de la musique traditionnelle, de la cuisine délicieuse et d’un ciel étoilé.</p>
@@ -134,4 +134,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d1722116.7729230525!2d-6.079640175008169!3d32.53924965676884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzrou%2C%20Morocco!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sfr!2sfr!4v1754141018069!5m2!1sfr!2sfr
 tourCode: MEX-33299
+priceTiers: []
+autoPricing:
+  days: 4
+  nights: 3
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

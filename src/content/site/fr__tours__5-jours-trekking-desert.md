@@ -8,9 +8,9 @@ price: null
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/5-jours-trekking-desert/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Le trek de 5 jours dans le Sahara commence à Merzouga, où vous partez avec une caravane de chameaux dans les dunes de Bouird. Après un coucher de soleil magique, vous passez la nuit dans un campement dans le désert, sous les étoiles. Le lendemain, une longue traversée des dunes de l’Erg Chebbi vous mène à Hassi Mardani, un ancien village au pied des dunes, où les couleurs du soir sont tout simplement inoubliables.</p>
 
   <p>De là, l’itinéraire se poursuit à travers la Hamada du Guir, un désert rocheux qui contraste avec les sables dorés, avant d’atteindre les dunes tranquilles de l’Erg Znaigui pour un autre bivouac à la belle étoile. Le quatrième jour vous emmène au village de Begaa, une oasis entourée de montagnes, où vous profiterez d’un pique-nique et découvrirez les traditions locales avant de retourner dans les dunes pour le coucher du soleil.</p>
@@ -127,4 +127,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sfr!2sfr!4v1756995114878!5m2!1sfr!2sfr
 tourCode: MEX-47843
+priceTiers: []
+autoPricing:
+  days: 5
+  nights: 4
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

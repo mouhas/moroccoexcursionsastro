@@ -8,9 +8,9 @@ price: 50
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/conduire-4x4-desert/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: 48 H
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Explorer le désert de Merzouga et le parcours du Rallye Dakar en 4×4 est l’une des façons les plus passionnantes et inoubliables de découvrir la magie du Sahara marocain. Le désert autour d’Erg Chebbi se caractérise par de grands espaces, de hautes dunes dorées, des pistes rocheuses et de petites oasis cachées parmi les sables. Lorsque vous conduisez votre propre véhicule, vous ne vous contentez pas de traverser le désert, vous vivez une véritable aventure où chaque virage vous réserve une nouvelle découverte.</p>
 
   <p>Contrairement aux circuits classiques qui suivent les mêmes itinéraires fixes, un voyage en voiture vous permet d’explorer des endroits que de nombreux visiteurs ne voient jamais. Vous pouvez vous arrêter quand vous le souhaitez, prendre des photos dans des endroits paisibles et profiter de la liberté de conduire à travers un paysage unique et sauvage.</p>
@@ -77,4 +77,10 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d207685.50890543303!2d-4.1827306675038!3d31.165040234232738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973b2144e90bb1%3A0x96ef63503b80e425!2sMifis%20Mine%2C%20Merzouga%2C%20Morocco!3m2!1d31.037187499999998!2d-3.9514375!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!5e1!3m2!1sfr!2sfr!4v1757764222994!5m2!1sfr!2sfr
 tourCode: MEX-46422
+priceTiers:
+- people: 150
+  perPerson: 130.0
+autoPricing: null
+pricingMode: tiers
+hasDesertExtras: true
 ---

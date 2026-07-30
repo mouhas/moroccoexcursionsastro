@@ -8,9 +8,9 @@ price: 50
 duration: 1 Day
 tag: null
 source: https://morocco-excursion.com/es/tours/conduce-4x4-desierto/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: 48 H
+languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Explorar el desierto de Merzouga y la pista del Rally Dakar con un 4×4 sin conductor es una de las formas más emocionantes e inolvidables de experimentar la magia del Sáhara marroquí. El desierto que rodea Erg Chebbi se caracteriza por sus amplios espacios abiertos, altas dunas doradas, pistas rocosas y pequeños oasis escondidos entre las arenas. Cuando conduces tu propio vehículo, no solo estás viajando por el desierto, sino que también estás viviendo una verdadera aventura en la que cada curva te depara algo nuevo por descubrir. A diferencia de los tours estándar que siguen las mismas rutas fijas, un viaje en coche te da la oportunidad de explorar lugares que muchos visitantes nunca ven. Puedes parar cuando quieras, hacer fotos en lugares tranquilos y disfrutar de la libertad de conducir por un paisaje tan único y salvaje.</p>
 
   <p>La aventura suele comenzar en el pequeño pueblo de Merzouga, situado al borde de las dunas. Esta es la puerta de entrada al gran Sáhara y el punto de partida de la mayoría de los viajes por el desierto. Antes de adentrarse en la arena, los viajeros suelen reunirse con un guía local que les explica los fundamentos de la conducción todoterreno. Estas lecciones son muy útiles, especialmente para aquellos que no están familiarizados con las condiciones del desierto. El guía les enseñará cómo reducir la presión de los neumáticos para que el vehículo pueda moverse más fácilmente sobre la arena blanda, cómo conducir con seguridad por dunas empinadas y qué hacer si el coche se atasca. Aprender estas técnicas sencillas pero importantes hace que el viaje sea más seguro y mucho más agradable.</p>
@@ -77,4 +77,10 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d207685.50890543303!2d-4.1827306675038!3d31.165040234232738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973b2144e90bb1%3A0x96ef63503b80e425!2sMifis%20Mine%2C%20Merzouga%2C%20Morocco!3m2!1d31.037187499999998!2d-3.9514375!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!5e1!3m2!1ses!2ses!4v1757764222994!5m2!1ses!2ses
 tourCode: MEX-49042
+priceTiers:
+- people: 150
+  perPerson: 130.0
+autoPricing: null
+pricingMode: tiers
+hasDesertExtras: true
 ---

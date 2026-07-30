@@ -8,9 +8,9 @@ price: 35
 duration: 0 Days
 tag: null
 source: https://morocco-excursion.com/es/tours/merzouga-excursion-quad/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 0 days
+languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Ofrecemos excursiones en quad por el desierto del Sáhara, desde recorridos cortos de una hora hasta aventuras de un día completo o de varios días. Nuestros simpáticos guías locales le llevarán a lugares secretos lejos de las multitudes, donde podrá disfrutar de la auténtica belleza del desierto. Recorra las dunas doradas de Erg Chebbi, atraviese un oasis verde lleno de palmeras y suba a pequeñas colinas desérticas para disfrutar de unas vistas impresionantes del Sáhara.</p>
 
   <p>El viaje no solo es una aventura, sino también una oportunidad para conocer gente y aprender sobre la cultura. Hará una parada en una casa bereber para disfrutar de un té a la menta y crepes marroquíes caseros con una familia acogedora. En las excursiones más largas, compartirá un almuerzo tradicional con los lugareños y degustará un delicioso tajín cocinado con amor.</p>
@@ -77,4 +77,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1ses!2ses!4v1757252086435!5m2!1ses!2ses
 tourCode: MEX-56673
+priceTiers: []
+autoPricing:
+  days: 0
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

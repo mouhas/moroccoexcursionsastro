@@ -8,9 +8,9 @@ price: 35
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursoes-quad-atv/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 1 day
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Oferecemos passeios de moto-quatro no deserto do Saara, desde passeios curtos de 1 hora até aventuras de um dia inteiro e de vários dias. Os nossos simpáticos guias locais irão levá-lo a lugares secretos longe das multidões, onde poderá apreciar a verdadeira beleza do deserto. Atravesse as dunas de areia dourada de Erg Chebbi, passe por um oásis verde repleto de palmeiras e suba pequenas colinas do deserto para desfrutar de vistas deslumbrantes do Saara.</p>
 
   <p>A viagem não é apenas sobre aventura, mas também sobre conhecer pessoas e aprender sobre a cultura. Vai parar numa casa berbere para saborear chá de menta e crepes marroquinos caseiros com uma família acolhedora. Em passeios mais longos, vai partilhar um almoço tradicional com os habitantes locais e saborear um delicioso tajine cozinhado com amor.</p>
@@ -77,4 +77,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1spt-br!2spt-br!4v1757252086435!5m2!1spt-br!2spt-br
 tourCode: MEX-54822
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

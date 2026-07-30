@@ -8,9 +8,9 @@ price: 50
 duration: 1 Day
 tag: null
 source: https://morocco-excursion.com/it/tours/guidare-4x4-deserto/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privato
+cancellation: 48 H
+languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Esplorare il deserto di Merzouga e il percorso del Rally Dakar con un fuoristrada 4×4 è uno dei modi più emozionanti e indimenticabili per vivere la magia del Sahara marocchino. Il deserto intorno a Erg Chebbi è caratterizzato da ampi spazi aperti, alte dune dorate, piste rocciose e piccole oasi nascoste tra le sabbie. Quando guidi il tuo veicolo, non solo viaggi attraverso il deserto, ma vivi anche una vera avventura in cui ogni curva porta qualcosa di nuovo da scoprire. A differenza dei tour standard che seguono gli stessi percorsi fissi, un viaggio in auto ti dà la possibilità di esplorare luoghi che molti visitatori non vedono mai. Puoi fermarti quando vuoi, scattare foto in luoghi tranquilli e goderti la libertà di guidare attraverso un paesaggio così unico e selvaggio.</p>
 
   <p>L’avventura inizia tipicamente nel piccolo villaggio di Merzouga, situato ai margini delle dune. Questa è la porta d’accesso al grande Sahara e il punto di partenza per la maggior parte dei viaggi nel deserto. Prima di avventurarsi nella sabbia, i viaggiatori spesso incontrano una guida locale che spiega le basi della guida fuoristrada. Queste lezioni sono molto utili, soprattutto per chi non ha familiarità con le condizioni del deserto. La guida mostrerà come ridurre la pressione dei pneumatici in modo che il veicolo possa muoversi più facilmente sulla sabbia soffice, come guidare in sicurezza sulle dune ripide e cosa fare se l’auto rimane bloccata. Imparare queste tecniche semplici ma importanti rende il viaggio più sicuro e molto più piacevole.</p>
@@ -73,4 +73,10 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d207685.50890543303!2d-4.1827306675038!3d31.165040234232738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973b2144e90bb1%3A0x96ef63503b80e425!2sMifis%20Mine%2C%20Merzouga%2C%20Morocco!3m2!1d31.037187499999998!2d-3.9514375!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!5e1!3m2!1sit!2sit!4v1757764222994!5m2!1sit!2sit
 tourCode: MEX-97946
+priceTiers:
+- people: 150
+  perPerson: 130.0
+autoPricing: null
+pricingMode: tiers
+hasDesertExtras: true
 ---

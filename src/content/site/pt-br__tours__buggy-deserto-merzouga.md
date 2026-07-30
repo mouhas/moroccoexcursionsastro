@@ -8,9 +8,9 @@ price: 115
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/buggy-deserto-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 1 day
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Descubra o deserto do Saara de uma forma divertida e emocionante com os nossos passeios de buggy em Merzouga. Pode escolher um passeio rápido de 1 hora, uma viagem de meio-dia ou uma aventura completa que dura vários dias. Conduzir um buggy é fácil e seguro, e os nossos guias locais irão levá-lo por paisagens incríveis que a maioria dos visitantes nunca vê.</p>
 
   <p>Sinta a emoção ao percorrer as dunas douradas e macias de Erg Chebbi, explorar trilhos tranquilos no deserto e parar em belos oásis com palmeiras. Do topo das dunas, poderá desfrutar de vistas inesquecíveis do vasto Saara.</p>
@@ -82,4 +82,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!2d-4.001314!3d31.129742999999998!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!5e1!3m2!1spt-pt!2spt-pt!4v1757418298032!5m2!1spt-pt!2spt-pt
 tourCode: MEX-50541
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

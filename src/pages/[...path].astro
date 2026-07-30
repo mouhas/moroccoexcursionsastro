@@ -320,10 +320,14 @@ const breadcrumbJsonld = {
       lang={lang}
       title={d.title}
       price={d.price}
-      perUnit={isCar ? t.perDay : (priceStr && d.priceRows.length > 1 ? ' ' + t.perPerson : '')}
+      perUnit={isCar ? t.perDay : (priceStr ? ' ' + t.perPerson : '')}
       isCar={isCar}
       rating={isTour ? d.rating : null}
       reviewCount={isTour ? d.reviewCount : null}
+      pricingMode={d.pricingMode}
+      priceTiers={d.priceTiers}
+      autoPricing={d.autoPricing}
+      hasDesertExtras={d.hasDesertExtras}
     />
   </div>
 

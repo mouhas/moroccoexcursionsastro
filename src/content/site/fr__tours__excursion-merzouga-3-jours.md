@@ -8,9 +8,9 @@ price: 180
 duration: 3 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-merzouga-3-jours/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Specific Tour
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Vous recherchez une excursion complète dans le désert à Merzouga qui comprend une balade à dos de chameau, un campement dans le désert, du sandboard, une excursion en 4×4 et une aventure en quad ? Cette expérience vous offre tout cela !</p>
 
   <p>Votre voyage commence dans le <a href="https://fr.wikivoyage.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>village de Merzouga</strong></a>, où vous pouvez garer votre voiture en toute sécurité avant de partir en randonnée à dos de chameau dans les dunes de l’Erg Chebbi. La balade dure environ une heure, avec des arrêts pour prendre des photos et profiter du magnifique coucher de soleil. Au campement, vous serez accueillis avec un thé à la menthe, vous pourrez essayer le sandboard et vous détendre avant de déguster un dîner traditionnel marocain. La soirée se poursuit avec de la musique berbère autour du feu et l’observation des étoiles avant de dormir dans une confortable tente dans le désert.</p>
@@ -97,4 +97,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sfr!2sfr!4v1756648805984!5m2!1sfr!2sfr
 tourCode: MEX-70069
+priceTiers: []
+autoPricing:
+  days: 3
+  nights: 2
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

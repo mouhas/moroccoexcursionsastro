@@ -8,9 +8,9 @@ price: null
 duration: 5 Days
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/caminhada-5-dias-deserto/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: Up to 0 days
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>A caminhada de 5 dias pelo Saara começa em Merzouga, onde parte com uma caravana de camelos para as dunas de Bouird. Após um pôr do sol mágico, passa a noite num acampamento no deserto sob as estrelas. No dia seguinte, uma longa travessia das dunas de Erg Chebbi leva-o a Hassi Mardani, uma antiga aldeia no sopé das dunas, onde as cores do entardecer são simplesmente inesquecíveis.</p>
 
   <p>A partir daí, o percurso continua através do Hamada du Guir, um deserto rochoso que contrasta com as areias douradas, antes de chegar às tranquilas dunas Erg Znaigui para mais um acampamento à luz das estrelas. O quarto dia leva-o à aldeia de Begaa, um oásis rodeado por montanhas, onde poderá desfrutar de um piquenique e descobrir as tradições locais antes de regressar às dunas para o pôr do sol.</p>
@@ -129,4 +129,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1spt-pt!2spt-pt!4v1756995114878!5m2!1spt-pt!2spt-pt
 tourCode: MEX-44658
+priceTiers: []
+autoPricing:
+  days: 5
+  nights: 4
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

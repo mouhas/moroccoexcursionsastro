@@ -26,4 +26,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-22108
+priceTiers: []
+autoPricing:
+  days: 4
+  nights: 3
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

@@ -8,9 +8,9 @@ price: null
 duration: 1 Day
 tag: null
 source: https://morocco-excursion.com/fr/tours/excurision-a-essaouira/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Au départ de Marrakech, une excursion paisible vous mènera à Essaouira, une charmante ville côtière située au bord de l’océan Atlantique. Essaouira est calme et charmante, offrant un mélange d’histoire, de culture et de vues magnifiques.</p>
 
   <p>Promenez-vous dans le port animé, où les bateaux de pêche colorés flottent doucement sur l’eau. Profitez d’une promenade paisible le long de la plage de sable de l’<strong><a href="https://fr.wikipedia.org/wiki/Oc%C3%A9an_Atlantique" rel="noopener" target="_blank">Atlantique</a></strong> et sentez la brise rafraîchissante de l’océan. Explorez la médina, classée au patrimoine mondial de l’UNESCO, avec ses rues étroites, ses maisons blanches et ses portes d’un bleu éclatant.</p>
@@ -86,4 +86,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d870315.2729128638!2d-9.534125609899723!3d31.560696432097995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!5e0!3m2!1sfr!2sbg!4v1753437940961!5m2!1sen!2sbg
 tourCode: MEX-49662
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

@@ -8,9 +8,9 @@ price: null
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-oasis-safsaf/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privado
+cancellation: 48 H
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Junte-se a uma das nossas viagens de um dia em 4×4 de Merzouga ao recôndito Oásis de Safsaf, um oásis tranquilo e bonito no deserto. A aventura começa com uma viagem fora de estrada a norte das grandes dunas de Erg Chebbi. No caminho, paramos no Oásis de Tissardmine, conhecido pelos seus fósseis, e visitamos famílias nómadas que vivem em tendas. Esta é uma ótima oportunidade para conhecer o seu modo de vida e aprender sobre as tradições do deserto.</p>
 
   <p>No Oásis de Safsaf, encontrará palmeiras altas e, se houver água suficiente, pequenos lagos onde poderá nadar. Pode passear, desfrutar do ar fresco e relaxar sob as árvores. Prepararemos um piquenique à sombra e passaremos um tempo tranquilo neste lugar especial.</p>'
@@ -81,4 +81,10 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1spt-br!2spt-br!4v1757684506799!5m2!1spt-br!2spt-br
 tourCode: MEX-56360
+priceTiers:
+- people: 95
+  perPerson: 90.0
+autoPricing: null
+pricingMode: tiers
+hasDesertExtras: true
 ---

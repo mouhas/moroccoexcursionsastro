@@ -78,4 +78,13 @@ rating: 5.0
 reviewCount: 100
 mapUrl: null
 tourCode: MEX-79286
+priceTiers: []
+autoPricing:
+  days: 17
+  nights: 16
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---

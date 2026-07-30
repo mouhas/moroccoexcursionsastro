@@ -8,9 +8,9 @@ price: 60
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/diner-romantique/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: 48 H
+languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Un dîner romantique dans le désert de Merzouga est une expérience unique pour les couples. Entouré par les hautes dunes dorées de l’Erg Chebbi, le désert se pare de magnifiques couleurs orange et rose au coucher du soleil, créant ainsi un cadre paisible et serein.</p>
 
   <p>Dans nos camps, nous installons des espaces privés pour que les couples puissent profiter d’un moment en tête-à-tête. Le calme du désert, la brise tiède et les grands espaces rendent cette soirée magique et inoubliable.</p>
@@ -61,4 +61,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.90441753612!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sfr!2sfr!4v1757769311963!5m2!1sfr!2sfr
 tourCode: MEX-22454
+priceTiers: []
+autoPricing:
+  days: 1
+  nights: 0
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

@@ -8,9 +8,9 @@ price: 40
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-camelo-merzouga/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour em Grupo
+cancellation: Up to 0 days
+languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Uma excursão de camelo em Merzouga é uma das melhores coisas para fazer em Marrocos. Andar de camelo pelas dunas de Erg Chebbi é uma experiência tranquila e bela. Estas dunas são as mais altas de Marrocos e algumas das mais altas do Norte de África. A sua areia dourada faz com que o deserto pareça um mar de ondas.</p>
 
   <p>Durante a excursão, pode parar para tirar fotos das dunas, dos camelos e das amplas vistas do deserto. O pôr do sol é o momento mais especial, quando a areia muda de cor, passando de amarela para laranja e vermelha. É o momento perfeito para fotos e memórias.</p>
@@ -82,4 +82,8 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1spt-pt!2spt-pt!4v1756312207723!5m2!1spt-pt!2spt-pt
 tourCode: MEX-33006
+priceTiers: []
+autoPricing: null
+pricingMode: group
+hasDesertExtras: true
 ---

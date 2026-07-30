@@ -60,6 +60,43 @@ collections:
       - { label: "Languages Spoken", name: "languagesSpoken", widget: "string", required: false }
       - { label: "Google Maps Embed URL", name: "mapUrl", widget: "string", required: false }
 
+      - label: "Pricing Mode"
+        name: "pricingMode"
+        widget: "select"
+        default: "group"
+        options:
+          - { label: "Group — flat per-person price × travelers", value: "group" }
+          - { label: "Tiers — manual price per group size", value: "tiers" }
+          - { label: "Auto — hotel/night + transport/day formula", value: "auto" }
+        hint: "Group: uses the Price field above × travelers, unchanged for any group size. Tiers: set the table below. Auto: set the formula below."
+
+      - label: "Price Tiers (used when Pricing Mode = tiers)"
+        name: "priceTiers"
+        widget: "list"
+        required: false
+        summary: "{{fields.people}} people = €{{fields.perPerson}}/person"
+        fields:
+          - { label: "Number of People", name: "people", widget: "number", value_type: "int" }
+          - { label: "Price Per Person (EUR)", name: "perPerson", widget: "number", value_type: "float" }
+
+      - label: "Auto-Pricing Formula (used when Pricing Mode = auto)"
+        name: "autoPricing"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Days", name: "days", widget: "number", value_type: "int" }
+          - { label: "Nights", name: "nights", widget: "number", value_type: "int" }
+          - { label: "Standard Hotel (EUR/person/night)", name: "hotelPerNight", widget: "number", value_type: "float", default: 40 }
+          - { label: "Superior Upgrade (EUR/person/night, added to hotel rate)", name: "superiorSurcharge", widget: "number", value_type: "float", default: 50 }
+          - { label: "Transport (EUR/day, flat — split across travelers)", name: "transportPerDay", widget: "number", value_type: "float", default: 300 }
+
+      - label: "Offer Desert Extras (Quad Biking / Dune Buggy)"
+        name: "hasDesertExtras"
+        widget: "boolean"
+        default: false
+        hint: "Only enable for tours that actually visit the desert/dunes."
+
       - label: "Overview (HTML)"
         name: "overviewHtml"
         widget: "text"

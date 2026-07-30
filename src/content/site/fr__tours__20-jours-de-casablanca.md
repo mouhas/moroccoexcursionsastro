@@ -8,9 +8,9 @@ price: 2000
 duration: 20 Days
 tag: null
 source: https://morocco-excursion.com/fr/tours/20-jours-de-casablanca/
-tourType: null
-cancellation: null
-languagesSpoken: null
+tourType: Tour Privé
+cancellation: Up to 0 days
+languagesSpoken: Anglais, Multilingue
 overviewHtml: '<p>Le voyage commence à votre arrivée à Casablanca, où vous pourrez vous reposer après le vol ou faire une petite promenade pour découvrir la ville. Le lendemain, vous vous rendrez à Rabat, la capitale du Maroc, pour visiter la Kasbah des Oudaïas, la tour Hassan et le palais royal. De là, le voyage se poursuivra vers le nord avec une halte dans la petite ville balnéaire d’Asilah avant d’atteindre Tanger, une ville animée qui relie l’Afrique et l’Europe. Après avoir exploré Tanger, vous vous rendrez dans les montagnes du Rif à Chefchaouen, également connue sous le nom de « Perle bleue ». Vous passerez une journée entière ici à vous promener dans ses rues bleues, à faire du shopping dans les marchés et à profiter de la vue apaisante sur les montagnes.</p>
 
   <p>L’itinéraire vous emmène ensuite à <a href="https://fr.wikipedia.org/wiki/Mekn%C3%A8s" rel="noopener" target="_blank"><strong>Meknès</strong></a>, l’une des anciennes villes impériales du Maroc, puis aux ruines romaines de Volubilis avant d’arriver à Fès. Vous passez une journée entière à découvrir Fès, avec sa médina animée, la plus ancienne université du monde, ses tanneries colorées et ses boutiques d’artisanat. Après Fès, vous traversez le Moyen Atlas, en vous arrêtant à Azrou pour observer les singes dans la forêt de cèdres et à Ifrane, une ville propre et verte souvent surnommée « la petite Suisse ». La journée se termine à Midelt, une petite ville dans les montagnes. Le lendemain, vous traversez la vallée du Ziz jusqu’à Rissani, avant d’arriver à Merzouga. De là, une balade à dos de chameau vous emmène dans les hautes dunes de l’Erg Chebbi, où vous dormirez dans un campement dans le désert, sous les étoiles.</p>
@@ -200,4 +200,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755675314275!5m2!1sfr!2sfr
 tourCode: MEX-73826
+priceTiers: []
+autoPricing:
+  days: 20
+  nights: 19
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: true
 ---

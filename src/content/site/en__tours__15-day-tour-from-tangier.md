@@ -58,4 +58,13 @@ rating: 5.0
 reviewCount: 820
 mapUrl: null
 tourCode: MEX-74331
+priceTiers: []
+autoPricing:
+  days: 15
+  nights: 14
+  hotelPerNight: 40
+  superiorSurcharge: 50
+  transportPerDay: 300
+pricingMode: auto
+hasDesertExtras: false
 ---
