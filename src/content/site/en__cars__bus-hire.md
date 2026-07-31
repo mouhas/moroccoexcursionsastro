@@ -1,5 +1,5 @@
 ---
-title: BUS HIRE - Morocco Excursions
+title: BUS HIRE
 lang: en
 section: cars
 pslug: bus-hire

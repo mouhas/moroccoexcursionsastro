@@ -1,13 +1,13 @@
 ---
-title: "Footer Italian - Morocco Excursions"
-lang: "it"
-section: "pages"
-pslug: "footer"
-urlPath: "it/footer"
+title: Footer Italian
+lang: it
+section: pages
+pslug: footer
+urlPath: it/footer
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/it/footer/"
+source: https://morocco-excursion.com/it/footer/
 ---
 **Morocco Excursions**
 

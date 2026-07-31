@@ -1,5 +1,5 @@
 ---
-title: 3-Day Tour from Agadir to Fes via Desert - Morocco Excursions
+title: 3-Day Tour from Agadir to Fes via Desert
 lang: en
 section: tours
 pslug: 3-days-agadir-fes

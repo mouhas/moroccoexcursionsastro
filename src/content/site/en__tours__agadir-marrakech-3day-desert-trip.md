@@ -1,5 +1,5 @@
 ---
-title: 3-day trip from Agadir to Marrakech via desert - Morocco Excursions
+title: 3-day trip from Agadir to Marrakech via desert
 lang: en
 section: tours
 pslug: agadir-marrakech-3day-desert-trip

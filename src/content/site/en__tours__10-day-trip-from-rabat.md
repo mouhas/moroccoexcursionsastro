@@ -1,5 +1,5 @@
 ---
-title: 10-Day Trip From Rabat - Morocco Excursions
+title: 10-Day Trip From Rabat
 lang: en
 section: tours
 pslug: 10-day-trip-from-rabat

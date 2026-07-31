@@ -1,5 +1,5 @@
 ---
-title: 17-Day Trip From Rabat - Morocco Excursions
+title: 17-Day Trip From Rabat
 lang: en
 section: tours
 pslug: 17-day-trip-from-rabat

@@ -1,13 +1,13 @@
 ---
-title: "Contacto - Morocco Excursions"
-lang: "es"
-section: "pages"
-pslug: "contacto"
-urlPath: "es/contacto"
+title: Contacto
+lang: es
+section: pages
+pslug: contacto
+urlPath: es/contacto
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/es/contacto/"
+source: https://morocco-excursion.com/es/contacto/
 ---
 ### Morocco Excursions
 

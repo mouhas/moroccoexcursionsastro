@@ -1,5 +1,5 @@
 ---
-title: Normal-4×4 - Morocco Excursions
+title: Normal-4×4
 lang: en
 section: cars
 pslug: normal-4x4

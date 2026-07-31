@@ -1,5 +1,5 @@
 ---
-title: 4-Day Tour From Tangier - Morocco Excursions
+title: 4-Day Tour From Tangier
 lang: en
 section: tours
 pslug: 4-day-tour-from-tangier

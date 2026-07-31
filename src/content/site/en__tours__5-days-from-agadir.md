@@ -1,5 +1,5 @@
 ---
-title: 5 Days / 4 Night Tours from Agadir - Morocco Excursions
+title: 5 Days / 4 Night Tours from Agadir
 lang: en
 section: tours
 pslug: 5-days-from-agadir

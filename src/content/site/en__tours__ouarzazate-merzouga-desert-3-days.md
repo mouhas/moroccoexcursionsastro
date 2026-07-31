@@ -1,5 +1,5 @@
 ---
-title: 3-day Sahara trip from Ouarzazate to Merzouga - Morocco Excursions
+title: 3-day Sahara trip from Ouarzazate to Merzouga
 lang: en
 section: tours
 pslug: ouarzazate-merzouga-desert-3-days

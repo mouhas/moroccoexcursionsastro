@@ -1,5 +1,5 @@
 ---
-title: 19-Day Tour From Tangier - Morocco Excursions
+title: 19-Day Tour From Tangier
 lang: en
 section: tours
 pslug: 19-day-tour-from-tangier

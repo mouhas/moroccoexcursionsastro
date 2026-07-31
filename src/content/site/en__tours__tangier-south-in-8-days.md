@@ -1,5 +1,5 @@
 ---
-title: Tangier & South in 8 Days - Morocco Excursions
+title: Tangier & South in 8 Days
 lang: en
 section: tours
 pslug: tangier-south-in-8-days

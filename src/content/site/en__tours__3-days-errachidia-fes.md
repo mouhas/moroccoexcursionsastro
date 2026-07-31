@@ -1,5 +1,5 @@
 ---
-title: 3-day trip from Errachidia to Fes via desert - Morocco Excursions
+title: 3-day trip from Errachidia to Fes via desert
 lang: en
 section: tours
 pslug: 3-days-errachidia-fes

@@ -57,6 +57,18 @@ const priceStr = d.price && d.price > 0 ? '€' + d.price.toLocaleString('en-US'
 const generalReviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
 const galleryImages = galleryFor(d.urlPath);
 const galleryTiles = [d.pslug, d.pslug + '-2', d.pslug + '-3', d.pslug + '-4'];
+const pageHero = isPage ? galleryFor(d.urlPath)[0] : undefined;
+
+// Day-trip hub pages ("morocco-9-day-trips") get a live grid of real,
+// current tours of that exact duration instead of relying only on the
+// static in-body table (which can go stale as tours are added/removed).
+const dayTripDays = isPage ? d.pslug.match(/^morocco-(\d+)-day-trips$/)?.[1] : null;
+const dayTripTours = dayTripDays
+  ? (await getCollection('site', (e) => e.data.lang === 'en' && e.data.section === 'tours'))
+      .filter((e) => e.data.duration && parseInt(e.data.duration, 10) === parseInt(dayTripDays, 10))
+      .sort((a, z) => (z.data.rating ?? 0) - (a.data.rating ?? 0))
+      .slice(0, 6)
+  : [];
 
 // --- SEO helpers -----------------------------------------------------------
 
@@ -186,6 +198,20 @@ const breadcrumbJsonld = {
     </section>
   )}
 
+  {isPage && (
+    <div class="wrap">
+      <div class="page-hero">
+        <GalleryTile image={pageHero} seed={d.pslug} label={d.title} eager />
+      </div>
+      <div class="trust-bar">
+        <div class="trust-item"><Icon name="shield" class="ico" /><span><b>{t.trustLocal}</b><small>{t.trustLocalSub}</small></span></div>
+        <div class="trust-item"><Icon name="compass" class="ico" /><span><b>{t.trustBespoke}</b><small>{t.trustBespokeSub}</small></span></div>
+        <div class="trust-item"><Icon name="chat" class="ico" /><span><b>{t.trustReply}</b><small>{t.trustReplySub}</small></span></div>
+        <div class="trust-item"><Icon name="check" class="ico" /><span><b>{t.trustSecure}</b><small>{t.trustSecureSub}</small></span></div>
+      </div>
+    </div>
+  )}
+
   {(isTour || isCar) && (
     <div class="wrap tour-head">
       <div class="crumbs">
@@ -253,6 +279,19 @@ const breadcrumbJsonld = {
   <div class={isPage ? 'wrap layout full' : 'wrap layout'}>
     <article class="prose">
       {isPage && <Content />}
+
+      {dayTripTours.length > 0 && (
+        <div class="sec">
+          <h2>{t.bookableNow}</h2>
+          <div class="grid">
+            {dayTripTours.map((e) => (
+              <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
+                duration={e.data.duration} lang="en" seed={e.data.pslug} urlPath={e.data.urlPath} tourType={e.data.tourType}
+                rating={e.data.rating} reviewCount={e.data.reviewCount} />
+            ))}
+          </div>
+        </div>
+      )}
 
       {isTour && (
         <div id="overview" class="sec">
@@ -491,7 +530,7 @@ const breadcrumbJsonld = {
     )}
   </div>
 
-  {similar.length > 0 && (
+  {(isTour || isCar) && similar.length > 0 && (
     <section class="pad soft2">
       <div class="wrap">
         <div class="sec-head" style="margin-bottom:32px"><h2>{t.similar}</h2></div>

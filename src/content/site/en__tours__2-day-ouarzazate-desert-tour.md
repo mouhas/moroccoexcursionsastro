@@ -1,5 +1,5 @@
 ---
-title: 2-day tour from Ouarzazate to Merzouga desert - Morocco Excursions
+title: 2-day tour from Ouarzazate to Merzouga desert
 lang: en
 section: tours
 pslug: 2-day-ouarzazate-desert-tour

@@ -1,5 +1,5 @@
 ---
-title: 4 days from Ouarzazate to the Sahara desert - Morocco Excursions
+title: 4 days from Ouarzazate to the Sahara desert
 lang: en
 section: tours
 pslug: 4-days-from-ouarzazate-to-the-sahara-desert

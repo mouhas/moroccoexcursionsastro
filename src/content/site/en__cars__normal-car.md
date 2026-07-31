@@ -1,5 +1,5 @@
 ---
-title: Normal Car - Morocco Excursions
+title: Normal Car
 lang: en
 section: cars
 pslug: normal-car

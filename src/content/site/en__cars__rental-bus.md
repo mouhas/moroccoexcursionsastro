@@ -1,5 +1,5 @@
 ---
-title: Rental Bus - Morocco Excursions
+title: Rental Bus
 lang: en
 section: cars
 pslug: rental-bus

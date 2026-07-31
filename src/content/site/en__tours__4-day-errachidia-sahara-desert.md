@@ -1,5 +1,5 @@
 ---
-title: 4-days from Errachidia to Sahara Desert - Morocco Excursions
+title: 4-days from Errachidia to Sahara Desert
 lang: en
 section: tours
 pslug: 4-day-errachidia-sahara-desert

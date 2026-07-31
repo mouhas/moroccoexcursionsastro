@@ -1,13 +1,13 @@
 ---
-title: "Safety Risk Management - Morocco Excursions"
-lang: "en"
-section: "pages"
-pslug: "safety-risk-management"
-urlPath: "safety-risk-management"
+title: Safety Risk Management
+lang: en
+section: pages
+pslug: safety-risk-management
+urlPath: safety-risk-management
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/safety-risk-management/"
+source: https://morocco-excursion.com/safety-risk-management/
 ---
 ## Risk Management & Emergency Response Plan
 

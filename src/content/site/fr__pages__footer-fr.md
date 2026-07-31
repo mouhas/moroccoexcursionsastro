@@ -1,13 +1,13 @@
 ---
-title: "Footer FRENCH - Morocco Excursions"
-lang: "fr"
-section: "pages"
-pslug: "footer-fr"
-urlPath: "fr/footer-fr"
+title: Footer FRENCH
+lang: fr
+section: pages
+pslug: footer-fr
+urlPath: fr/footer-fr
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/fr/footer-fr/"
+source: https://morocco-excursion.com/fr/footer-fr/
 ---
 **Excursions au Maroc**
 

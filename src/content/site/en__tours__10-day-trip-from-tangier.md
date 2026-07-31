@@ -1,5 +1,5 @@
 ---
-title: 10-Day Trip From Tangier - Morocco Excursions
+title: 10-Day Trip From Tangier
 lang: en
 section: tours
 pslug: 10-day-trip-from-tangier

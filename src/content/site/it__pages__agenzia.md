@@ -1,13 +1,13 @@
 ---
-title: "Chi Siamo - Agenzia di Viaggi in Marocco | Morocco Excursions"
-lang: "it"
-section: "pages"
-pslug: "agenzia"
-urlPath: "it/agenzia"
+title: Chi Siamo - Agenzia di Viaggi in Marocco
+lang: it
+section: pages
+pslug: agenzia
+urlPath: it/agenzia
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/it/agenzia/"
+source: https://morocco-excursion.com/it/agenzia/
 ---
 ## **Chi Siamo?**
 

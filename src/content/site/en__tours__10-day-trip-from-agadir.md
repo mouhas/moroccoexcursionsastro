@@ -1,5 +1,5 @@
 ---
-title: 10-day Tour from Agadir - Morocco Excursions
+title: 10-day Tour from Agadir
 lang: en
 section: tours
 pslug: 10-day-trip-from-agadir

@@ -1,13 +1,13 @@
 ---
-title: "Footer Portugaise - Morocco Excursions"
-lang: "pt-br"
-section: "pages"
-pslug: "footer"
-urlPath: "pt-br/footer"
+title: Footer Portugaise
+lang: pt-br
+section: pages
+pslug: footer
+urlPath: pt-br/footer
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/pt-br/footer/"
+source: https://morocco-excursion.com/pt-br/footer/
 ---
 **Morocco Excursions**
 

@@ -1,13 +1,13 @@
 ---
-title: "Code of Conduct - Morocco Excursions"
-lang: "en"
-section: "pages"
-pslug: "code-of-conduct"
-urlPath: "code-of-conduct"
+title: Code of Conduct
+lang: en
+section: pages
+pslug: code-of-conduct
+urlPath: code-of-conduct
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/code-of-conduct/"
+source: https://morocco-excursion.com/code-of-conduct/
 ---
 ## Student Code of Conduct
 

@@ -1,13 +1,13 @@
 ---
-title: "Circuits Désert au Maroc - Excursions Sahara | Morocco Excursions"
-lang: "fr"
-section: "pages"
-pslug: "circuit-desert-maroc"
-urlPath: "fr/circuit-desert-maroc"
+title: Circuits Désert au Maroc - Excursions Sahara
+lang: fr
+section: pages
+pslug: circuit-desert-maroc
+urlPath: fr/circuit-desert-maroc
 price: 115
 duration: null
 tag: null
-source: "https://morocco-excursion.com/fr/circuit-desert-maroc/"
+source: https://morocco-excursion.com/fr/circuit-desert-maroc/
 ---
 Un circuit dans le désert au Maroc comprenant une promenade à dos de chameau à travers les dunes devrait figurer sur la liste des choses à faire lorsque l’on visite le Maroc. Nos circuits dans le désert comprennent des randonnées à dos de chameau et au moins une nuit de camping dans le désert, où vous pourrez admirer les couchers et levers de soleil époustouflants du Sahara. Nous proposons également des activités supplémentaires telles que le sandboarding, les excursions en quad et en buggy des dunes.
 

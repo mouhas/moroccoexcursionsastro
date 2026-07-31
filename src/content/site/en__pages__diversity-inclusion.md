@@ -1,13 +1,13 @@
 ---
-title: "Diversity Inclusion - Morocco Excursions"
-lang: "en"
-section: "pages"
-pslug: "diversity-inclusion"
-urlPath: "diversity-inclusion"
+title: Diversity Inclusion
+lang: en
+section: pages
+pslug: diversity-inclusion
+urlPath: diversity-inclusion
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/diversity-inclusion/"
+source: https://morocco-excursion.com/diversity-inclusion/
 ---
 At Morocco **Excursions**, we are committed to creating a welcoming, respectful, and inclusive environment for all participants.
 

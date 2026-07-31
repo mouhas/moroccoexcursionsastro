@@ -1,5 +1,5 @@
 ---
-title: 4-days from Errachidia to Marrakech via desert - Morocco Excursions
+title: 4-days from Errachidia to Marrakech via desert
 lang: en
 section: tours
 pslug: 4-days-errachidia-marrakech
