@@ -232,6 +232,11 @@ const breadcrumbJsonld = {
             ? <><span class="stars"><Icon name="star" /></span><span><small>{d.rating.toFixed(1)} / 5</small><b>{d.reviewCount ?? 0} {t.reviewsLabel}</b></span></>
             : <><Icon name="star" class="ico" style="color:#c7cfd8" /><span><b>{t.notRated}</b></span></>}
         </a>
+        {isTour && (
+          <button type="button" class="ti link print-btn" data-print-page>
+            <Icon name="download" class="ico" /><span><b>{t.downloadPdf}</b></span>
+          </button>
+        )}
       </div>
 
       <div class="gallery">
@@ -569,7 +574,7 @@ const breadcrumbJsonld = {
       // Map facade: the Google Maps embed iframe is only created on click, so it
       // never costs bytes/requests for visitors who don't open it.
       document.addEventListener('click', (e) => {
-        const btn = (e.target as HTMLElement)?.closest?.('.map-load-btn') as HTMLElement | null;
+        const btn = e.target?.closest?.('.map-load-btn');
         if (!btn) return;
         const src = btn.getAttribute('data-map-src');
         if (!src) return;
@@ -582,6 +587,28 @@ const breadcrumbJsonld = {
         iframe.referrerPolicy = 'no-referrer-when-downgrade';
         iframe.title = btn.getAttribute('data-map-title') || 'Map';
         btn.replaceWith(iframe);
+      });
+
+      // "Download PDF" just triggers the browser's native print dialog, which on
+      // every modern browser offers "Save as PDF" — no server-side PDF generation
+      // needed. A print stylesheet hides nav/booking/etc.; beforeprint/afterprint
+      // force every accordion open (and restore it after) so the full itinerary
+      // and FAQ print even when collapsed — a CSS-only override of a closed
+      // <details> isn't reliable across browsers, so this uses the real attribute.
+      document.addEventListener('click', (e) => {
+        if (e.target?.closest?.('[data-print-page]')) window.print();
+      });
+      window.addEventListener('beforeprint', () => {
+        document.querySelectorAll('.acc-item').forEach((d) => {
+          d.dataset.wasOpen = d.open ? '1' : '0';
+          d.open = true;
+        });
+      });
+      window.addEventListener('afterprint', () => {
+        document.querySelectorAll('.acc-item').forEach((d) => {
+          d.open = d.dataset.wasOpen === '1';
+          delete d.dataset.wasOpen;
+        });
       });
     </script>
   )}

@@ -181,6 +181,8 @@ section.pad{padding:70px 0}
 .tour-info-row .ti b{font-size:14.5px;color:var(--ink)}
 .tour-info-row .ti.link{cursor:pointer}
 .tour-info-row .ti.link:hover b{color:var(--orange-dk)}
+.print-btn{background:none;border:0;font:inherit;padding:0;margin-left:auto}
+@media(max-width:680px){.print-btn{margin-left:0}}
 .tour-info-row .stars{color:var(--orange-dk)}
 
 /* KNOW BEFORE YOU GO */
@@ -381,4 +383,15 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 @media(max-width:900px){
   .subnav{top:0}
   .incl-grid{gap:18px}
+}
+
+/* PRINT / "DOWNLOAD PDF" — force every accordion open and hide chrome that
+   makes no sense on paper (nav, footer, booking box, subnav, map, gallery extras). */
+@media print{
+  header.site,footer,.subnav,.booking,.gallery-side,.gallery-more,.print-btn,
+  #map,.prevnext,.pp-note,.pagehead .sub,.bk-alt{display:none!important}
+  .layout{grid-template-columns:1fr!important}
+  .acc-item .chev{display:none}
+  body{color:#000}
+  a{color:#000;text-decoration:underline}
 }

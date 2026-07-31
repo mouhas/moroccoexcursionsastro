@@ -34,7 +34,7 @@ const t = UI[lang];
 <script>
   const b = document.getElementById('burger');
   b?.addEventListener('click', () => {
-    const m = document.querySelector('.menu') as HTMLElement | null;
+    const m = document.querySelector('.menu');
     if (!m) return;
     const open = m.style.display === 'flex';
     m.style.display = open ? '' : 'flex';
