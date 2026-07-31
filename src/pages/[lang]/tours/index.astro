@@ -1,6 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import TourCard from '../../../components/TourCard.astro';
+import TourFilters from '../../../components/TourFilters.astro';
 import { getCollection } from 'astro:content';
 import { LANGS, UI, type Lang } from '../../../site';
 
@@ -24,17 +25,18 @@ const descriptions: Record<string, string> = {
 <Base title={`${t.allTours} | Morocco Excursions`} lang={lang} langAlternates description={descriptions[lang]} section="tours">
   <section class="pagehead">
     <div class="wrap">
-      <div class="crumbs"><a href={home}>Home</a> · {t.allTours}</div>
+      <div class="crumbs"><a href={home}>{t.home}</a> · {t.allTours}</div>
       <h1>{t.allTours}</h1>
       <div class="sub"><span>{tours.length} tours</span>{avgRating && <span>{avgRating.toFixed(1)}/5</span>}</div>
     </div>
   </section>
   <section class="pad">
-    <div class="wrap">
-      <div class="grid">
+    <div class="wrap tours-layout">
+      <TourFilters lang={lang} />
+      <div class="grid" data-tour-grid>
         {tours.map((e) => (
           <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
-            duration={e.data.duration} lang={lang} seed={e.data.pslug} urlPath={e.data.urlPath}
+            duration={e.data.duration} lang={lang} seed={e.data.pslug} urlPath={e.data.urlPath} tourType={e.data.tourType}
             rating={e.data.rating} reviewCount={e.data.reviewCount} />
         ))}
       </div>

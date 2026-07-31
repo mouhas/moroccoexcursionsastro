@@ -8,7 +8,7 @@ price: 340.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/balade-chameau-merzouga/
-tourType: Specific Tour
+tourType: Tour Privé
 cancellation: Up to 0 days
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Une randonnée à dos de chameau à Merzouga est l’une des meilleures choses à faire au Maroc. Traverser les dunes de l’Erg Chebbi à dos de chameau est une expérience paisible et magnifique. Ces dunes sont les plus hautes du Maroc et parmi les plus hautes d’Afrique du Nord. Leur sable doré donne au désert l’apparence d’une mer de vagues.</p>

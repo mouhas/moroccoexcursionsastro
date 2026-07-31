@@ -8,6 +8,7 @@ interface Props {
   title: string;
   price?: number | null;
   duration?: string | null;
+  tourType?: string | null;
   tag?: string | null;
   lang: Lang;
   seed?: string;
@@ -15,12 +16,14 @@ interface Props {
   rating?: number | null;
   reviewCount?: number | null;
 }
-const { href, title, price, duration, tag, lang, seed, urlPath, rating, reviewCount } = Astro.props;
+const { href, title, price, duration, tourType, tag, lang, seed, urlPath, rating, reviewCount } = Astro.props;
 const t = UI[lang];
 const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
 const image = urlPath ? galleryFor(urlPath)[0] : undefined;
+const isGroup = /group|groupe|grupo|gruppo/i.test(tourType ?? '');
+const durationDays = duration ? parseInt(duration.match(/\d+/)?.[0] ?? '', 10) || null : null;
 ---
-<article class="card">
+<article class="card" data-price={price ?? ''} data-duration-days={durationDays ?? ''} data-tour-type={isGroup ? 'group' : 'private'} data-rating={rating ?? ''}>
   <a href={href} class="thumb" aria-label={title}>
     {tag && <span class="tag">{tag}</span>}
     {image && image.exists
@@ -30,7 +33,7 @@ const image = urlPath ? galleryFor(urlPath)[0] : undefined;
   <div class="card-body">
     <div class="meta">
       {duration && <span><Icon name="clock" class="ico sm" />{duration}</span>}
-      <span><Icon name="user" class="ico sm" />Private</span>
+      <span><Icon name="user" class="ico sm" />{tourType || t.private}</span>
     </div>
     <h3><a href={href}>{title}</a></h3>
     <div class="foot">
