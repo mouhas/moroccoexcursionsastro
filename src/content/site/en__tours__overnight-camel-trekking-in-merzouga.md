@@ -91,4 +91,9 @@ ratingBreakdown:
   guides: 5.0
   transport: 5.0
   activities: 5.0
+campTiers:
+- label: Standard Camp
+  perPerson: 40.0
+- label: Luxury Camp
+  perPerson: 80.0
 ---

@@ -25,6 +25,15 @@ const autoPricing = z.object({
   superiorSurcharge: z.number().default(50),
   transportPerDay: z.number().default(300),
 });
+// 'group' tours where accommodation itself has a Standard/Luxury per-person choice
+// (desert camp overnights), instead of a single flat price.
+const campTier = z.object({ label: z.string(), perPerson: z.number() });
+// 'activity' tours priced by vehicle option × duration (quad biking, dune buggy),
+// where the listed price is a flat rate for that vehicle/duration (not per traveler).
+const activityOption = z.object({
+  label: z.string(),
+  prices: z.array(z.object({ durationLabel: z.string(), price: z.number() })),
+});
 
 const site = defineCollection({
   type: 'content',
@@ -60,12 +69,16 @@ const site = defineCollection({
     mapUrl: z.string().nullable().default(null),
     tourCode: z.string().nullable().default(null),
 
-    // Pricing engine: 'group' = flat per-person price × travelers,
-    // 'tiers' = manual price-per-group-size table, 'auto' = formula
-    // (hotel/night × people × nights + transport/day) ÷ people.
-    pricingMode: z.enum(['group', 'tiers', 'auto']).default('group'),
+    // Pricing engine: 'group' = flat per-person price × travelers (optionally with
+    // campTiers offering a Standard/Luxury per-person choice), 'tiers' = manual
+    // price-per-group-size table, 'auto' = formula
+    // (hotel/night × people × nights + transport/day) ÷ people, 'activity' = flat
+    // rate chosen from vehicle option × duration (quad biking, dune buggy).
+    pricingMode: z.enum(['group', 'tiers', 'auto', 'activity']).default('group'),
     priceTiers: z.array(priceTier).default([]),
     autoPricing: autoPricing.nullable().default(null),
+    campTiers: z.array(campTier).default([]),
+    activityOptions: z.array(activityOption).default([]),
     hasDesertExtras: z.boolean().default(false),
 
     // Car-specific

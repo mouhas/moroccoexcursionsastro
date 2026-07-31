@@ -49,7 +49,7 @@ faqs:
 reviews: []
 rating: 5.0
 reviewCount: 820
-mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sFes%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco
+mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sFes%2C%20Morocco!4m1!2sErrachidia%2C%20Morocco
 tourCode: EN3DFESA
 priceTiers: []
 autoPricing: null

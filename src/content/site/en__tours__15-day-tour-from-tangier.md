@@ -4,8 +4,8 @@ lang: en
 section: tours
 pslug: 15-day-tour-from-tangier
 urlPath: tours/15-day-tour-from-tangier
-price: 2810.0
-duration: 15 days
+price: 3000.0
+duration: 16 Days
 tag: null
 source: https://morocco-excursion.com/tours/15-day-tour-from-tangier/
 tourType: Private Tour
@@ -27,23 +27,23 @@ priceRows:
   - Price Per Person
   - Total
 - - 1 Person
-  - 5060 Euros per person
-  - 5060 euros
+  - 5400 Euros per person
+  - 5400 euros
 - - 2 People
-  - 2810 Euros per person
-  - 5620 euros
+  - 3000 Euros per person
+  - 6000 euros
 - - 3 People
-  - 2060 Euros per person
-  - 6180 euros
+  - 2200 Euros per person
+  - 6600 euros
 - - 4 People
-  - 1685 Euros per person
-  - 6740 euros
+  - 1800 Euros per person
+  - 7200 euros
 - - 5 People
-  - 1460 Euros per person
-  - 7300 euros
+  - 1560 Euros per person
+  - 7800 euros
 - - 6 People
-  - 1310 Euros per person
-  - 7860 euros
+  - 1400 Euros per person
+  - 8400 euros
 - - +6 people
   - Contact us for prices
   - …
@@ -169,24 +169,24 @@ faqs:
 reviews: []
 rating: 5.0
 reviewCount: 820
-mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco
+mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco
 tourCode: EN15DTADA
 priceTiers:
 - people: 1
-  perPerson: 5060.0
+  perPerson: 5400.0
 - people: 2
-  perPerson: 2810.0
+  perPerson: 3000.0
 - people: 3
-  perPerson: 2060.0
+  perPerson: 2200.0
 - people: 4
-  perPerson: 1685.0
+  perPerson: 1800.0
 - people: 5
-  perPerson: 1460.0
+  perPerson: 1560.0
 - people: 6
-  perPerson: 1310.0
+  perPerson: 1400.0
 autoPricing:
-  days: 15
-  nights: 14
+  days: 16
+  nights: 15
   hotelPerNight: 40
   superiorSurcharge: 50
   transportPerDay: 300

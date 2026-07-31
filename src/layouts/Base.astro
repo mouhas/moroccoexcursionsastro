@@ -9,8 +9,10 @@ interface Props {
   description?: string;
   lang: Lang;
   langAlternates?: boolean; // set true when this exact path exists for every language (home, /tours)
+  section?: 'home' | 'pages' | 'tours' | 'cars';
+  pslug?: string;
 }
-const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false } = Astro.props;
+const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false, section = 'home', pslug } = Astro.props;
 const htmlLang = lang === 'pt-br' ? 'pt-BR' : lang;
 const site = 'https://morocco-excursion.com';
 const canonical = site + Astro.url.pathname;
@@ -40,7 +42,7 @@ const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').repl
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&family=Open+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
 </head>
 <body>
-  <Header lang={lang} />
+  <Header lang={lang} section={section} pslug={pslug} />
   <main>
     <slot />
   </main>

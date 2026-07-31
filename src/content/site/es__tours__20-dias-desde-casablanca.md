@@ -4,8 +4,8 @@ lang: es
 section: tours
 pslug: 20-dias-desde-casablanca
 urlPath: es/tours/20-dias-desde-casablanca
-price: 910.0
-duration: 5 Days
+price: 3760.0
+duration: 20 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/20-dias-desde-casablanca/
 tourType: Tour Privado
@@ -24,23 +24,23 @@ priceRows:
   - Precio por persona
   - Total
 - - 1 Persona
-  - 1660 Euros por persona
-  - 1660 euros
+  - 6760 Euros por persona
+  - 6760 euros
 - - 2 Personas
-  - 910 Euros por persona
-  - 1820 euros
+  - 3760 Euros por persona
+  - 7520 euros
 - - 3 Personas
-  - 660 Euros por persona
-  - 1980 euros
+  - 2760 Euros por persona
+  - 8280 euros
 - - 4 Personas
-  - 535 Euros por persona
-  - 2140 euros
+  - 2260 Euros por persona
+  - 9040 euros
 - - 5 Personas
-  - 460 Euros por persona
-  - 2300 euros
+  - 1960 Euros por persona
+  - 9800 euros
 - - 6 Personas
-  - 410 Euros por persona
-  - 2460 euros
+  - 1760 Euros por persona
+  - 10560 euros
 - - +6 personas
   - Contáctanos para el precio
   - …
@@ -142,20 +142,20 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!
 tourCode: ES5DCAVI
 priceTiers:
 - people: 1
-  perPerson: 1660.0
+  perPerson: 6760.0
 - people: 2
-  perPerson: 910.0
+  perPerson: 3760.0
 - people: 3
-  perPerson: 660.0
+  perPerson: 2760.0
 - people: 4
-  perPerson: 535.0
+  perPerson: 2260.0
 - people: 5
-  perPerson: 460.0
+  perPerson: 1960.0
 - people: 6
-  perPerson: 410.0
+  perPerson: 1760.0
 autoPricing:
-  days: 5
-  nights: 4
+  days: 20
+  nights: 19
   hotelPerNight: 40
   superiorSurcharge: 50
   transportPerDay: 300

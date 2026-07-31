@@ -4,6 +4,8 @@ import { UI, type Lang } from '../site';
 
 interface PriceTier { people: number; perPerson: number; }
 interface AutoPricing { days: number; nights: number; hotelPerNight: number; superiorSurcharge: number; transportPerDay: number; }
+interface CampTier { label: string; perPerson: number; }
+interface ActivityOption { label: string; prices: { durationLabel: string; price: number }[]; }
 
 interface Props {
   lang: Lang;
@@ -11,14 +13,17 @@ interface Props {
   price?: number | null;
   perUnit?: string; // e.g. t.perDay, or '' for tours
   isCar?: boolean;
-  pricingMode?: 'group' | 'tiers' | 'auto';
+  pricingMode?: 'group' | 'tiers' | 'auto' | 'activity';
   priceTiers?: PriceTier[];
   autoPricing?: AutoPricing | null;
+  campTiers?: CampTier[];
+  activityOptions?: ActivityOption[];
   hasDesertExtras?: boolean;
 }
 const {
   lang, title, price, perUnit = '', isCar = false,
-  pricingMode = 'group', priceTiers = [], autoPricing = null, hasDesertExtras = false,
+  pricingMode = 'group', priceTiers = [], autoPricing = null,
+  campTiers = [], activityOptions = [], hasDesertExtras = false,
 } = Astro.props;
 const t = UI[lang];
 const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
@@ -28,8 +33,10 @@ const wid = 'bk-' + Math.random().toString(36).slice(2, 9);
 const canPay = !isCar && (
   (pricingMode === 'group' && !!price && price > 0) ||
   (pricingMode === 'tiers' && priceTiers.length > 0) ||
-  (pricingMode === 'auto' && !!autoPricing)
+  (pricingMode === 'auto' && !!autoPricing) ||
+  (pricingMode === 'activity' && activityOptions.length > 0)
 );
+const durationLabels = pricingMode === 'activity' && activityOptions[0] ? activityOptions[0].prices.map((p) => p.durationLabel) : [];
 const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.people)) : 0;
 ---
 <aside class="booking" id={wid}>
@@ -71,7 +78,37 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
         </div>
       )}
 
-      {hasDesertExtras && (
+      {pricingMode === 'group' && campTiers.length > 0 && (
+        <div class="calc-row">
+          <label>{t.accommodation}</label>
+          <div class="pay-toggle">
+            {campTiers.map((tier, i) => (
+              <label class="pay-opt">
+                <input type="radio" name={`camp-${wid}`} value={String(tier.perPerson)} checked={i === 0} /> {tier.label} (€{tier.perPerson}/{t.perPerson})
+              </label>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {pricingMode === 'activity' && activityOptions.length > 0 && (
+        <div class="calc-row">
+          <label>{t.vehicleType}</label>
+          <div class="pay-toggle">
+            {activityOptions.map((opt, i) => (
+              <label class="pay-opt"><input type="radio" name={`vehicle-${wid}`} value={opt.label} checked={i === 0} /> {opt.label}</label>
+            ))}
+          </div>
+          <label style="margin-top:10px;display:block">{t.chooseDuration}</label>
+          <div class="pay-toggle">
+            {durationLabels.map((label, i) => (
+              <label class="pay-opt"><input type="radio" name={`duration-${wid}`} value={label} checked={i === 0} /> {label}</label>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {hasDesertExtras && pricingMode !== 'activity' && (
         <div class="calc-row extras">
           <label>{t.extras}</label>
           <div class="extra-item">
@@ -133,7 +170,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
 
 {canPay && <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=EUR" data-pp-sdk></script>}
 
-<script define:vars={{ wid, waNumber, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople }}>
+<script define:vars={{ wid, waNumber, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople, activityOptions }}>
   (function () {
     const root = document.getElementById(wid);
     if (!root) return;
@@ -176,8 +213,20 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
         const transport = autoPricing.transportPerDay * autoPricing.days;
         return hotel + transport;
       }
-      // group mode: flat per-person price × travelers
-      return price ? price * n : null;
+      if (pricingMode === 'activity') {
+        // Flat rate for the chosen vehicle + duration — not multiplied by travelers,
+        // since the listed price already covers that vehicle for that time slot.
+        if (!activityOptions.length) return null;
+        const vehicleEl = root.querySelector(`input[name="vehicle-${wid}"]:checked`);
+        const durationEl = root.querySelector(`input[name="duration-${wid}"]:checked`);
+        const opt = activityOptions.find((o) => o.label === (vehicleEl && vehicleEl.value)) || activityOptions[0];
+        const rate = opt.prices.find((p) => p.durationLabel === (durationEl && durationEl.value)) || opt.prices[0];
+        return rate ? rate.price : null;
+      }
+      // group mode: flat per-person price (or selected camp tier) × travelers
+      const campEl = root.querySelector(`input[name="camp-${wid}"]:checked`);
+      const perPerson = campEl ? parseFloat(campEl.value) : price;
+      return perPerson ? perPerson * n : null;
     }
     function amount() {
       const base = tourTotal();
@@ -210,7 +259,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
       el.value = String(Math.max(0, Math.min(20, (parseInt(el.value, 10) || 0) + delta)));
       refreshTotal();
     }));
-    root.querySelectorAll(`input[name="paymode-${wid}"], input[name="acc-${wid}"]`).forEach((r) => r.addEventListener('change', refreshTotal));
+    root.querySelectorAll(`input[name="paymode-${wid}"], input[name="acc-${wid}"], input[name="camp-${wid}"], input[name="vehicle-${wid}"], input[name="duration-${wid}"]`).forEach((r) => r.addEventListener('change', refreshTotal));
     refreshTotal();
 
     function buildMessage() {
@@ -222,6 +271,12 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
       if (stepInput) lines.push(`Travelers: ${stepInput.value}`);
       const accEl = root.querySelector(`input[name="acc-${wid}"]:checked`);
       if (accEl) lines.push(`Accommodation: ${accEl.value}`);
+      const campEl = root.querySelector(`input[name="camp-${wid}"]:checked`);
+      if (campEl) lines.push(`Camp: €${campEl.value}/person`);
+      const vehicleEl = root.querySelector(`input[name="vehicle-${wid}"]:checked`);
+      if (vehicleEl) lines.push(`Vehicle: ${vehicleEl.value}`);
+      const durationEl = root.querySelector(`input[name="duration-${wid}"]:checked`);
+      if (durationEl) lines.push(`Duration: ${durationEl.value}`);
       if (extraQty('quadSingle')) lines.push(`Quad (single ATV): ${extraQty('quadSingle')}`);
       if (extraQty('quadShared')) lines.push(`Quad (shared ATV): ${extraQty('quadShared')}`);
       if (extraQty('buggy')) lines.push(`Dune buggy: ${extraQty('buggy')}`);

@@ -97,6 +97,39 @@ function extractPickupTime(): string | null {
 }
 const pickupTime = isTour ? extractPickupTime() : null;
 
+// We keep the Google Maps iframe out of the initial page load (facade + click-to-load
+// below) and instead surface the real origin/destination as plain, crawlable text plus
+// a link to Google Maps directions — faster first load, and actually indexable, unlike
+// text buried inside a third-party iframe. Some stored mapUrl values are the simple
+// two-point embed format and others are richer multi-waypoint embeds copied straight
+// from Google Maps share links (which also carry locale-code noise like "!1sus!2sus"),
+// so rather than parse that blob, we read the same origin/destination straight from the
+// tour's own itinerary — the day titles are always "Day 1: CityA - CityB" style.
+// Segments that are day-title filler rather than an actual place ("Day 2: Marrakech -
+// Free Day"), so they don't end up looking like a stop on the route.
+const NON_PLACE_SEGMENTS = /^(free|rest)\s*day$|^airport$|^departure$|^arrival$/i;
+function extractDayCities(title: string): string[] {
+  const afterColon = title.replace(/^[^:]*:\s*/, '').trim();
+  return afterColon.split(/\s*[-–]\s*/).map((p) => p.trim()).filter((p) => p && !NON_PLACE_SEGMENTS.test(p));
+}
+const mapRoute = (isTour && d.mapUrl && d.itinerary.length > 0) ? (() => {
+  // Walk every day's "CityA - CityB" title and chain them into one full route,
+  // collapsing the repeat where one day's arrival city is the next day's departure.
+  const stops: string[] = [];
+  for (const day of d.itinerary) {
+    for (const city of extractDayCities(day.title)) {
+      if (stops[stops.length - 1] !== city) stops.push(city);
+    }
+  }
+  if (stops.length < 2) return null;
+  const origin = stops[0];
+  const destination = stops[stops.length - 1];
+  const waypoints = stops.slice(1, -1).slice(0, 8); // Google's directions UI only takes a handful
+  const params = new URLSearchParams({ api: '1', origin: origin + ', Morocco', destination: destination + ', Morocco' });
+  if (waypoints.length) params.set('waypoints', waypoints.map((w) => w + ', Morocco').join('|'));
+  return { routeText: stops.join(' → '), directionsUrl: `https://www.google.com/maps/dir/?${params.toString()}` };
+})() : null;
+
 const jsonld = (isTour || isCar) ? {
   '@context': 'https://schema.org',
   '@type': 'Product',
@@ -135,7 +168,7 @@ const breadcrumbJsonld = {
   ],
 };
 ---
-<Base title={`${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()}>
+<Base title={`${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()} section={d.section} pslug={d.pslug}>
 
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
   {faqJsonld && <script type="application/ld+json" set:html={JSON.stringify(faqJsonld)} />}
@@ -294,9 +327,18 @@ const breadcrumbJsonld = {
       {isTour && d.mapUrl && (
         <div id="map" class="sec">
           <h2>{t.tourMap}</h2>
+          {mapRoute && <p class="map-route">{mapRoute.routeText}</p>}
           <div class="map-embed">
-            <iframe src={d.mapUrl} width="100%" height="380" style="border:0" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title={t.tourMap}></iframe>
+            <button type="button" class="map-load-btn" data-map-src={d.mapUrl} data-map-title={t.tourMap}>
+              <Icon name="pin" class="ico" />
+              {t.loadMap}
+            </button>
           </div>
+          {mapRoute && (
+            <a class="map-directions-link" href={mapRoute.directionsUrl} target="_blank" rel="noopener noreferrer">
+              {t.openInMaps}
+            </a>
+          )}
         </div>
       )}
 
@@ -418,6 +460,8 @@ const breadcrumbJsonld = {
       pricingMode={d.pricingMode}
       priceTiers={d.priceTiers}
       autoPricing={d.autoPricing}
+      campTiers={d.campTiers}
+      activityOptions={d.activityOptions}
       hasDesertExtras={d.hasDesertExtras}
     />
   </div>
@@ -457,6 +501,24 @@ const breadcrumbJsonld = {
         );
         sections.forEach((s) => io.observe(s));
       })();
+
+      // Map facade: the Google Maps embed iframe is only created on click, so it
+      // never costs bytes/requests for visitors who don't open it.
+      document.addEventListener('click', (e) => {
+        const btn = (e.target as HTMLElement)?.closest?.('.map-load-btn') as HTMLElement | null;
+        if (!btn) return;
+        const src = btn.getAttribute('data-map-src');
+        if (!src) return;
+        const iframe = document.createElement('iframe');
+        iframe.src = src;
+        iframe.width = '100%';
+        iframe.height = '380';
+        iframe.style.border = '0';
+        iframe.loading = 'lazy';
+        iframe.referrerPolicy = 'no-referrer-when-downgrade';
+        iframe.title = btn.getAttribute('data-map-title') || 'Map';
+        btn.replaceWith(iframe);
+      });
     </script>
   )}
 </Base>

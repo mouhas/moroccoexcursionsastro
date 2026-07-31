@@ -1,8 +1,12 @@
 ---
 import Icon from './Icon.astro';
-import { getNav, homeHref, LANGS, LANG_LABELS, UI, type Lang } from '../site';
-interface Props { lang: Lang; }
-const { lang } = Astro.props;
+import { getNav, homeHref, langSwitchHref, LANGS, LANG_LABELS, UI, type Lang } from '../site';
+interface Props {
+  lang: Lang;
+  section?: 'home' | 'pages' | 'tours' | 'cars';
+  pslug?: string;
+}
+const { lang, section = 'home', pslug } = Astro.props;
 const nav = getNav(lang);
 const t = UI[lang];
 ---
@@ -19,7 +23,7 @@ const t = UI[lang];
       <div class="lang">
         <button><Icon name="globe" class="ico sm" /> {lang.toUpperCase()}</button>
         <div class="lang-menu">
-          {LANGS.map((l) => <a href={homeHref(l)}>{LANG_LABELS[l]}</a>)}
+          {LANGS.map((l) => <a href={langSwitchHref(l, { section, pslug, lang })}>{LANG_LABELS[l]}</a>)}
         </div>
       </div>
       <a href={nav[1]?.href ?? homeHref(lang)} class="btn sm">{t.book}</a>

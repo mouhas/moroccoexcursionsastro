@@ -4,7 +4,7 @@ lang: es
 section: tours
 pslug: buggy-desierto-merzouga
 urlPath: es/tours/buggy-desierto-merzouga
-price: 115
+price: 115.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/es/tours/buggy-desierto-merzouga/
@@ -84,11 +84,28 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!
 tourCode: ES1DMEEX
 priceTiers: []
 autoPricing: null
-pricingMode: group
-hasDesertExtras: true
+pricingMode: activity
+hasDesertExtras: false
 ratingBreakdown:
   hotels: 5.0
   guides: 5.0
   transport: 5.0
   activities: 5.0
+activityOptions:
+- label: Buggy para 2 personas
+  prices:
+  - durationLabel: 1 – 2 horas
+    price: 130.0
+  - durationLabel: 3 – 4 horas
+    price: 120.0
+  - durationLabel: 5-6 horas
+    price: 115.0
+- label: Buggy para 4 personas
+  prices:
+  - durationLabel: 1 – 2 horas
+    price: 200.0
+  - durationLabel: 3 – 4 horas
+    price: 195.0
+  - durationLabel: 5-6 horas
+    price: 285.0
 ---

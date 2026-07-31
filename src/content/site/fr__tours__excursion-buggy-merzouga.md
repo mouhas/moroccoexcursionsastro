@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: excursion-buggy-merzouga
 urlPath: fr/tours/excursion-buggy-merzouga
-price: 115
+price: 115.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-buggy-merzouga/
@@ -84,11 +84,28 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!
 tourCode: FR1DMEEX
 priceTiers: []
 autoPricing: null
-pricingMode: group
-hasDesertExtras: true
+pricingMode: activity
+hasDesertExtras: false
 ratingBreakdown:
   hotels: 5.0
   guides: 5.0
   transport: 5.0
   activities: 5.0
+activityOptions:
+- label: Buggy pour 2 personnes
+  prices:
+  - durationLabel: 1 à 2 heures
+    price: 130.0
+  - durationLabel: 3 à 4 heures
+    price: 120.0
+  - durationLabel: 5 à 6 heures
+    price: 115.0
+- label: Buggy pour 4 personnes
+  prices:
+  - durationLabel: 1 à 2 heures
+    price: 200.0
+  - durationLabel: 3 à 4 heures
+    price: 195.0
+  - durationLabel: 5 à 6 heures
+    price: 285.0
 ---

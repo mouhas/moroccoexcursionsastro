@@ -4,7 +4,7 @@ lang: it
 section: tours
 pslug: escursioni-quad-merzouga
 urlPath: it/tours/escursioni-quad-merzouga
-price: 35
+price: 35.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/escursioni-quad-merzouga/
@@ -79,11 +79,28 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932
 tourCode: IT1DMEES3
 priceTiers: []
 autoPricing: null
-pricingMode: group
-hasDesertExtras: true
+pricingMode: activity
+hasDesertExtras: false
 ratingBreakdown:
   hotels: 5.0
   guides: 5.0
   transport: 5.0
   activities: 5.0
+activityOptions:
+- label: Quad singolo
+  prices:
+  - durationLabel: 1 – 2 ore
+    price: 45.0
+  - durationLabel: 3 – 4 ore
+    price: 40.0
+  - durationLabel: 5-6 ore
+    price: 35.0
+- label: Quad doppio
+  prices:
+  - durationLabel: 1 – 2 ore
+    price: 75.0
+  - durationLabel: 3 – 4 ore
+    price: 70.0
+  - durationLabel: 5-6 ore
+    price: 65.0
 ---

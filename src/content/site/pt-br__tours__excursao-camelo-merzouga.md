@@ -91,4 +91,9 @@ ratingBreakdown:
   guides: 5.0
   transport: 5.0
   activities: 5.0
+campTiers:
+- label: Acampamento padrão
+  perPerson: 40.0
+- label: Acampamento de luxo
+  perPerson: 80.0
 ---

@@ -4,7 +4,7 @@ lang: pt-br
 section: tours
 pslug: excursoes-quad-atv
 urlPath: pt-br/tours/excursoes-quad-atv
-price: 35
+price: 35.0
 duration: null
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursoes-quad-atv/
@@ -79,11 +79,28 @@ mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932
 tourCode: PT1DMEEX4
 priceTiers: []
 autoPricing: null
-pricingMode: group
-hasDesertExtras: true
+pricingMode: activity
+hasDesertExtras: false
 ratingBreakdown:
   hotels: 5.0
   guides: 5.0
   transport: 5.0
   activities: 5.0
+activityOptions:
+- label: Quad individual
+  prices:
+  - durationLabel: 1 – 2 horas
+    price: 45.0
+  - durationLabel: 3 – 4 horas
+    price: 40.0
+  - durationLabel: 5-6 horas
+    price: 35.0
+- label: Quad duplo
+  prices:
+  - durationLabel: 1 – 2 horas
+    price: 75.0
+  - durationLabel: 3 – 4 horas
+    price: 70.0
+  - durationLabel: 5-6 horas
+    price: 65.0
 ---

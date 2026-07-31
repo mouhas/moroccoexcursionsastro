@@ -9,7 +9,7 @@ tours.sort((a, z) => (z.data.price ?? -1) - (a.data.price ?? -1));
 const rated = tours.filter((e) => e.data.rating);
 const avgRating = rated.length ? rated.reduce((s, e) => s + (e.data.rating ?? 0), 0) / rated.length : null;
 ---
-<Base title="All Tours & Excursions | Morocco Excursions" lang="en" langAlternates
+<Base title="All Tours & Excursions | Morocco Excursions" lang="en" langAlternates section="tours"
   description="Browse all Morocco tours and excursions — Sahara desert trips, camel treks, day excursions and grand multi-day journeys. Private, flexible, 100% local.">
   <section class="pagehead">
     <div class="wrap">
