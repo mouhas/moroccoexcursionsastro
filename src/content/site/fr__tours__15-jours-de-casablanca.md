@@ -5,7 +5,7 @@ section: tours
 pslug: 15-jours-de-casablanca
 urlPath: fr/tours/15-jours-de-casablanca
 price: 2810.0
-duration: 15 Days
+duration: 15 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/15-jours-de-casablanca/
 tourType: Tour Privé

@@ -5,7 +5,7 @@ section: tours
 pslug: conduce-4x4-desierto
 urlPath: es/tours/conduce-4x4-desierto
 price: 50
-duration: 1 Day
+duration: 1 Día
 tag: null
 source: https://morocco-excursion.com/es/tours/conduce-4x4-desierto/
 tourType: Tour Privado

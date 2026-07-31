@@ -5,7 +5,7 @@ section: tours
 pslug: semaine-desert
 urlPath: fr/tours/semaine-desert
 price: 1290.0
-duration: 7 Days
+duration: 7 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/semaine-desert/
 tourType: Tour Privé

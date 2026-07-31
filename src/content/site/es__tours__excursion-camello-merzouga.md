@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-camello-merzouga
 urlPath: es/tours/excursion-camello-merzouga
 price: 40
-duration: 0 Days
+duration: null
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-camello-merzouga/
 tourType: Tour en Grupo

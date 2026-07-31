@@ -3,9 +3,11 @@ import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
 import TourCard from '../components/TourCard.astro';
 import Thumb from '../components/Thumb.astro';
+import GalleryTile from '../components/GalleryTile.astro';
 import BookingWidget from '../components/BookingWidget.astro';
 import { getCollection } from 'astro:content';
 import { base, UI, GENERAL_REVIEWS, type Lang } from '../site';
+import { galleryFor } from '../lib/images';
 
 export async function getStaticPaths() {
   const all = await getCollection('site');
@@ -53,6 +55,7 @@ const nextEntry = ordered.length > 1 ? ordered[(curIdx + 1) % ordered.length] : 
 const homeHref = b + '/';
 const priceStr = d.price && d.price > 0 ? '€' + d.price.toLocaleString('en-US') : null;
 const generalReviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
+const galleryImages = galleryFor(d.urlPath);
 const galleryTiles = [d.pslug, d.pslug + '-2', d.pslug + '-3', d.pslug + '-4'];
 
 // --- SEO helpers -----------------------------------------------------------
@@ -162,8 +165,8 @@ const breadcrumbJsonld = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@position': 1, '@type': 'ListItem', name: 'Home', item: 'https://morocco-excursion.com' + homeHref },
-    ...(isTour ? [{ '@position': 2, '@type': 'ListItem', name: 'Tours', item: 'https://morocco-excursion.com' + b + '/tours' }] : []),
+    { '@position': 1, '@type': 'ListItem', name: t.home, item: 'https://morocco-excursion.com' + homeHref },
+    ...(isTour ? [{ '@position': 2, '@type': 'ListItem', name: t.allTours, item: 'https://morocco-excursion.com' + b + '/tours' }] : []),
     { '@position': isTour ? 3 : 2, '@type': 'ListItem', name: d.title, item: 'https://morocco-excursion.com/' + d.urlPath },
   ],
 };
@@ -177,7 +180,7 @@ const breadcrumbJsonld = {
   {isPage && (
     <section class="pagehead">
       <div class="wrap">
-        <div class="crumbs"><a href={homeHref}>Home</a> · {d.title}</div>
+        <div class="crumbs"><a href={homeHref}>{t.home}</a> · {d.title}</div>
         <h1>{d.title}</h1>
       </div>
     </section>
@@ -186,8 +189,8 @@ const breadcrumbJsonld = {
   {(isTour || isCar) && (
     <div class="wrap tour-head">
       <div class="crumbs">
-        <a href={homeHref}>Home</a>
-        {isTour && <> · <a href={b + '/tours'}>Tours</a></>}
+        <a href={homeHref}>{t.home}</a>
+        {isTour && <> · <a href={b + '/tours'}>{t.allTours}</a></>}
         {isCar && <> · <a href={b + '/morocco-rental-cars'}>Car Rental</a></>}
         · {d.title}
       </div>
@@ -206,11 +209,31 @@ const breadcrumbJsonld = {
       </div>
 
       <div class="gallery">
-        <div class="gallery-main"><Thumb seed={galleryTiles[0]} label={d.title} /></div>
+        <div class="gallery-main">
+          <GalleryTile image={galleryImages[0]} seed={galleryTiles[0]} label={d.title} eager />
+        </div>
         <div class="gallery-side">
-          {galleryTiles.slice(1).map((s, i) => <div class="gallery-tile"><Thumb seed={s} label={`${d.title} — view ${i + 2}`} /></div>)}
+          {galleryTiles.slice(1).map((s, i) => (
+            <div class="gallery-tile">
+              <GalleryTile image={galleryImages[i + 1]} seed={s} label={`${d.title} — view ${i + 2}`} />
+            </div>
+          ))}
         </div>
       </div>
+
+      {(() => {
+        // Placeholder illustrations only make sense for the 4 "hero" slots above;
+        // once real photos exist for the rest, show them too — until then, no
+        // point cluttering the page with more gradient placeholders.
+        const extra = galleryImages.slice(4).filter((img) => img.exists);
+        return extra.length > 0 && (
+          <div class="gallery-more">
+            {extra.map((img) => (
+              <div class="gallery-tile sm"><GalleryTile image={img} seed={img.file} label={img.alt} /></div>
+            ))}
+          </div>
+        );
+      })()}
     </div>
   )}
 
@@ -227,7 +250,7 @@ const breadcrumbJsonld = {
     </nav>
   )}
 
-  <div class="wrap layout">
+  <div class={isPage ? 'wrap layout full' : 'wrap layout'}>
     <article class="prose">
       {isPage && <Content />}
 
@@ -451,19 +474,21 @@ const breadcrumbJsonld = {
       )}
     </article>
 
-    <BookingWidget
-      lang={lang}
-      title={d.title}
-      price={d.price}
-      perUnit={isCar ? t.perDay : (priceStr ? ' ' + t.perPerson : '')}
-      isCar={isCar}
-      pricingMode={d.pricingMode}
-      priceTiers={d.priceTiers}
-      autoPricing={d.autoPricing}
-      campTiers={d.campTiers}
-      activityOptions={d.activityOptions}
-      hasDesertExtras={d.hasDesertExtras}
-    />
+    {(isTour || isCar) && (
+      <BookingWidget
+        lang={lang}
+        title={d.title}
+        price={d.price}
+        perUnit={isCar ? t.perDay : (priceStr ? ' ' + t.perPerson : '')}
+        isCar={isCar}
+        pricingMode={d.pricingMode}
+        priceTiers={d.priceTiers}
+        autoPricing={d.autoPricing}
+        campTiers={d.campTiers}
+        activityOptions={d.activityOptions}
+        hasDesertExtras={d.hasDesertExtras}
+      />
+    )}
   </div>
 
   {similar.length > 0 && (
@@ -473,7 +498,7 @@ const breadcrumbJsonld = {
         <div class="grid">
           {similar.map((e) => (
             <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
-              duration={e.data.duration} lang={lang} seed={e.data.pslug}
+              duration={e.data.duration} lang={lang} seed={e.data.pslug} urlPath={e.data.urlPath}
               rating={e.data.rating} reviewCount={e.data.reviewCount} />
           ))}
         </div>

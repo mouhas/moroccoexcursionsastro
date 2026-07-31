@@ -5,7 +5,7 @@ section: tours
 pslug: senderismo-5-dias-desierto
 urlPath: es/tours/senderismo-5-dias-desierto
 price: 910.0
-duration: 5 Days
+duration: 5 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/senderismo-5-dias-desierto/
 tourType: Tour Privado

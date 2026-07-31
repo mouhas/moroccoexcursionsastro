@@ -5,7 +5,7 @@ section: tours
 pslug: escursione-3-grioni-merzouga
 urlPath: it/tours/escursione-3-grioni-merzouga
 price: 180
-duration: 5 Days
+duration: 5 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/escursione-3-grioni-merzouga/
 tourType: Tour di Gruppo

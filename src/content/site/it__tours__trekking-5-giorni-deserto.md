@@ -5,7 +5,7 @@ section: tours
 pslug: trekking-5-giorni-deserto
 urlPath: it/tours/trekking-5-giorni-deserto
 price: 910.0
-duration: 5 Days
+duration: 5 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/trekking-5-giorni-deserto/
 tourType: Tour Privato

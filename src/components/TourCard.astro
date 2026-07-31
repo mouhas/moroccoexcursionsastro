@@ -2,6 +2,7 @@
 import Icon from './Icon.astro';
 import Thumb from './Thumb.astro';
 import { UI, type Lang } from '../site';
+import { galleryFor } from '../lib/images';
 interface Props {
   href: string;
   title: string;
@@ -10,17 +11,21 @@ interface Props {
   tag?: string | null;
   lang: Lang;
   seed?: string;
+  urlPath?: string;
   rating?: number | null;
   reviewCount?: number | null;
 }
-const { href, title, price, duration, tag, lang, seed, rating, reviewCount } = Astro.props;
+const { href, title, price, duration, tag, lang, seed, urlPath, rating, reviewCount } = Astro.props;
 const t = UI[lang];
 const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
+const image = urlPath ? galleryFor(urlPath)[0] : undefined;
 ---
 <article class="card">
   <a href={href} class="thumb" aria-label={title}>
     {tag && <span class="tag">{tag}</span>}
-    <Thumb seed={seed ?? title} class="" label={title} />
+    {image && image.exists
+      ? <img src={image.src} alt={image.alt} loading="lazy" decoding="async" width="400" height="280" />
+      : <Thumb seed={seed ?? title} class="" label={title} />}
   </a>
   <div class="card-body">
     <div class="meta">

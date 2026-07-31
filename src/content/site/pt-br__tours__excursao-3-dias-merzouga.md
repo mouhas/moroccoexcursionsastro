@@ -5,7 +5,7 @@ section: tours
 pslug: excursao-3-dias-merzouga
 urlPath: pt-br/tours/excursao-3-dias-merzouga
 price: 180
-duration: 3 Days
+duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-3-dias-merzouga/
 tourType: Tour em Grupo

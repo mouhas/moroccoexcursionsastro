@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-a-ait-ben-haddou
 urlPath: fr/tours/excursion-a-ait-ben-haddou
 price: null
-duration: 1 Day
+duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-a-ait-ben-haddou/
 tourType: Tour Privé

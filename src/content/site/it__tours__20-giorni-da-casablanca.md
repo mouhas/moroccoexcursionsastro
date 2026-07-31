@@ -5,7 +5,7 @@ section: tours
 pslug: 20-giorni-da-casablanca
 urlPath: it/tours/20-giorni-da-casablanca
 price: 3760.0
-duration: 20 Days
+duration: 20 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/20-giorni-da-casablanca/
 tourType: Tour Privato

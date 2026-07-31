@@ -5,7 +5,7 @@ section: tours
 pslug: 2-giorni-trekking-merzouga
 urlPath: it/tours/2-giorni-trekking-merzouga
 price: 340.0
-duration: 2 Days
+duration: 2 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/2-giorni-trekking-merzouga/
 tourType: Tour Privato

@@ -5,7 +5,7 @@ section: tours
 pslug: settimana-deserto
 urlPath: it/tours/settimana-deserto
 price: 1290.0
-duration: 7 Days
+duration: 7 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/settimana-deserto/
 tourType: Tour Privato

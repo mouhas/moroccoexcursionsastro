@@ -5,7 +5,7 @@ section: tours
 pslug: 5-jours-marrakech-fes
 urlPath: fr/tours/5-jours-marrakech-fes
 price: 910.0
-duration: 5 Days
+duration: 5 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/
 tourType: Tour Privé

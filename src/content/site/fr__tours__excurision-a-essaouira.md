@@ -5,7 +5,7 @@ section: tours
 pslug: excurision-a-essaouira
 urlPath: fr/tours/excurision-a-essaouira
 price: null
-duration: 1 Day
+duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excurision-a-essaouira/
 tourType: Tour Privé

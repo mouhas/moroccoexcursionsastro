@@ -5,7 +5,7 @@ section: tours
 pslug: 3-jours-marrakech-to-merzouga
 urlPath: fr/tours/3-jours-marrakech-to-merzouga
 price: 530.0
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/3-jours-marrakech-to-merzouga/
 tourType: Tour Privé

@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-oasis
 urlPath: fr/tours/excursion-oasis
 price: 85
-duration: 1 Day
+duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-oasis/
 tourType: Tour Privé

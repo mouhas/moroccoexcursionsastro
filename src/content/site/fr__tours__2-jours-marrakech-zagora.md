@@ -5,7 +5,7 @@ section: tours
 pslug: 2-jours-marrakech-zagora
 urlPath: fr/tours/2-jours-marrakech-zagora
 price: 340.0
-duration: 2 Days
+duration: 2 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-marrakech-zagora/
 tourType: Tour Privé

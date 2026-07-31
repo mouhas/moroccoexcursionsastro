@@ -1,0 +1,13 @@
+---
+import Thumb from './Thumb.astro';
+interface Props {
+  image?: { src: string; alt: string; exists: boolean };
+  seed: string;
+  label: string;
+  eager?: boolean;
+}
+const { image, seed, label, eager = false } = Astro.props;
+---
+{image && image.exists
+  ? <img src={image.src} alt={image.alt} loading={eager ? 'eager' : 'lazy'} decoding="async" width="800" height="600" />
+  : <Thumb seed={seed} label={label} />}

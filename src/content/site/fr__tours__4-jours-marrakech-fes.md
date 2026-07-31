@@ -5,7 +5,7 @@ section: tours
 pslug: 4-jours-marrakech-fes
 urlPath: fr/tours/4-jours-marrakech-fes
 price: 720.0
-duration: 4 Days
+duration: 4 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/4-jours-marrakech-fes/
 tourType: Tour Privé

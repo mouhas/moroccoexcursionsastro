@@ -34,7 +34,7 @@ const descriptions: Record<string, string> = {
       <div class="grid">
         {tours.map((e) => (
           <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
-            duration={e.data.duration} lang={lang} seed={e.data.pslug}
+            duration={e.data.duration} lang={lang} seed={e.data.pslug} urlPath={e.data.urlPath}
             rating={e.data.rating} reviewCount={e.data.reviewCount} />
         ))}
       </div>

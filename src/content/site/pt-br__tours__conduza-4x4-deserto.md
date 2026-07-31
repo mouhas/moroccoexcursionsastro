@@ -5,7 +5,7 @@ section: tours
 pslug: conduza-4x4-deserto
 urlPath: pt-br/tours/conduza-4x4-deserto
 price: 50
-duration: 1 Day
+duration: 1 Dia
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/conduza-4x4-deserto/
 tourType: Tour Privado

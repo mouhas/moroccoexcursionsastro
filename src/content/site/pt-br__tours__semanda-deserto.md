@@ -5,7 +5,7 @@ section: tours
 pslug: semanda-deserto
 urlPath: pt-br/tours/semanda-deserto
 price: 1290.0
-duration: 7 Days
+duration: 7 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/semanda-deserto/
 tourType: Tour Privado

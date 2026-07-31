@@ -5,7 +5,7 @@ section: tours
 pslug: 10-jours-de-marrakech
 urlPath: fr/tours/10-jours-de-marrakech
 price: 1860.0
-duration: 10 Days
+duration: 10 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/10-jours-de-marrakech/
 tourType: Tour Privé

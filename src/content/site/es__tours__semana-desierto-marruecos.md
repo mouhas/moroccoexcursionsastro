@@ -5,7 +5,7 @@ section: tours
 pslug: semana-desierto-marruecos
 urlPath: es/tours/semana-desierto-marruecos
 price: 1290.0
-duration: 7 Days
+duration: 7 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/semana-desierto-marruecos/
 tourType: Tour Privado

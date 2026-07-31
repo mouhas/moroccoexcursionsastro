@@ -5,7 +5,7 @@ section: tours
 pslug: 2-jours-trek-desert
 urlPath: fr/tours/2-jours-trek-desert
 price: 340.0
-duration: 2 Days
+duration: 2 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/2-jours-trek-desert/
 tourType: Tour Privé

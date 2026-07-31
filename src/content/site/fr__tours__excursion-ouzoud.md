@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-ouzoud
 urlPath: fr/tours/excursion-ouzoud
 price: null
-duration: 1 Day
+duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-ouzoud/
 tourType: Tour Privé

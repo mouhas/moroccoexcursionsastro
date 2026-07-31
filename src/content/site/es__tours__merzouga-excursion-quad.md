@@ -5,7 +5,7 @@ section: tours
 pslug: merzouga-excursion-quad
 urlPath: es/tours/merzouga-excursion-quad
 price: 35.0
-duration: 0 Days
+duration: null
 tag: null
 source: https://morocco-excursion.com/es/tours/merzouga-excursion-quad/
 tourType: Tour Privado

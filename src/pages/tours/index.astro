@@ -27,7 +27,7 @@ const avgRating = rated.length ? rated.reduce((s, e) => s + (e.data.rating ?? 0)
       <div class="grid">
         {tours.map((e) => (
           <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
-            duration={e.data.duration} lang="en" seed={e.data.pslug}
+            duration={e.data.duration} lang="en" seed={e.data.pslug} urlPath={e.data.urlPath}
             rating={e.data.rating} reviewCount={e.data.reviewCount} />
         ))}
       </div>

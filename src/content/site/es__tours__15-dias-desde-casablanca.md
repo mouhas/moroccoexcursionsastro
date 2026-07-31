@@ -5,7 +5,7 @@ section: tours
 pslug: 15-dias-desde-casablanca
 urlPath: es/tours/15-dias-desde-casablanca
 price: 2810.0
-duration: 15 Days
+duration: 15 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/15-dias-desde-casablanca/
 tourType: Tour Privado

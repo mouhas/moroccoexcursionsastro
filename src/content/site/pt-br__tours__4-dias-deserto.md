@@ -5,7 +5,7 @@ section: tours
 pslug: 4-dias-deserto
 urlPath: pt-br/tours/4-dias-deserto
 price: 720.0
-duration: 4 Days
+duration: 4 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/4-dias-deserto/
 tourType: Tour Privado

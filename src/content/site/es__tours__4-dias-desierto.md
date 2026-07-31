@@ -5,7 +5,7 @@ section: tours
 pslug: 4-dias-desierto
 urlPath: es/tours/4-dias-desierto
 price: 720.0
-duration: 4 Days
+duration: 4 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/4-dias-desierto/
 tourType: Tour Privado

@@ -5,7 +5,7 @@ section: tours
 pslug: escursioni-oasi-deserto
 urlPath: it/tours/escursioni-oasi-deserto
 price: 85
-duration: 1 Day
+duration: 1 Giorno
 tag: null
 source: https://morocco-excursion.com/it/tours/escursioni-oasi-deserto/
 tourType: Tour Privato

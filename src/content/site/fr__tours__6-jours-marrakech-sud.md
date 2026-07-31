@@ -5,7 +5,7 @@ section: tours
 pslug: 6-jours-marrakech-sud
 urlPath: fr/tours/6-jours-marrakech-sud
 price: 1100.0
-duration: 6 Days
+duration: 6 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/
 tourType: Tour Privé

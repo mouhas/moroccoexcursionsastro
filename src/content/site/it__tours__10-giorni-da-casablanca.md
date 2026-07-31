@@ -5,7 +5,7 @@ section: tours
 pslug: 10-giorni-da-casablanca
 urlPath: it/tours/10-giorni-da-casablanca
 price: 1860.0
-duration: 10 Days
+duration: 10 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/10-giorni-da-casablanca/
 tourType: Tour Privato

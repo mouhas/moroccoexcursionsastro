@@ -5,7 +5,7 @@ section: tours
 pslug: 8-dias-de-casablanca
 urlPath: pt-br/tours/8-dias-de-casablanca
 price: 1480.0
-duration: 8 Days
+duration: 8 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/8-dias-de-casablanca/
 tourType: Tour Privado

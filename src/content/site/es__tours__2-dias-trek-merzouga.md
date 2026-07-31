@@ -5,7 +5,7 @@ section: tours
 pslug: 2-dias-trek-merzouga
 urlPath: es/tours/2-dias-trek-merzouga
 price: 340.0
-duration: 2 Days
+duration: 2 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/2-dias-trek-merzouga/
 tourType: Tour Privado

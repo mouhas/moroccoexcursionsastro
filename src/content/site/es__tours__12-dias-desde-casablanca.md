@@ -5,7 +5,7 @@ section: tours
 pslug: 12-dias-desde-casablanca
 urlPath: es/tours/12-dias-desde-casablanca
 price: 2240.0
-duration: 12 Days
+duration: 12 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/12-dias-desde-casablanca/
 tourType: Tour Privado

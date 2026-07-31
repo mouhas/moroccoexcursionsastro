@@ -5,7 +5,7 @@ section: tours
 pslug: guidare-4x4-deserto
 urlPath: it/tours/guidare-4x4-deserto
 price: 50
-duration: 1 Day
+duration: 1 Giorno
 tag: null
 source: https://morocco-excursion.com/it/tours/guidare-4x4-deserto/
 tourType: Tour Privato

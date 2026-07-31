@@ -5,7 +5,7 @@ section: tours
 pslug: caminhada-5-dias-deserto
 urlPath: pt-br/tours/caminhada-5-dias-deserto
 price: 910.0
-duration: 5 Days
+duration: 5 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/caminhada-5-dias-deserto/
 tourType: Tour Privado

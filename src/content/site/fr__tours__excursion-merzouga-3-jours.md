@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-merzouga-3-jours
 urlPath: fr/tours/excursion-merzouga-3-jours
 price: 530.0
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-merzouga-3-jours/
 tourType: Specific Tour

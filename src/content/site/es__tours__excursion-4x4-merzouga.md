@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-4x4-merzouga
 urlPath: es/tours/excursion-4x4-merzouga
 price: 25
-duration: 0 Days
+duration: null
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-4x4-merzouga/
 tourType: Tour Privado
