@@ -27,9 +27,9 @@ Non esitate a chiamarci in qualsiasi momento per richiedere informazioni sui vos
 
 [Viaggi di gruppo](https://morocco-excursion.com/it/#)
 
-[Noleggiare un’auto](https://morocco-excursion.com/it/noleggio-auto/)
+[Noleggiare un’auto](/it/noleggio-auto)
 
-[Escursioni nel deserto](https://morocco-excursion.com/it/tour-deserto-marocco/)
+[Escursioni nel deserto](/it/tour-deserto-marocco)
 
 [Pianifica i tuoi viaggi](https://morocco-excursion.com/it/#)
 

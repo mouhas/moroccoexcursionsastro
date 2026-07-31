@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/morocco-4-day-trips/"
 ---
-Even in four days, you can see and do a lot in Morocco. Start in [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) or [**Fes**](https://morocco-excursion.com/fes-tours/), two of Morocco’s famous cities. Walk through the busy streets, explore the markets, and see old palaces. You can try local food and enjoy music and street life.
+Even in four days, you can see and do a lot in Morocco. Start in **Marrakech** or **Fes**, two of Morocco’s famous cities. Walk through the busy streets, explore the markets, and see old palaces. You can try local food and enjoy music and street life.
 
 A visit to a traditional hammam is a great way to relax. The steam, scrubs, and massage will help you feel refreshed after exploring the city.
 
@@ -33,7 +33,7 @@ In just four days, you can enjoy Morocco’s cities, culture, mountains, and des
 
 Featured
 
-### [4-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/)
+### 4-Day tour from Fes to Marrakech via the Sahara desert
 
 1 Review
 
@@ -45,9 +45,9 @@ from
 
 Featured
 
-### [4-Day Fes sahara desert tour to Merzouga dunes](https://morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/)
+### [4-Day Fes sahara desert tour to Merzouga dunes](/tours/4-day-fes-to-merzouga-sahara-trip)
 
-0 [**reviews**](https://morocco-excursion.com/reviews/)
+0 [**reviews**](/reviews)
 
 4 Days
 
@@ -57,7 +57,7 @@ from
 
 Tangier, Morocco
 
-### [4-Day Tour From Tangier](https://morocco-excursion.com/tours/4-day-tour-from-tangier/)
+### [4-Day Tour From Tangier](/tours/4-day-tour-from-tangier)
 
 0 reviews
 
@@ -67,7 +67,7 @@ from
 
  €0,00
 
-### [4-day Marrakech to Fes Sahara desert tour](https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/)
+### [4-day Marrakech to Fes Sahara desert tour](/tours/4-day-trip-from-marrakech-to-fes)
 
 5 Reviews
 
@@ -77,7 +77,7 @@ from
 
  €220,00
 
-### [4-Day tour from Casablanca to Fes and Chefchaouen](https://morocco-excursion.com/tours/4-day-tour-from-casablanca/)
+### 4-Day tour from Casablanca to Fes and Chefchaouen
 
 0 reviews
 
@@ -87,7 +87,7 @@ from
 
  €280,00
 
-### [4-Day wild desert tour from Merzouga to the south](https://morocco-excursion.com/tours/4-day-trek-in-merzouga-desert/)
+### [4-Day wild desert tour from Merzouga to the south](/tours/4-day-trek-in-merzouga-desert)
 
 0 reviews
 
@@ -97,7 +97,7 @@ from
 
  €170,00
 
-### [4-days from Errachidia to Marrakech via desert](https://morocco-excursion.com/tours/4-days-errachidia-marrakech/)
+### [4-days from Errachidia to Marrakech via desert](/tours/4-days-errachidia-marrakech)
 
 0 reviews
 
@@ -107,7 +107,7 @@ from
 
  €0,00
 
-### [4-days from Ouarzazate to fes via Merzouga desert](https://morocco-excursion.com/tours/4-day-tour-ouarzazate-fes/)
+### [4-days from Ouarzazate to fes via Merzouga desert](/tours/4-day-tour-ouarzazate-fes)
 
 0 reviews
 
@@ -117,7 +117,7 @@ from
 
  €0,00
 
-### [4-days from Errachidia to Sahara Desert](https://morocco-excursion.com/tours/4-day-errachidia-sahara-desert/)
+### [4-days from Errachidia to Sahara Desert](/tours/4-day-errachidia-sahara-desert)
 
 0 reviews
 
@@ -141,11 +141,11 @@ All you need to do is share with us the places you wish to see, the size of your
 
 ### Can I see Morocco in 4 days?
 
-Yes, 4 days is short, but enough to see some main places like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), the Sahara Desert, or [**Fes**](https://morocco-excursion.com/fes-tours/). You just need to plan carefully.
+Yes, 4 days is short, but enough to see some main places like **Marrakech**, the Sahara Desert, or **Fes**. You just need to plan carefully.
 
 ### What are must-do things in 4 days?
 
-- Walk in the [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) medina
+- Walk in the **Marrakech** medina
 - Ride a camel in the desert
 - Visit Ait Ben Haddou Kasbah
 - Try Moroccan food like tagine and couscous
@@ -156,7 +156,7 @@ Yes. You do 2 to 4-day desert trips to Merzouga desert, where you will ride a ca
 
 ### Is it possible to visit the Imperial cities in 4 days?
 
-Yes, you can do a short tour of 4 days to Casablanca, Rabat, Meknes, [**Fes**](https://morocco-excursion.com/fes-tours/), and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/).
+Yes, you can do a short tour of 4 days to Casablanca, Rabat, Meknes, **Fes**, and **Marrakech**.
 
 ### Which places I can visit a 4 day trip from Spain?
 
@@ -186,4 +186,4 @@ Heading north, the city of Tangier offers a completely different perspective. Lo
 
 In four days, Morocco’s beauty can be experienced in layers: the modern energy of Casablanca, the historical richness of Marrakech or Fes, the natural majesty of the Atlas Mountains, the timeless allure of the Sahara Desert, and the cosmopolitan charm of Tangier. While the time is short, the journey offers an immersive glimpse into Morocco’s vibrant culture, diverse landscapes, and centuries-old traditions, leaving travelers with a deep appreciation for this remarkable country.
 
-> **Find tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Find tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

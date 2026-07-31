@@ -22,16 +22,16 @@ Finish your journey in the desert town of **Zagora**, the mountain landscapes of
 | 19 days from Agadir | Agadir | Ocean, Berber Villages, Desert |
 | 19-day tour from Casablanca | Casablanca | Imperial cities, Desert |
 | 19-day Morocco tour from Tanger | Tanger | Ocean, Atlas Mountains, Imperial cities |
-| 19-day trip from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) | Marrakech | Imperial cities, Atlas Mountains, Desert |
+| 19-day trip from **Marrakech** | Marrakech | Imperial cities, Atlas Mountains, Desert |
 | 19-day tour from Rabat | Rabat | Imperial cities, Ocean |
 
 ## Morocco 19-day tour itineraries
 
 Tangier, Morocco
 
-### [19-Day Tour From Tangier](https://morocco-excursion.com/tours/19-day-tour-from-tangier/)
+### [19-Day Tour From Tangier](/tours/19-day-tour-from-tangier)
 
-0 [**reviews**](https://morocco-excursion.com/reviews/)
+0 [**reviews**](/reviews)
 
 19 days
 
@@ -43,7 +43,7 @@ from
 
 **NOTE:**
 
-Experience Morocco your way with a customizable 19-day trip in Morocco. Choose guided excursions, [**camel treks**](https://morocco-excursion.com/morocco-camel-trekking/), hiking, and local workshops, or relax on beaches and in villages. Tailor every detail for a unique, personal Moroccan adventure.
+Experience Morocco your way with a customizable 19-day trip in Morocco. Choose guided excursions, **camel treks**, hiking, and local workshops, or relax on beaches and in villages. Tailor every detail for a unique, personal Moroccan adventure.
 
 ### Questions about 19-day tours in Morocco
 
@@ -55,7 +55,7 @@ You will have enough time to enjoy each place without rushing. You can also spen
 
 ####
 
-In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
+In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
 ### Do I need a guide in the cities?
 
@@ -197,4 +197,4 @@ End your journey at **Sidi Kaouki**, a small village by the Atlantic Ocean. Rela
 
 Each place is different, offering unique experiences, food, landscapes, and culture. With enough time at each stop, you can enjoy a slower pace and really experience the country.
 
-> **Trips by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Trips by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

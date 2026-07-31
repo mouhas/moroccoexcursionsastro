@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/morocco-11-day-trips/"
 ---
-During an 11-day trip in Morocco, visitors can discover a mix of culture and nature. [**Casablanca**](https://morocco-excursion.com/casablanca-tours/) and Rabat show Morocco’s modern and old sides, with beautiful buildings, gardens, and busy streets. Fez’s old medina is full of traditional crafts, leather tanneries, and ancient mosques, giving a look at Morocco’s rich history. [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) is full of sights and sounds, from the lively Jemaa el-Fnaa square to colorful markets and quiet gardens.
+During an 11-day trip in Morocco, visitors can discover a mix of culture and nature. **Casablanca** and Rabat show Morocco’s modern and old sides, with beautiful buildings, gardens, and busy streets. Fez’s old medina is full of traditional crafts, leather tanneries, and ancient mosques, giving a look at Morocco’s rich history. **Marrakech** is full of sights and sounds, from the lively Jemaa el-Fnaa square to colorful markets and quiet gardens.
 
 The Atlas Mountains have amazing hiking trails, small Berber villages, and stunning scenery. The Sahara Desert impresses with huge sand dunes, camel rides, sandboarding, and nights under bright stars in desert camps. Dades and Todra Valleys offer amazing gorges and calm nature, great for relaxing.
 
@@ -21,7 +21,7 @@ Morocco’s coast is peaceful and beautiful, with Essaouira’s historic port an
 | --- | --- | --- |
 | 11-day tour from Tangier | Tangier | The north of Morocco |
 | 11-day tour from Rabat | Rabat | The Imperial cities |
-| 11-day adventure tour from [**Fes**](https://morocco-excursion.com/fes-tours/) | Fes | Fes and the desert |
+| 11-day adventure tour from **Fes** | Fes | Fes and the desert |
 | 11-day trip from Agadir | Agadir | The Ocean and the Desert |
 | 11 days from Casablanca | Casablanca | Imperial cities & the Desert |
 
@@ -41,7 +41,7 @@ In 11 days, you can explore Morocco’s main cities, the desert, mountains, and 
 
 ####
 
-In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like [**Fes**](https://morocco-excursion.com/fes-tours/) or Rabat.
+In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like **Fes** or Rabat.
 
 ### Should I hire a guide for an 11-day trip?
 
@@ -98,4 +98,4 @@ Traveling in Morocco also means engaging with its people. Visiting local markets
 
 Each day of those 11 days brings new sights, tastes, and experiences, providing travelers with a vivid picture of Morocco’s diversity. While it’s impossible to see every corner of the country, these days allow for a deep and memorable immersion into the heart of Moroccan life.
 
-> **Tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

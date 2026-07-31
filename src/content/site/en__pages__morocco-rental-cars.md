@@ -279,7 +279,7 @@ When you rent a car with a driver in Morocco, the price typically includes:
 
 4x4 (4WD Cars)
 
-### [Luxury SUV 4×4](https://morocco-excursion.com/car/suv/)
+### [Luxury SUV 4×4](/car/suv)
 
 6
 
@@ -294,7 +294,7 @@ Manual
 
 Luxury Car
 
-### [Luxury Van](https://morocco-excursion.com/car/luxury-van/)
+### [Luxury Van](/car/luxury-van)
 
 8
 
@@ -309,7 +309,7 @@ Auto
 
 Minivan
 
-### [8 Seats Minivan](https://morocco-excursion.com/car/minivan/)
+### [8 Seats Minivan](/car/minivan)
 
 8
 

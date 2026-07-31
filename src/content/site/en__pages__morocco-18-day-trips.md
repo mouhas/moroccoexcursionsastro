@@ -9,11 +9,11 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/morocco-18-day-trips/"
 ---
-On an 18-day tour of Morocco, every day creates a new memory of this colorful country. Start your trip in [**Casablanca**](https://morocco-excursion.com/casablanca-tours/), a modern city where the Hassan II Mosque stands proudly by the Atlantic Ocean. Then visit Essaouira, a relaxed coastal town with fresh sea air, narrow streets full of art, and delicious seafood. [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) is full of life with beautiful gardens, busy markets, and the famous Djemaa el-Fna square with storytellers and performers.
+On an 18-day tour of Morocco, every day creates a new memory of this colorful country. Start your trip in **Casablanca**, a modern city where the Hassan II Mosque stands proudly by the Atlantic Ocean. Then visit Essaouira, a relaxed coastal town with fresh sea air, narrow streets full of art, and delicious seafood. **Marrakech** is full of life with beautiful gardens, busy markets, and the famous Djemaa el-Fna square with storytellers and performers.
 
 Crossing the High Atlas Mountains, you reach Ait Ben Haddou, a famous clay village seen in many movies. Nearby Ouarzazate is known for its film studios. Then explore the green palm oases of Skoura and the stunning Dades Valley. Todra Gorges offers amazing hiking, and the Sahara Desert near Merzouga gives camel rides, golden sand dunes, and nights under the stars.
 
-Going north, [**Fes**](https://morocco-excursion.com/fes-tours/) takes you to the world’s oldest university and a maze-like medina. Meknes shows impressive gates, Chefchaouen is all blue in the Rif Mountains, Tangier blends Mediterranean life with history, and Rabat offers calm gardens by the sea.
+Going north, **Fes** takes you to the world’s oldest university and a maze-like medina. Meknes shows impressive gates, Chefchaouen is all blue in the Rif Mountains, Tangier blends Mediterranean life with history, and Rabat offers calm gardens by the sea.
 
 ## 5 Most recommended 18-day tours of Morocco
 
@@ -41,7 +41,7 @@ No, Morocco is large and diverse. 18 days lets you enjoy slowly without stress.
 
 ####
 
-In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like [**Fes**](https://morocco-excursion.com/fes-tours/) or Rabat.
+In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like **Fes** or Rabat.
 
 ### Is 18 days enough to see everything in Morocco?
 
@@ -53,11 +53,11 @@ Sue, you can spend 2 to 3 days trekking in the High Atlas or visit the Berber vi
 
 ### What is special about Fes?
 
-[**Fes**](https://morocco-excursion.com/fes-tours/) has the oldest university, big leather tanneries, and a huge old medina full of history.
+**Fes** has the oldest university, big leather tanneries, and a huge old medina full of history.
 
 ### Can I travel for 18 days in Morocco by train?
 
-Unfortunately no. There are trains only from [**Casablanca**](https://morocco-excursion.com/casablanca-tours/), Rabat, [**Fes**](https://morocco-excursion.com/fes-tours/), and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/).
+Unfortunately no. There are trains only from **Casablanca**, Rabat, **Fes**, and **Marrakech**.
 
 ## What are the best things to do in Morocco in 18 days?
 
@@ -139,4 +139,4 @@ On the way to Agadir, you’ll find Taroudant, a walled city often called “Lit
 
 End your trip in Essaouira, a coastal town with a UNESCO-listed medina, blue fishing boats, and wide sandy beaches. Known for its relaxed vibe, art galleries, and seafood, Essaouira is the perfect place to unwind before finishing your 18-day Moroccan journey.
 
-> **Morocco tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Morocco tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

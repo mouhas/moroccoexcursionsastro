@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/morocco-12-day-trips/"
 ---
-From the lively medina of [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) to the calm, blue streets of Chefchaouen, Morocco is full of unique experiences. In 12 days, you can explore ancient cities like [**Fes**](https://morocco-excursion.com/fes-tours/), with its old buildings and traditional tanneries, or visit the impressive UNESCO-listed Ait Ben Haddou, a historic ksar seen in famous films.
+From the lively medina of **Marrakech** to the calm, blue streets of Chefchaouen, Morocco is full of unique experiences. In 12 days, you can explore ancient cities like **Fes**, with its old buildings and traditional tanneries, or visit the impressive UNESCO-listed Ait Ben Haddou, a historic ksar seen in famous films.
 
 Adventure lovers can hike in the Atlas Mountains, explore the Todra and Dades Gorges, or ride camels across the golden sand dunes of the Sahara Desert, spending nights under the stars. Morocco’s coastal towns, like Essaouira, offer peaceful beaches, fresh seafood, and charming old streets.
 
@@ -27,9 +27,9 @@ Be sure to taste authentic Moroccan food, from flavorful tagines to refreshing m
 
 ## Morocco 12-day tour itineraries
 
-### [12-Day trip from Marrakech to imperial cities, south & north](https://morocco-excursion.com/tours/12-day-trip-from-marrakech/)
+### [12-Day trip from Marrakech to imperial cities, south & north](/tours/12-day-trip-from-marrakech)
 
-0 [**reviews**](https://morocco-excursion.com/reviews/)
+0 [**reviews**](/reviews)
 
 12 Days
 
@@ -37,7 +37,7 @@ from
 
  €0,00
 
-### [12-Day trip from Casablanca to Chaouen, Fes, Desert & Ocean](https://morocco-excursion.com/tours/12-day-tour-package-from-casablanca/)
+### 12-Day trip from Casablanca to Chaouen, Fes, Desert & Ocean
 
 0 reviews
 
@@ -47,7 +47,7 @@ from
 
  €0,00
 
-### [12-Day Tour From Tangier to The South](https://morocco-excursion.com/tours/12-day-tour-from-tangier/)
+### [12-Day Tour From Tangier to The South](/tours/12-day-tour-from-tangier)
 
 0 reviews
 
@@ -77,7 +77,7 @@ Yes. Our team can adjust the route, activities, and pace according to your prefe
 
 ### How many cities or regions are usually covered in 12 days?
 
-A typical 12-day tour includes imperial cities like [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), [**Fes**](https://morocco-excursion.com/fes-tours/), Rabat, Casablanca, the desert, the Atlas Mountains, coastal towns, and sometimes northern Morocco.
+A typical 12-day tour includes imperial cities like **Marrakech**, **Fes**, Rabat, Casablanca, the desert, the Atlas Mountains, coastal towns, and sometimes northern Morocco.
 
 ### How long are the daily drives between cities?
 
@@ -145,4 +145,4 @@ Morocco’s festivals are a celebration of culture, music, and traditions. Atten
 
 These 12 experiences capture the spirit of the country and ensure a memorable visit.
 
-> **Check other tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Check other tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

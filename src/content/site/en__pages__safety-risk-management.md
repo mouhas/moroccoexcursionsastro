@@ -11,7 +11,7 @@ source: "https://morocco-excursion.com/safety-risk-management/"
 ---
 ## Risk Management & Emergency Response Plan
 
-At Morocco [**Excursions**](https://morocco-excursion.com/excursions/), the safety and well-being of our participants, staff, and partners are our highest priorities. We implement proactive risk management procedures and emergency response protocols across all tours and activities to minimize risks and ensure effective responses in emergency situations.
+At Morocco **Excursions**, the safety and well-being of our participants, staff, and partners are our highest priorities. We implement proactive risk management procedures and emergency response protocols across all tours and activities to minimize risks and ensure effective responses in emergency situations.
 
 ## 1. Risk Management Approach
 
@@ -24,7 +24,7 @@ Our risk management procedures include:
 - Pre-trip safety briefings for participants
 - Selection of trusted accommodations and activity providers
 - Access to first aid kits during tours and excursions
-- Ongoing [**review**](https://morocco-excursion.com/reviews/) and improvement of safety standards and procedures
+- Ongoing [**review**](/reviews) and improvement of safety standards and procedures
 
 ## 2. Risk Assessment Matrix
 

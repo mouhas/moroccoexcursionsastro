@@ -33,7 +33,7 @@ I 5 migliori spedizioni ed escursioni in cammello nel deserto del Marocco
 
 ### Escursioni & Safari nel Sahara
 
-Senza dubbio, trascorrere la notte nel deserto del Sahara dovrebbe essere nella tua lista dei desideri durante un [**tour in Marocco**](https://morocco-excursion.com/it/). Attraversa le dune di sabbia del Sahara a dorso di cammello, guarda il tramonto sulle dune e dormi in un accampamento nel deserto sotto milioni di stelle. Un’esperienza di vita che non può mancare.
+Senza dubbio, trascorrere la notte nel deserto del Sahara dovrebbe essere nella tua lista dei desideri durante un **tour in Marocco**. Attraversa le dune di sabbia del Sahara a dorso di cammello, guarda il tramonto sulle dune e dormi in un accampamento nel deserto sotto milioni di stelle. Un’esperienza di vita che non può mancare.
 
 In Morocco Excursions, organizziamo diversi viaggi nel deserto del Marocco e offriamo una varietà di opzioni di campeggio. Abbiamo bivacci di lusso con bagno privato in ogni tenda e un bivacco di lusso con riscaldamento e aria condizionata. I bivacci di lusso sono completamente attrezzati con tutte le attrezzature necessarie per fornire un servizio di alta qualità e un soggiorno confortevole.
 
@@ -49,9 +49,9 @@ Per un’esperienza diversa e unica, consigliamo anche di soggiornare con una fa
 
 Featured
 
-#### [Tour deserto di 5 giorni da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/5-giorni-marrakech-fes/)
+#### Tour deserto di 5 giorni da Marrakech fino a Fes
 
-0 [**recensioni**](https://morocco-excursion.com/it/reviews/)
+0 [**recensioni**](/it/reviews)
 
 5 Giorni
 
@@ -61,7 +61,7 @@ da
 
 Featured
 
-#### [Tour deserto di 2 giorni da Marrakech a Zagora](https://morocco-excursion.com/it/tours/2-giorni-marrakech-deserto-zagora/)
+#### Tour deserto di 2 giorni da Marrakech a Zagora
 
 0 recensioni
 
@@ -73,7 +73,7 @@ da
 
 Featured
 
-#### [Tour di 3 giorni da Marrakech al deserto di Merzouga](https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/)
+#### Tour di 3 giorni da Marrakech al deserto di Merzouga
 
 0 recensioni
 
@@ -85,7 +85,7 @@ da
 
 Featured
 
-#### [Viaggio di 6 giorni da Marrakech al sud e al deserto](https://morocco-excursion.com/it/tours/6-giorni-marrakech-sud/)
+#### Viaggio di 6 giorni da Marrakech al sud e al deserto
 
 0 recensioni
 
@@ -95,7 +95,7 @@ da
 
  €300,00
 
-#### [Tour di 3 giorni nel deserto da Marrakech a Fes](https://morocco-excursion.com/it/tours/3-giorni-marrakech-fes/)
+#### Tour di 3 giorni nel deserto da Marrakech a Fes
 
 0 recensioni
 
@@ -105,7 +105,7 @@ da
 
  €130,00
 
-#### [Tour nel deserto di 4 giorni da Marrakech al sud](https://morocco-excursion.com/it/tours/4-giorni-marrakech-deserto/)
+#### Tour nel deserto di 4 giorni da Marrakech al sud
 
 0 recensioni
 
@@ -115,7 +115,7 @@ da
 
  €200,00
 
-#### [Viaggio di 4 giorni nel deserto da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/4-giorni-marrakech-fes/)
+#### Viaggio di 4 giorni nel deserto da Marrakech fino a Fes
 
 0 recensioni
 
@@ -125,7 +125,7 @@ da
 
  €220,00
 
-#### [Viaggio di 5 giorni da Marrakech al deserto del Sahara](https://morocco-excursion.com/it/tours/5-giorni-marakech-sahara/)
+#### Viaggio di 5 giorni da Marrakech al deserto del Sahara
 
 0 recensioni
 

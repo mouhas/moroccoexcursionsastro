@@ -33,7 +33,7 @@ Junte-se a nós numa excursão de vários dias ao deserto, descobrindo as aldeia
 
 Featured
 
-### [Excursão de 3 dias de Marrakech ao deserto do Saara](https://morocco-excursion.com/pt-br/tours/3-dias-marrakech-deserto-saara/)
+### Excursão de 3 dias de Marrakech ao deserto do Saara
 
 0 Avaliações
 
@@ -43,7 +43,7 @@ A partir de
 
  €115,00
 
-### [Viagem de 4 dias de Marrakech ao deserto do Merzouga](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-deserto/)
+### Viagem de 4 dias de Marrakech ao deserto do Merzouga
 
 0 Avaliações
 
@@ -53,7 +53,7 @@ A partir de
 
  €200,00
 
-### [Viagem de 8 dias visitando Marraquexe e o deserto](https://morocco-excursion.com/pt-br/tours/8-dias-marraquexe/)
+### Viagem de 8 dias visitando Marraquexe e o deserto
 
 0 Avaliações
 
@@ -63,7 +63,7 @@ A partir de
 
  €380,00
 
-### [Viagem de 5 dias pelo deserto do Saara saindo de Marrakech](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-deserto/)
+### Viagem de 5 dias pelo deserto do Saara saindo de Marrakech
 
 0 Avaliações
 
@@ -75,7 +75,7 @@ A partir de
 
 Featured
 
-### [Excursões de quadriciclos (ATV) no deserto de Merzouga](https://morocco-excursion.com/pt-br/tours/excursoes-quad-atv/)
+### [Excursões de quadriciclos (ATV) no deserto de Merzouga](/pt-br/tours/excursoes-quad-atv)
 
 0 Avaliações
 
@@ -87,7 +87,7 @@ A partir de
 
 Featured
 
-### [Excursão de 6 dias de Marrakech ao sul e ao deserto](https://morocco-excursion.com/pt-br/tours/6-dias-marrakech-sul/)
+### Excursão de 6 dias de Marrakech ao sul e ao deserto
 
 0 Avaliações
 
@@ -99,7 +99,7 @@ A partir de
 
 Featured
 
-### [Excursão de 5 dias de Marrakech ao deserto e Fez](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-fez/)
+### Excursão de 5 dias de Marrakech ao deserto e Fez
 
 0 Avaliações
 
@@ -109,7 +109,7 @@ A partir de
 
  €295,00
 
-### [Viagem de 4 dias no deserto de Marraquexe a Fez](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-fes/)
+### Viagem de 4 dias no deserto de Marraquexe a Fez
 
 0 Avaliações
 

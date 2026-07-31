@@ -33,7 +33,7 @@ Unitevi a noi in un tour di più giorni nel deserto, alla scoperta dei villaggi 
 
 Featured
 
-### [Tour di 3 giorni da Marrakech al deserto di Merzouga](https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/)
+### Tour di 3 giorni da Marrakech al deserto di Merzouga
 
 0 recensioni
 
@@ -43,7 +43,7 @@ da
 
  €115,00
 
-### [Tour nel deserto di 4 giorni da Marrakech al sud](https://morocco-excursion.com/it/tours/4-giorni-marrakech-deserto/)
+### Tour nel deserto di 4 giorni da Marrakech al sud
 
 0 recensioni
 
@@ -53,7 +53,7 @@ da
 
  €200,00
 
-### [Viaggio di 8 giorni alla scoperta di Marrakech e deserto](https://morocco-excursion.com/it/tours/8-giorni-da-marrakech/)
+### Viaggio di 8 giorni alla scoperta di Marrakech e deserto
 
 0 recensioni
 
@@ -63,7 +63,7 @@ da
 
  €380,00
 
-### [Viaggio di 5 giorni da Marrakech al deserto del Sahara](https://morocco-excursion.com/it/tours/5-giorni-marakech-sahara/)
+### Viaggio di 5 giorni da Marrakech al deserto del Sahara
 
 0 recensioni
 
@@ -75,7 +75,7 @@ da
 
 Featured
 
-### [Escursioni in quad (ATV) nel deserto di Merzouga](https://morocco-excursion.com/it/tours/escursioni-quad-merzouga/)
+### [Escursioni in quad (ATV) nel deserto di Merzouga](/it/tours/escursioni-quad-merzouga)
 
 0 recensioni
 
@@ -87,7 +87,7 @@ da
 
 Featured
 
-### [Viaggio di 6 giorni da Marrakech al sud e al deserto](https://morocco-excursion.com/it/tours/6-giorni-marrakech-sud/)
+### Viaggio di 6 giorni da Marrakech al sud e al deserto
 
 0 recensioni
 
@@ -99,7 +99,7 @@ da
 
 Featured
 
-### [Tour deserto di 5 giorni da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/5-giorni-marrakech-fes/)
+### Tour deserto di 5 giorni da Marrakech fino a Fes
 
 0 recensioni
 
@@ -109,7 +109,7 @@ da
 
  €295,00
 
-### [Viaggio di 4 giorni nel deserto da Marrakech fino a Fes](https://morocco-excursion.com/it/tours/4-giorni-marrakech-fes/)
+### Viaggio di 4 giorni nel deserto da Marrakech fino a Fes
 
 0 recensioni
 
@@ -119,7 +119,7 @@ da
 
  €220,00
 
-[TUTTI I TOUR](https://morocco-excursion.com/it/marocco-viaggi/)
+TUTTI I TOUR
 
 ## Domande frequenti sul tour deserto Marocco
 

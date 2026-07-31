@@ -1,4 +1,76 @@
 {
+  "christmas-new-years-eve-in-morocco": [
+    {
+      "alt": "Christmas & New Year's Eve in Morocco",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "code-of-conduct": [
+    {
+      "alt": "Code of Conduct - Morocco Excursions",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "collaboration": [
+    {
+      "alt": "Collaboration With A Tour Operator/Agency in Morocco",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "diversity-inclusion": [
+    {
+      "alt": "Diversity Inclusion - Morocco Excursions",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "dmc-morocco": [
+    {
+      "alt": "Destination Management Company (DMC) In Morocco",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "eligibility": [
+    {
+      "alt": "Eligibility - Morocco Excursions",
+      "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "es/agencia": [
+    {
+      "alt": "Quiénes Somos - Agencia de Viajes en Marruecos | Morocco Excursions",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "es/contacto": [
+    {
+      "alt": "Contacto - Morocco Excursions",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "es/dmc-marruecos": [
+    {
+      "alt": "Destination Management Company (DMC) in Morocco",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "es/excursion-camellos": [
+    {
+      "alt": "Excursión de Camellos en Marruecos",
+      "file": "tours/merzouga-2.webp"
+    }
+  ],
+  "es/footer": [
+    {
+      "alt": "Footer Spanish - Morocco Excursions",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "es/reviews": [
+    {
+      "alt": "Reseñas y Comentarios sobre la Agencia Morocco Excursions",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
   "es/tours/10-dias-desde-casablanca": [
     {
       "alt": "Casablanca — Viaje de 10 Días de Casablanca al Norte y Sur de Marruecos",
@@ -383,6 +455,60 @@
     {
       "alt": "Trekking De 5 Días Por El Desierto Del Sahara (Marruecos)",
       "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "es/viaje-desierto-marruecos": [
+    {
+      "alt": "Viajes Desierto Marruecos - Precio De Tour Privado Y Grupo",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "fr/agence": [
+    {
+      "alt": "Morocco Excursions - Travel Agency Page",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "fr/circuit-desert-maroc": [
+    {
+      "alt": "Circuits Désert au Maroc - Excursions Sahara | Morocco Excursions",
+      "file": "tours/merzouga-3.webp"
+    }
+  ],
+  "fr/contact": [
+    {
+      "alt": "Contact - Morocco Excursions Company",
+      "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "fr/dmc-maroc": [
+    {
+      "alt": "Destination Management Company (DMC) Maroc",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "fr/footer-fr": [
+    {
+      "alt": "Footer FRENCH - Morocco Excursions",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "fr/location-de-voitures": [
+    {
+      "alt": "Louer voitures avec chauffeur au Maroc (Prix et disponibilité)",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "fr/randonnee-dromadaires": [
+    {
+      "alt": "Randonnée Chamelière au Maroc",
+      "file": "tours/merzouga-4.webp"
+    }
+  ],
+  "fr/reviews": [
+    {
+      "alt": "Avis et Commentaires sur l’Agence Morocco Excursions",
+      "file": "tours/morocco-experience-2.webp"
     }
   ],
   "fr/tours/10-jours-casablanca": [
@@ -1257,6 +1383,48 @@
       "file": "tours/morocco-experience-4.webp"
     }
   ],
+  "it/agenzia": [
+    {
+      "alt": "Chi Siamo - Agenzia di Viaggi in Marocco | Morocco Excursions",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "it/dmc-marocco": [
+    {
+      "alt": "DMC In Marocco - Agenzia Di Gestione Delle Destinazioni",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "it/footer": [
+    {
+      "alt": "Footer Italian - Morocco Excursions",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "it/noleggio-auto": [
+    {
+      "alt": "Servizi di noleggio auto con autista in Marocco",
+      "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "it/reviews": [
+    {
+      "alt": "Recensioni e commenti sull'agenzia Morocco Excursions",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "it/tour-cammello-marocco": [
+    {
+      "alt": "Tour e Escursione in cammello nel deserto, Marocco 2026/2027",
+      "file": "tours/merzouga-5.webp"
+    }
+  ],
+  "it/tour-deserto-marocco": [
+    {
+      "alt": "Tour Nel Deserto Marocco - Prezzo Per Privati E Gruppi",
+      "file": "tours/merzouga-6.webp"
+    }
+  ],
   "it/tours/10-giorni-da-casablanca": [
     {
       "alt": "Casablanca — Tour Di 10 Giorni Da Casablanca Al nord & Sud Del Marocco",
@@ -1640,6 +1808,180 @@
     },
     {
       "alt": "Trekking Di 5 Giorni Nel Deserto Del Sahara (Marocco)",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "morocco-10-day-trips": [
+    {
+      "alt": "10-Day Trips Around Morocco: Tour Itineraries & Costs",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "morocco-11-day-trips": [
+    {
+      "alt": "11 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "morocco-12-day-trips": [
+    {
+      "alt": "12 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "morocco-13-day-trips": [
+    {
+      "alt": "13 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "morocco-14-day-trips": [
+    {
+      "alt": "14 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "morocco-15-day-trips": [
+    {
+      "alt": "15 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "morocco-16-day-trips": [
+    {
+      "alt": "Traveling Around Morocco for 16 Days",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "morocco-17-day-trips": [
+    {
+      "alt": "17 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "morocco-18-day-trips": [
+    {
+      "alt": "18 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "morocco-19-day-trips": [
+    {
+      "alt": "Morocco During 19 Days: Tour Itineraries & Costs",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "morocco-2-day-trips": [
+    {
+      "alt": "2 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "morocco-3-day-trips": [
+    {
+      "alt": "3 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "morocco-4-day-trips": [
+    {
+      "alt": "Exploring Morocco in Four Days",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "morocco-5-day-trips": [
+    {
+      "alt": "5 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "morocco-6-day-trips": [
+    {
+      "alt": "6 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-5.webp"
+    }
+  ],
+  "morocco-7-day-trips": [
+    {
+      "alt": "Complete Markdown Text of Web Page",
+      "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "morocco-8-day-trips": [
+    {
+      "alt": "8 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-7.webp"
+    }
+  ],
+  "morocco-9-day-trips": [
+    {
+      "alt": "9 Days in Morocco: Tour Itineraries And Prices",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "morocco-desert-tours": [
+    {
+      "alt": "Morocco Desert Trips - Private & Shared Tour Deals",
+      "file": "tours/merzouga-1.webp"
+    }
+  ],
+  "morocco-rental-cars": [
+    {
+      "alt": "Morocco Rental Car with Driver - Private Chauffeur Service",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "morocco-students-tours": [
+    {
+      "alt": "Morocco Student Trips - GAP Year Programs 2026 & 2027",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "pt-br/agencia": [
+    {
+      "alt": "Quem Somos - Agência de Viagens em Marrocos | Morocco Excursions",
+      "file": "tours/morocco-experience-8.webp"
+    }
+  ],
+  "pt-br/aluguel-de-carro": [
+    {
+      "alt": "Aluguer de carros com condutor em Marrocos (preços e disponibilidade)",
+      "file": "tours/morocco-experience-1.webp"
+    }
+  ],
+  "pt-br/contacto": [
+    {
+      "alt": "Contato - Morocco Excursions",
+      "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "pt-br/dmc-marrocos": [
+    {
+      "alt": "Destination Management Company (DMC) Em Marrocos",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "pt-br/excursoes-camelos": [
+    {
+      "alt": "Excursões de Camelos em Marrocos",
+      "file": "tours/merzouga-7.webp"
+    }
+  ],
+  "pt-br/excursoes-deserto-marrocos": [
+    {
+      "alt": "Excursões ao Deserto de Marrocos",
+      "file": "tours/merzouga-8.webp"
+    }
+  ],
+  "pt-br/footer": [
+    {
+      "alt": "Footer Portugaise - Morocco Excursions",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "pt-br/reviews": [
+    {
+      "alt": "Avaliações e comentários sobre Agência Morocco Excursions",
       "file": "tours/morocco-experience-5.webp"
     }
   ],
@@ -2027,6 +2369,24 @@
     {
       "alt": "Semana No Deserto Marroquino (Tour De Camelo, 4x4, Quad)",
       "file": "tours/morocco-experience-6.webp"
+    }
+  ],
+  "reviews": [
+    {
+      "alt": "Reviews & Feedback About Moroccan Excursions Company",
+      "file": "tours/morocco-experience-3.webp"
+    }
+  ],
+  "safety-risk-management": [
+    {
+      "alt": "Safety Risk Management - Morocco Excursions",
+      "file": "tours/morocco-experience-4.webp"
+    }
+  ],
+  "semester-at-sea-morocco": [
+    {
+      "alt": "Semester at Sea Trips & Programs in Morocco",
+      "file": "tours/morocco-experience-5.webp"
     }
   ],
   "tours/10-day-marrakech-tour": [
@@ -3667,6 +4027,12 @@
     {
       "alt": "One Week In The Moroccan Desert (Camel Ride, ATV, 4x4 Tours)",
       "file": "tours/morocco-experience-2.webp"
+    }
+  ],
+  "travel-agency": [
+    {
+      "alt": "About Us - Local Morocco Travel Agency | Morocco Excursions",
+      "file": "tours/morocco-experience-6.webp"
     }
   ]
 }

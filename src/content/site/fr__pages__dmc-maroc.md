@@ -59,7 +59,7 @@ Chaque activité est gérée par des partenaires locaux de confiance et des guid
 
 ## Circuits
 
-Nos [**voyages au Maroc**](https://morocco-excursion.com/fr/) sont flexibles et conçus pour s’adapter à l’emploi du temps et au style de chaque voyageur. Que vous disposiez d’une seule journée ou d’un mois entier pour explorer le pays, nous pouvons créer l’itinéraire parfait pour vous. Nous proposons tout type de circuits, des excursions d’une journée aux aventures de 10, 15, 20 jours, voire d’un mois entier. Vous pouvez voyager à votre rythme, voir ce qui vous intéresse le plus et profiter d’une expérience fluide et bien organisée du début à la fin.
+Nos **voyages au Maroc** sont flexibles et conçus pour s’adapter à l’emploi du temps et au style de chaque voyageur. Que vous disposiez d’une seule journée ou d’un mois entier pour explorer le pays, nous pouvons créer l’itinéraire parfait pour vous. Nous proposons tout type de circuits, des excursions d’une journée aux aventures de 10, 15, 20 jours, voire d’un mois entier. Vous pouvez voyager à votre rythme, voir ce qui vous intéresse le plus et profiter d’une expérience fluide et bien organisée du début à la fin.
 
 Nous organisons des circuits privés pour les personnes seules, les couples et les familles qui souhaitent un voyage plus personnalisé, ainsi que des circuits en groupe pour les amis, les entreprises ou les événements spéciaux. Chaque circuit peut être personnalisé en fonction de vos objectifs de voyage, que vous soyez intéressé par la riche culture, l’histoire ou la nature du Maroc, ou que vous souhaitiez simplement passer des vacances reposantes.
 

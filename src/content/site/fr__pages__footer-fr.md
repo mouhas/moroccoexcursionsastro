@@ -11,15 +11,15 @@ source: "https://morocco-excursion.com/fr/footer-fr/"
 ---
 **Excursions au Maroc**
 
-N’hésitez pas à appeler notre [**agence**](https://morocco-excursion.com/fr/agence/) de voyage marocaine à propos de vos [**voyages au Maroc**](https://morocco-excursion.com/fr/) à tout moment. Depuis la France, le Canada et le reste du monde au 00 212 673 55 5408.
+N’hésitez pas à appeler notre [**agence**](/fr/agence) de voyage marocaine à propos de vos **voyages au Maroc** à tout moment. Depuis la France, le Canada et le reste du monde au 00 212 673 55 5408.
 
 [Sur Le Maroc](https://morocco-excursion.com/fr/#)
 
 [Collaboration](https://morocco-excursion.com/fr/#)
 
-[Les Avis](https://morocco-excursion.com/fr/reviews/)
+[Les Avis](/fr/reviews)
 
-[Blog](https://morocco-excursion.com/fr/blog/)
+Blog
 
 [Politique de paiement](https://morocco-excursion.com/fr/#)
 
@@ -27,9 +27,9 @@ N’hésitez pas à appeler notre [**agence**](https://morocco-excursion.com/fr/
 
 [Voyage en groupe](https://morocco-excursion.com/fr/#)
 
-[Louer une voiture](https://morocco-excursion.com/fr/location-de-voitures/)
+[Louer une voiture](/fr/location-de-voitures)
 
-[Circuit désert Maroc](https://morocco-excursion.com/fr/circuit-desert-maroc/)
+[Circuit désert Maroc](/fr/circuit-desert-maroc)
 
 [Personnalisez votre circuit](https://morocco-excursion.com/fr/#)
 

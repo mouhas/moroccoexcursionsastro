@@ -33,7 +33,7 @@ Realizar una excursión por el desierto de Marruecos que incluya un paseo en cam
 
 Featured
 
-### [Ruta de 3 días desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/3-dias-marrakech-merzouga/)
+### Ruta de 3 días desde Marrakech al desierto de Merzouga
 
 0 opiniones
 
@@ -43,7 +43,7 @@ desde
 
  €115,00
 
-### [Tour de 4 días al desierto de Merzouga desde Marrakech](https://morocco-excursion.com/es/tours/4-dias-marrakech-desierto/)
+### [Tour de 4 días al desierto de Merzouga desde Marrakech](/es/tours/4-dias-marrakech-desierto)
 
 0 opiniones
 
@@ -53,7 +53,7 @@ desde
 
  €200,00
 
-### [Viaje de 8 días visitando Marrakech y el desierto](https://morocco-excursion.com/es/tours/8-dias-de-marrakech/)
+### Viaje de 8 días visitando Marrakech y el desierto
 
 0 opiniones
 
@@ -63,7 +63,7 @@ desde
 
  €380,00
 
-### [5 Días de viaje desde Marrakech al desierto de Merzouga](https://morocco-excursion.com/es/tours/5-dias-marrakech-al-desierto/)
+### 5 Días de viaje desde Marrakech al desierto de Merzouga
 
 0 opiniones
 
@@ -75,7 +75,7 @@ desde
 
 Featured
 
-### [Excursiones en quad (ATV) por el desierto de Merzouga](https://morocco-excursion.com/es/tours/merzouga-excursion-quad/)
+### [Excursiones en quad (ATV) por el desierto de Merzouga](/es/tours/merzouga-excursion-quad)
 
 0 opiniones
 
@@ -87,7 +87,7 @@ desde
 
 Featured
 
-### [Tour de 6 días desde Marrakech al sur y el desierto](https://morocco-excursion.com/es/tours/6-dias-marrakech-sur/)
+### Tour de 6 días desde Marrakech al sur y el desierto
 
 0 opiniones
 
@@ -99,7 +99,7 @@ desde
 
 Featured
 
-### [5 Días tour por el desierto desde Marrakech a Fez](https://morocco-excursion.com/es/tours/5-dias-marrakech-fez/)
+### 5 Días tour por el desierto desde Marrakech a Fez
 
 0 opiniones
 
@@ -109,7 +109,7 @@ desde
 
  €295,00
 
-### [Viaje al desierto de 4 días desde Marrakech a Fez](https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/)
+### Viaje al desierto de 4 días desde Marrakech a Fez
 
 0 opiniones
 

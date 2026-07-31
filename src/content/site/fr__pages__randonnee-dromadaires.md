@@ -33,7 +33,7 @@ Top 5 des meilleures balades à dos de dromadaire au Maroc pour 2026 et 2027
 
 ### Randonnées & Balades dans le désert
 
-Sans aucun doute, passer la nuit dans le désert du Sahara devrait être sur votre liste de souhaits lors d’un [**voyage au Maroc**](https://morocco-excursion.com/fr/). Traversez les dunes de sable du Sahara à dos de chameau, regardez le soleil se coucher sur les dunes et dormez dans un camp du désert sous des millions d’étoiles. Une expérience de vie à ne pas manquer.
+Sans aucun doute, passer la nuit dans le désert du Sahara devrait être sur votre liste de souhaits lors d’un **voyage au Maroc**. Traversez les dunes de sable du Sahara à dos de chameau, regardez le soleil se coucher sur les dunes et dormez dans un camp du désert sous des millions d’étoiles. Une expérience de vie à ne pas manquer.
 
 Chez Morocco Excursions, nous organisons plusieurs circuits dans le désert du Maroc et proposons une variété d’options de camping. Nous avons des bivouacs de luxe avec salles de bain privées dans chaque tente et un camp de luxe avec chauffage et climatisation. Les camps de luxe sont entièrement équipés avec tout l’équipement nécessaire pour fournir un service de haute qualité et un séjour confortable.
 
@@ -50,9 +50,9 @@ Pour une expérience différente et unique, nous vous recommandons également de
 
 Featured
 
-#### [Voyage de 5 jours dans le désert de Marrakech à Fès](https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/)
+#### [Voyage de 5 jours dans le désert de Marrakech à Fès](/fr/tours/5-jours-marrakech-fes)
 
-0 [**avis**](https://morocco-excursion.com/fr/reviews/)
+0 [**avis**](/fr/reviews)
 
 5 Jours
 
@@ -62,7 +62,7 @@ Featured
 
 Featured
 
-#### [Circuit désert de 2 jours de Marrakech vers Zagora](https://morocco-excursion.com/fr/tours/2-jours-marrakech-zagora/)
+#### [Circuit désert de 2 jours de Marrakech vers Zagora](/fr/tours/2-jours-marrakech-zagora)
 
 0 avis
 
@@ -74,7 +74,7 @@ Featured
 
 Featured
 
-#### [Circuit de 3 jours départ de Marrakech vers le désert](https://morocco-excursion.com/fr/tours/3-jours-marrakech-to-merzouga/)
+#### [Circuit de 3 jours départ de Marrakech vers le désert](/fr/tours/3-jours-marrakech-to-merzouga)
 
 0 avis
 
@@ -86,7 +86,7 @@ Featured
 
 Featured
 
-#### [Voyage de 6 jours de Marrakech vers le sud et désert](https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/)
+#### [Voyage de 6 jours de Marrakech vers le sud et désert](/fr/tours/6-jours-marrakech-sud)
 
 0 avis
 
@@ -96,7 +96,7 @@ Featured
 
  €300,00
 
-#### [Circuit de 3 jours de Marrakech à Fès via le désert](https://morocco-excursion.com/fr/tours/3-jours-marrakech-fes/)
+#### Circuit de 3 jours de Marrakech à Fès via le désert
 
 0 avis
 
@@ -106,7 +106,7 @@ Featured
 
  €130,00
 
-#### [Circuit de 4 jours dans le désert départ de Marrakech](https://morocco-excursion.com/fr/tours/4-jours-marrakech-desert/)
+#### [Circuit de 4 jours dans le désert départ de Marrakech](/fr/tours/4-jours-marrakech-desert)
 
 0 avis
 
@@ -116,7 +116,7 @@ Featured
 
  €200,00
 
-#### [Circuit de 4 jours de Marrakech à Fès via le désert](https://morocco-excursion.com/fr/tours/4-jours-marrakech-fes/)
+#### [Circuit de 4 jours de Marrakech à Fès via le désert](/fr/tours/4-jours-marrakech-fes)
 
 0 avis
 
@@ -126,7 +126,7 @@ Featured
 
  €220,00
 
-#### [Circuit désert de 5 jours au départ de Marrakech](https://morocco-excursion.com/fr/tours/5-jours-marrakech-desert/)
+#### [Circuit désert de 5 jours au départ de Marrakech](/fr/tours/5-jours-marrakech-desert)
 
 0 avis
 

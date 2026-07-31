@@ -73,7 +73,7 @@ Il nostro obiettivo principale è offrirti tour di alta qualità in Marocco e al
 
 Crediamo che l’accessibilità economica non debba mai significare compromettere la qualità della tua avventura. Ci impegniamo per rendere i nostri tour accessibili a tutti ottimizzando le nostre operazioni e lavorando con partner locali per mantenere bassi i costi.
 
-Quando ci scegliete, potete star certi che i vostri soldi saranno ben spesi e vivrete una fantastica esperienza marocchina senza sforare il vostro budget. L’obiettivo della nostra azienda [**DMC**](https://morocco-excursion.com/it/dmc-marocco/) è offrirvi momenti indimenticabili in Marocco, ricchi di cultura, tradizione e calda ospitalità.
+Quando ci scegliete, potete star certi che i vostri soldi saranno ben spesi e vivrete una fantastica esperienza marocchina senza sforare il vostro budget. L’obiettivo della nostra azienda [**DMC**](/it/dmc-marocco) è offrirvi momenti indimenticabili in Marocco, ricchi di cultura, tradizione e calda ospitalità.
 
 ### **Trasporti**
 
@@ -89,7 +89,7 @@ I nostri spaziosi minivan sono perfetti per piccoli gruppi. Hanno un sacco di sp
 
 Per gruppi più grandi, i nostri comodi autobus sono la scelta perfetta. Hanno molti posti a sedere e caratteristiche moderne, che ti consentono di entrare in contatto con i tuoi compagni di viaggio durante il tragitto verso le tue destinazioni.
 
-Nella nostra agenzia di [**viaggi in Marocco**](https://morocco-excursion.com/it/), sappiamo che il trasporto è una parte importante del tuo viaggio. Ci impegniamo per assicurarci che il tuo viaggio non sia solo facile e sicuro, ma anche lussuoso. Lascia che ci occupiamo del tuo trasporto, così puoi concentrarti sul goderti lo scenario mozzafiato e la ricca cultura del Marocco. La tua avventura inizia con noi, dove comfort e lusso si uniscono sulle strade del Marocco.
+Nella nostra agenzia di **viaggi in Marocco**, sappiamo che il trasporto è una parte importante del tuo viaggio. Ci impegniamo per assicurarci che il tuo viaggio non sia solo facile e sicuro, ma anche lussuoso. Lascia che ci occupiamo del tuo trasporto, così puoi concentrarti sul goderti lo scenario mozzafiato e la ricca cultura del Marocco. La tua avventura inizia con noi, dove comfort e lusso si uniscono sulle strade del Marocco.
 
 **Consigli dei viaggiatori**
 
@@ -129,4 +129,4 @@ Abbiamo fatto un'escursione di tre giorni da Fez a Marrakech passando per il des
 
 Lágenzia Morocco Excxursions Travel ha ospitato me e il mio coniuge per tre giorni. Siamo partiti da Fes e abbiamo viaggiato fino a Marrakech passando per molte destinazioni. L'escursione prevedeva un soggiorno in una lussuosa tenda nel deserto. Tutto è stato meraviglioso. Il nostro autista, Ahmed, era incredibilmente competente e ci ha descritto in dettaglio tutti i luoghi che abbiamo visto, nonché le usanze tradizionali. Aspiriamo tutti a vivere la stessa esperienza. Grazie mille, Hassan e Ahmed.
 
-PIU [**RECENSIONI**](https://morocco-excursion.com/it/reviews/)
+PIU [**RECENSIONI**](/it/reviews)

@@ -16,7 +16,7 @@ Participation in Morocco Excursions programs requires a basic level of physical,
 Participants should:
 
 - Be in good physical health and able to travel for extended periods
-- Be comfortable in new [**cultural**](https://morocco-excursion.com/morocco-cultural-tours/) environments
+- Be comfortable in new **cultural** environments
 - Be able to participate in group activities
 - Have a positive and respectful attitude
 

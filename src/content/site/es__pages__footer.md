@@ -17,7 +17,7 @@ No dude en llamarnos en cualquier momento para solicitar información sobre sus�
 
 [Colaboracion](#)
 
-[Reseñas](https://morocco-excursion.com/es/reviews/)
+[Reseñas](/es/reviews)
 
 [Blog](https://www.morocco-excursion.com/#)
 
@@ -27,9 +27,9 @@ No dude en llamarnos en cualquier momento para solicitar información sobre sus�
 
 [Ofertas especiales](https://morocco-excursion.com/#)
 
-[Alquilar un coche](https://morocco-excursion.com/es/alquilar-coche/)
+Alquilar un coche
 
-[Viajes desierto Marruecos](https://morocco-excursion.com/es/viaje-desierto-marruecos/)
+[Viajes desierto Marruecos](/es/viaje-desierto-marruecos)
 
 [Planifica tus viaje](https://www.morocco-excursion.com/#)
 

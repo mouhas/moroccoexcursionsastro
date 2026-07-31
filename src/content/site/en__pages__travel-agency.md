@@ -57,7 +57,7 @@ Our success is due to the dedication of our team and the trust of our clients. W
 
 ##### **Online Booking**
 
-For those seeking a swift and hassle-free booking process, we provide the convenience of [**online booking**](https://morocco-excursion.com/contact/). Visit our website, select your desired tour, and follow the easy steps to secure your adventure. The online booking platform ensures a seamless and efficient process, allowing you to receive instant confirmation, so you can quickly start looking forward to your Moroccan journey.
+For those seeking a swift and hassle-free booking process, we provide the convenience of **online booking**. Visit our website, select your desired tour, and follow the easy steps to secure your adventure. The online booking platform ensures a seamless and efficient process, allowing you to receive instant confirmation, so you can quickly start looking forward to your Moroccan journey.
 
 ##### **Availability**
 
@@ -71,7 +71,7 @@ Our main aim is to give you top-quality tours in Morocco and other travel servic
 
 We believe that affordability should never mean compromising on the quality of your adventure. We work hard to make our tours accessible to everyone by optimizing our operations and working with local partners to keep costs down.
 
-When you choose us, you can trust that your money is well spent, and you’ll get a fantastic Moroccan experience without blowing your budget. Our [**DMC**](https://morocco-excursion.com/dmc-morocco/)‘s focus is on providing you with unforgettable moments in Morocco, full of culture, heritage, and warm hospitality.
+When you choose us, you can trust that your money is well spent, and you’ll get a fantastic Moroccan experience without blowing your budget. Our [**DMC**](/dmc-morocco)‘s focus is on providing you with unforgettable moments in Morocco, full of culture, heritage, and warm hospitality.
 
 ### Travelers’s Recommendations
 
@@ -86,7 +86,7 @@ He made stops for us along the road at good restaurants that were both local and
 
 #### Ashley
 
-We went on a 10-day trip with Ali and Ahmed from Morocco Excursions, who did such a great job guiding us around the country. The entire booking process was quick, from gathering information to planning an itinerary, paying a deposit and, everything else was taken care of from the minute we were picked up at the airport. The itinerary was well planned and customized according to our needs, and the [**accommodations**](https://morocco-excursion.com/accommodations/) were excellent. The level of safety and comfort was exceptional. The car was a modern Toyota, and our driver/guide Ali was fantastic; he toured us around Morocco and provided so much information.
+We went on a 10-day trip with Ali and Ahmed from Morocco Excursions, who did such a great job guiding us around the country. The entire booking process was quick, from gathering information to planning an itinerary, paying a deposit and, everything else was taken care of from the minute we were picked up at the airport. The itinerary was well planned and customized according to our needs, and the **accommodations** were excellent. The level of safety and comfort was exceptional. The car was a modern Toyota, and our driver/guide Ali was fantastic; he toured us around Morocco and provided so much information.
 
 #### Darrell
 
@@ -99,7 +99,7 @@ We recently returned from a two-week trip to Morocco. On a trip of this duration
 
 #### Riju
 
-We had a fantastic time on our 7-day private Morocco vacation with [**Morocco tours**](https://morocco-excursion.com/). Brahim, our driver and guide, was extremely knowledgable, spoke excellent English, and was really professional and helpful. The automobile was also incredibly comfy. We had a precise itinerary to follow over the course of seven days, and the trip was well planned. We had absolutely no bad experiences!
+We had a fantastic time on our 7-day private Morocco vacation with [**Morocco tours**](/). Brahim, our driver and guide, was extremely knowledgable, spoke excellent English, and was really professional and helpful. The automobile was also incredibly comfy. We had a precise itinerary to follow over the course of seven days, and the trip was well planned. We had absolutely no bad experiences!
 
 #### Rovin
 

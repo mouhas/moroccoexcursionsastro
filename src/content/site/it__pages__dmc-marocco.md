@@ -59,7 +59,7 @@ Ogni attività è gestita da partner locali di fiducia e guide professionali che
 
 ## Tour
 
-I nostri **[tour in Marocco](https://morocco-excursion.com/it/)** sono flessibili e pensati per adattarsi al programma e allo stile di ogni viaggiatore. Che tu abbia a disposizione solo un giorno o un mese intero per esplorare il Paese, possiamo creare l’itinerario perfetto per te. Offriamo di tutto, da brevi gite di un giorno ad avventure di più giorni della durata di 10, 15, 20 giorni o persino un mese intero. Puoi viaggiare al tuo ritmo, vedere ciò che ti interessa di più e goderti un’esperienza fluida e ben organizzata dall’inizio alla fine.
+I nostri **tour in Marocco** sono flessibili e pensati per adattarsi al programma e allo stile di ogni viaggiatore. Che tu abbia a disposizione solo un giorno o un mese intero per esplorare il Paese, possiamo creare l’itinerario perfetto per te. Offriamo di tutto, da brevi gite di un giorno ad avventure di più giorni della durata di 10, 15, 20 giorni o persino un mese intero. Puoi viaggiare al tuo ritmo, vedere ciò che ti interessa di più e goderti un’esperienza fluida e ben organizzata dall’inizio alla fine.
 
 Organizziamo tour privati per singoli, coppie e famiglie che desiderano un viaggio più personale, nonché tour di gruppo per amici, aziende o eventi speciali. Ogni tour può essere personalizzato in base ai tuoi obiettivi di viaggio, che tu sia interessato alla ricca cultura, alla storia, alla natura del Marocco o desideri semplicemente una vacanza rilassante.
 

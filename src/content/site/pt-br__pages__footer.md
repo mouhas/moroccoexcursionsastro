@@ -17,7 +17,7 @@ Não hesite em nos ligar a qualquer momento para solicitar informações sobre s
 
 [Colaboração](https://morocco-excursion.com/pt-br/#)
 
-[Avaliações](https://morocco-excursion.com/pt-br/reviews/)
+[Avaliações](/pt-br/reviews)
 
 [Blogue](https://morocco-excursion.com/pt-br/#)
 
@@ -27,9 +27,9 @@ Não hesite em nos ligar a qualquer momento para solicitar informações sobre s
 
 [Viagens em grupo](https://morocco-excursion.com/pt-br/#)
 
-[Alugar um carro](https://morocco-excursion.com/pt-br/aluguel-de-carro/)
+[Alugar um carro](/pt-br/aluguel-de-carro)
 
-[Excursaõ deserto Marrocos](https://morocco-excursion.com/pt-br/excursoes-deserto-marrocos/)
+[Excursaõ deserto Marrocos](/pt-br/excursoes-deserto-marrocos)
 
 [Planeje suas viagens](https://morocco-excursion.com/pt-br/#)
 

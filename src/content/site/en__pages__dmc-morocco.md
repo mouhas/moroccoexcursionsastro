@@ -59,7 +59,7 @@ Every activity is managed by trusted local partners and professional guides who 
 
 ## Tours
 
-Our [**Morocco tours**](https://morocco-excursion.com/) are flexible and designed to fit every traveler’s schedule and style. Whether you have just one day or a full month to explore, we can create the perfect itinerary for you. We offer everything from short day trips to multi-day adventures lasting 10, 15, 20 days—or even a full month. You can travel at your own pace, see what interests you most, and enjoy a smooth, well-organized experience from start to finish.
+Our [**Morocco tours**](/) are flexible and designed to fit every traveler’s schedule and style. Whether you have just one day or a full month to explore, we can create the perfect itinerary for you. We offer everything from short day trips to multi-day adventures lasting 10, 15, 20 days—or even a full month. You can travel at your own pace, see what interests you most, and enjoy a smooth, well-organized experience from start to finish.
 
 We arrange private tours for individuals, couples, and families who want a more personal journey, as well as group tours for friends, companies, or special events. Every tour can be customized to match your travel goals—whether you’re interested in Morocco’s rich culture, history, nature, or just want a relaxing getaway.
 

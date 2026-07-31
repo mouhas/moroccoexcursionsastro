@@ -23,11 +23,11 @@ Travel should feel exciting, not stressful. That’s why we handle all the detai
 
 **Explore the Real Morocco**
 
-Morocco is a country of contrasts — where mountains meet desert, where tradition blends with modern life, and where every corner holds a story. Walk the colorful alleys of [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), watch the sunset over endless dunes, or explore the quiet beauty of ancient villages. We invite you to experience Morocco not as a tourist, but as a guest and a friend.
+Morocco is a country of contrasts — where mountains meet desert, where tradition blends with modern life, and where every corner holds a story. Walk the colorful alleys of **Marrakech**, watch the sunset over endless dunes, or explore the quiet beauty of ancient villages. We invite you to experience Morocco not as a tourist, but as a guest and a friend.
 
 **Local Voices, Deeper Meaning**
 
-Our team comprises individuals who reside in Morocco and enjoy sharing their stories. We don’t just visit landmarks — Our [**Moroccan travel agency**](https://morocco-excursion.com/travel-agency/) creates real connections. Whether you’re learning to cook a traditional tagine, sipping tea with nomads, or visiting local artisans, each experience is personal, authentic, and full of heart.
+Our team comprises individuals who reside in Morocco and enjoy sharing their stories. We don’t just visit landmarks — Our [**Moroccan travel agency**](/travel-agency) creates real connections. Whether you’re learning to cook a traditional tagine, sipping tea with nomads, or visiting local artisans, each experience is personal, authentic, and full of heart.
 
 **Moments That Matter**
 

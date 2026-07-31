@@ -23,7 +23,7 @@ En nous choisissant, vous ne planifiez pas seulement un voyage, vous vous lancez
 
 ## Avantages d’utilise une agence de voyage Marocaine
 
-Nous sommes l’une des rares agences de [**voyage au Maroc**](https://morocco-excursion.com/fr/) à aimer et à avoir hâte d’offrir des possibilités de voyage uniques au Maroc à des groupes, des particuliers, des professionnels, etc.
+Nous sommes l’une des rares agences de **voyage au Maroc** à aimer et à avoir hâte d’offrir des possibilités de voyage uniques au Maroc à des groupes, des particuliers, des professionnels, etc.
 
 Où qu’ils se trouvent dans le monde, les voyageurs peuvent obtenir de l’aide grâce à un service clientèle dédié, disponible 24 heures sur 24. Nous sommes toujours ravis d’aider nos clients, qu’ils aient besoin d’aide pour réserver un hôtel, louer un véhicule ou planifier un voyage « de dernière minute ».
 
@@ -67,11 +67,11 @@ Que vous recherchiez l’énergie vibrante de l’été ou le climat doux de l�
 
 **Abordable**
 
-Notre principal objectif est de vous offrir des [**circuits au Maroc**](https://morocco-excursion.com/fr/circuits-au-maroc/) et d’autres services de voyage de qualité supérieure, sans que cela vous coûte une fortune. Nous voulons que votre expérience soit extraordinaire, que vous exploriez les marchés animés de Marrakech ou que vous vous promeniez dans le désert du Sahara.
+Notre principal objectif est de vous offrir des **circuits au Maroc** et d’autres services de voyage de qualité supérieure, sans que cela vous coûte une fortune. Nous voulons que votre expérience soit extraordinaire, que vous exploriez les marchés animés de Marrakech ou que vous vous promeniez dans le désert du Sahara.
 
 Nous pensons qu’un prix abordable ne devrait jamais signifier un compromis sur la qualité de votre aventure. Nous nous efforçons de rendre nos voyages accessibles à tous en optimisant nos opérations et en travaillant avec des partenaires locaux pour réduire les coûts.
 
-En nous choisissant, vous pouvez être sûr que votre argent est bien dépensé et que vous vivrez une expérience marocaine fantastique sans exploser votre budget. L’objectif de notre agence [**DMC**](https://morocco-excursion.com/fr/dmc-maroc/) est de vous faire vivre des moments inoubliables au Maroc, empreints de culture, de patrimoine et d’hospitalité chaleureuse.
+En nous choisissant, vous pouvez être sûr que votre argent est bien dépensé et que vous vivrez une expérience marocaine fantastique sans exploser votre budget. L’objectif de notre agence [**DMC**](/fr/dmc-maroc) est de vous faire vivre des moments inoubliables au Maroc, empreints de culture, de patrimoine et d’hospitalité chaleureuse.
 
 **Recommandations des voyageurs**
 

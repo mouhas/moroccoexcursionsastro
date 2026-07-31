@@ -11,7 +11,7 @@ source: "https://morocco-excursion.com/morocco-5-day-trips/"
 ---
 If you have only 5 days in Morocco, you still can enjoy city life, desert adventures, beaches, and local traditions.
 
-Start in [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), exploring busy markets, historic buildings, and lively squares. Stay in a riad for a quiet, traditional experience, and visit a hammam to relax like locals.
+Start in **Marrakech**, exploring busy markets, historic buildings, and lively squares. Stay in a riad for a quiet, traditional experience, and visit a hammam to relax like locals.
 
 Travel to the Sahara Desert through the High Atlas Mountains. Ride camels across sand dunes, watch the sunset, and sleep under the stars in a desert camp.
 
@@ -33,9 +33,9 @@ In just five days, Morocco offers adventure, culture, and relaxation—a mix of 
 
 ## Morocco 5-day tour itineraries
 
-### [5-Day Sahara desert tour from Fes to the south](https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/)
+### 5-Day Sahara desert tour from Fes to the south
 
-0 [**reviews**](https://morocco-excursion.com/reviews/)
+0 [**reviews**](/reviews)
 
 5 Days
 
@@ -43,7 +43,7 @@ from
 
  €290,00
 
-### [5-Days Merzouga Sahara desert tour from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-merzouga-desert-tour/)
+### [5-Days Merzouga Sahara desert tour from Marrakech](/tours/5-day-marrakech-to-merzouga-desert-tour)
 
 3 Reviews
 
@@ -55,7 +55,7 @@ from
 
 Featured
 
-### [5-Day desert tour to Fes from Marrakech](https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/)
+### [5-Day desert tour to Fes from Marrakech](/tours/5-day-marrakech-to-fes-desert-tour)
 
 3 Reviews
 
@@ -67,7 +67,7 @@ from
 
 Featured
 
-### [5-Day tour from Fes to Marrakech via the Sahara desert](https://morocco-excursion.com/tours/5-day-fes-to-marrakech-tour/)
+### 5-Day tour from Fes to Marrakech via the Sahara desert
 
 0 reviews
 
@@ -77,7 +77,7 @@ from
 
  €300,00
 
-### [5 days / 4 night tours from Agadir](https://morocco-excursion.com/tours/5-days-from-agadir/)
+### [5 days / 4 night tours from Agadir](/tours/5-days-from-agadir)
 
 0 reviews
 
@@ -99,7 +99,7 @@ For adventure seekers, we can include off-road excursions and 4×4 desert trips.
 
 ### What cities can I visit in 5 days in Morocco?
 
-You can visit [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, Essaouira, Agadir, or take a desert tour from Marrakech or Fes.
+You can visit **Marrakech**, Fes, Essaouira, Agadir, or take a desert tour from Marrakech or Fes.
 
 ### Is 5 days enough to see Morocco?
 
@@ -107,11 +107,11 @@ No, but you can still see the main highlights, but you need a well-planned itine
 
 ### Can I do a desert trip in 5 days?
 
-Yes, we have from 2 to 5-day desert tours starting from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Fes, Agadir, and other cities.
+Yes, we have from 2 to 5-day desert tours starting from **Marrakech**, Fes, Agadir, and other cities.
 
 ### Can I combine beach and desert in 5 days?
 
-Yes, you can visit Essaouira or Agadir for the coast and then go to the desert from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) or Fes.
+Yes, you can visit Essaouira or Agadir for the coast and then go to the desert from **Marrakech** or Fes.
 
 ### Can I hike in Morocco during a 5-day trip?
 
@@ -133,7 +133,7 @@ While in Marrakech, you should visit a hammam, a traditional Moroccan bath. A ha
 
 ## **Desert**
 
-Next, a trip to the Sahara Desert is a must. The journey from Marrakech passes through the High Atlas Mountains, offering amazing views of rocky peaks, deep valleys, and small Berber villages. In the desert, you can stay in a camp, from simple tents to [**luxury**](https://morocco-excursion.com/morocco-luxury-tours/) tents under the stars. Riding a camel across the sand dunes is a unique experience. The slow pace lets you enjoy the desert’s quiet and watch incredible sunsets when the sky turns orange and pink. Nights in the desert are magical, with stars above and often traditional music around the campfire.
+Next, a trip to the Sahara Desert is a must. The journey from Marrakech passes through the High Atlas Mountains, offering amazing views of rocky peaks, deep valleys, and small Berber villages. In the desert, you can stay in a camp, from simple tents to **luxury** tents under the stars. Riding a camel across the sand dunes is a unique experience. The slow pace lets you enjoy the desert’s quiet and watch incredible sunsets when the sky turns orange and pink. Nights in the desert are magical, with stars above and often traditional music around the campfire.
 
 ## **Essaouira**
 
@@ -147,4 +147,4 @@ Even in just five days, Morocco gives you a mix of culture, adventure, and relax
 
 A short trip to Morocco can leave you with unforgettable memories: the busy markets, starry desert nights, ocean breezes, and mountain views. Morocco gives travelers a rich mix of experiences, even in only five days.
 
-> **More tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **More tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

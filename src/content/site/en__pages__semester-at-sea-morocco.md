@@ -21,7 +21,7 @@ Others prefer to travel in small groups and plan their own trip. This gives more
 
 Featured
 
-### [3-day tour from Fes to Merzouga desert (Erg Chebbi)](https://morocco-excursion.com/tours/3-day-fes-desert-tour-to-merzouga/)
+### 3-day tour from Fes to Merzouga desert (Erg Chebbi)
 
 0 reviews
 
@@ -33,7 +33,7 @@ from
 
 Featured
 
-### [3-Day Desert Tour From Marrakech To Merzouga](https://morocco-excursion.com/tours/3-days-marrakech-to-merzouga/)
+### [3-Day Desert Tour From Marrakech To Merzouga](/tours/3-days-marrakech-to-merzouga)
 
 6 Reviews
 
@@ -45,7 +45,7 @@ from
 
 Featured
 
-### [3-Day Shared Desert Tour From Marrakech](https://morocco-excursion.com/tours/shared-group-3-days-marrakech-desert-trip/)
+### [3-Day Shared Desert Tour From Marrakech](/tours/shared-group-3-days-marrakech-desert-trip)
 
 5 Reviews
 
@@ -57,7 +57,7 @@ from
 
 Featured
 
-### [Merzouga camel trekking and night in a desert camp](https://morocco-excursion.com/tours/overnight-camel-trekking-in-merzouga/)
+### [Merzouga camel trekking and night in a desert camp](/tours/overnight-camel-trekking-in-merzouga)
 
 0 reviews
 
@@ -67,7 +67,7 @@ from
 
  €40,00
 
-### [3-Day Merzouga camel tour, 4×4 and ATV/Quad excursion](https://morocco-excursion.com/tours/3-days-2-nights-merzouga-tour/)
+### [3-Day Merzouga camel tour, 4×4 and ATV/Quad excursion](/tours/3-days-2-nights-merzouga-tour)
 
 0 reviews
 
@@ -77,7 +77,7 @@ from
 
  €180,00
 
-### [3-Days Marrakech to Fes Shared Desert Tour](https://morocco-excursion.com/tours/shared-group-marrakech-fes-3-days/)
+### [3-Days Marrakech to Fes Shared Desert Tour](/tours/shared-group-marrakech-fes-3-days)
 
 0 reviews
 
@@ -87,7 +87,7 @@ from
 
  €0,00
 
-### [3 Days From Fes to Marrakech via Sahara (Group Tour)](https://morocco-excursion.com/tours/fes-marrakech-3-days-group-tour/)
+### [3 Days From Fes to Marrakech via Sahara (Group Tour)](/tours/fes-marrakech-3-days-group-tour)
 
 0 reviews
 
@@ -97,7 +97,7 @@ from
 
  €0,00
 
-### [3-Day Group Tour From Fes to Sahara Desert](https://morocco-excursion.com/tours/3-day-group-tour-fes-desert/)
+### [3-Day Group Tour From Fes to Sahara Desert](/tours/3-day-group-tour-fes-desert)
 
 0 reviews
 

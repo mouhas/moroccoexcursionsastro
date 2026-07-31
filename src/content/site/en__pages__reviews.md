@@ -110,7 +110,7 @@ Our driver, Aziz, made us feel comfortable from the first moment. He was extreme
 
 #### Amanda
 
-Can not recommend this company enough. I looked around a lot of different tour operators and I’m so glad that I settled on this one. We decided to do a four day tour in order for it not to feel rushed. We had a fantastic driver and tour guide, Hamid, who I highly recommend. We saw amazing towns and got such an insight into true Morocco that we never would have been able to do by ourselves. The car was really new and comfortable. The accommodation booked was excellent, everywhere (except desert of course) had a pool and very decent food. The price was very reasonable. I also really appreciate that the guides are local to the desert area so have a great knowledge on the regions and are also multilingual!He made stops for us along the road at good restaurants that were both local and served delicious meals. This [**travel agency**](https://morocco-excursion.com/travel-agency/) comes highly recommended by me because of its high-quality services and reasonable prices.
+Can not recommend this company enough. I looked around a lot of different tour operators and I’m so glad that I settled on this one. We decided to do a four day tour in order for it not to feel rushed. We had a fantastic driver and tour guide, Hamid, who I highly recommend. We saw amazing towns and got such an insight into true Morocco that we never would have been able to do by ourselves. The car was really new and comfortable. The accommodation booked was excellent, everywhere (except desert of course) had a pool and very decent food. The price was very reasonable. I also really appreciate that the guides are local to the desert area so have a great knowledge on the regions and are also multilingual!He made stops for us along the road at good restaurants that were both local and served delicious meals. This [**travel agency**](/travel-agency) comes highly recommended by me because of its high-quality services and reasonable prices.
 
 #### Maria
 
@@ -165,7 +165,7 @@ He made stops for us along the road at good restaurants that were both local and
 
 #### Teddy
 
-We spent just over three weeks traveling across Morocco, and our [**luxury**](https://morocco-excursion.com/morocco-luxury-tours/) 7-day tour from Marrakech to the south was without a doubt the highlight of our vacation. Hamid was our tour guide, and he was friendly, highly aware of the region, and a great source of information about the Moroccan culture.
+We spent just over three weeks traveling across Morocco, and our **luxury** 7-day tour from Marrakech to the south was without a doubt the highlight of our vacation. Hamid was our tour guide, and he was friendly, highly aware of the region, and a great source of information about the Moroccan culture.
 We had a fantastic experience and would highly recommend it to all of our relatives and friends. According to what the company offers, the unbelievable high review rating comes as no surprise.
 
 #### Darrell

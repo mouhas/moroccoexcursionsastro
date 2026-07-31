@@ -23,13 +23,13 @@ End your trip with a traditional festival to enjoy music, food, and culture. Wit
 | 16-day tour from Casablanca | Casablanca | Imperial cities |
 | 16-day tour from Tangier | Tangier | The desert |
 | 16-day Morocco tour from Fes | Fes | Imperial cities |
-| 16-day tour from Marrakch | [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) | Atlas |
+| 16-day tour from Marrakch | **Marrakech** | Atlas |
 
 ## Morocco 16-day tour itineraries
 
-### [16-Day Tour From Tangier](https://morocco-excursion.com/tours/16-day-tour-from-tangier/)
+### [16-Day Tour From Tangier](/tours/16-day-tour-from-tangier)
 
-0 [**reviews**](https://morocco-excursion.com/reviews/)
+0 [**reviews**](/reviews)
 
 16 Days
 
@@ -53,7 +53,7 @@ Yes, a balanced 16-day tour itinerary includes cities, mountains, desert, and co
 
 ####
 
-In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
+In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
 ### How many days do you recommed I spend in the desert?
 
@@ -61,7 +61,7 @@ Two or three days are recommended to experience full days in the desert, to ride
 
 ### How do I reach the Atlas Mountains?
 
-From [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), you can join guided hikes, private tours, or rent a car to access villages like Imlil or Oukaimeden.
+From **Marrakech**, you can join guided hikes, private tours, or rent a car to access villages like Imlil or Oukaimeden.
 
 ### Can I visit mosques as a tourist?
 
@@ -97,7 +97,7 @@ The salt mines near Ouarzazate showcase an ancient practice of salt extraction. 
 
 ## 5. Experience Horseback Riding in the Desert
 
-For a different perspective of the Sahara, consider a horseback trek across sand dunes. Riding along the golden sands at sunrise or sunset offers a unique way to connect with the desert environment. Guided by experienced Berber riders, you’ll traverse dunes, small oasis areas, and nomad camps, capturing memories that are very different from [**camel treks**](https://morocco-excursion.com/morocco-camel-trekking/).
+For a different perspective of the Sahara, consider a horseback trek across sand dunes. Riding along the golden sands at sunrise or sunset offers a unique way to connect with the desert environment. Guided by experienced Berber riders, you’ll traverse dunes, small oasis areas, and nomad camps, capturing memories that are very different from **camel treks**.
 
 ## 6. Explore Ouzoud
 
@@ -145,4 +145,4 @@ The hidden Valley of Ammeln, in the Anti-Atlas, is a lush green paradise with tr
 
 Morocco hosts numerous cultural and religious festivals. You could experience the Rose Festival in Kelaat M’Gouna, celebrate Gnawa music in Essaouira, or witness the Moussem of Tan-Tan, a gathering of nomadic tribes. Festivals offer insight into Morocco’s rich heritage through music, dance, crafts, and local ceremonies.
 
-> **Tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

@@ -75,7 +75,7 @@ Nosso principal objetivo é oferecer a você passeios de alta qualidade no Marro
 
 Acreditamos que acessibilidade nunca deve significar comprometer a qualidade da sua aventura. Trabalhamos duro para tornar nossos passeios acessíveis a todos, otimizando nossas operações e trabalhando com parceiros locais para manter os custos baixos.
 
-Ao nos escolher, você pode confiar que seu dinheiro será bem gasto, e você terá uma experiência marroquina fantástica sem estourar seu orçamento. O foco da nossa agência [**DMC**](https://morocco-excursion.com/pt-br/dmc-marrocos/) é proporcionar-lhe momentos inesquecíveis em Marrocos, repletos de cultura, património e hospitalidade calorosa.
+Ao nos escolher, você pode confiar que seu dinheiro será bem gasto, e você terá uma experiência marroquina fantástica sem estourar seu orçamento. O foco da nossa agência [**DMC**](/pt-br/dmc-marrocos) é proporcionar-lhe momentos inesquecíveis em Marrocos, repletos de cultura, património e hospitalidade calorosa.
 
 **Recomendações de viajantes**
 
@@ -115,4 +115,4 @@ Fizemos uma excursão de três dias de Fez a Marrakech pelo Deserto de Merzouga.
 
 A Agência de Viagens Morocco Excursions hospedou meu cônjuge e eu por três dias. Começamos em Fes e viajamos para Marrakech passando por muitos destinos. A excursão incluiu uma estadia em uma luxuosa tenda no deserto. Tudo foi maravilhoso. Nosso motorista, Ahmed, era incrivelmente conhecedor e detalhou completamente todos os pontos turísticos que vimos, bem como os costumes tradicionais. Todos nós aspiramos ter a mesma experiência. Muito obrigado, Hassan e Ahmed.
 
-MAIS [**AVALIAÇÕES**](https://morocco-excursion.com/pt-br/reviews/)
+MAIS [**AVALIAÇÕES**](/pt-br/reviews)

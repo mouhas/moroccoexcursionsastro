@@ -29,9 +29,9 @@ Even in just two days, you can see Morocco’s mix of old and new, from historic
 
 Featured
 
-### [2 Day Desert Tour From Marrakech To Zagora](https://morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/)
+### [2 Day Desert Tour From Marrakech To Zagora](/tours/2-day-marrakech-to-zagora-desert-tour)
 
-3 [**Reviews**](https://morocco-excursion.com/reviews/)
+3 [**Reviews**](/reviews)
 
 2 Days
 
@@ -43,7 +43,7 @@ from
 
 **NOTE:**
 
-If the 2-day [**Morocco tours**](https://morocco-excursion.com/) listed on our website don’t fully meet your expectations, we’d be happy to design a tailor-made itinerary just for you. Whether you want to explore specific cities, discover hidden gems, spend more time in the desert, or include cultural activities, we can adjust the trip to match your interests and travel style.
+If the 2-day [**Morocco tours**](/) listed on our website don’t fully meet your expectations, we’d be happy to design a tailor-made itinerary just for you. Whether you want to explore specific cities, discover hidden gems, spend more time in the desert, or include cultural activities, we can adjust the trip to match your interests and travel style.
 
 Simply fill out the form with details such as the places you’d like to visit, the number of days you plan to travel, the size of your group, and any special requests you may have.
 
@@ -72,7 +72,7 @@ Yes, from Marrakech, you can take a **2-day desert tour to Zagora**, which incl
 
 ### Is it safe to travel for 2 days in Morocco?
 
-Yes, Morocco is generally safe for tourists. Like any busy destination, be mindful of pickpockets in crowded areas, negotiate prices in markets, and [**book**](https://morocco-excursion.com/contact/) tours with reputable agencies.
+Yes, Morocco is generally safe for tourists. Like any busy destination, be mindful of pickpockets in crowded areas, negotiate prices in markets, and **book** tours with reputable agencies.
 
 ### Can I experience Moroccan food in just 2 days?
 
@@ -165,4 +165,4 @@ Morocco offers a vibrant mix of history, culture, mountains, coast, and desert. 
 
 **Are you looking for another tour?**
 
-> **Tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

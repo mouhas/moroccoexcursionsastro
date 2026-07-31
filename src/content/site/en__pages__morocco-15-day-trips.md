@@ -31,9 +31,9 @@ To relax, visit a traditional Moroccan hammam, and in Essaouira, end the evening
 
 ## Morocco 15-day tour itineraries
 
-### [15-Day tour from Casablanca (The Great Morocco)](https://morocco-excursion.com/tours/15-day-tour-from-casablanca/)
+### 15-Day tour from Casablanca (The Great Morocco)
 
-2 [**Reviews**](https://morocco-excursion.com/reviews/)
+2 [**Reviews**](/reviews)
 
 15 Days
 
@@ -43,7 +43,7 @@ from
 
 Tangier, Morocco
 
-### [15-Day Tour From Tangier](https://morocco-excursion.com/tours/15-day-tour-from-tangier/)
+### [15-Day Tour From Tangier](/tours/15-day-tour-from-tangier)
 
 0 reviews
 
@@ -59,7 +59,7 @@ from
 
 Don’t hesitate to contact us to customize your 15 days in Morocco. Our guides make your trip more meaningful and personal. In cities like Marrakech, Fes, and Chefchaouen, our licensed guides share the history and hidden stories behind palaces, medinas, and markets.
 
-In the Sahara, our Berber guides lead [**camel treks**](https://morocco-excursion.com/morocco-camel-trekking/) and 4×4 excursions, giving you a true desert experience. For adventure lovers, our team also arranges guided hikes in the Atlas Mountains and day trips to traditional villages, allowing you to connect with local life and culture.
+In the Sahara, our Berber guides lead **camel treks** and 4×4 excursions, giving you a true desert experience. For adventure lovers, our team also arranges guided hikes in the Atlas Mountains and day trips to traditional villages, allowing you to connect with local life and culture.
 
 ### Questions about 15-day tours in Morocco
 
@@ -147,7 +147,7 @@ For those who want something very different, Dakhla is a paradise for kitesurfer
 
 ## 14. Try a Hammam
 
-A Moroccan bath is both relaxing and cultural. Many cities offer [**luxury**](https://morocco-excursion.com/morocco-luxury-tours/) hammams, but smaller towns often have traditional public baths where locals go weekly.
+A Moroccan bath is both relaxing and cultural. Many cities offer **luxury** hammams, but smaller towns often have traditional public baths where locals go weekly.
 
 ## 15. Join a Gnawa Music
 
@@ -155,4 +155,4 @@ In towns like Essaouira, you can enjoy live Gnawa music — a spiritual and rhyt
 
 Instead of following the classic Marrakech–Fes–Desert–Chefchaouen route, consider adding places like Skoura, Oualidia, or Dakhla for a more unique journey. Mixing culture, adventure, and relaxation will make your trip truly personal.
 
-> **Tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: "https://morocco-excursion.com/morocco-17-day-trips/"
 ---
-If you have 17 days in Morocco, you can explore its many sides in a relaxing way. You can [**book**](https://morocco-excursion.com/contact/) flights and start in **Casablanca** to see the impressive Hassan II Mosque. In **Rabat**, enjoy the old Kasbah and peaceful gardens. Travel to **Chefchaouen**, the famous blue city, where every street feels magical. In **Fes**, walk through the old medina, visit tanneries, and feel the spirit of ancient Morocco.
+If you have 17 days in Morocco, you can explore its many sides in a relaxing way. You can **book** flights and start in **Casablanca** to see the impressive Hassan II Mosque. In **Rabat**, enjoy the old Kasbah and peaceful gardens. Travel to **Chefchaouen**, the famous blue city, where every street feels magical. In **Fes**, walk through the old medina, visit tanneries, and feel the spirit of ancient Morocco.
 
 One of the most recommended things is to head to the **Sahara Desert** in Merzouga for a camel ride, a night under the stars, and sandboarding. Explore the stunning **Todra and Dades Gorges**, where nature shows its beauty in cliffs and valleys. Visit **Ait Ben Haddou**, a UNESCO site with old kasbahs.
 
@@ -21,15 +21,15 @@ In **Marrakech**, see the busy Jemaa el-Fnaa square, colorful souks, and Majorel
 | --- | --- | --- |
 | 17-day Morocco tour from Fes | Fes | The Sahara Desert |
 | 17 days from Rabat | Rabat | The Moroccan Imperial Cities |
-| 17-day tour from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) | Marrakech | The Atlas Mountains |
+| 17-day tour from **Marrakech** | Marrakech | The Atlas Mountains |
 | 17-day trip from Tanger | Tanger | North of Morocco |
 | 17-day tour from Casablanca | Casablanca | The Atlantic Ocean |
 
 ## Morocco 17-day tour itineraries
 
-### [17-Day Trip From Rabat](https://morocco-excursion.com/tours/17-day-trip-from-rabat/)
+### [17-Day Trip From Rabat](/tours/17-day-trip-from-rabat)
 
-1 [**Review**](https://morocco-excursion.com/reviews/)
+1 [**Review**](/reviews)
 
 17 days
 
@@ -49,11 +49,11 @@ With us, you enjoy comfort, local culture, and authentic experiences in a smooth
 
 ### What is the best place to start a 17-day tour?
 
-Most people start their trip in Morocco in Casablanca, [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), or Tangier, depending on flights.
+Most people start their trip in Morocco in Casablanca, **Marrakech**, or Tangier, depending on flights.
 
 ####
 
-In a week, you can explore [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
+In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
 
 ### Can I see both the Atlas, Desert and the Atlantic coast?
 
@@ -65,7 +65,7 @@ Yes, Essaouira (Atlantic) and Tangier (Mediterranean) can both fit in 17 days.
 
 ### How many UNESCO sites can I see in 17 days?
 
-You can visit several places like Fes, [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), Ait Ben Haddou, and Rabat.
+You can visit several places like Fes, **Marrakech**, Ait Ben Haddou, and Rabat.
 
 ### What is the price for a 17 day tip in Morocco?
 
@@ -143,4 +143,4 @@ At the top of Morocco, **Tangier** has a mix of European and Moroccan culture. V
 
 End your 17-day trip with some peace by the ocean. **Essaouira** is a coastal town with sandy beaches, white-and-blue houses, and a relaxed vibe. It’s great for fresh seafood, surfing, or just walking by the sea.
 
-> **Trips by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Trips by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

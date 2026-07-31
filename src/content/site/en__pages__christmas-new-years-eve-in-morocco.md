@@ -11,7 +11,7 @@ source: "https://morocco-excursion.com/christmas-new-years-eve-in-morocco/"
 ---
 As the year draws to a close, Morocco comes alive with festive spirit, welcoming both locals and travelers to celebrate Christmas and New Year’s Eve in its unique and captivating way. This North African gem offers a blend of traditional [Moroccan culture](https://www.morocco-excursion.com/moroccan-people/) and a touch of international flair during the holiday season. From bustling markets adorned with colorful lights to desert celebrations under starlit skies, spending Christmas and New Year’s Eve in Morocco promises an unforgettable experience for all.
 
-In Morocco, Christmas is celebrated in a more subdued manner compared to Western countries, given that the majority of the population is Muslim. However, in cities with sizable Christian communities, like [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/), you’ll find beautifully adorned Christmas trees, festive decorations, and joyful gatherings.
+In Morocco, Christmas is celebrated in a more subdued manner compared to Western countries, given that the majority of the population is Muslim. However, in cities with sizable Christian communities, like [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) and **Marrakech**, you’ll find beautifully adorned Christmas trees, festive decorations, and joyful gatherings.
 
 ## Special Offer for Christmas in The Sahara desert:
 
@@ -42,13 +42,13 @@ In Morocco, Christmas is celebrated in a more subdued manner compared to Western
 ## + Morocco Travel Offers for December 2026 & January 2027
 
 **12 Days (From 26 December to 6th of January):**
-Day 1 (26/December): Arrival (Marrakech, [**Casablanca**](https://morocco-excursion.com/casablanca-tours/))
+Day 1 (26/December): Arrival (Marrakech, **Casablanca**)
 Day 2 (27/December): Meeting in Marrakech – Half day to visit Marrakech
 Day 3 (28/December): Full day to visit Marrakech
 Day 4 (29/December): Marrakech – High Atlas Mountains – Kasbah Ait Ben Haddou – Ouarzazate – Skoura – Roses Valley – Dades Valley
 Day 5 (30/December): Dades Valley – Todra Gorges – Rissani – Merzouga
 Day 6 (31/December): Full day in Merzouga
-Day 7 (01/January): Merzouga – Ziz Valley – Azrou – Ifrane – [**Fes**](https://morocco-excursion.com/fes-tours/)
+Day 7 (01/January): Merzouga – Ziz Valley – Azrou – Ifrane – **Fes**
 Day 8 (02/January): Full day to visit Fes
 Day 9 (03/January): Fes – Chefchaouen
 Day 10 (04/January): Chefchaouen – Rabat

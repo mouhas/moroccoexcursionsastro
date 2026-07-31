@@ -73,7 +73,7 @@ Nuestro principal objetivo es ofrecerle tours de la mejor calidad en Marruecos y
 
 Creemos que la asequibilidad nunca debe significar comprometer la calidad de su aventura. Trabajamos arduamente para que nuestros recorridos sean accesibles para todos, optimizando nuestras operaciones y trabajando con socios locales para mantener los costos bajos.
 
-Cuando nos elige, puede confiar en que su dinero está bien invertido y que vivirá una fantástica experiencia marroquí sin salirse de su presupuesto. El objetivo de nuestra agencia [**DMC**](https://morocco-excursion.com/es/dmc-marruecos/) es ofrecerle momentos inolvidables en Marruecos, llenos de cultura, patrimonio y una cálida hospitalidad.
+Cuando nos elige, puede confiar en que su dinero está bien invertido y que vivirá una fantástica experiencia marroquí sin salirse de su presupuesto. El objetivo de nuestra agencia [**DMC**](/es/dmc-marruecos) es ofrecerle momentos inolvidables en Marruecos, llenos de cultura, patrimonio y una cálida hospitalidad.
 
 **Recomendaciones de los viajeros**
 
@@ -113,4 +113,4 @@ Hicimos una excursión de tres días desde Fez a Marrakech pasando por el desier
 
 Hemos viajado con Morocco Excursions durante tres días desde Marrakech al desierto. Empezamos en Fez y viajamos hasta Marrakech pasando por muchos destinos. La excursión incluyó una estadía en una lujosa tienda de campaña en el desierto. Todo fue maravilloso. Nuestro conductor, Ahmed, estaba increíblemente bien informado y nos explicó detalladamente todos los lugares de interés que vimos, así como las costumbres tradicionales. Todos aspiramos a tener la misma experiencia. Muchas gracias, Hassan y Ahmed.
 
-MORE [**REVIEWS**](https://morocco-excursion.com/es/reviews/)
+MORE [**REVIEWS**](/es/reviews)

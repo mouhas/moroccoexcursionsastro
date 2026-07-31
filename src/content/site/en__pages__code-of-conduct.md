@@ -19,7 +19,7 @@ Participation in our programs requires respect for local culture, adherence to s
 
 All participants are expected to:
 
-- Respect Moroccan customs, traditions, laws, and [**cultural**](https://morocco-excursion.com/morocco-cultural-tours/) values
+- Respect Moroccan customs, traditions, laws, and **cultural** values
 - Follow all instructions provided by Morocco Excursions staff, guides, drivers, and activity leaders
 - Behave respectfully toward fellow participants, staff members, local communities, and service providers
 - Act in a way that promotes group safety, cooperation, and positive group dynamics

@@ -20,10 +20,10 @@ Adventure through **Todra and Dades Gorges**, savor Moroccan dishes like tagine 
 | Tours | Departure | Highlights |
 | --- | --- | --- |
 | 13-day trip from Agadir | Agadir | North & South of Morocco |
-| 13-day tour from [**Fes**](https://morocco-excursion.com/fes-tours/) | Fes | Imperial cities & Sahara |
+| 13-day tour from **Fes** | Fes | Imperial cities & Sahara |
 | 13 days from Casablanca | Casablanca | Moroccan Imperial cities |
 | 13-day Morocco tour from Rabat | Rabat | Atlas & Sahara |
-| 13-day trip from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) | Marrakech | The Atlantic Ocean |
+| 13-day trip from **Marrakech** | Marrakech | The Atlantic Ocean |
 
 ## Customize your 13-day tour itinerary in Morocco
 
@@ -37,23 +37,23 @@ From hotels and transport to the pace of your journey, everything can be arrange
 
 ### How much money should I budget for 13 days in Morocco?
 
-A mid-range budget is about €60–100 per day, but it depends on your travel style. [**Luxury**](https://morocco-excursion.com/morocco-luxury-tours/) trips cost more, while budget travelers can spend less.
+A mid-range budget is about €60–100 per day, but it depends on your travel style. **Luxury** trips cost more, while budget travelers can spend less.
 
 ### What is a good sample route for 13 days?
 
-A common route is: Casablanca → Rabat → Chefchaouen → [**Fes**](https://morocco-excursion.com/fes-tours/) → Sahara Desert (Merzouga) → Dades Valley → [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) → Essaouira → Casablanca.
+A common route is: Casablanca → Rabat → Chefchaouen → **Fes** → Sahara Desert (Merzouga) → Dades Valley → **Marrakech** → Essaouira → Casablanca.
 
 ### Can I travel by train during my 13 days in Morocco?
 
-Yes, trains are available between Casablanca, Rabat, [**Fes**](https://morocco-excursion.com/fes-tours/), and [**Marrakech**](https://morocco-excursion.com/marrakech-tours/). For desert areas, you’ll need a car or a guided tour.
+Yes, trains are available between Casablanca, Rabat, **Fes**, and **Marrakech**. For desert areas, you’ll need a car or a guided tour.
 
 ### How long is the Sahara Desert trip?
 
-Most of the desert tours to Merzouga from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) take 3–4 days (round trip), but with 13 days, you can easily include this.
+Most of the desert tours to Merzouga from **Marrakech** take 3–4 days (round trip), but with 13 days, you can easily include this.
 
 ### How many days should I spend in Fes?
 
-For [**Fes**](https://morocco-excursion.com/fes-tours/), 2 full days are ideal to explore the old medina, tanneries, and historic sites.
+For **Fes**, 2 full days are ideal to explore the old medina, tanneries, and historic sites.
 
 ### How many cities can I visit in 13 days?
 
@@ -113,8 +113,8 @@ Moroccan markets, or souks, are full of colors and life. You can buy handmade ca
 
 ## 13. Experience a Traditional Hammam
 
-A hammam is a Moroccan bathhouse where people relax and cleanse their body. Some hammams are [**luxury**](https://morocco-excursion.com/morocco-luxury-tours/) spas, while others are traditional local baths. It is a great way to experience Moroccan culture and feel refreshed.
+A hammam is a Moroccan bathhouse where people relax and cleanse their body. Some hammams are **luxury** spas, while others are traditional local baths. It is a great way to experience Moroccan culture and feel refreshed.
 
 These 13 activities show the best of Morocco and give a taste of its unique charm.
 
-> **Check other tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **Check other tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**

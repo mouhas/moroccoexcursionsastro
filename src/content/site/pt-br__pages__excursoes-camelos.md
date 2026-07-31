@@ -35,7 +35,7 @@ Lista das 5 principais expedições e excursões de camelo no deserto de Marroco
 
 ### Excursões e Safaris no deserto
 
-Sem dúvida, passar a noite no deserto do Saara deve estar na sua lista de desejos no seu [**viagem em Marrocos**](https://morocco-excursion.com/pt-br/). Atravesse as dunas de areia do Saara em um camelo, observe o pôr do sol sobre as dunas e durma em um acampamento no deserto sob milhões de estrelas. Uma experiência de vida que não pode ser desperdiçada.
+Sem dúvida, passar a noite no deserto do Saara deve estar na sua lista de desejos no seu **viagem em Marrocos**. Atravesse as dunas de areia do Saara em um camelo, observe o pôr do sol sobre as dunas e durma em um acampamento no deserto sob milhões de estrelas. Uma experiência de vida que não pode ser desperdiçada.
 
 Na Morocco Excursions, organizamos várias viagens ao deserto de Marrocos e oferecemos uma variedade de opções de camping. Temos acampamentos de luxo com banheiro privativo em cada barraca e um acampamento de luxo com aquecimento e ar condicionado. Os acampamentos de luxo estão totalmente equipados com todo o equipamento necessário para oferecer um serviço de alta qualidade e uma estadia confortável.
 
@@ -52,7 +52,7 @@ Para uma experiência diferente e única, recomendamos também hospedar-se com u
 
 Featured
 
-#### [Excursão de 5 dias de Marrakech ao deserto e Fez](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-fez/)
+#### Excursão de 5 dias de Marrakech ao deserto e Fez
 
 0 Avaliações
 
@@ -64,7 +64,7 @@ A partir de
 
 Featured
 
-#### [Excursão de 2 dias de Marraquexe ao deserto de Zagora](https://morocco-excursion.com/pt-br/tours/2-dias-marraquex-deserto-zagora/)
+#### Excursão de 2 dias de Marraquexe ao deserto de Zagora
 
 0 Avaliações
 
@@ -76,7 +76,7 @@ A partir de
 
 Featured
 
-#### [Excursão de 3 dias de Marrakech ao deserto do Saara](https://morocco-excursion.com/pt-br/tours/3-dias-marrakech-deserto-saara/)
+#### Excursão de 3 dias de Marrakech ao deserto do Saara
 
 0 Avaliações
 
@@ -88,7 +88,7 @@ A partir de
 
 Featured
 
-#### [Excursão de 6 dias de Marrakech ao sul e ao deserto](https://morocco-excursion.com/pt-br/tours/6-dias-marrakech-sul/)
+#### Excursão de 6 dias de Marrakech ao sul e ao deserto
 
 0 Avaliações
 
@@ -98,7 +98,7 @@ A partir de
 
  €300,00
 
-#### [Viagem de 3 dias de Marrakech a Fez pelo deserto](https://morocco-excursion.com/pt-br/tours/3-dias-marrakech-fez/)
+#### Viagem de 3 dias de Marrakech a Fez pelo deserto
 
 0 Avaliações
 
@@ -108,7 +108,7 @@ A partir de
 
  €130,00
 
-#### [Viagem de 4 dias de Marrakech ao deserto do Merzouga](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-deserto/)
+#### Viagem de 4 dias de Marrakech ao deserto do Merzouga
 
 0 Avaliações
 
@@ -118,7 +118,7 @@ A partir de
 
  €200,00
 
-#### [Viagem de 4 dias no deserto de Marraquexe a Fez](https://morocco-excursion.com/pt-br/tours/4-dias-marrakech-fes/)
+#### Viagem de 4 dias no deserto de Marraquexe a Fez
 
 0 Avaliações
 
@@ -128,7 +128,7 @@ A partir de
 
  €220,00
 
-#### [Viagem de 5 dias pelo deserto do Saara saindo de Marrakech](https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-deserto/)
+#### Viagem de 5 dias pelo deserto do Saara saindo de Marrakech
 
 0 Avaliações
 
@@ -195,7 +195,7 @@ Devido às boas condições da estrada, o deserto de Merzouga (também conhecido
 
 #### Valentina O
 
-Escolhemos esta empresa para nossa viagem noturna de camelo no deserto depois de ler [**comentários**](https://morocco-excursion.com/pt-br/reviews/) positivos e sugestões de outros turistas, e foi exatamente o que esperávamos. Nosso guia de camelos Aziz foi gentil e divertido, e aprendemos muito sobre as tribos berberes, a cultura. Ele nos ensinou a tocar bateria e dançar ao redor da fogueira. Eu não posso dizer coisas boas o suficiente sobre esta empresa.
+Escolhemos esta empresa para nossa viagem noturna de camelo no deserto depois de ler [**comentários**](/pt-br/reviews) positivos e sugestões de outros turistas, e foi exatamente o que esperávamos. Nosso guia de camelos Aziz foi gentil e divertido, e aprendemos muito sobre as tribos berberes, a cultura. Ele nos ensinou a tocar bateria e dançar ao redor da fogueira. Eu não posso dizer coisas boas o suficiente sobre esta empresa.
 
 #### Tiado J
 

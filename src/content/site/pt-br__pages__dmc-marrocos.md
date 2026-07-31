@@ -59,7 +59,7 @@ Todas as atividades são geridas por parceiros locais de confiança e guias prof
 
 ## Tours
 
-As nossas **[viagens ao Marrocos](https://morocco-excursion.com/pt-br/)** são flexíveis e concebidas para se adequarem ao horário e estilo de cada viajante. Quer tenha apenas um dia ou um mês inteiro para explorar, podemos criar o itinerário perfeito para si. Oferecemos tudo, desde viagens curtas de um dia a aventuras de vários dias com duração de 10, 15, 20 dias — ou até mesmo um mês inteiro. Pode viajar ao seu próprio ritmo, ver o que mais lhe interessa e desfrutar de uma experiência tranquila e bem organizada do início ao fim.
+As nossas **viagens ao Marrocos** são flexíveis e concebidas para se adequarem ao horário e estilo de cada viajante. Quer tenha apenas um dia ou um mês inteiro para explorar, podemos criar o itinerário perfeito para si. Oferecemos tudo, desde viagens curtas de um dia a aventuras de vários dias com duração de 10, 15, 20 dias — ou até mesmo um mês inteiro. Pode viajar ao seu próprio ritmo, ver o que mais lhe interessa e desfrutar de uma experiência tranquila e bem organizada do início ao fim.
 
 Organizamos excursões privadas para indivíduos, casais e famílias que desejam uma viagem mais pessoal, bem como excursões em grupo para amigos, empresas ou eventos especiais. Cada excursão pode ser personalizada para corresponder aos seus objetivos de viagem — quer esteja interessado na rica cultura, história e natureza de Marrocos, ou apenas queira uma escapadela relaxante.
 

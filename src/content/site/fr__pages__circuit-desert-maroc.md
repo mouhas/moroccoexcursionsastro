@@ -33,7 +33,7 @@ Rejoignez-nous pour une excursion de plusieurs jours dans le désert, à la déc
 
 Featured
 
-### [Circuit de 3 jours départ de Marrakech vers le désert](https://morocco-excursion.com/fr/tours/3-jours-marrakech-to-merzouga/)
+### [Circuit de 3 jours départ de Marrakech vers le désert](/fr/tours/3-jours-marrakech-to-merzouga)
 
 0 avis
 
@@ -43,7 +43,7 @@ Featured
 
  €115,00
 
-### [Circuit de 4 jours dans le désert départ de Marrakech](https://morocco-excursion.com/fr/tours/4-jours-marrakech-desert/)
+### [Circuit de 4 jours dans le désert départ de Marrakech](/fr/tours/4-jours-marrakech-desert)
 
 0 avis
 
@@ -53,7 +53,7 @@ Featured
 
  €200,00
 
-### [Circuit de 8 jours pour visiter Marrakech et le désert](https://morocco-excursion.com/fr/tours/8-jours-de-marrakech/)
+### [Circuit de 8 jours pour visiter Marrakech et le désert](/fr/tours/8-jours-de-marrakech)
 
 0 avis
 
@@ -63,7 +63,7 @@ Featured
 
  €380,00
 
-### [Circuit désert de 5 jours au départ de Marrakech](https://morocco-excursion.com/fr/tours/5-jours-marrakech-desert/)
+### [Circuit désert de 5 jours au départ de Marrakech](/fr/tours/5-jours-marrakech-desert)
 
 0 avis
 
@@ -75,7 +75,7 @@ Featured
 
 Featured
 
-### [Excursions en quads (ATV) dans le désert de Merzouga](https://morocco-excursion.com/fr/tours/excursion-quad-merzouga/)
+### [Excursions en quads (ATV) dans le désert de Merzouga](/fr/tours/excursion-quad-merzouga)
 
 0 avis
 
@@ -87,7 +87,7 @@ Featured
 
 Featured
 
-### [Voyage de 6 jours de Marrakech vers le sud et désert](https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/)
+### [Voyage de 6 jours de Marrakech vers le sud et désert](/fr/tours/6-jours-marrakech-sud)
 
 0 avis
 
@@ -99,7 +99,7 @@ Featured
 
 Featured
 
-### [Voyage de 5 jours dans le désert de Marrakech à Fès](https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/)
+### [Voyage de 5 jours dans le désert de Marrakech à Fès](/fr/tours/5-jours-marrakech-fes)
 
 0 avis
 
@@ -109,7 +109,7 @@ Featured
 
  €295,00
 
-### [Circuit de 4 jours de Marrakech à Fès via le désert](https://morocco-excursion.com/fr/tours/4-jours-marrakech-fes/)
+### [Circuit de 4 jours de Marrakech à Fès via le désert](/fr/tours/4-jours-marrakech-fes)
 
 0 avis
 
@@ -119,7 +119,7 @@ Featured
 
  €220,00
 
-[TOUS LES CIRCUITS](https://morocco-excursion.com/fr/circuits-au-maroc/)
+TOUS LES CIRCUITS
 
 ## FAQ sur les circuits dans le désert du Maroc
 

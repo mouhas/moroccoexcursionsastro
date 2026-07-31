@@ -19,17 +19,17 @@ Moroccan food is rich and tasty, from tagine and couscous to sweet pastries. Vis
 
 | Tours | Departure | Highlights |
 | --- | --- | --- |
-| 8-day Morocco tour from [**Marrakech**](https://morocco-excursion.com/marrakech-tours/) | Marrakech | Atlas & Desert |
-| 8 days from [**Fes**](https://morocco-excursion.com/fes-tours/) | Fes | Imperial cities & Desert |
+| 8-day Morocco tour from **Marrakech** | Marrakech | Atlas & Desert |
+| 8 days from **Fes** | Fes | Imperial cities & Desert |
 | 8-day trip from Casablanca | Casablanca | The Imperial cities |
 | 8-day trip from Tangier | Tangier | North of Morocco |
 | 8-day tour from Agadir | Agadir | Imperial cities & South |
 
 ## Morocco 8-day tour itineraries
 
-### [8-Day tour starting from Marrakech to explore south](https://morocco-excursion.com/tours/8-days-from-marrakech/)
+### [8-Day tour starting from Marrakech to explore south](/tours/8-days-from-marrakech)
 
-3 [**Reviews**](https://morocco-excursion.com/reviews/)
+3 [**Reviews**](/reviews)
 
 8 Days
 
@@ -37,7 +37,7 @@ from
 
  €380,00
 
-### [8-Day tour from Fes to Marrakech via Chefchaouen & Sahara](https://morocco-excursion.com/tours/8-day-tour-from-fes/)
+### 8-Day tour from Fes to Marrakech via Chefchaouen & Sahara
 
 0 reviews
 
@@ -47,7 +47,7 @@ from
 
  €390,00
 
-### [8-Day trip from Casablanca to the Imperial cities & desert](https://morocco-excursion.com/tours/8-day-trip-from-casablanca/)
+### [8-Day trip from Casablanca to the Imperial cities & desert](/tours/8-day-trip-from-casablanca)
 
 0 reviews
 
@@ -59,7 +59,7 @@ from
 
 Tangier, Morocco
 
-### [Tangier & South in 8 Days](https://morocco-excursion.com/tours/tangier-south-in-8-days/)
+### [Tangier & South in 8 Days](/tours/tangier-south-in-8-days)
 
 0 reviews
 
@@ -167,4 +167,4 @@ Moroccan markets are full of life, colors, and smells. You can buy spices, rugs,
 
 Morocco offers a blend of history, culture, nature, and adventure that makes for a truly unforgettable experience.
 
-> **More tours by duration: [1 day](https://morocco-excursion.com/excursions/) · [2 days](https://morocco-excursion.com/morocco-2-day-trips/) ·[3 days](https://morocco-excursion.com/morocco-3-day-trips/) · [4 days](https://morocco-excursion.com/morocco-4-day-trips/) ·[5 days](https://morocco-excursion.com/morocco-5-day-trips/) · [6 days](https://morocco-excursion.com/morocco-6-day-trips/) · [7 days](https://morocco-excursion.com/morocco-7-day-trips/) · [8 days](https://morocco-excursion.com/morocco-8-day-trips/) · [9 days](https://morocco-excursion.com/morocco-9-day-trips/) · [10 days](https://morocco-excursion.com/morocco-10-day-trips/) · [11 days](https://morocco-excursion.com/morocco-11-day-trips/) · [12 days](https://morocco-excursion.com/morocco-12-day-trips/) · [13 days](https://morocco-excursion.com/morocco-13-day-trips/) · [14 days](https://morocco-excursion.com/morocco-14-day-trips/) · [15 days](https://morocco-excursion.com/morocco-15-day-trips/) · [16 days](https://morocco-excursion.com/morocco-16-day-trips/) · [17 days](https://morocco-excursion.com/morocco-17-day-trips/) · [18 days](https://morocco-excursion.com/morocco-18-day-trips/) · [19 days](https://morocco-excursion.com/morocco-19-day-trips/) · [20 days](https://morocco-excursion.com/tours/grand-morocco-20-day-tour-from-casablanca/) · [30 days](https://morocco-excursion.com/tours/30-day-tour-from-casablanca/)**
+> **More tours by duration: 1 day · [2 days](/morocco-2-day-trips) ·[3 days](/morocco-3-day-trips) · [4 days](/morocco-4-day-trips) ·[5 days](/morocco-5-day-trips) · [6 days](/morocco-6-day-trips) · [7 days](/morocco-7-day-trips) · [8 days](/morocco-8-day-trips) · [9 days](/morocco-9-day-trips) · [10 days](/morocco-10-day-trips) · [11 days](/morocco-11-day-trips) · [12 days](/morocco-12-day-trips) · [13 days](/morocco-13-day-trips) · [14 days](/morocco-14-day-trips) · [15 days](/morocco-15-day-trips) · [16 days](/morocco-16-day-trips) · [17 days](/morocco-17-day-trips) · [18 days](/morocco-18-day-trips) · [19 days](/morocco-19-day-trips) · [20 days](/tours/grand-morocco-20-day-tour-from-casablanca) · 30 days**
