@@ -1,13 +1,30 @@
 ---
-title: "Christmas & New Year's Eve in Morocco"
-lang: "en"
-section: "pages"
-pslug: "christmas-new-years-eve-in-morocco"
-urlPath: "christmas-new-years-eve-in-morocco"
+title: 'Christmas & New Year''s Eve in Morocco f'
+lang: en
+section: pages
+pslug: christmas-new-years-eve-in-morocco
+urlPath: christmas-new-years-eve-in-morocco
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/christmas-new-years-eve-in-morocco/"
+source: 'https://morocco-excursion.com/christmas-new-years-eve-in-morocco/'
+rating: null
+reviewCount: null
+tourType: null
+cancellation: null
+languagesSpoken: null
+tourCode: null
+mapUrl: null
+overviewHtml: '<p><br></p>'
+priceHeading: null
+notesHeading: null
+pricingMode: group
+hasDesertExtras: false
+carCategory: null
+metaTitle: null
+metaDescription: null
+autoPricing: null
+ratingBreakdown: null
 ---
 As the year draws to a close, Morocco comes alive with festive spirit, welcoming both locals and travelers to celebrate Christmas and New Year’s Eve in its unique and captivating way. This North African gem offers a blend of traditional [Moroccan culture](https://www.morocco-excursion.com/moroccan-people/) and a touch of international flair during the holiday season. From bustling markets adorned with colorful lights to desert celebrations under starlit skies, spending Christmas and New Year’s Eve in Morocco promises an unforgettable experience for all.
 
