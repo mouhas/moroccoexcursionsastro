@@ -221,7 +221,7 @@ carCategory: null
 carFeatures: {  }
 iconGrid: {  }
 carListings: {  }
-metaTitle: 'ADMIN PANEL TEST — safe to ignore'
+metaTitle: null
 metaDescription: null
 autoPricing:
   days: 4
