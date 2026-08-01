@@ -4,7 +4,7 @@ lang: en
 section: tours
 pslug: 10-day-marrakech-tour
 urlPath: tours/10-day-marrakech-tour
-price: 1860.0
+price: 1861.0
 duration: '10 Days'
 tag: null
 source: 'https://morocco-excursion.com/tours/10-day-marrakech-tour/'
