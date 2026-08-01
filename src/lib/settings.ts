@@ -12,6 +12,11 @@ export interface SiteSettings {
   email: string;
   defaultMetaDescription: string;
   submitEndpoint: string;
+  accentColor: string;
+  accentColor2: string;
+  headingFont: string;
+  bodyFont: string;
+  baseFontSize: number;
 }
 
 const DEFAULTS: SiteSettings = {
@@ -23,6 +28,11 @@ const DEFAULTS: SiteSettings = {
   email: 'MoroccoExcursions@Gmail.com',
   defaultMetaDescription: 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.',
   submitEndpoint: '',
+  accentColor: '#ef7c45',
+  accentColor2: '#2f83b5',
+  headingFont: 'Roboto',
+  bodyFont: 'Open Sans',
+  baseFontSize: 16,
 };
 
 export async function getSettings(): Promise<SiteSettings> {

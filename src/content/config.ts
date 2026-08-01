@@ -122,6 +122,17 @@ const settings = defineCollection({
     // "https://morocco-excursions-submit.YOUR-SUBDOMAIN.workers.dev/submit".
     // Left blank, bookings/messages just aren't logged — mailto: still works.
     submitEndpoint: z.string().optional(),
+    // Core theme — read by Base.astro to override the hand-picked defaults
+    // in src/styles/newtheme/overrides.css. accentColor/accentColor2 are
+    // expanded into a full 100-900 tint/shade ramp at build time (see
+    // src/lib/color.ts) so one color picker each is enough. headingFont/
+    // bodyFont must be one of src/lib/fonts.ts's curated Google Fonts
+    // options, not free text — anything else silently falls back there.
+    accentColor: z.string().default('#ef7c45'),
+    accentColor2: z.string().default('#2f83b5'),
+    headingFont: z.string().default('Roboto'),
+    bodyFont: z.string().default('Open Sans'),
+    baseFontSize: z.number().default(16),
   }),
 });
 

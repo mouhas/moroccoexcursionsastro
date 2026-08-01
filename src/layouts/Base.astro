@@ -4,6 +4,9 @@ import '../styles/newtheme-scoped.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { LANGS, homeHref, type Lang } from '../site';
+import { getSettings } from '../lib/settings';
+import { shadeRamp } from '../lib/color';
+import { googleFontsUrl, fontOption } from '../lib/fonts';
 
 interface Props {
   title: string;
@@ -24,6 +27,13 @@ const htmlLang = lang === 'pt-br' ? 'pt-BR' : lang;
 const site = 'https://morocco-excursion.com';
 const canonical = site + Astro.url.pathname;
 const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').replace(/\/$/, '') === '/tours';
+
+const settings = await getSettings();
+const accentRamp = shadeRamp(settings.accentColor);
+const accent2Ramp = shadeRamp(settings.accentColor2);
+const headingFont = fontOption(settings.headingFont);
+const bodyFont = fontOption(settings.bodyFont);
+const fontsUrl = googleFontsUrl(settings.headingFont, settings.bodyFont);
 ---
 <!DOCTYPE html>
 <html lang={htmlLang}>
@@ -46,7 +56,37 @@ const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').repl
   <meta name="twitter:description" content={description} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400&family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href={fontsUrl} rel="stylesheet" />
+  {/* Two separate style systems actually ship the site's look: the
+      ".newtheme"-scoped tokens (src/styles/newtheme-scoped.css — header,
+      footer, and most pages) and global.css's plain :root tokens (legacy
+      --orange/--blue names, used by individual tour-detail pages' body
+      content). Both need overriding for a color/font change to actually
+      show up everywhere. Uses !important because newtheme-scoped.css's
+      own ".newtheme{...}" block is bundled after this tag in the compiled
+      output — without it, that later same-specificity rule wins the
+      cascade and silently no-ops every override below. */}
+  <style set:html={`
+    .newtheme{
+      --font-heading:"${headingFont.family}",${headingFont.fallback} !important;
+      --font-body:"${bodyFont.family}",${bodyFont.fallback} !important;
+      --color-accent:${accentRamp[500]} !important;--color-accent-2:${accent2Ramp[500]} !important;
+      --color-accent-100:${accentRamp[100]} !important;--color-accent-200:${accentRamp[200]} !important;--color-accent-300:${accentRamp[300]} !important;
+      --color-accent-400:${accentRamp[400]} !important;--color-accent-500:${accentRamp[500]} !important;--color-accent-600:${accentRamp[600]} !important;
+      --color-accent-700:${accentRamp[700]} !important;--color-accent-800:${accentRamp[800]} !important;--color-accent-900:${accentRamp[900]} !important;
+      --color-accent-2-100:${accent2Ramp[100]} !important;--color-accent-2-200:${accent2Ramp[200]} !important;--color-accent-2-300:${accent2Ramp[300]} !important;
+      --color-accent-2-400:${accent2Ramp[400]} !important;--color-accent-2-500:${accent2Ramp[500]} !important;--color-accent-2-600:${accent2Ramp[600]} !important;
+      --color-accent-2-700:${accent2Ramp[700]} !important;--color-accent-2-800:${accent2Ramp[800]} !important;--color-accent-2-900:${accent2Ramp[900]} !important;
+    }
+    :root{
+      --font-size-base:${settings.baseFontSize}px !important;
+      --legacy-font-body:"${bodyFont.family}",${bodyFont.fallback} !important;
+      --legacy-font-heading:"${headingFont.family}",${headingFont.fallback} !important;
+      --orange:${accentRamp[500]} !important;--orange-dk:${accentRamp[700]} !important;--orange-hover:${accentRamp[800]} !important;--orange-lt:${accentRamp[100]} !important;
+      --blue:${accent2Ramp[700]} !important;--blue-2:${accent2Ramp[500]} !important;--blue-dk:${accent2Ramp[800]} !important;--blue-lt:${accent2Ramp[100]} !important;
+    }
+    html{font-size:var(--font-size-base)}
+  `} />
 </head>
 <body>
   {legacyTheme ? (
