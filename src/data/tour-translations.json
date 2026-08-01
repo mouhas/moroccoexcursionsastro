@@ -1,11 +1,17 @@
 {
   "10-day-marrakech-tour": {
     "en": "10-day-marrakech-tour",
-    "fr": "10-jours-depart-marrakech"
+    "fr": "10-jours-depart-marrakech",
+    "es": "10-dias-tour-marrakech",
+    "it": "tour-10-giorni-marrakech",
+    "pt-br": "tour-10-dias-marrakech"
   },
   "10-day-tour-from-marrakech": {
     "en": "10-day-tour-from-marrakech",
-    "fr": "10-jours-de-marrakech"
+    "fr": "10-jours-de-marrakech",
+    "es": "10-dias-tour-desde-marrakech",
+    "it": "tour-10-giorni-da-marrakech",
+    "pt-br": "tour-10-dias-saindo-de-marrakech"
   },
   "10-dias-desde-casablanca": {
     "es": "10-dias-desde-casablanca",
@@ -27,7 +33,10 @@
   },
   "2-day-marrakech-to-zagora-desert-tour": {
     "en": "2-day-marrakech-to-zagora-desert-tour",
-    "fr": "2-jours-marrakech-zagora"
+    "fr": "2-jours-marrakech-zagora",
+    "es": "2-dias-marrakech-zagora-desierto",
+    "it": "2-giorni-marrakech-zagora-deserto",
+    "pt-br": "2-dias-marrakech-zagora-deserto"
   },
   "20-jours-de-casablanca": {
     "fr": "20-jours-de-casablanca",
@@ -42,16 +51,24 @@
   },
   "3-days-marrakech-to-merzouga": {
     "en": "3-days-marrakech-to-merzouga",
-    "fr": "3-jours-marrakech-to-merzouga"
+    "fr": "3-jours-marrakech-to-merzouga",
+    "es": "3-dias-marrakech-merzouga",
+    "it": "3-giorni-marrakech-merzouga",
+    "pt-br": "3-dias-marrakech-merzouga"
   },
   "4-day-fes-to-merzouga-sahara-trip": {
     "en": "4-day-fes-to-merzouga-sahara-trip",
-    "fr": "4-jours-fes-desert"
+    "fr": "4-jours-fes-desert",
+    "es": "4-dias-fes-desierto",
+    "it": "4-giorni-fes-deserto",
+    "pt-br": "4-dias-fes-deserto"
   },
   "4-day-marrakech-to-merzouga-desert-tour": {
     "en": "4-day-marrakech-to-merzouga-desert-tour",
     "es": "4-dias-marrakech-desierto",
-    "fr": "4-jours-marrakech-desert"
+    "fr": "4-jours-marrakech-desert",
+    "it": "4-giorni-marrakech-deserto",
+    "pt-br": "4-dias-marrakech-deserto"
   },
   "4-day-trek-in-merzouga-desert": {
     "en": "4-day-trek-in-merzouga-desert",
@@ -63,31 +80,51 @@
   "8-day-trip-from-casablanca": {
     "en": "8-day-trip-from-casablanca",
     "fr": "8-jours-de-casablanca",
-    "it": "8-giorni-da-casablanca"
+    "it": "8-giorni-da-casablanca",
+    "es": "8-dias-desde-casablanca",
+    "pt-br": "8-dias-de-casablanca"
   },
   "8-days-from-marrakech": {
     "en": "8-days-from-marrakech",
-    "fr": "8-jours-de-marrakech"
+    "fr": "8-jours-de-marrakech",
+    "es": "8-dias-desde-marrakech",
+    "it": "8-giorni-da-marrakech",
+    "pt-br": "8-dias-desde-marrakech"
   },
   "ait-ben-haddou-day-trip-from-marrakech": {
     "en": "ait-ben-haddou-day-trip-from-marrakech",
-    "fr": "excursion-a-ait-ben-haddou"
+    "fr": "excursion-a-ait-ben-haddou",
+    "es": "excursion-a-ait-ben-haddou-desde-marrakech",
+    "it": "escursione-a-ait-ben-haddou-da-marrakech",
+    "pt-br": "excursao-a-ait-ben-haddou-de-marrakech"
   },
   "day-trip-to-ourika": {
     "en": "day-trip-to-ourika",
-    "fr": "excursion-a-ourika"
+    "fr": "excursion-a-ourika",
+    "es": "excursion-a-ourika",
+    "it": "escursione-a-ourika",
+    "pt-br": "excursao-a-ourika"
   },
   "essaouira-day-trip-from-marrakech": {
     "en": "essaouira-day-trip-from-marrakech",
-    "fr": "excurision-a-essaouira"
+    "fr": "excurision-a-essaouira",
+    "es": "excursion-a-essaouira-desde-marrakech",
+    "it": "escursione-a-essaouira-da-marrakech",
+    "pt-br": "excursao-a-essaouira-de-marrakech"
   },
   "imlil-day-trip-from-marrakech": {
     "en": "imlil-day-trip-from-marrakech",
-    "fr": "excursion-a-imlil"
+    "fr": "excursion-a-imlil",
+    "es": "excursion-a-imlil",
+    "it": "escursione-a-imlil",
+    "pt-br": "excursao-a-imlil"
   },
   "marrakech-to-south-6-day-trip": {
     "en": "marrakech-to-south-6-day-trip",
-    "fr": "6-jours-marrakech-sud"
+    "fr": "6-jours-marrakech-sud",
+    "es": "6-dias-marrakech-sur",
+    "it": "6-giorni-marrakech-sud",
+    "pt-br": "6-dias-marrakech-sul"
   },
   "merzouga-5-day-sahara-camel-trek": {
     "en": "merzouga-5-day-sahara-camel-trek",
@@ -98,7 +135,10 @@
   },
   "ouzoud-day-trip-from-marrakech": {
     "en": "ouzoud-day-trip-from-marrakech",
-    "fr": "excursion-ouzoud"
+    "fr": "excursion-ouzoud",
+    "es": "excursion-ouzoud-desde-marrakech",
+    "it": "escursione-ouzoud-da-marrakech",
+    "pt-br": "excursao-ouzoud-saida-de-marrakech"
   },
   "week-in-sahara-desert": {
     "en": "week-in-sahara-desert",
@@ -120,5 +160,285 @@
     "fr": "excursion-quad-atv-merzouga",
     "it": "escursione-quad-atv-merzouga",
     "pt-br": "excursao-quad-atv-merzouga"
+  },
+  "10-day-trip-from-agadir": {
+    "en": "10-day-trip-from-agadir",
+    "es": "viaje-10-dias-desde-agadir",
+    "fr": "circuit-10-jours-depuis-agadir",
+    "it": "viaggio-10-giorni-da-agadir",
+    "pt-br": "viagem-10-dias-saindo-de-agadir"
+  },
+  "10-day-trip-from-rabat": {
+    "en": "10-day-trip-from-rabat",
+    "es": "viaje-10-dias-desde-rabat",
+    "fr": "circuit-10-jours-depuis-rabat",
+    "it": "viaggio-10-giorni-da-rabat",
+    "pt-br": "viagem-10-dias-saindo-de-rabat"
+  },
+  "10-day-trip-from-tangier": {
+    "en": "10-day-trip-from-tangier",
+    "es": "viaje-10-dias-desde-tanger",
+    "fr": "circuit-10-jours-depuis-tanger",
+    "it": "viaggio-10-giorni-da-tangeri",
+    "pt-br": "viagem-10-dias-saindo-de-tanger"
+  },
+  "12-day-tour-from-tangier": {
+    "en": "12-day-tour-from-tangier",
+    "es": "12-dias-desde-tanger",
+    "fr": "12-jours-de-tanger",
+    "it": "12-giorni-da-tangeri",
+    "pt-br": "12-dias-de-tanger"
+  },
+  "12-day-trip-from-marrakech": {
+    "en": "12-day-trip-from-marrakech",
+    "es": "12-dias-desde-marrakech",
+    "it": "12-giorni-da-marrakech",
+    "pt-br": "12-dias-de-marrakech",
+    "fr": "12-jours-de-marrakech"
+  },
+  "15-day-tour-from-tangier": {
+    "en": "15-day-tour-from-tangier",
+    "es": "15-dias-desde-tanger",
+    "fr": "15-jours-de-tanger",
+    "it": "15-giorni-da-tangeri",
+    "pt-br": "15-dias-de-tanger"
+  },
+  "16-day-tour-from-tangier": {
+    "en": "16-day-tour-from-tangier",
+    "es": "16-dias-desde-tanger",
+    "fr": "16-jours-de-tanger",
+    "it": "16-giorni-da-tangeri",
+    "pt-br": "16-dias-de-tanger"
+  },
+  "17-day-trip-from-rabat": {
+    "en": "17-day-trip-from-rabat",
+    "es": "17-dias-desde-rabat",
+    "fr": "17-jours-depuis-rabat",
+    "it": "17-giorni-da-rabat",
+    "pt-br": "17-dias-de-rabat"
+  },
+  "19-day-tour-from-tangier": {
+    "en": "19-day-tour-from-tangier",
+    "es": "19-dias-desde-tanger",
+    "fr": "19-jours-depuis-tanger",
+    "it": "19-giorni-da-tangeri",
+    "pt-br": "19-dias-de-tanger"
+  },
+  "2-day-ouarzazate-desert-tour": {
+    "en": "2-day-ouarzazate-desert-tour",
+    "es": "2-dias-ouarzazate-desierto",
+    "fr": "2-jours-ouarzazate-desert",
+    "it": "2-giorni-ouarzazate-deserto",
+    "pt-br": "2-dias-ouarzazate-deserto"
+  },
+  "2-day-sahara-trekking-merzouga": {
+    "en": "2-day-sahara-trekking-merzouga",
+    "es": "trekking-2-dias-desierto-merzouga",
+    "fr": "trek-2-jours-desert-merzouga",
+    "it": "trekking-2-giorni-deserto-merzouga",
+    "pt-br": "trekking-2-dias-deserto-merzouga"
+  },
+  "3-day-group-tour-fes-desert": {
+    "en": "3-day-group-tour-fes-desert",
+    "es": "tour-grupal-3-dias-fes-desierto",
+    "fr": "circuit-groupe-3-jours-fes-desert",
+    "it": "tour-di-gruppo-3-giorni-fes-deserto",
+    "pt-br": "tour-em-grupo-3-dias-fes-deserto"
+  },
+  "3-days-agadir-fes": {
+    "en": "3-days-agadir-fes",
+    "es": "3-dias-agadir-fes",
+    "fr": "3-jours-agadir-fes",
+    "it": "3-giorni-agadir-fes",
+    "pt-br": "3-dias-agadir-fes"
+  },
+  "3-days-errachidia-fes": {
+    "en": "3-days-errachidia-fes",
+    "es": "3-dias-errachidia-fes",
+    "fr": "3-jours-errachidia-fes",
+    "it": "3-giorni-errachidia-fes",
+    "pt-br": "3-dias-errachidia-fes"
+  },
+  "3-days-from-errachidia": {
+    "en": "3-days-from-errachidia",
+    "es": "3-dias-desde-errachidia",
+    "fr": "3-jours-depuis-errachidia",
+    "it": "3-giorni-da-errachidia",
+    "pt-br": "3-dias-de-errachidia"
+  },
+  "4-day-errachidia-sahara-desert": {
+    "en": "4-day-errachidia-sahara-desert",
+    "es": "4-dias-errachidia-desierto",
+    "fr": "4-jours-errachidia-desert",
+    "it": "4-giorni-errachidia-deserto",
+    "pt-br": "4-dias-errachidia-deserto"
+  },
+  "4-day-tour-from-tangier": {
+    "en": "4-day-tour-from-tangier",
+    "es": "4-dias-desde-tanger",
+    "fr": "4-jours-depuis-tanger",
+    "it": "4-giorni-da-tangeri",
+    "pt-br": "4-dias-de-tanger"
+  },
+  "4-day-tour-ouarzazate-fes": {
+    "en": "4-day-tour-ouarzazate-fes",
+    "es": "4-dias-ouarzazate-fez",
+    "fr": "4-jours-ouarzazate-fes",
+    "it": "4-giorni-ouarzazate-fes",
+    "pt-br": "4-dias-ouarzazate-fez"
+  },
+  "4-day-trip-from-marrakech-to-fes": {
+    "en": "4-day-trip-from-marrakech-to-fes",
+    "es": "4-dias-marrakech-fez",
+    "fr": "4-jours-marrakech-fes",
+    "it": "4-giorni-marrakech-fes",
+    "pt-br": "4-dias-marrakech-fez"
+  },
+  "4-days-errachidia-marrakech": {
+    "en": "4-days-errachidia-marrakech",
+    "es": "4-dias-errachidia-marrakech",
+    "fr": "4-jours-errachidia-marrakech",
+    "it": "4-giorni-errachidia-marrakech",
+    "pt-br": "4-dias-errachidia-marrakech"
+  },
+  "4-days-from-ouarzazate-to-the-sahara-desert": {
+    "en": "4-days-from-ouarzazate-to-the-sahara-desert",
+    "es": "4-dias-desde-ouarzazate-al-sahara",
+    "fr": "4-jours-ouarzazate-sahara",
+    "it": "4-giorni-da-ouarzazate-al-sahara",
+    "pt-br": "4-dias-de-ouarzazate-ao-saara"
+  },
+  "5-day-marrakech-to-fes-desert-tour": {
+    "en": "5-day-marrakech-to-fes-desert-tour",
+    "es": "5-dias-marrakech-fez-desierto",
+    "it": "5-giorni-marrakech-fes-deserto",
+    "pt-br": "5-dias-marrakech-fez-deserto",
+    "fr": "5-jours-marrakech-fes"
+  },
+  "5-day-marrakech-to-merzouga-desert-tour": {
+    "en": "5-day-marrakech-to-merzouga-desert-tour",
+    "es": "5-dias-marrakech-merzouga-desierto",
+    "it": "5-giorni-marrakech-merzouga-deserto",
+    "pt-br": "5-dias-marrakech-merzouga-deserto",
+    "fr": "5-jours-marrakech-desert"
+  },
+  "5-day-ouarzazate-sahara-desert-tour": {
+    "en": "5-day-ouarzazate-sahara-desert-tour",
+    "es": "5-dias-ouarzazate-sahara",
+    "fr": "5-jours-ouarzazate-sahara",
+    "it": "5-giorni-ouarzazate-sahara",
+    "pt-br": "5-dias-ouarzazate-saara"
+  },
+  "5-days-from-agadir": {
+    "en": "5-days-from-agadir",
+    "es": "5-dias-desde-agadir",
+    "fr": "5-jours-depuis-agadir",
+    "it": "5-giorni-da-agadir",
+    "pt-br": "5-dias-desde-agadir"
+  },
+  "6-day-tour-from-rabat": {
+    "en": "6-day-tour-from-rabat",
+    "es": "6-dias-desde-rabat",
+    "fr": "6-jours-depuis-rabat",
+    "it": "6-giorni-da-rabat",
+    "pt-br": "6-dias-desde-rabat"
+  },
+  "7-day-trip-from-tangier": {
+    "en": "7-day-trip-from-tangier",
+    "es": "7-dias-desde-tanger",
+    "fr": "7-jours-depuis-tanger",
+    "it": "7-giorni-da-tangeri",
+    "pt-br": "7-dias-desde-tanger"
+  },
+  "agadir-marrakech-3day-desert-trip": {
+    "en": "agadir-marrakech-3day-desert-trip",
+    "es": "agadir-marrakech-3-dias-desierto",
+    "fr": "agadir-marrakech-3-jours-desert",
+    "it": "agadir-marrakech-3-giorni-deserto",
+    "pt-br": "agadir-marrakech-3-dias-deserto"
+  },
+  "fes-marrakech-3-days-group-tour": {
+    "en": "fes-marrakech-3-days-group-tour",
+    "es": "fes-marrakech-3-dias-tour-grupo",
+    "fr": "fes-marrakech-3-jours-tour-groupe",
+    "it": "fes-marrakech-3-giorni-tour-gruppo",
+    "pt-br": "fes-marrakech-3-dias-tour-grupo"
+  },
+  "grand-morocco-20-day-tour-from-casablanca": {
+    "en": "grand-morocco-20-day-tour-from-casablanca",
+    "es": "20-dias-desde-casablanca",
+    "fr": "20-jours-de-casablanca",
+    "it": "20-giorni-da-casablanca",
+    "pt-br": "20-dias-de-casablanca"
+  },
+  "merzouga-4wd-desert-safari": {
+    "en": "merzouga-4wd-desert-safari",
+    "es": "excursion-4x4-merzouga",
+    "fr": "excursions-4x4-merzouga",
+    "it": "escursione-4x4-deserto",
+    "pt-br": "excursoes-4x4-merzouga"
+  },
+  "merzouga-day-trip-to-desert-oasis": {
+    "en": "merzouga-day-trip-to-desert-oasis",
+    "es": "excursion-oasis-safsaf",
+    "fr": "excursion-oasis",
+    "it": "escursioni-oasi-deserto",
+    "pt-br": "excursao-oasis-safsaf"
+  },
+  "merzouga-dune-buggy-tours": {
+    "en": "merzouga-dune-buggy-tours",
+    "es": "buggy-desierto-merzouga",
+    "fr": "excursion-buggy-merzouga",
+    "it": "buggy-deserto-merzouga",
+    "pt-br": "buggy-deserto-merzouga"
+  },
+  "merzouga-dunes-4x4-drive": {
+    "en": "merzouga-dunes-4x4-drive",
+    "es": "4x4-dunas-merzouga",
+    "fr": "4x4-dunes-merzouga",
+    "it": "guida-4x4-dune-merzouga",
+    "pt-br": "4x4-dunas-merzouga"
+  },
+  "ouarzazate-fes-3-day-desert-tour": {
+    "en": "ouarzazate-fes-3-day-desert-tour",
+    "es": "ouarzazate-fez-3-dias-desierto",
+    "fr": "ouarzazate-fes-3-jours-desert",
+    "it": "ouarzazate-fes-3-giorni-deserto",
+    "pt-br": "ouarzazate-fez-3-dias-deserto"
+  },
+  "ouarzazate-merzouga-desert-3-days": {
+    "en": "ouarzazate-merzouga-desert-3-days",
+    "es": "ouarzazate-merzouga-desierto-3-dias",
+    "fr": "ouarzazate-merzouga-desert-3-jours",
+    "it": "ouarzazate-merzouga-deserto-3-giorni",
+    "pt-br": "ouarzazate-merzouga-deserto-3-dias"
+  },
+  "overnight-camel-trekking-in-merzouga": {
+    "en": "overnight-camel-trekking-in-merzouga",
+    "es": "trekking-camello-noche-desierto-merzouga",
+    "fr": "trek-chameau-nuit-desert-merzouga",
+    "it": "trekking-cammello-notte-deserto-merzouga",
+    "pt-br": "trekking-camelo-noite-deserto-merzouga"
+  },
+  "shared-group-3-days-marrakech-desert-trip": {
+    "en": "shared-group-3-days-marrakech-desert-trip",
+    "es": "tour-compartido-3-dias-desierto-marrakech",
+    "fr": "circuit-partage-3-jours-desert-marrakech",
+    "it": "tour-condiviso-3-giorni-deserto-marrakech",
+    "pt-br": "tour-compartilhado-3-dias-deserto-marrakech"
+  },
+  "shared-group-marrakech-fes-3-days": {
+    "en": "shared-group-marrakech-fes-3-days",
+    "es": "tour-compartido-marrakech-fes-3-dias",
+    "fr": "circuit-partage-marrakech-fes-3-jours",
+    "it": "tour-condiviso-marrakech-fes-3-giorni",
+    "pt-br": "tour-compartilhado-marrakech-fes-3-dias"
+  },
+  "tangier-south-in-8-days": {
+    "en": "tangier-south-in-8-days",
+    "es": "tanger-y-sur-en-8-dias",
+    "fr": "tanger-et-sud-en-8-jours",
+    "it": "tangeri-e-sud-in-8-giorni",
+    "pt-br": "tanger-e-sul-em-8-dias"
   }
 }
