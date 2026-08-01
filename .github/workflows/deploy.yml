@@ -3,12 +3,6 @@ name: Build and deploy to GoDaddy
 on:
   push:
     branches: [main]
-    # New bookings/messages land as commits too (see worker/) but aren't
-    # rendered on the public site — skip the rebuild+FTP deploy for those so
-    # routine submissions don't trigger it.
-    paths-ignore:
-      - 'src/content/bookings/**'
-      - 'src/content/messages/**'
   workflow_dispatch: {}
 
 jobs:
