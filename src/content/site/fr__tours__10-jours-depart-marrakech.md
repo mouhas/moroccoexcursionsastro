@@ -4,7 +4,7 @@ lang: fr
 section: tours
 pslug: 10-jours-depart-marrakech
 urlPath: fr/tours/10-jours-depart-marrakech
-price: 1861.0
+price: 1860.0
 duration: '10 Jours'
 tag: null
 source: 'https://morocco-excursion.com/fr/tours/10-jours-depart-marrakech/'
