@@ -106,5 +106,19 @@
     "fr": "semaine-desert",
     "it": "settimana-deserto",
     "pt-br": "semanda-deserto"
+  },
+  "dinner-in-merzouga-desert": {
+    "en": "dinner-in-merzouga-desert",
+    "es": "cena-romantica-desierto-merzouga",
+    "fr": "diner-romantique-desert-merzouga",
+    "it": "cena-romantica-deserto-merzouga",
+    "pt-br": "jantar-romantico-deserto-merzouga"
+  },
+  "merzouga-atv-quad-excursion": {
+    "en": "merzouga-atv-quad-excursion",
+    "es": "excursion-quad-atv-merzouga",
+    "fr": "excursion-quad-atv-merzouga",
+    "it": "escursione-quad-atv-merzouga",
+    "pt-br": "excursao-quad-atv-merzouga"
   }
 }
