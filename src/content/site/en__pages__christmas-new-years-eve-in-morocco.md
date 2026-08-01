@@ -1,5 +1,5 @@
 ---
-title: 'Christmas & New Year''s Eve in Morocco f'
+title: 'Christmas & New Year''s Eve in Morocco'
 lang: en
 section: pages
 pslug: christmas-new-years-eve-in-morocco
