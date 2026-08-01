@@ -6,8 +6,8 @@ whatsappHref: 'https://wa.me/212673555408'
 email: MoroccoExcursions@Gmail.com
 defaultMetaDescription: 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.'
 submitEndpoint: ''
-accentColor: '#123456'
+accentColor: '#ef7c45'
 accentColor2: '#2f83b5'
-headingFont: Montserrat
+headingFont: Roboto
 bodyFont: 'Open Sans'
-baseFontSize: 18
+baseFontSize: 16
