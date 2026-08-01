@@ -96,7 +96,75 @@ faqs:
   aHtml: <p>The camel trek is not recommended for people with back problems, pregnant women, or travelers over 70, though a direct car transfer to the camp can be arranged instead.</p>
 - q: What time does the tour start, and where does it end?
   aHtml: <p>Pickup in Agadir is usually around 8:00 AM, and the tour ends with your drop-off in Fes on the evening of the third day.</p>
-reviews: []
+- q: Is this a private tour or will we share the vehicle with other travelers?
+  aHtml: '<p>This is a private tour for your group only, with your own driver-guide and vehicle from Agadir all the way to Fes. You won''t be combined with other travelers, so the pace and stops can flex around your group.</p>'
+- q: 'What''s the difference between the standard and superior desert camp on this route?'
+  aHtml: '<p>The standard camp has comfortable shared-bathroom tents, while the superior option upgrades to private tents with ensuite bathrooms at both the Dades Valley hotel and the Merzouga desert camp. Let us know when booking if you''d like to upgrade one or both nights.</p>'
+- q: 'What''s the best time of year for the Agadir to Fes desert crossing?'
+  aHtml: <p>Spring and autumn are the most comfortable seasons, with mild days for the Todra Gorges walk and the camel trek. Summer can be very hot through the Anti-Atlas and Merzouga, while winter nights in the Dades Valley and desert camp can get cold.</p>
+- q: Will there be phone signal along the route, especially in the Dades Valley and Merzouga?
+  aHtml: <p>Signal is generally reliable in Ouarzazate and along the main roads, but it becomes patchy in the Dades Valley and disappears almost completely once you reach the desert camp near Merzouga.</p>
+reviews:
+- name: Fredrik G.
+  date: 11/04/2025
+  likes: 1
+  stars: 5
+  title: Efficient way to see the south on the way to Fes
+  text: Instead of flying straight to Fes we booked this drive so we could see more of the south, and it worked out perfectly. The stop in Taroudant with its ochre walls was a nice surprise before we crossed into Ouarzazate, and the camel trek into Erg Chebbi at sunset the next evening was the highlight of the whole trip.
+- name: Hiro O.
+  date: 22/05/2025
+  likes: 0
+  stars: 5
+  title: Valley of Roses and a night under the stars
+  text: 'We passed through Skoura''s palm groves and the rose valley at Mgouna on day one, then reached the desert camp near Merzouga in time for the camel ride the following afternoon. Waking up in the Ziz Valley scenery on the drive to Fes made the long last day much more interesting than a normal transfer.'
+- name: Stefan S.
+  date: 03/02/2025
+  likes: 0
+  stars: 4
+  title: Long last day but worth the detour
+  text: The drive from Merzouga through Erfoud and Midelt to Fes is a full day in the car, and by the time we reached the Middle Atlas we were ready to stop. That said, the Todra Gorges walk and the desert camp the night before more than made up for the tiring final stretch.
+- name: Amira A.
+  date: 14/06/2025
+  likes: 0
+  stars: 5
+  title: Taroudant and the dunes in one trip
+  text: 'Loved seeing Taroudant''s ramparts on the first morning and then sleeping under the stars at the desert camp two nights later. A great way to break up the trip to Fes.'
+- name: Adam Q.
+  date: 27/03/2025
+  likes: 1
+  stars: 5
+  title: Omar made the long drives easy
+  text: Our driver Omar kept the trip relaxed even on the longer stretches between Ouarzazate and the Dades Valley. He knew exactly when to stop for photos and made sure we reached Merzouga with plenty of light left for the camel trek.
+- name: Henrik G.
+  date: 19/01/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges was the surprise highlight
+  text: I expected the desert camp to be the best part, and it was great, but walking through the narrow Todra Gorges the morning before was just as memorable. Good way to break up the trip between Agadir and Fes.
+- name: Jonas B.
+  date: 08/07/2025
+  likes: 2
+  stars: 5
+  title: Upgraded to the superior camp, no regrets
+  text: We paid extra for the superior desert camp near Merzouga and it made the night so much more comfortable, proper bed, private bathroom, still with the same Berber music around the fire. Arrived in Fes the next evening tired but happy.
+- name: Bruno N.
+  date: 30/08/2024
+  likes: 0
+  stars: 5
+  title: Saw a huge cross section of Morocco
+  text: 'Three days felt long in the car at times, but between the Anti-Atlas, Skoura''s palms, Erfoud, and finally Fes, we covered ground we never would have seen flying direct. Good value for connecting the two cities this way.'
+- name: Leila X.
+  date: 16/09/2024
+  likes: 0
+  stars: 5
+  title: 'Brahim''s route planning was excellent'
+  text: Our driver Brahim timed the stops well so we reached Merzouga with enough daylight for the camel trek and arrived in Fes exactly when he said we would. Small details like that made the whole trip feel well planned.
+- name: Jonas V.
+  date: 05/12/2024
+  likes: 1
+  stars: 5
+  title: Great alternative to a direct flight
+  text: If you want to see the desert on your way between Agadir and Fes, this is the tour to book. The Dades Valley overnight and the Merzouga camel trek broke up the driving nicely, and we still made it to Fes with time to explore the medina that evening.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sAgadir%2C%20Morocco!4m1!2sFes%2C%20Morocco

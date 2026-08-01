@@ -145,6 +145,14 @@ faqs:
   aHtml: '<p>Here are two alternative tours similar to the 4-day tour from Marrakech to Fes:</p>
 
     <p><a href="/tours/5-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a><br/><a href="/tours/5-day-marrakech-to-fes-desert-tour" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a></p>'
+- q: What is the difference between standard and superior accommodation?
+  aHtml: <p>Standard hotels and the standard desert camp are comfortable, clean, and family-run, while superior options like Hotel Ksar Sultan in Dades or the Mouhou Luxury Desert Camp in Merzouga offer larger rooms and extra comfort. Both include dinner and breakfast.</p>
+- q: When is the best time of year to do this tour?
+  aHtml: <p>Spring (March to May) and autumn (September to November) are the most comfortable seasons for the Tizi n'Tichka pass and the desert nights. Summer can be very hot in Merzouga, and winter mornings in Dades Valley and the desert are cold.</p>
+- q: What should I pack for the trip?
+  aHtml: <p>Comfortable shoes for walking around Ait Ben Haddou and the Todra Gorges, sunscreen, a hat, and a warm layer for the desert camp at night are all recommended, along with a scarf for the camel ride through the dunes.</p>
+- q: Should we tip our driver-guide?
+  aHtml: <p>Tipping is not required but is appreciated for good service. Many travelers also leave a small tip for the camp staff in Merzouga and anyone met along the way, such as the Gnawa musicians in Khamlia.</p>
 reviews:
 - name: Alice
   date: 14/10/2023
@@ -176,6 +184,36 @@ reviews:
   stars: 5
   title: Amazing 4-days from Marrakech to Fes
   text: By booking with this company, my wife made the right decision. We had a fantastic time working with Hassan and his local team. They all work hard to provide the best service possible, and the accommodations they booked were fantastic. What I would say is that I would highly recommend them.
+- name: David N.
+  date: 03/02/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou and the Tizi n'Tichka pass
+  text: The drive over Tizi n'Tichka on day one is spectacular on its own, but stopping at Ait Ben Haddou made it even better - you can really picture the film crews there once you know the history. Todra Gorges the next day was just as impressive, with those tall canyon walls right above the road.
+- name: Renata P.
+  date: 21/02/2025
+  likes: 0
+  stars: 4
+  title: Long last day but the monkeys made up for it
+  text: Four days means a lot of driving, especially getting to Fes on the final stretch. That said, seeing wild monkeys in the Azrou cedar forest and walking around Ifrane afterward was a nice surprise ending to a tiring but memorable trip.
+- name: Katja E.
+  date: 10/03/2025
+  likes: 0
+  stars: 5
+  title: Flamingos and Gnawa music
+  text: We got lucky with water in the Dayet Srij lake near Merzouga and actually saw flamingos with the dunes behind them. Later we stopped in Khamlia for Gnawa music and mint tea with a nomad family - both were unexpected highlights of day three.
+- name: Duncan D.
+  date: 29/03/2025
+  likes: 1
+  stars: 5
+  title: Fossil mines and the desert camp
+  text: Visiting the fossil and mineral mines at M'fis was fascinating, and our guide knew exactly which rocks to point out. The camel trek into the dunes for sunset that evening, followed by dinner in the camp, was the highlight of the whole tour for us.
+- name: Camille E.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: Ziz Valley views and a great guide
+  text: Our driver Brahim made the whole trip enjoyable, from the Ziz Valley viewpoints to the apple stalls in Midelt. Four days is a lot to pack in, but the mix of kasbahs, desert, and mountains was well worth the early starts.
 rating: 5.0
 reviewCount: 500
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d871272.4980025856!2d-4.58951715198614!3d31.457955561287427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Marruecos!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sKsar%20de%20Ait%20Ben%20Hadu%2C%20Marruecos!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sUarzazate%2C%2045000%2C%20Marruecos!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGarganta%20del%20Dad%C3%A8s%2C%20Marruecos!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinerhir%2C%20Marruecos!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973d0051369e87%3A0xfbc7a872aec9f783!2sMerzouga%20(Marruecos)!3m2!1d31.081499299999997!2d-4.0142555!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzr%C3%BA%2C%20Marruecos!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfr%C3%A1n%2C%20Marruecos!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFez%2C%20Marruecos!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sen!2sen!4v1753543206443!5m2!1sen!2sen

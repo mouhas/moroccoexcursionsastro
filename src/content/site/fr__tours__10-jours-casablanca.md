@@ -134,7 +134,77 @@ faqs:
   aHtml: <p>Certaines journées comprennent 4 à 6 heures de route, avec des arrêts pour visiter les sites touristiques et prendre les repas. Les journées plus longues sont compensées par du temps libre pour se reposer et explorer les environs à pied.</p>
 - q: Avez-vous un autre circuit similaire au circuit de 10 jours au départ de Casablanca?
   aHtml: <p>Pour ceux qui recherchent un circuit plus long, nous proposons un <a href="/fr/tours/12-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 12 jours</strong></a> et un <strong><a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank">circuit de 15 jours</a></strong> au Maroc au départ de Casablanca.</p>
-reviews: []
+- q: Quelle est la meilleure période pour faire ce circuit de Casablanca à Marrakech?
+  aHtml: '<p>Le printemps (mars à mai) et l''automne (septembre à novembre) sont idéaux, car les températures restent agréables aussi bien à Chefchaouen que dans le désert de Merzouga. En été, les journées peuvent être très chaudes dans la vallée du Ziz et à Merzouga, tandis qu''en hiver les nuits dans le campement du désert sont fraîches, voire froides.</p>'
+- q: Le circuit peut-il être adapté si nous voyageons avec des enfants?
+  aHtml: <p>Oui, ce circuit convient bien aux familles. Les enfants apprécient particulièrement la balade à dos de chameau à Merzouga et la nuit dans le campement du désert. Nous pouvons adapter le rythme des journées et prévoir des pauses plus fréquentes lors des longs trajets.</p>
+- q: Faut-il donner un pourboire au chauffeur et aux guides?
+  aHtml: <p>Le pourboire n''est pas obligatoire mais il est apprécié si vous êtes satisfait du service. Beaucoup de voyageurs laissent entre 5 et 10 euros par jour pour le chauffeur, et un montant similaire pour les guides locaux à Fès et à Marrakech.</p>
+- q: Y a-t-il du réseau téléphonique et du Wi-Fi pendant la nuit dans le désert?
+  aHtml: <p>Le réseau mobile fonctionne généralement à Merzouga même s''il est parfois faible dans le campement lui-même. La plupart des campements disposent d''une connexion Wi-Fi basique, mais nous vous conseillons de profiter de cette soirée pour déconnecter et admirer le ciel étoilé du Sahara.</p>
+- q: Est-il possible d'ajouter une nuit supplémentaire à Fès ou à Marrakech?
+  aHtml: <p>Oui, l'itinéraire peut être ajusté avant votre départ. De nombreux voyageurs ajoutent une nuit à Fès pour profiter davantage de la médina, ou une nuit à Marrakech pour une excursion supplémentaire comme Ouzoud ou un cours de cuisine marocaine.</p>
+reviews:
+- name: Camille Dubois
+  date: 22/03/2025
+  likes: 0
+  stars: 5
+  title: Un road trip incroyable du nord au sud
+  text: 'Dix jours denses mais tellement riches. Les ruelles bleues de Chefchaouen, les mosaïques de Volubilis, puis la descente vers Merzouga où notre guide Saïd nous a fait traverser les dunes de l''Erg Chebbi à dos de chameau au coucher du soleil. La nuit dans le campement, sous les étoiles, restera un des plus beaux souvenirs de notre vie.'
+- name: Julien Petit
+  date: 05/09/2025
+  likes: 1
+  stars: 5
+  title: Ahmed a rendu ce circuit exceptionnel
+  text: Notre chauffeur Ahmed connaissait chaque recoin de la route, des tanneries de Fès jusqu'aux gorges du Todra où nous avons marché entre les falaises. La kasbah d'Aït Ben Haddou était un point fort absolu, on comprend pourquoi tant de films y ont été tournés.
+- name: Sophie Lambert
+  date: 18/01/2026
+  likes: 0
+  stars: 4
+  title: Superbe itinéraire, quelques journées un peu longues
+  text: 'Le trajet entre Fès et Merzouga est long mais on ne voit pas le temps passer grâce aux arrêts à Ifrane et à la forêt de cèdres d''Azrou avec ses macaques. La musique gnawa à Khamlia et le désert noir nous ont beaucoup surpris. Seul bémol : l''hôtel à Dadès était plus simple que ce à quoi on s''attendait.'
+- name: Marco Bianchi
+  date: 30/06/2025
+  likes: 0
+  stars: 5
+  title: Dix jours parfaits entre villes impériales et désert
+  text: La mosquée Hassan II à Casablanca en ouverture, puis Meknès et sa porte Bab Mansour, avant la magie du Sahara. Notre guide à Marrakech nous a fait découvrir le palais Bahia et les jardins Majorelle avec beaucoup de passion. Un circuit très complet.
+- name: Anna Keller
+  date: 12/11/2025
+  likes: 0
+  stars: 5
+  title: Le désert noir et les étoiles inoubliables
+  text: La visite du désert noir près de Merzouga et la rencontre avec une famille berbère autour d'un thé à la menthe ont été des moments très forts. Le marché de Rissani le lendemain matin était authentique, loin des circuits touristiques habituels.
+- name: Thomas Fischer
+  date: 03/04/2026
+  likes: 2
+  stars: 4
+  title: Beaucoup à voir, guide formidable à Fès
+  text: Youssef nous a guidés dans le dédale de la médina de Fès avec beaucoup de patience, on n'aurait jamais trouvé notre chemin seuls. Le van était un peu juste pour six personnes avec les bagages, mais rien de grave. Le reste du circuit était superbe.
+- name: Laura Meyer
+  date: 25/02/2025
+  likes: 0
+  stars: 5
+  title: Chefchaouen et les gorges du Todra, magiques
+  text: 'Chefchaouen le matin, avant l''arrivée des cars de touristes, c''est un pur bonheur. Puis quelques jours plus tard, la marche dans les gorges du Todra avec ces falaises qui montent à 300 mètres nous a coupé le souffle. Circuit très bien organisé du début à la fin.'
+- name: David Wilson
+  date: 14/08/2025
+  likes: 0
+  stars: 5
+  title: Le meilleur moyen de découvrir le Maroc en dix jours
+  text: De Casablanca à Marrakech, chaque jour apportait quelque chose de différent. La vallée du Dadès et la vallée des roses juste avant Ouarzazate étaient un enchantement, et la nuit à dos de chameau puis au campement dans le désert restera gravée dans nos mémoires.
+- name: Nathalie Roy
+  date: 09/12/2025
+  likes: 0
+  stars: 3
+  title: Beau circuit mais rythme assez soutenu
+  text: Le contenu est riche et notre chauffeur Karim était très professionnel, mais on enchaîne les étapes rapidement et j'aurais aimé une nuit de plus à Fès pour vraiment profiter de la médina. Le désert et Merzouga restent malgré tout le point fort du voyage.
+- name: Peter Novak
+  date: 20/05/2026
+  likes: 1
+  stars: 5
+  title: Aït Ben Haddou et la vallée des roses, un enchantement
+  text: Le passage par le col de Tizi n'Tichka offre des vues à couper le souffle sur le Haut Atlas. Aït Ben Haddou au petit matin, presque vide de touristes, était irréel. Merci à notre chauffeur Brahim pour sa gentillesse et sa conduite prudente sur des routes parfois vertigineuses.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m72!1m8!1m3!1d6849233.40593251!2d-6.000155!3d33.047192!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755364801818!5m2!1sfr!2sfr

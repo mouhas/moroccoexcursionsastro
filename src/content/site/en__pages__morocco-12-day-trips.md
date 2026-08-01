@@ -1,14 +1,30 @@
 ---
-title: "12 Days in Morocco: Tour Itineraries And Prices"
-lang: "en"
-section: "pages"
-pslug: "morocco-12-day-trips"
-urlPath: "morocco-12-day-trips"
+title: '12 Days in Morocco: Tour Itineraries And Prices'
+lang: en
+section: pages
+pslug: morocco-12-day-trips
+urlPath: morocco-12-day-trips
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/morocco-12-day-trips/"
+source: https://morocco-excursion.com/morocco-12-day-trips/
+faqs:
+- q: What is included in a 12-day Morocco tour?
+  aHtml: <p>The tour usually includes accommodation, transport, local guides, sightseeing in major cities, desert experiences, and sometimes meals, depending on the package.</p>
+- q: Can the itinerary be customized to my interests?
+  aHtml: <p>Yes. Our team can adjust the route, activities, and pace according to your preferences.</p>
+- q: How many cities or regions are usually covered in 12 days?
+  aHtml: <p>A typical 12-day tour includes imperial cities like <b>Marrakech</b>, <b>Fes</b>, Rabat, Casablanca, the desert, the Atlas Mountains, coastal towns, and sometimes northern Morocco.</p>
+- q: How long are the daily drives between cities?
+  aHtml: <p>Drive times vary, from 2-5 hours for city transfers to 6-8 hours for desert or mountain routes, with breaks along the way.</p>
+- q: Is a desert overnight stay can be included?
+  aHtml: <p>Yes. Most 12-day tours include a night in a desert camp in the Sahara.</p>
+- q: Are hiking or adventure activities optional?
+  aHtml: <p>Yes. You can choose light walks, hiking, sandboarding, or 4×4 desert adventures during your 12-day tour of Morocco.</p>
+- q: What are the best things to do in Morocco in 12 days?
+  aHtml: <p>Here are 12 experiences that should not be missed when visiting Morocco. You can do all those experiences during a 12-day tour of Morocco.</p>
 ---
+
 From the lively medina of **Marrakech** to the calm, blue streets of Chefchaouen, Morocco is full of unique experiences. In 12 days, you can explore ancient cities like **Fes**, with its old buildings and traditional tanneries, or visit the impressive UNESCO-listed Ait Ben Haddou, a historic ksar seen in famous films.
 
 Adventure lovers can hike in the Atlas Mountains, explore the Todra and Dades Gorges, or ride camels across the golden sand dunes of the Sahara Desert, spending nights under the stars. Morocco’s coastal towns, like Essaouira, offer peaceful beaches, fresh seafood, and charming old streets.
@@ -25,38 +41,6 @@ Be sure to taste authentic Moroccan food, from flavorful tagines to refreshing m
 | 12-day tour from Marrakech | Marrakech | Atlas & Sahara |
 | 12-day Moroccan trip from Rabat | Rabat | The Atlantic Ocean |
 
-## Morocco 12-day tour itineraries
-
-### [12-Day trip from Marrakech to imperial cities, south & north](/tours/12-day-trip-from-marrakech)
-
-0 [**reviews**](/reviews)
-
-12 Days
-
-from
-
- €0,00
-
-### 12-Day trip from Casablanca to Chaouen, Fes, Desert & Ocean
-
-0 reviews
-
-12 Days
-
-from
-
- €0,00
-
-### [12-Day Tour From Tangier to The South](/tours/12-day-tour-from-tangier)
-
-0 reviews
-
-12 Days
-
-from
-
- €0,00
-
 ## Customize your 12-day trip in Morocco
 
 **NOTE:**
@@ -64,36 +48,6 @@ from
 Our team can create a fully customized 12-day trip in Morocco tailored to your interests. Explore the country’s imperial cities, wander along the Atlantic coast, discover the charm of the north and south, and experience the magic of the Sahara Desert.
 
 Travel in comfort in our modern vehicles while our knowledgeable local guides share the rich history, culture, and hidden gems of Morocco. Whether you want adventure, relaxation, or cultural immersion, we will design an unforgettable journey that covers the best of Morocco, making every day a unique and memorable experience.
-
-### Questions about 12-day tours in Morocco
-
-### What is included in a 12-day Morocco tour?
-
-The tour usually includes accommodation, transport, local guides, sightseeing in major cities, desert experiences, and sometimes meals, depending on the package.
-
-### Can the itinerary be customized to my interests?
-
-Yes. Our team can adjust the route, activities, and pace according to your preferences.
-
-### How many cities or regions are usually covered in 12 days?
-
-A typical 12-day tour includes imperial cities like **Marrakech**, **Fes**, Rabat, Casablanca, the desert, the Atlas Mountains, coastal towns, and sometimes northern Morocco.
-
-### How long are the daily drives between cities?
-
-Drive times vary, from 2-5 hours for city transfers to 6-8 hours for desert or mountain routes, with breaks along the way.
-
-### Is a desert overnight stay can be included?
-
-Yes. Most 12-day tours include a night in a desert camp in the Sahara.
-
-### Are hiking or adventure activities optional?
-
-Yes. You can choose light walks, hiking, sandboarding, or 4×4 desert adventures during your 12-day tour of Morocco.
-
-## What are the best things to do in Morocco in 12 days?
-
-Here are 12 experiences that should not be missed when visiting Morocco. You can do all those experiences during a 12-day tour of Morocco.
 
 ## 1. Marrakech’s Medina
 

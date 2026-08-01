@@ -72,7 +72,77 @@ faqs:
   aHtml: <p>Durante un breve tour in quad potrai ammirare le dune e fermarti per scattare foto dai punti più alti. I tour di media durata spesso includono visite alle famiglie nomadi o al lato più lontano dell'Erg Chebbi. I tour più lunghi possono portarti in oasi nascoste, includere un pranzo tradizionale e persino darti la possibilità di provare il sandboarding.</p>
 - q: Posso aggiungere anche i tour in 4x4 e buggy?
   aHtml: <p>Sì, è possibile fare sia tour in quad che un'altra escursione nel deserto in fuoristrada 4x4 o un tour in buggy tra le dune.</p>
-reviews: []
+- q: Qual è la differenza tra il quad singolo e il quad doppio?
+  aHtml: <p>Il quad singolo è pensato per chi vuole guidare da solo in totale autonomia, mentre il quad doppio permette a due persone di condividere lo stesso mezzo, una soluzione ideale per coppie o amici che preferiscono restare insieme durante il giro. Il prezzo del quad doppio è più alto ma viene diviso tra i due passeggeri, quindi spesso conviene rispetto a due quad singoli separati.</p>
+- q: C'è un'età minima per guidare il quad?
+  aHtml: <p>Sì, in genere è richiesta un'età minima di 16 anni per guidare da soli il quad. I bambini più piccoli possono comunque partecipare seduti dietro un adulto sul quad doppio, sempre sotto la supervisione della guida locale.</p>
+- q: Cosa devo indossare per l'escursione in quad?
+  aHtml: <p>Consigliamo abiti comodi che coprano braccia e gambe, scarpe chiuse e occhiali da sole. Forniamo casco e occhiali protettivi, ma una sciarpa per proteggere naso e bocca dalla sabbia è molto utile, soprattutto nei tour più lunghi tra le dune.</p>
+- q: È un tour privato o condiviso con altri viaggiatori?
+  aHtml: <p>È un tour privato, quindi partirai con il tuo gruppo e una guida dedicata, senza doverti unire ad altri viaggiatori. Questo ti permette di scegliere l'orario di partenza e adattare il ritmo del giro alle tue esigenze.</p>
+- q: Qual è la politica di cancellazione?
+  aHtml: <p>Puoi cancellare gratuitamente fino a un giorno prima della data prevista per l'escursione. Ti consigliamo di avvisarci il prima possibile se i tuoi piani cambiano, così potremo riorganizzare la guida e il quad per altri viaggiatori.</p>
+reviews:
+- name: Marco Bianchi
+  date: 14/01/2025
+  likes: 0
+  stars: 5
+  title: Dune dorate ad ogni curva
+  text: Abbiamo scelto il giro breve di due ore e è stato perfetto per iniziare, la guida ci ha portato sulle dune più alte di Erg Chebbi per foto incredibili. Il casco e gli occhiali forniti si sono rivelati indispensabili contro la sabbia.
+- name: Sophie Laurent
+  date: 03/02/2025
+  likes: 1
+  stars: 5
+  title: Tè alla menta con una famiglia berbera
+  text: Il tour di quattro ore ci ha portato oltre le prime dune fino a incontrare una famiglia nomade che vive ancora in tenda, un momento davvero autentico. Le crepes marocchine fatte in casa sono state la sorpresa più bella della giornata.
+- name: David Cohen
+  date: 22/03/2025
+  likes: 0
+  stars: 4
+  title: Guida faticosa ma bellissima
+  text: Il quad doppio con mia moglie è stato divertente, anche se dopo sei ore sulla sabbia soffice le braccia erano stanche. La sosta all'oasi nascosta con pranzo tradizionale ha ripagato ogni fatica.
+- name: Elena Popescu
+  date: 09/04/2025
+  likes: 0
+  stars: 5
+  title: Sandboarding indimenticabile
+  text: Nel tour lungo abbiamo potuto provare il sandboarding sulle dune vicino all'oasi, un'aggiunta fantastica dopo ore di guida. La nostra guida conosceva percorsi lontani dalla folla che nessun altro gruppo attraversava.
+- name: Youssef El Amrani
+  date: 17/05/2025
+  likes: 0
+  stars: 5
+  title: Perfetto per chi guida per la prima volta
+  text: Non avevo mai guidato un quad prima, così ho scelto il giro di un'ora ed è stata la scelta giusta. La guida ci ha spiegato tutto con calma prima di partire tra le dune di Erg Chebbi.
+- name: Anna Nowak
+  date: 28/06/2025
+  likes: 2
+  stars: 5
+  title: Tramonto sulle dune con il quad doppio
+  text: Abbiamo prenotato il quad doppio nel tardo pomeriggio e vedere il sole tramontare sulle dune dorate mentre eravamo ancora in sella è stato magico. Il prezzo diviso in due ha reso l'esperienza anche molto conveniente.
+- name: Lucas Fernandes
+  date: 11/08/2025
+  likes: 0
+  stars: 5
+  title: Colline panoramiche mozzafiato
+  text: Siamo saliti su piccole colline desertiche da cui si vedeva tutto l'Erg Chebbi, una vista che non dimenticherò facilmente. Il tour di tre ore è stato lungo il giusto per non stancarsi troppo.
+- name: Chiara Ferrari
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: Un'oasi verde in mezzo al deserto
+  text: Non mi aspettavo di attraversare una vera oasi piena di palme durante il giro in quad, un contrasto bellissimo rispetto alle dune dorate intorno. La guida ha reso tutto sicuro e divertente anche per chi era alla prima esperienza.
+- name: Ben Cooper
+  date: 19/11/2025
+  likes: 0
+  stars: 3
+  title: Bello ma percorso un po' breve
+  text: Il giro di un'ora è piacevole ma finisce in fretta, la prossima volta prenoteremo almeno quattro ore per raggiungere anche le famiglie nomadi. Detto questo, guidare sulle dune di Erg Chebbi resta un'esperienza unica.
+- name: Freya Andersen
+  date: 08/01/2026
+  likes: 0
+  stars: 5
+  title: Tajine cucinato con amore
+  text: Durante il tour lungo abbiamo condiviso un tajine preparato dalla gente del posto vicino a un'oasi nascosta, un momento semplice ma indimenticabile. Consiglio a tutti di prenotare il giro più lungo per vivere davvero il deserto.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1sit!2sit!4v1757252086435!5m2!1sit!2sit

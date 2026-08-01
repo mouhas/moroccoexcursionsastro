@@ -74,7 +74,75 @@ faqs:
   aHtml: <p>No, non ci sono servizi igienici presso l'oasi.</p>
 - q: È possibile svolgere altre attività durante questo tour?
   aHtml: <p>Si tratta di un'escursione di un'intera giornata, ma è possibile aggiungere attività extra a Merzouga, come un giro in cammello, un tour in quad, un tour in buggy al tramonto o persino una cena romantica in un campo nel deserto.</p>
-reviews: []
+- q: Quanto dura esattamente questa escursione all'oasi di Safsaf?
+  aHtml: <p>Il tour dura circa 7-8 ore in totale. La partenza è al mattino dal vostro hotel o campo a Merzouga, con soste a Tissardmine e dai nomadi, poi un lungo momento all'oasi di Safsaf per il pranzo al sacco e il relax, prima del rientro nel tardo pomeriggio.</p>
+- q: Qual è la politica di cancellazione?
+  aHtml: <p>Potete cancellare o modificare la prenotazione gratuitamente fino a 48 ore prima della partenza. Superato questo termine potrebbero essere applicate delle penali, quindi contattateci il prima possibile in caso di cambio di programma.</p>
+- q: Si tratta di un tour privato o condiviso con altri viaggiatori?
+  aHtml: <p>È un tour completamente privato. Il veicolo 4x4 e la guida sono riservati solo per voi e i vostri compagni di viaggio, il che permette di adattare leggermente il ritmo della giornata secondo le vostre preferenze.</p>
+- q: Questa escursione è adatta a bambini e persone anziane?
+  aHtml: <p>Sì, il ritmo è tranquillo e adatto a tutte le età. Le camminate si limitano a brevi passeggiate nelle oasi, ma la pista verso Safsaf è accidentata in alcuni tratti, il che può risultare faticoso per chi ha problemi di schiena.</p>
+reviews:
+- name: Elisa Ferrari
+  date: 12/02/2025
+  likes: 0
+  stars: 5
+  title: Un'oasi segreta bellissima
+  text: 'La deviazione all''oasi di Tissardmine per vedere i fossili era già sorprendente, ma arrivare a Safsaf ci ha lasciati senza parole: palme altissime e un piccolo lago dove abbiamo potuto fare il bagno. Il pranzo al sacco all''ombra è stato un vero momento di pace.'
+- name: Antonio Greco
+  date: 01/03/2025
+  likes: 1
+  stars: 5
+  title: Incontro autentico con i nomadi
+  text: 'Il tè alla menta condiviso con la famiglia nomade sotto la loro tenda resterà uno dei ricordi più belli del viaggio. La guida ha dedicato tempo a spiegarci il loro stile di vita senza che sembrasse una messa in scena.'
+- name: Grace Thompson
+  date: 20/04/2025
+  likes: 0
+  stars: 4
+  title: Bella gita ma pista molto lunga
+  text: 'La pista fuoristrada per raggiungere Safsaf è piuttosto lunga e accidentata, ma il paesaggio ripaga ogni scossone. Una volta arrivati, riposare sotto le palme dopo il pranzo al sacco era esattamente quello che serviva.'
+- name: Diego Fernandez
+  date: 07/05/2025
+  likes: 0
+  stars: 5
+  title: Nuotata inaspettata nel deserto
+  text: 'Non ci aspettavamo di poter nuotare in pieno Sahara, ma il laghetto dell''oasi di Safsaf aveva abbastanza acqua quel giorno. Un momento surreale dopo il caldo del viaggio in 4x4.'
+- name: Julia Weber
+  date: 15/06/2025
+  likes: 0
+  stars: 5
+  title: I fossili di Tissardmine, un valore aggiunto
+  text: 'Non sapevo che questa regione fosse stata coperta da un oceano milioni di anni fa. Vedere i fossili marini a Tissardmine prima di raggiungere l''oasi nascosta ha reso la giornata ancora più interessante.'
+- name: Nadia El Fassi
+  date: 03/08/2025
+  likes: 2
+  stars: 5
+  title: Pranzo perfetto sotto le palme
+  text: 'Il pranzo preparato dalla nostra guida all''ombra delle palme di Safsaf era semplice ma delizioso. Il silenzio totale di questa oasi isolata ci ha permesso di staccare completamente per qualche ora.'
+- name: Tomas Novotny
+  date: 21/09/2025
+  likes: 0
+  stars: 5
+  title: Un deserto più vario di quanto immaginassi
+  text: 'Tra le dune dell''Erg Chebbi, la palmeta di Tissardmine e il campo nomade, questa escursione mostra diversi volti del deserto in un solo giorno. L''oasi di Safsaf alla fine è stata il momento clou.'
+- name: Isabella Conti
+  date: 09/11/2025
+  likes: 0
+  stars: 5
+  title: Guida appassionata e attenta
+  text: 'Il nostro autista conosceva ogni angolo della pista fino a Safsaf e si è fermato più volte per spiegarci la geologia del deserto nero nei dintorni. Un''escursione ben ritmata dall''inizio alla fine.'
+- name: Kevin Murphy
+  date: 28/01/2026
+  likes: 0
+  stars: 5
+  title: Lontano dalla folla, proprio quello che cercavamo
+  text: 'A differenza di altre escursioni affollate vicino a Merzouga, sulla strada per Safsaf non abbiamo incontrato quasi nessuno. L''oasi nascosta con le sue palme era un vero rifugio di pace.'
+- name: Camille Rousseau
+  date: 19/06/2026
+  likes: 1
+  stars: 4
+  title: Ottima escursione, portate acqua a sufficienza
+  text: 'Il tragitto in 4x4 verso l''oasi è un po'' lungo sotto il sole, quindi meglio idratarsi bene. Una volta arrivati, il fresco delle palme di Safsaf e il pranzo al sacco ci hanno completamente ripagati.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1sit!2sit!4v1757684506799!5m2!1sit!2sit

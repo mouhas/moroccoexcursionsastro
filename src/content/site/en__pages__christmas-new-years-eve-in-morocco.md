@@ -20,7 +20,7 @@ In Morocco, Christmas is celebrated in a more subdued manner compared to Western
 | ***DAY*** | ***DEPARTURE*** | ***ARRIVAL*** | ***OVERNIGHT*** |
 | 23 December 2026 | Airport | Marrakech | Hotel Riad Luzia or similar |
 | 24 December 2026 | Marrakech | Marrakech | Hotel Riad Luzia or similar |
-| 25 December 2026 | Marraakech | Dades Valley | Hotel Kasbah Didis or similar |
+| 25 December 2026 | Marrakech | Dades Valley | Hotel Kasbah Didis or similar |
 | 26 December 2026 | Dades Valley | Merzouga Desert | Sahara desert camp |
 | 27 December 2026 | Merzouga Desert | Ouarzazate | Hotel Amlal or similar |
 | 28 December 2026 | Ouarzazate | Marrakech | Hotel Riad Luzia or similar |
@@ -32,12 +32,12 @@ In Morocco, Christmas is celebrated in a more subdued manner compared to Western
 | --- | --- | --- | --- |
 | ***DAY*** | ***DEPARTURE*** | ***ARRIVAL*** | ***OVERNIGHT*** |
 | 28 December 2026 | Airport | Marrakech | Hotel Riad Luzia or similar |
-| 23 December 2026 | Marrakech | Dades Valley | Hotel Kasbah Didis or similar |
+| 29 December 2026 | Marrakech | Dades Valley | Hotel Kasbah Didis or similar |
 | 30 December 2026 | Dades | Merzouga | Hotel Nomad Palace or similar |
 | 31 December 2026 | Merzouga | Merzouga Desert | Sahara desert camp |
-| 01 December 2027 | Merzouga Desert | Nkob | Hotel Kasbah Ennakhil or similar |
-| 02 December 2027 | Agdz | Marrakech | Hotel Riad Luzia or similar |
-| 03 December 2027 | Marrakech | Airport |  |
+| 01 January 2027 | Merzouga Desert | Nkob | Hotel Kasbah Ennakhil or similar |
+| 02 January 2027 | Nkob | Marrakech | Hotel Riad Luzia or similar |
+| 03 January 2027 | Marrakech | Airport |  |
 
 ## + Morocco Travel Offers for December 2026 & January 2027
 
@@ -65,15 +65,15 @@ Day 6 (03/January): Fes – Chefchaouen
 Day 7 (04/January): Chefchaouen – Rabat
 Day 8 (05/January): Rabat – Casablanca – marrakech
 
-**6 Days (From 29th December to 3th of January)**
+**6 Days (From 29th December to 3rd of January)**
 Day 1 (29/December): Marrakech – High Atlas Mountains – Kasbah Ait Ben Haddou – Ouarzazate – Skoura – Roses Valley – Dades Valley
 Day 2 (30/December): Dades Valley – Todra Gorges – Rissani – Merzouga
 Day 3 (31/December): Full day in Merzouga
 Day 4 (01/January): Merzouga – Ziz Valley – Azrou – Ifrane – Fes
 Day 5 (02/January): Full day to visit Fes
-Day 6 (03/January): Fes – Ariport
+Day 6 (03/January): Fes – Airport
 
-**4 Days (From 29th December to 1th of January)**
+**4 Days (From 29th December to 1st of January)**
 Day 1 (29/December): Marrakech – High Atlas Mountains – Kasbah Ait Ben Haddou – Ouarzazate – Skoura – Roses Valley – Dades Valley
 Day 2 (30/December): Dades Valley – Todra Gorges – Rissani – Merzouga
 Day 3 (31/December): Full day in Merzouga

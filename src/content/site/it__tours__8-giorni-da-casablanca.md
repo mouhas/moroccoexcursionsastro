@@ -129,12 +129,80 @@ faqs:
 - q: Questo tour è sicuro per le donne che viaggiano da sole?
   aHtml: <p>Sì, è sicuro; tuttavia, vestitevi in modo sobrio ed evitate di camminare da soli di notte.</p>
 - q: La lingua sarà un ostacolo?
-  aHtml: <p>No, le guide parlano un ottimo italiano e englese. È gradito imparare alcune frasi in arabo/francese (come “Shukran” per dire grazie).</p>
+  aHtml: <p>No, le guide parlano un ottimo italiano e inglese. È gradito imparare alcune frasi in arabo/francese (come “Shukran” per dire grazie).</p>
 - q: Chi ci viene a prendere all'aeroporto?
   aHtml: <p>Un autista/guida con un cartello con il vostro nome vi attenderà all'arrivo. Avrà i recapiti del vostro hotel.</p>
 - q: Consigliate un altro tour simile a questo tour di 8 giorni da Casablanca?
   aHtml: <p>Abbiamo altri due tour simili che includono più città. Si tratta dei <a href="/it/tours/10-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 10 giorni</strong></a> e <a href="/it/tours/12-giorni-da-casablanca" rel="noopener" target="_blank"><strong>12 giorni con partenza da Casablanca</strong></a>.</p>
-reviews: []
+- q: 8 giorni sono sufficienti per percorrere da Casablanca a Marrakech senza sentirsi di fretta?
+  aHtml: '<p>È un itinerario completo, circa 1.500 km in totale, ma il ritmo prevede una giornata libera intera sia a Fes che a Marrakech, evitando di dover correre da un posto all''altro. Le tappe di guida più lunghe sono da Fes a Merzouga e da Dades a Marrakech, che includono soste panoramiche come la Valle dello Ziz e Ait Ben Haddou lungo il percorso.</p>'
+- q: Come devo prepararmi per la differenza di temperatura tra la costa e il deserto?
+  aHtml: '<p>Casablanca e Rabat restano miti grazie all''Atlantico, ma quando si raggiunge Merzouga le temperature possono superare i 40°C in estate. Porta abiti leggeri e traspiranti per la costa e le città, oltre a una sciarpa, occhiali da sole e protezione solare per la Valle dello Ziz e le giornate nel deserto.</p>'
+- q: Abbiamo già fatto un tour nel Sahara, si può saltare la parte di Merzouga?
+  aHtml: '<p>Sì, l''itinerario è flessibile e la notte nel deserto può essere sostituita con più tempo a Fes, nella Valle del Dades o a Marrakech. Faccelo sapere al momento della prenotazione così possiamo riorganizzare quelle due giornate secondo le tue preferenze.</p>'
+- q: Viene fornita acqua in bottiglia durante le lunghe giornate di guida?
+  aHtml: '<p>Il tuo autista si ferma solitamente in negozi e caffè lungo il percorso dove puoi acquistare acqua in bottiglia e snack. È comunque consigliabile portare con sé una borraccia riutilizzabile, soprattutto per le tappe della Valle dello Ziz e di Merzouga, dove le soste sono più distanziate.</p>'
+reviews:
+- name: Marco B.
+  date: 14/01/2025
+  likes: 0
+  stars: 5
+  title: Partenza da Casablanca con la Moschea Hassan II
+  text: Il nostro autista ci ha portato subito alla Moschea Hassan II prima del check-in, un inizio perfetto nonostante la stanchezza del volo. Da lì il viaggio è stato impeccabile fino a Marrakech.
+- name: Federica S.
+  date: 27/02/2025
+  likes: 1
+  stars: 5
+  title: Le scuderie di Meknes lasciano senza parole
+  text: Sapere che ospitavano 12.000 cavalli è un'altra cosa quando ci sei dentro davvero. La Kasbah degli Udayas a Rabat, vista la mattina stessa, è stata una tappa tranquilla prima di arrivare a Fes in serata.
+- name: Davide R.
+  date: 09/03/2025
+  likes: 0
+  stars: 5
+  title: La conceria Chouara è indimenticabile
+  text: L'odore è forte come dicono, ma vedere le pelli tinte a mano nelle vasche vale la visita. Anche l'università Al Quaraouiyine e i mercati della medina ci hanno conquistati.
+- name: Chiara M.
+  date: 22/04/2025
+  likes: 0
+  stars: 4
+  title: Ifrane sorprende, le scimmie un po' meno
+  text: Le case in stile svizzero di Ifrane sono davvero curiose in mezzo al Marocco. Abbiamo visto le scimmie nella foresta di cedri solo al secondo tentativo, quindi non aspettatevi di incontrarle subito.
+- name: Luca T.
+  date: 06/05/2025
+  likes: 0
+  stars: 5
+  title: Tramonto in cammello a Erg Chebbi
+  text: Il giro in cammello al tramonto tra le dune di Merzouga è stato il momento più bello del viaggio, seguito dalla musica berbera al campo sotto un cielo pieno di stelle. La Valle dello Ziz durante il tragitto era già uno spettacolo.
+- name: Simona P.
+  date: 19/06/2025
+  likes: 0
+  stars: 5
+  title: Da Rissani alle Gole del Todra in un giorno solo
+  text: La nostra guida ci ha portati presto al mercato di Rissani per vedere i nomadi commerciare datteri e spezie, poi nel pomeriggio le pareti di 300 metri delle Gole del Todra ci hanno lasciati senza fiato. Giornata intensa ma bellissima.
+- name: Alberto G.
+  date: 03/07/2025
+  likes: 0
+  stars: 5
+  title: Valle delle Rose e Ait Ben Haddou in un unico giorno pieno
+  text: Mattina all'Amridil Kasbah, pomeriggio tra gli Atlas Studios e il villaggio di Ait Ben Haddou, poi il passo dell'Alto Atlante fino a Marrakech in serata. Giornata lunghissima ma ricca di contenuti.
+- name: Ilaria V.
+  date: 15/08/2025
+  likes: 2
+  stars: 5
+  title: Marrakech chiude il viaggio alla grande
+  text: Palazzo Bahia al mattino, il caos di Jemaa el-Fnaa a mezzogiorno e la quiete del Giardino Majorelle nel pomeriggio, un ultimo giorno pieno perfetto dopo aver iniziato il viaggio con la Moschea Hassan II.
+- name: Roberto C.
+  date: 12/01/2026
+  likes: 0
+  stars: 3
+  title: Bellissimo ma il sesto giorno è massacrante
+  text: Tutto quello che si vede è davvero bello, ma il sesto giorno, tra Valle delle Rose, Ouarzazate, Ait Ben Haddou e poi l'Atlante fino a Marrakech, è tanta roba da fare prima di cena. Considerate un ritmo più lento se possibile.
+- name: Paola N.
+  date: 24/03/2026
+  likes: 0
+  stars: 5
+  title: 1.500 km che valgono ogni chilometro
+  text: Costa, città imperiali, deserto, gole e Marrakech in otto giorni. Stancante ma nel modo più bello possibile, torneremmo a rifarlo domani.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755183565542!5m2!1sit!2sit

@@ -1,0 +1,13 @@
+name = "morocco-excursions-submit"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+# Secrets (set with `wrangler secret put <NAME>`, never in this file):
+#   GITHUB_TOKEN   — fine-grained PAT, "Contents: Read and write" on this repo only
+#   GITHUB_REPO    — "your-username/your-repo-name"
+#   ALLOWED_ORIGIN — "https://morocco-excursion.com" (comma-separate for more than one,
+#                    e.g. add "http://localhost:4321" while testing)
+#
+# Optional, has a default below — override with `wrangler secret put GITHUB_BRANCH` if needed.
+[vars]
+GITHUB_BRANCH = "main"

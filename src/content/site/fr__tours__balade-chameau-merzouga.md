@@ -95,7 +95,77 @@ faqs:
   aHtml: <p>Les camps de luxe proposent des tentes privées avec des lits confortables, des salles de bains et des douches. Les camps standard sont plus simples, avec des salles de bains communes et des équipements basiques.</p>
 - q: Proposez-vous d'autres excursions dans le désert à Merzouga?
   aHtml: <p>Oui, outre les balades à dos de chameau, nous organisons également des <a href="/fr/tours/excursion-quad-merzouga" rel="noopener" target="_blank"><strong>excursions en quad</strong></a>, en buggy et <a href="/fr/tours/excursions-4x4-merzouga" rel="noopener" target="_blank"><strong>tour en 4x4 pour explorer le désert</strong></a>. Ces excursions peuvent inclure des visites chez des familles nomades, dans des villages berbères et dans des endroits cachés du désert. Si vous préférez ne pas monter à dos de chameau, vous pouvez opter pour le 4x4 ou le quad tout en passant la nuit dans le campement.</p>
-reviews: []
+- q: Puis-je annuler ou modifier ma réservation ?
+  aHtml: <p>Oui, contactez-nous par WhatsApp ou email dès que possible pour annuler ou modifier votre date ; nous ferons notre possible pour nous adapter à votre emploi du temps.</p>
+- q: Y a-t-il un âge minimum pour la balade à dos de chameau ?
+  aHtml: <p>La balade à dos de chameau convient à la plupart des âges, y compris aux enfants accompagnés d'un adulte. Pour les tout-petits ou les personnes ayant des problèmes de dos, faites-le-nous savoir afin que nous puissions vous conseiller ou proposer une alternative en 4x4.</p>
+- q: Le dîner et le spectacle de musique berbère sont-ils inclus pour tout le monde ?
+  aHtml: <p>Oui, le dîner traditionnel et le spectacle de musique berbère autour du feu sont inclus dans le prix, que vous choisissiez le camp standard ou le camp de luxe. C'est un moment convivial partagé par tous les voyageurs du campement.</p>
+- q: Puis-je me garer gratuitement si je viens avec ma propre voiture ?
+  aHtml: <p>Oui, un parking gratuit et surveillé est mis à disposition à Merzouga pour votre voiture pendant que vous partez à dos de chameau et passez la nuit dans le campement.</p>
+- q: Quelle est la meilleure période de l'année pour cette excursion ?
+  aHtml: <p>Le printemps et l'automne offrent les températures les plus agréables pour la balade à dos de chameau et la nuit au campement. L'été peut être très chaud en journée, tandis que l'hiver apporte des nuits fraîches dans le désert, gérables avec des vêtements chauds.</p>
+reviews:
+- name: Clara B.
+  date: 05/01/2025
+  likes: 0
+  stars: 5
+  title: Coucher de soleil sur la dune, magique
+  text: L'arrêt sur la haute dune pour le coucher de soleil pendant la balade à dos de chameau était vraiment le moment fort de la soirée. Le camp de luxe avec salle de bain privée était un excellent choix pour le confort.
+- name: Mathis L.
+  date: 19/02/2025
+  likes: 1
+  stars: 5
+  title: Musique berbère autour du feu
+  text: Le spectacle de musique berbère traditionnelle après le dîner a créé une ambiance chaleureuse entre tous les voyageurs du campement. Une heure de chameau, ni trop courte ni trop longue, parfaite pour découvrir les dunes.
+- name: Alessia G.
+  date: 08/03/2025
+  likes: 0
+  stars: 4
+  title: Nuit étoilée inoubliable
+  text: Sortir de la tente en pleine nuit pour voir le ciel rempli d'étoiles, sans aucune pollution lumineuse, restera gravé dans ma mémoire. Le camp standard était simple mais tout à fait suffisant pour une nuit.
+- name: Youssef K.
+  date: 24/04/2025
+  likes: 0
+  stars: 5
+  title: Parking gratuit très pratique
+  text: On est venus avec notre propre voiture et le parking gratuit et surveillé nous a évité tout stress. La balade à dos de chameau jusqu'au camp était bien encadrée par des guides sympathiques.
+- name: Freya N.
+  date: 11/05/2025
+  likes: 2
+  stars: 5
+  title: Sandboard avant le dîner, super ajout
+  text: On a pu essayer le sandboard sur les dunes juste avant le coucher du soleil, en plus de la balade à dos de chameau, un vrai bonus. Le dîner traditionnel servi ensuite était copieux et savoureux.
+- name: Rui P.
+  date: 29/06/2025
+  likes: 0
+  stars: 4
+  title: Tente privée très confortable
+  text: La tente privée du camp de luxe avec douche chaude était bien plus confortable que ce à quoi je m'attendais dans le désert. Petit bémol, il faisait déjà nuit à notre arrivée donc on n'a pas trop vu le coucher de soleil.
+- name: Ingrid H.
+  date: 14/08/2025
+  likes: 0
+  stars: 5
+  title: Petit-déjeuner avec vue sur les dunes
+  text: Se réveiller et prendre le petit-déjeuner avec les dunes de l'Erg Chebbi juste devant la tente était un moment simple mais parfait. Une expérience courte mais très intense en émotions.
+- name: Bastien C.
+  date: 02/10/2025
+  likes: 1
+  stars: 5
+  title: Idéal pour une seule nuit dans le désert
+  text: Si on n'a qu'une nuit à consacrer au désert, cette excursion est exactement ce qu'il faut, balade à dos de chameau, dîner, musique et nuit sous les étoiles. Le camp standard avait tout ce dont on avait besoin.
+- name: Marion T.
+  date: 20/11/2025
+  likes: 0
+  stars: 5
+  title: Guides très attentionnés
+  text: Les guides qui nous accompagnaient à dos de chameau étaient patients et attentifs, surtout avec les enfants du groupe qui n'avaient jamais monté sur un chameau. Une belle initiation en douceur au désert marocain.
+- name: Emil S.
+  date: 08/01/2026
+  likes: 0
+  stars: 5
+  title: Vêtements chauds bien utiles en hiver
+  text: On a suivi le conseil de prendre des vêtements chauds pour la nuit d'hiver dans le désert et c'était indispensable, les températures chutent vite après le coucher du soleil. Le dîner chaud et le feu de camp ont bien compensé le froid.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sfr!2sfr!4v1756312207723!5m2!1sfr!2sfr

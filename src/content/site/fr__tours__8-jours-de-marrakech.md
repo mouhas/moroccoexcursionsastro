@@ -184,7 +184,73 @@ faqs:
   aHtml: '<p>Oui, voici deux circuits similaires au circuit de 8 jours au départ de Marrakech :</p>
 
     <p><a href="/fr/tours/12-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="/fr/tours/10-jours-depart-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
-reviews: []
+- q: À quoi ressemblent les installations sanitaires (toilettes et douches) au camp dans le désert de Merzouga?
+  aHtml: <p>Le camp standard dispose de tentes sanitaires partagées à proximité, tandis que l'option de camp supérieur/luxe comprend des installations privatives dans votre propre tente. Faites-nous part de votre préférence lors de la réservation si cela est important pour vous.</p>
+- q: Devons-nous donner un pourboire à notre chauffeur-guide?
+  aHtml: <p>Le pourboire n'est pas inclus dans le prix et reste entièrement à votre discrétion. De nombreux voyageurs laissent environ 10 à 15 euros par jour pour le chauffeur-guide, avec un peu plus pour le chamelier et le personnel du camp dans le désert s'ils estiment que ceux-ci se sont particulièrement bien occupés d'eux.</p>
+- q: Quelle est la meilleure période pour voir la vallée des Roses en fleurs sur cet itinéraire?
+  aHtml: <p>La récolte des roses autour de Kelaat M'Gouna et de la vallée des Roses atteint son apogée en mai, lorsque les champs sont en pleine floraison et qu'un festival des roses a souvent lieu à proximité. En dehors du mois de mai, vous verrez tout de même les jardins en terrasses, mais sans les mêmes couleurs ni le même parfum.</p>
+reviews:
+- name: Camille Roussel
+  date: 22/01/2025
+  likes: 0
+  stars: 5
+  title: 'Demandez Mohammed, c''est le meilleur !'
+  text: Mohammed était notre chauffeur-guide pendant notre circuit de huit jours à travers le Maroc, et nous avons vu tellement de choses. Les hôtels à Marrakech, Dadès et Ouarzazate étaient formidables, et le point fort du voyage a été l'excursion à dos de chameau et la nuit de camping dans le désert du Sahara. Mohammed a été d'une aide précieuse tout au long du voyage, et nous avons vraiment apprécié notre temps avec lui.
+- name: Théodore Vasseur
+  date: 08/02/2025
+  likes: 0
+  stars: 5
+  title: 10/10, sans hésitation
+  text: Nous avons passé un peu plus de trois semaines à parcourir le Maroc, et notre circuit de luxe de huit jours au départ de Marrakech vers le sud a incontestablement été le point culminant de nos vacances. Hamid était notre guide, sympathique, très bien informé sur la région et une véritable mine de connaissances sur la culture marocaine. Nous avons vécu une expérience formidable et le recommandons vivement à nos proches et amis.
+- name: Benjamin Caillet
+  date: 19/03/2025
+  likes: 0
+  stars: 5
+  title: Un voyage de huit jours inoubliable au Maroc
+  text: Nous venons de rentrer d'un voyage de huit jours au Maroc, et je peux seulement dire que ce fut une expérience fantastique. Chacun des riads où nous avons séjourné était charmant et servait une cuisine délicieuse. Saïd, notre chauffeur-guide, nous a montré le vrai Maroc et le désert du Sahara. Un grand merci à Saïd, un guide serviable et compétent, toujours attentif à nos besoins.
+- name: Isabelle Fontaine
+  date: 10/04/2025
+  likes: 0
+  stars: 5
+  title: 'La journée complète à Marrakech, bien mieux que prévu'
+  text: 'Je pensais que le deuxième jour ne serait qu''une mise en bouche avant le « vrai » voyage, mais entre le palais Bahia, le Mellah, les jardins de la Ménara et le bleu des jardins Majorelle, ce fut une journée riche et complète à elle seule. Notre guide Karim avait prévu Jemaa el-Fnaa au coucher du soleil, conteurs compris.'
+- name: Henri Dumas
+  date: 27/05/2025
+  likes: 0
+  stars: 5
+  title: La vallée des Roses et Dadès en une seule grande journée
+  text: Déjeuner à Aït Ben Haddou et promenade dans la kasbah, puis les palmeraies de Skoura et la vallée des Roses en route vers Dadès, cette journée a couvert énormément de paysages. Arrivés dans la vallée du Dadès le soir, fatigués mais heureux.
+- name: Gustave Mercier
+  date: 14/06/2025
+  likes: 1
+  stars: 4
+  title: 'Des gorges du Todra à Merzouga, et le jardin du désert à Hassi Labied'
+  text: Les falaises calcaires des gorges du Todra étaient magnifiques, et la balade à dos de chameau dans l'Erg Chebbi ce soir-là était magique. J'avais un peu mal au dos à force de rouler en arrivant à Merzouga, il faut donc y aller doucement. J'ai aussi adoré le vieux système d'irrigation de Hassi Labied le lendemain, un petit détail mais mémorable.
+- name: Charline Berthier
+  date: 02/08/2025
+  likes: 0
+  stars: 5
+  title: La musique gnawa de Khamlia et la visite chez une famille nomade
+  text: La journée en 4x4 au départ de Merzouga était riche en moments forts, le groupe de musique de Khamlia, une famille nomade qui a partagé le thé avec nous, et des fossiles sur le plateau volcanique noir. On avait vraiment l'impression de vivre une aventure dans le désert, pas juste de photographier des dunes.
+- name: Nils Poirier
+  date: 20/09/2025
+  likes: 0
+  stars: 5
+  title: La kasbah de Taourirt et les studios de cinéma à Ouarzazate
+  text: Notre chauffeur Brahim connaissait toute l'histoire du cinéma liée aux studios d'Ouarzazate, puis les salles décorées de la kasbah de Taourirt nous ont montré un visage bien plus ancien de la ville. Une bonne façon de couper la route du retour vers Marrakech.
+- name: Karine Ollivier
+  date: 08/11/2025
+  likes: 0
+  stars: 3
+  title: 'Huit jours formidables, le dernier n''est qu''un transfert'
+  text: 'Tout, de Marrakech au désert et retour, était excellent. Ma seule remarque concerne le huitième jour, qui est essentiellement du temps libre jusqu''au transfert à l''aéroport, ce qui n''est pas gênant mais qu''il vaut mieux savoir à l''avance pour ne pas s''attendre à une activité ce jour-là.'
+- name: Bastien Cadoret
+  date: 21/12/2025
+  likes: 0
+  stars: 5
+  title: Un excellent rapport qualité-prix pour tout ce qui est inclus
+  text: 'Montagnes, kasbahs, camp dans le désert, visite chez les nomades, Ouarzazate, tout cela en huit jours pour moins cher que ce à quoi nous nous attendions. On réserverait à nouveau sans hésiter.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3497684.3150255904!2d-8.642006129471952!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbc7f04e51fff23%3A0x79b4b748288512bd!2sMJC2%2B28M!3m2!1d30.670087499999998!2d-6.399203099999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753709188965!5m2!1sfr!2sfr

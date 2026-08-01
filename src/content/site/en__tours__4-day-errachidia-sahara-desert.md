@@ -99,7 +99,75 @@ faqs:
   aHtml: <p>The camel trek is not recommended for people with back problems, pregnant women, or travelers over 70, though a direct vehicle transfer to the camp can be arranged instead.</p>
 - q: Where does the tour start and end?
   aHtml: <p>The tour starts and ends in Errachidia, with pickup and drop-off available at your hotel or the train station.</p>
-reviews: []
+- q: Is this a private tour or will we share the vehicle with other travelers?
+  aHtml: '<p>This is always a private tour — your vehicle, driver-guide, and pace are exclusive to your group, whether you''re traveling solo, as a couple, or with family and friends.</p>'
+- q: When is the best time of year to do this Errachidia to Sahara trip?
+  aHtml: <p>Spring (March to May) and autumn (September to November) offer the most comfortable temperatures for the camel trek and the Todra Gorges walk. Summer in Merzouga can be very hot, while desert nights in winter get cold, so warm layers are worth packing either way.</p>
+- q: Will I have phone signal or wifi in the desert camp?
+  aHtml: '<p>Mobile signal is patchy around Merzouga and mostly unavailable once you''re out in the dunes at the camp itself. Some camps offer basic wifi near the dining tent, but it''s best to expect to disconnect for the two nights you spend there.</p>'
+- q: Should I tip the driver-guide?
+  aHtml: '<p>Tipping isn''t mandatory but is appreciated for good service over the 4 days. Many travelers tip their driver-guide directly at the end of the trip; there''s no fixed amount, so give what feels right based on your experience.</p>'
+reviews:
+- name: Helga T.
+  date: 14/03/2025
+  likes: 0
+  stars: 5
+  title: Short and sweet desert escape
+  text: The drive from Errachidia to Merzouga barely took any time before we were already on camels heading into the Erg Chebbi dunes for sunset. Loved waking up to a second full day with nothing to do but wander the sand and drink tea with a nomad family nearby.
+- name: David H.
+  date: 02/09/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges made the extra day worth it
+  text: What sold me on this 4-day version over the shorter one was the return route. After two nights in the desert camp near Merzouga, including a fun quad ride through the dunes on our free day, we drove back through the Todra Gorges and spent the night in the Dades Valley surrounded by those strange folded rock formations. Our guide Said knew exactly where to stop for photos without it ever feeling rushed.
+- name: Kofi W.
+  date: 22/11/2023
+  likes: 0
+  stars: 5
+  title: Ahmed made the trip
+  text: 'Ahmed picked us up right at our riad in Errachidia and from there everything just flowed. Camel trek into the dunes at sunset on night one, a lazy second day exploring Merzouga and meeting a nomad family, then the long scenic drive home via Todra and Dades. Can''t fault any of it.'
+- name: Ilse A.
+  date: 05/06/2024
+  likes: 0
+  stars: 5
+  title: Two nights in the dunes felt like enough
+  text: We worried two nights in a desert camp might be too much but the free day in between gave us time to actually relax, walk the dunes at our own pace, and skip the optional quad excursion in favor of just sitting with the Berber musicians. The overnight in Dades Valley on the way back, looking at those layered rock cliffs, was an unexpected highlight.
+- name: Ilse U.
+  date: 19/01/2025
+  likes: 0
+  stars: 5
+  title: Easy and comfortable
+  text: Short transfer from Errachidia, comfortable camp both nights, and a guide who never made us feel rushed through the Todra Gorges walk. Good value for four days.
+- name: Hana I.
+  date: 30/07/2024
+  likes: 0
+  stars: 5
+  title: Upgraded to the luxury camp, no regrets
+  text: We paid the extra for the luxury desert camp option and it made the two nights near Merzouga so much more comfortable, proper beds and a private bathroom instead of the shared setup. Youssef our driver was relaxed and funny, and the walk through the Todra Gorges on day three broke up the drive nicely before we settled into Dades Valley for the night.
+- name: Colm X.
+  date: 11/04/2023
+  likes: 0
+  stars: 5
+  title: Narrow canyon walls and endless dunes
+  text: The Todra Gorges walk on the way back genuinely surprised me, those narrow canyon walls towering overhead after two days of flat dune scenery. Brahim drove us the whole way and pointed out Berber villages we would have otherwise driven straight past.
+- name: Trevor F.
+  date: 27/02/2025
+  likes: 0
+  stars: 4
+  title: Good trip, third day is long
+  text: Solid tour overall - the camel trek at sunset into Erg Chebbi was a real highlight and the nomad family visit felt genuine rather than staged. Only gripe is day three is a lot of driving between Merzouga, Todra, and Dades Valley with not much of a break in between. Still worth doing.
+- name: Beatriz J.
+  date: 08/10/2023
+  likes: 0
+  stars: 5
+  title: Straight off the train and into the dunes
+  text: Our driver was waiting at the Errachidia train station and within an hour we were already looking at Erg Chebbi in the distance. Loved that there was no wasted driving day, just straight into camel treks and desert nights, with the Dades Valley stopover on the way back giving us one more thing to see before heading home.
+- name: Hendrik Y.
+  date: 15/05/2024
+  likes: 0
+  stars: 5
+  title: Nomad family visit was the best part
+  text: Everyone talks about the camel trek but for us the visit to the nomad family on our free day in Merzouga was the standout memory, sharing tea in their tent and hearing about desert life. Karim drove us safely through some rough patches on the way to Dades Valley too.
 rating: null
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sErrachidia%2C%20Morocco!4m1!2sDades%20Valley%2C%20Morocco

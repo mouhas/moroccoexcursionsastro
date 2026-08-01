@@ -105,7 +105,75 @@ faqs:
   aHtml: <p>Bring closed walking shoes, sunscreen, a hat or scarf, sunglasses, a flashlight, and a light jacket for cool desert and mountain evenings, plus warmer layers if traveling in winter.</p>
 - q: Where does pickup happen in Agadir?
   aHtml: <p>Your driver-guide will meet you at your hotel, riad, or the airport in Agadir at the start of the tour. Let us know your exact pickup location and preferred time when booking.</p>
-reviews: []
+- q: What's the best season for the Agadir to Sahara and Marrakech route?
+  aHtml: <p>Spring and autumn offer the most comfortable temperatures for both the desert and the mountain passes. Summer can be very hot around Ouarzazate and Merzouga, while winter brings cold nights in the desert camp and occasional snow on the higher sections of Tizi n'Test, so check conditions if traveling in January or February.</p>
+- q: Will I have phone signal during the night in the Merzouga desert camp?
+  aHtml: <p>Signal is generally weak to non-existent once you're out in the Erg Chebbi dunes at the camp. Merzouga village itself has normal coverage, so you'll be reachable again once the camel trek brings you back the next morning.</p>
+- q: Can I stay longer in Marrakech instead of returning to Agadir the same day?
+  aHtml: <p>Yes, the itinerary can be adjusted to add an extra night or two in Marrakech before your driver returns you to Agadir, or you can arrange your own onward travel from Marrakech instead. Let us know when booking so we can price it accordingly.</p>
+- q: Is this suitable if I only have 5 days but want to see the desert and Marrakech?
+  aHtml: <p>Yes, this is exactly the itinerary it's designed for. Because it's a round trip starting and ending in Agadir, you get Taroudant, Ait Ben Haddou, the Dades Valley, a night in the Merzouga dunes, and a free morning in Marrakech all in one loop without backtracking on the same road twice.</p>
+reviews:
+- name: Amelie R.
+  date: 11/02/2025
+  likes: 0
+  stars: 5
+  title: Taroudant was a lovely surprise on day one
+  text: I'd never heard of Taroudant before booking, but wandering its ramparts and souks on the first morning, people call it little Marrakech for a reason, was a great low-key start before the bigger landscapes further east. Ait Ben Haddou the next day was even better.
+- name: Grzegorz K.
+  date: 28/04/2025
+  likes: 0
+  stars: 4
+  title: Two different mountain passes, worth the round trip
+  text: Liked that we didn't retrace the same road, Tizi n'Tichka area heading out and Tizi n'Test coming back through Marrakech, completely different scenery both times. Only complaint is the Taroudant stop on day one felt a bit rushed, would have liked another 30 minutes in the souks.
+- name: Sofia D.
+  date: 15/07/2025
+  likes: 1
+  stars: 5
+  title: Dades Valley red rock formations after Ait Ben Haddou
+  text: Our guide Ali knew exactly when to stop for photos at Ait Ben Haddou before the tour buses arrived, then we continued through Skoura's palm groves into the Dades Valley where the red rock formations at sunset were unreal. Great pacing for day two.
+- name: Nathan B.
+  date: 02/10/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges in the morning, camel sunset by evening
+  text: Walking through Todra Gorges with those towering canyon walls was already a highlight, and then a few hours later we were riding camels into Erg Chebbi for sunset. Hard to believe both happened on the same day.
+- name: Camille F.
+  date: 19/12/2025
+  likes: 0
+  stars: 5
+  title: Added the quad excursion on our free morning in the dunes
+  text: We booked the optional quad-bike add-on for our free morning in Merzouga and it was a blast tearing across the sand before the long drive to Marrakech. Worth the extra cost if you're on the fence.
+- name: Deepak S.
+  date: 06/03/2026
+  likes: 0
+  stars: 4
+  title: Day 4 drive to Marrakech is long
+  text: Fair warning, the drive from Merzouga to Marrakech on day four takes most of the afternoon and evening after a full desert morning. Tiring, but our driver Ahmed kept it comfortable with regular stops, and arriving in Marrakech at night with the square lit up made up for it.
+- name: Lars N.
+  date: 23/05/2025
+  likes: 0
+  stars: 5
+  title: Tizi n'Test pass on the way back was the scenic highlight
+  text: Everyone talks about Tizi n'Tichka but the Tizi n'Test crossing on the return leg was honestly more dramatic, winding roads and huge valley views the whole way down to Agadir. Our driver Hassan handled the mountain roads smoothly and pointed out viewpoints worth stopping for.
+- name: Meera V.
+  date: 09/08/2025
+  likes: 0
+  stars: 3
+  title: Great tour, just wanted more time in Marrakech
+  text: Everything from Taroudant to the desert camp was excellent, but the free morning in Marrakech before heading back to Agadir felt too short to see much beyond the main square. Might ask about adding an extra night there next time.
+- name: Owen C.
+  date: 30/11/2025
+  likes: 0
+  stars: 5
+  title: Campfire under the stars, best night of the trip
+  text: The desert camp night with Berber music around the fire and an absurd number of visible stars was the standout memory from this whole loop. Everything else, Ouarzazate, the gorges, Marrakech, was a great bonus around that one night.
+- name: Yuki M.
+  date: 14/01/2026
+  likes: 0
+  stars: 5
+  title: Perfect round trip from the coast
+  text: Loved starting and ending in Agadir with no need to arrange transfers elsewhere. Desert, mountains, Marrakech, all in one clean loop.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sAgadir%2C%20Morocco!4m1!2sMarrakech%2C%20Morocco

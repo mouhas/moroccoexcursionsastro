@@ -92,7 +92,77 @@ faqs:
   aHtml: <p>Aventuras extras, como passeios de buggy ou motocross, também podem ser adicionadas. Um passeio de buggy de uma hora custa 75 euros por pessoa (para duas pessoas no buggy), e um passeio de motocross de uma hora custa 150 euros por pessoa. Essas atividades permitem explorar mais o deserto e adicionam emoção à sua viagem.</p>
 - q: É possível reservar apenas uma dessas excursões?
   aHtml: <p>Também é possível reservar apenas uma atividade sem fazer o passeio completo. Pode escolher apenas um passeio de camelo, um passeio de ATV/quadriciclo, uma excursão de buggy, um passeio de motocross ou uma excursão 4x4 pelo deserto. Dessa forma, pode desfrutar do deserto exatamente como quiser, seja para uma aventura curta ou uma experiência completa.</p>
-reviews: []
+- q: Que horas devo chegar a Merzouga para começar o passeio?
+  aHtml: <p>O check-in no nosso escritório em Merzouga é no final da tarde, normalmente por volta das 16h no inverno e das 18h no verão. Isso lhe dá tempo para estacionar com segurança, deixar bagagem extra e preparar uma pequena mala antes da caminhada de camelo pelas dunas.</p>
+- q: A caminhada de camelo ou o passeio de quadriciclo são fisicamente exigentes?
+  aHtml: <p>A caminhada de camelo é tranquila e adequada para a maioria dos níveis de condicionamento físico, embora não seja recomendada para gestantes ou pessoas com problemas nas costas. O passeio de quadriciclo exige um pouco mais de coordenação, mas nenhuma experiência prévia, e a nossa equipe faz uma breve explicação antes de partirem para as dunas.</p>
+- q: Qual é a melhor época do ano para fazer este passeio?
+  aHtml: <p>A primavera e o outono oferecem as temperaturas mais agradáveis para a caminhada de camelo e o passeio de quadriciclo. Os dias de verão em Erg Chebbi podem ser muito quentes, enquanto as noites de inverno no acampamento podem chegar perto de zero grau, então leve roupas adequadas seja qual for a estação em que viajar.</p>
+- q: Terei sinal de celular ou wifi no acampamento no deserto?
+  aHtml: <p>O sinal de celular é instável assim que se sai da aldeia de Merzouga e praticamente desaparece ao chegar às dunas, então não espere uma cobertura confiável no acampamento. Isso faz parte do que torna as noites de observação de estrelas e fogueira tão especiais.</p>
+- q: Devo dar gorjeta aos condutores de camelo e à equipe do acampamento?
+  aHtml: <p>A gorjeta não é obrigatória, mas é bem-vinda para os condutores de camelo, os músicos de Khamlia e a equipe do acampamento que prepara as refeições. Alguns euros ou dirhams por atividade é um gesto comum quando você gosta da experiência.</p>
+reviews:
+- name: Camila R.
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: O acampamento de luxo valeu cada centavo
+  text: Chegamos a Merzouga no fim da tarde e deixamos o carro no escritório antes de sair a camelo rumo às dunas de Erg Chebbi. Ver as dunas ficarem alaranjadas ao pôr do sol já valeu a viagem, e a equipe do acampamento Mouhou nos recebeu com chá de menta. Optamos pelo acampamento de luxo e a cama confortável com banheiro privativo foi um mimo depois de um dia inteiro de areia e sol.
+- name: Rafael M.
+  date: 25/02/2025
+  likes: 1
+  stars: 5
+  title: A música gnawa em Khamlia foi uma surpresa
+  text: Não esperava que o segundo dia fosse tão interessante quanto o primeiro. A apresentação gnawa em Khamlia foi cheia de energia, e a vista do platô das minas de M'ifis sobre as dunas foi incrível. Nosso guia também apontou fósseis nas rochas pelo caminho, algo que nenhum de nós sabia ser uma especialidade da região.
+- name: Beatriz A.
+  date: 15/03/2025
+  likes: 0
+  stars: 4
+  title: Ótimo passeio, só o quadriciclo foi curto demais
+  text: O acampamento e o passeio de camelo foram exatamente como esperávamos, e a visita à família nômade foi um momento muito tocante. Minha única reclamação é que a hora no quadriciclo passou rápido demais; eu teria pagado com prazer por mais uma volta pelas dunas ao pôr do sol.
+- name: Thiago S.
+  date: 02/05/2025
+  likes: 0
+  stars: 5
+  title: Said fez o deserto parecer familiar
+  text: Nosso guia Said explicou tudo, desde como as tendas berberes são montadas até por que as dunas mudam de cor ao longo do dia. Escolhemos o acampamento de luxo e valeu a pena, cama de verdade e banheiro privativo depois de um dia cheio de areia e sol.
+- name: Larissa F.
+  date: 20/06/2025
+  likes: 2
+  stars: 5
+  title: O sandboard foi o ponto alto para as crianças
+  text: Passar duas noites no deserto com crianças pequenas parecia arriscado, mas deu tudo certo. Elas amaram o sandboard bem perto do acampamento e ainda falam do passeio de camelo pelas dunas.
+- name: Bruno C.
+  date: 08/08/2025
+  likes: 0
+  stars: 5
+  title: As histórias do Youssef perto da fogueira
+  text: Youssef nos guiou no 4x4 no segundo dia e manteve todo o grupo entretido com histórias de quando crescia perto de Erg Chebbi. A parada para chá com a família nômade e os fósseis nas minas de M'ifis foram coisas que eu não tinha lido antes de reservar, então pareceram descobertas de verdade.
+- name: Juliana P.
+  date: 27/09/2025
+  likes: 1
+  stars: 5
+  title: Dois dias cheios de experiências
+  text: Entre o passeio de camelo, o sandboard, os músicos gnawa de Khamlia, as minas, a visita à família nômade e o passeio de quadriciclo ao pôr do sol, não teve um momento parado. Dormir sob tantas estrelas no acampamento standard também foi bem confortável.
+- name: Eduardo N.
+  date: 14/11/2025
+  likes: 0
+  stars: 5
+  title: Simples, bem organizado, sem reclamações
+  text: Reservamos o acampamento standard e estava limpo e confortável. Passeio de camelo ao entardecer, jantar perto da fogueira e nascer do sol na manhã seguinte, exatamente o que queríamos de uma parada curta no deserto.
+- name: Patrícia G.
+  date: 03/01/2026
+  likes: 0
+  stars: 5
+  title: Hassan conhecia cada canto de Erg Chebbi
+  text: Hassan guiou nosso grupo de 4x4 até as minas e o acampamento nômade e claramente conhecia a região muito além dos pontos turísticos de sempre. Procurar fósseis no platô foi uma diversão inesperada para meu filho adolescente.
+- name: Fernando L.
+  date: 22/03/2026
+  likes: 0
+  stars: 5
+  title: O passeio de quadriciclo ao pôr do sol foi inesquecível
+  text: O último passeio de quadriciclo subindo as dunas mais altas enquanto o sol se punha é uma das melhores lembranças de viagem que tenho. Somando com a parada de música em Khamlia mais cedo naquele dia, o segundo dia passou voando.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1spt-br!2spt-br!4v1756648805984!5m2!1spt-br!2spt-br

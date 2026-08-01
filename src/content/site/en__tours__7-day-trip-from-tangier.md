@@ -119,7 +119,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, and a light jacket for cool evenings in Chefchaouen and Fes are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from the airport, the ferry port, or your hotel.</p>
-reviews: []
+- q: Why does the tour spend two nights in Fes but only one elsewhere?
+  aHtml: <p>Fes el Bali is the largest car-free urban area in the world, and its medina, tanneries, and souks take more than a single afternoon to appreciate. The extra night gives you a full free day there instead of just passing through like a lot of shorter itineraries do.</p>
+- q: Do I need a local guide to visit Fes' medina?
+  aHtml: <p>It's strongly recommended and included in this tour. The medina's alleys are famously maze-like, and a local guide helps you find the tanneries, madrasas, and workshops without getting lost or missing the best parts.</p>
+- q: What's the best time of year for this Tangier, coast, and Rif Mountains loop?
+  aHtml: <p>Spring and autumn are the most pleasant, with mild weather for Chefchaouen and the Rif Mountains and comfortable temperatures in Casablanca and Fes. Summer can be hot inland, though the Tangier and Assilah coast stays breezier year-round.</p>
+- q: Can I start this tour if I'm arriving in Tangier by ferry from Spain?
+  aHtml: <p>Yes, this is common, your driver-guide can meet you directly at the ferry port in Tangier to begin the tour, the same as an airport pickup.</p>
+reviews:
+- name: Fiona M.
+  date: 04/02/2025
+  likes: 0
+  stars: 5
+  title: Kasbah views over the Strait of Gibraltar on day one
+  text: Standing in Tangier's Kasbah with Spain visible across the water was a great way to start the week. The old medina afterward had a different energy than Marrakech's, quieter and a bit more raw.
+- name: Bjorn A.
+  date: 19/03/2025
+  likes: 0
+  stars: 5
+  title: Assilah's murals were an unexpected favorite stop
+  text: Our guide Karim suggested we take extra time in Assilah's whitewashed streets before continuing to Casablanca, and the murals painted on the walls there were some of the best photos from the whole trip.
+- name: Carmen L.
+  date: 07/06/2025
+  likes: 1
+  stars: 4
+  title: Hassan II Mosque is stunning, wish we'd had more time
+  text: The mosque's scale right on the Atlantic is genuinely impressive, but between Assilah and the drive onward we only had about an hour there. Would have loved a bit longer given how big and detailed the interior is.
+- name: Theo N.
+  date: 25/08/2025
+  likes: 0
+  stars: 5
+  title: Rabat's Kasbah of the Udayas was calmer than expected
+  text: After the bigger cities, Rabat felt like a nice pause, walking the Kasbah of the Udayas and seeing the Hassan Tower without the crowds of Marrakech or Fes. Underrated stop on this itinerary.
+- name: Wendy S.
+  date: 11/10/2025
+  likes: 0
+  stars: 5
+  title: Volubilis and Meknes made for a great history day
+  text: The Bab Mansour gate in Meknes is huge in person, and the Roman mosaics at Volubilis a short drive later gave a completely different historical angle. Good pacing before arriving in Fes for the two-night stay.
+- name: Arjun M.
+  date: 02/12/2025
+  likes: 0
+  stars: 5
+  title: The free day in Fes with a local guide was essential
+  text: Fes el Bali is genuinely a maze, without our local guide we'd have been lost within ten minutes. Seeing the tanneries and watching artisans work in the souks over a full free day made this the highlight of the trip.
+- name: Ines C.
+  date: 16/01/2026
+  likes: 0
+  stars: 4
+  title: Two nights in Fes made sense once we got there
+  text: I initially wondered why Fes got double the time of other cities, but after a few hours in the medina I understood. Rooms were comfortable both nights. Only minor issue was one long transit day getting there from Rabat.
+- name: Callum B.
+  date: 28/02/2026
+  likes: 0
+  stars: 5
+  title: Chefchaouen's blue lanes in the cool mountain air
+  text: After the heat of Casablanca and Fes, the Rif Mountains air in Chefchaouen felt great. Our driver Rachid gave us a good few hours free to wander the blue medina before dinner.
+- name: Zofia W.
+  date: 13/04/2025
+  likes: 0
+  stars: 3
+  title: Solid trip, some driving days ran long
+  text: Content-wise this covers a lot of ground and all of it worthwhile, but the Rabat to Fes stretch via Meknes and Volubilis made for a long day with three stops packed in. Would have appreciated a bit more breathing room in the schedule.
+- name: Marcus P.
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Clean loop back to Tangier
+  text: Coast, capital, imperial cities, blue mountain town, all in a week, and ending right back where we started made logistics easy.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

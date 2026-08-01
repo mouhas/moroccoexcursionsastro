@@ -166,7 +166,77 @@ faqs:
   aHtml: <p>Sí, el itinerario se puedes personalizar completamente. Puedes añadir noches adicionales en Marrakech, Fez o Chefchaouen, o acortar el tour para centrarte solo en regiones específicas.</p>
 - q: ¿Qué otros tours recomiendas?
   aHtml: <p>Si dispone de más tiempo en Marruecos, te recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
-reviews: []
+- q: ¿Merece la pena la excursión de un día a las cascadas de Ouzoud?
+  aHtml: <p>Sí, es uno de los días más memorables del recorrido. Las cascadas de Ouzoud son las más altas de Marruecos y el camino hasta los miradores incluye una caminata corta pero muy bonita, con monos de Berbería jugando entre los árboles cerca del agua.</p>
+- q: ¿Por qué el tour termina en Essaouira y no directamente en Marrakech?
+  aHtml: <p>Essaouira añade un contraste distinto al viaje, después de tantos días entre montañas, medinas y desierto, sus murallas frente al Atlántico, el puerto pesquero y el marisco fresco son un cierre relajado antes de volver a Casablanca.</p>
+- q: ¿Cómo es el alojamiento en el desierto durante la noche en Merzouga?
+  aHtml: <p>Duermes en un campamento en las dunas de Erg Chebbi, con opción estándar o de lujo. Ambas incluyen cena, música bereber junto al fuego y noche bajo un cielo lleno de estrellas, pero el campamento de lujo ofrece tiendas más amplias con baño privado.</p>
+- q: ¿Qué ropa necesito para un viaje que combina desierto y costa atlántica?
+  aHtml: <p>Necesitarás capas para adaptarte a climas muy distintos, ropa ligera y protección solar para el desierto, y un cortavientos para Essaouira, que puede ser bastante ventosa. Un calzado cómodo para las medinas y una chaqueta de abrigo para las noches en Merzouga son imprescindibles.</p>
+- q: ¿Es posible hacer este tour de 12 días viajando solo?
+  aHtml: <p>Sí, muchos viajeros hacen este recorrido en solitario. El tour es privado, así que tendrás el vehículo y el conductor solo para ti, aunque el precio por persona es más alto que viajando en pareja o grupo.</p>
+reviews:
+- name: Marta G.
+  date: 20/02/2025
+  likes: 0
+  stars: 5
+  title: Rabat y Fez, dos ciudades muy distintas
+  text: La Kasbah de los Udayas en Rabat con tanta calma y luego el caos organizado de la medina de Fez unos días después fue un contraste precioso. Nuestro guía en Fez nos llevó a talleres de cuero que jamás habríamos encontrado solos.
+- name: Fernanda O.
+  date: 11/04/2025
+  likes: 1
+  stars: 5
+  title: Khamlia y el desierto, lo mejor de los 12 días
+  text: El paseo en camello al llegar a Merzouga fue precioso, pero la música gnawa en Khamlia esa misma noche nos emocionó todavía más. Hassan, nuestro conductor, cantaba con ellos como si fuera de la familia.
+- name: Oliver K.
+  date: 03/06/2025
+  likes: 0
+  stars: 5
+  title: Essaouira, el final perfecto
+  text: Después de tantos días de montañas y desierto, llegar a Essaouira y comer marisco recién sacado del puerto fue un regalo. Las murallas frente al Atlántico y el ambiente relajado de la medina cierran el viaje de maravilla.
+- name: Anna S.
+  date: 25/07/2025
+  likes: 0
+  stars: 5
+  title: Ouzoud, una parada que no me esperaba disfrutar tanto
+  text: Pensé que la excursión a las cascadas sería solo un añadido, pero terminó siendo uno de mis días favoritos. Ver los monos de Berbería tan cerca del sendero y las pozas verdes bajo la cascada fue precioso.
+- name: Nicolas B.
+  date: 14/09/2025
+  likes: 0
+  stars: 4
+  title: Ifrane y Azrou, un cambio de paisaje total
+  text: Pasar de las montañas del Rif a Ifrane, con sus casas de estilo europeo, y luego ver los macacos en el bosque de cedros de Azrou fue una sorpresa agradable. El viaje es largo en coche, así que hay que tener paciencia entre etapa y etapa.
+- name: Brandon K.
+  date: 08/10/2025
+  likes: 0
+  stars: 5
+  title: Las gargantas del Todra me impresionaron de verdad
+  text: Los acantilados del Todra son mucho más altos de lo que esperaba, casi 300 metros de roca a cada lado. El valle del Dades al día siguiente, con sus curvas y sus kasbahs, también merece toda la fama que tiene.
+- name: Lucía A.
+  date: 29/11/2025
+  likes: 0
+  stars: 5
+  title: Doce días que se sintieron como cuatro viajes distintos
+  text: Norte, desierto, montañas y costa, todo en un mismo recorrido privado sin tener que preocuparnos de la logística. Ait Benhaddou al atardecer fue de los momentos que más recuerdo, con esas casas de barro que parecen un decorado de cine.
+- name: Daniela M.
+  date: 16/01/2026
+  likes: 0
+  stars: 4
+  title: Muy completo, algún hotel algo pequeño
+  text: El itinerario en sí es excelente, con guías locales muy buenos en Fez y Marrakech. La habitación del riad en Essaouira era bastante pequeña para dos personas, pero el resto del viaje compensó de sobra ese detalle.
+- name: Marco F.
+  date: 22/02/2026
+  likes: 0
+  stars: 5
+  title: Volubilis y Meknes, una tarde de historia
+  text: Las ruinas romanas de Volubilis con sus mosaicos todavía visibles y la puerta de Bab Mansour en Meknes nos dieron una idea clara de las distintas capas de historia que tiene Marruecos, todo en la misma tarde antes de llegar a Fez.
+- name: Bram D.
+  date: 10/04/2026
+  likes: 1
+  stars: 5
+  title: El té con la familia nómada, algo muy especial
+  text: La parada para conocer a una familia nómada en el desierto cerca de Merzouga fue mucho más auténtica de lo que esperaba, nada de montaje turístico. Rachid, nuestro conductor esos días, nos tradujo la conversación con mucha paciencia.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1ses!2ses!4v1755433740429!5m2!1ses!2ses

@@ -106,7 +106,7 @@ faqs:
   aHtml: <p>Sim, todas as refeições estão incluídas. Poderá desfrutar da cozinha tradicional marroquina, com pratos como tagine, cuscuz, pão fresco, saladas e uma variedade de chás. São fornecidos almoços tipo piquenique durante as visitas às aldeias e travessias do deserto.</p>
 - q: São fornecidos camelos ou temos de fazer toda a caminhada a pé?
   aHtml: <p>Uma caravana de camelos acompanha a caminhada. Pode optar por andar de camelo em trechos mais longos ou caminhar ao lado dele. Os camelos transportam bagagem e suprimentos, tornando a viagem mais confortável.</p>
-- q: What should I pack for the trek?
+- q: O que devo levar para a caminhada?
   aHtml: '<p>Aqui está uma lista das coisas mais importantes para levar na mala:</p>
 
     <p>Sapatos confortáveis para caminhar ou sandálias</p>
@@ -124,7 +124,73 @@ faqs:
   aHtml: '<p>Este itinerário é geralmente adequado para adolescentes e adultos com boa saúde. Crianças com menos de 10 anos ou viajantes com mobilidade limitada podem ter dificuldade em caminhar na areia por longos períodos.</p>
 
     <p>Passeios de camelo e ritmo flexível ajudam a acomodar a maioria dos viajantes, mas consulte o operador turístico para questões específicas.</p>'
-reviews: []
+- q: É um trekking privado ou em grupo?
+  aHtml: <p>Este é um trekking privado. Seu grupo viaja com sua própria caravana de camelos, guia e equipe de acampamento, e o itinerário não é compartilhado com outros viajantes. Isso permite que os guias ajustem o ritmo diário da caminhada de acordo com o seu grupo.</p>
+- q: Qual é a política de cancelamento deste trekking?
+  aHtml: <p>Você pode cancelar ou alterar sua reserva gratuitamente até 1 dia antes do início do trekking. Se precisar cancelar mais perto da data de início, entre em contato conosco diretamente para conversar sobre as opções.</p>
+- q: O transporte até Merzouga está incluído no preço?
+  aHtml: <p>O transporte de ida e volta a Merzouga não está incluído neste trekking. Você precisará organizar seu próprio transporte até Merzouga, onde a caminhada de 5 dias começa e termina, e podemos ajudar a organizar um traslado ou um passeio de carro separado se você entrar em contato conosco antes da viagem.</p>
+reviews:
+- name: Amanda K.
+  date: 08/01/2025
+  likes: 0
+  stars: 5
+  title: Caravana de camelos rumo ao silêncio dourado
+  text: No primeiro dia partimos com a caravana de camelos rumo às dunas de Bouird e vimos um pôr do sol incrível antes do jantar sob as estrelas. Dormir numa tenda tradicional no meio do Saara é algo que nunca vou esquecer.
+- name: Gustavo B.
+  date: 22/02/2025
+  likes: 1
+  stars: 5
+  title: Atravessar Erg Chebbi foi o ponto alto
+  text: A longa travessia das dunas de Erg Chebbi no segundo dia foi mais cansativa do que eu esperava, mas valeu totalmente a pena. Chegar a Hassi Mardani com o céu ficando roxo pareceu uma recompensa depois de um dia inteiro caminhando.
+- name: Priscila M.
+  date: 11/03/2025
+  likes: 0
+  stars: 4
+  title: O planalto rochoso foi uma mudança interessante
+  text: Gostei que o terceiro dia nos levasse pelo Hamada du Guir, um deserto de pedras negras completamente diferente das dunas. Minhas pernas estavam cansadas ao chegarmos em Erg Znaigui, mas a noite de observação de estrelas compensou tudo.
+- name: Vinícius A.
+  date: 28/04/2025
+  likes: 0
+  stars: 5
+  title: Conhecendo a família na aldeia de Begaa
+  text: O piquenique à sombra na aldeia de Begaa, no quarto dia, foi uma das minhas partes favoritas da caminhada. Aprendemos sobre o sistema de irrigação que os moradores usam para cultivar seus palmeirais no meio do deserto.
+- name: Renata F.
+  date: 14/06/2025
+  likes: 0
+  stars: 5
+  title: Música gnawa em Khamlia
+  text: Na última manhã vimos o nascer do sol sobre Erg Znaigui e depois caminhamos até Khamlia para ouvir uma apresentação ao vivo de música gnawa com tambores e castanholas. Foi uma forma muito emocionante de encerrar cinco dias no Saara.
+- name: Leonardo T.
+  date: 30/07/2025
+  likes: 2
+  stars: 5
+  title: Cinco dias de puro silêncio no deserto
+  text: Cada noite no acampamento parecia mais tranquila que a anterior, principalmente o último acampamento em Erg Znaigui sob a Via Láctea. Nossos guias prepararam um tagine delicioso todas as noites, mesmo estando tão longe de qualquer vilarejo.
+- name: Débora S.
+  date: 16/09/2025
+  likes: 0
+  stars: 4
+  title: Boa caminhada, mas leve calçados resistentes
+  text: Caminhar por horas entre Hassi Mardani e Erg Znaigui foi mais difícil para os meus pés do que eu imaginava, então um bom calçado faz toda a diferença. Os camelos carregaram nossas bagagens o caminho todo, o que ajudou bastante.
+- name: Rodrigo P.
+  date: 01/11/2025
+  likes: 0
+  stars: 5
+  title: Um trekking privado que pareceu pessoal
+  text: Por ser um trekking privado, nosso guia nos deixou ficar mais tempo na aldeia de Begaa conversando com as famílias locais sobre suas tradições. O ritmo nunca pareceu apressado, mesmo cobrindo bastante distância todos os dias.
+- name: Mariana C.
+  date: 19/12/2025
+  likes: 1
+  stars: 5
+  title: Nascer do sol inesquecível em Erg Znaigui
+  text: O nascer do sol na última manhã sobre as dunas de Erg Znaigui foi o momento mais bonito de toda a viagem. Já tínhamos tido quatro noites de observação de estrelas incríveis, mas aquele último nascer do sol superou tudo.
+- name: Felipe G.
+  date: 12/04/2026
+  likes: 0
+  stars: 5
+  title: A melhor forma de ver o Saara de verdade
+  text: Caminhar de Merzouga até a aldeia de Begaa passando pelo Hamada du Guir nos mostrou um lado do deserto que um passeio de um dia jamais conseguiria mostrar. Cinco dias foi exatamente o tempo certo para desacelerar e aproveitar o silêncio.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1spt-pt!2spt-pt!4v1756995114878!5m2!1spt-pt!2spt-pt

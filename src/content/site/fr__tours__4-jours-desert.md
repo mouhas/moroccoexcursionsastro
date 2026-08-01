@@ -121,7 +121,75 @@ faqs:
   aHtml: <p>Oui, l'eau, les petits-déjeuners, les déjeuners et les dîners sont inclus dans le circuit.</p>
 - q: Puis-je ajouter d'autres activités dans le désert?
   aHtml: <p>Oui, les randonnées à dos de chameau font partie du circuit à Merzouga, et vous pouvez ajouter une excursion supplémentaire dans le désert en quad, en buggy ou en motocross.</p>
-reviews: []
+- q: Où commence et se termine le circuit de 4 jours dans le désert?
+  aHtml: <p>Le circuit commence et se termine à Merzouga. Si vous venez de Fès, de Marrakech ou d'une autre ville, nous pouvons organiser une prise en charge à votre riad ou hôtel et ajouter le transfert jusqu'à Merzouga avant le début de l'aventure.</p>
+- q: Que dois-je emporter pour ce voyage dans le désert?
+  aHtml: <p>Prévoyez des chaussures de marche confortables, une couche chaude pour les nuits fraîches du désert, des lunettes de soleil, de la crème solaire, ainsi qu'une écharpe ou un chapeau pour vous protéger du sable et du vent, en particulier lors des trajets en 4x4 vers Ouzina.</p>
+- q: Y a-t-il du réseau téléphonique ou du wifi au camp dans le désert et à Ouzina?
+  aHtml: <p>Le réseau devient irrégulier dès que vous quittez Merzouga. Il y a généralement un peu de réception dans le village d'Ouzina, mais elle peut disparaître complètement autour de Ramlia, de Mharech et du camp dans le désert lui-même. Prévenez donc vos proches à l'avance que vous pourriez être injoignable pendant un jour ou deux.</p>
+- q: Quelle est la meilleure période de l'année pour faire cette expédition dans le désert?
+  aHtml: <p>Le printemps et l'automne offrent les températures diurnes les plus agréables pour les trajets en 4x4 et les balades à dos de chameau, tandis que les nuits d'hiver à Ouzina et au camp peuvent être assez froides. L'été est chaud, mais le lever de soleil sur l'Erg Chebbi reste un moment fort pour de nombreux voyageurs.</p>
+reviews:
+- name: Camille Rousset
+  date: 14/01/2025
+  likes: 0
+  stars: 5
+  title: Les fossiles de Tissardmine, une vraie découverte
+  text: Nous avons commencé ce circuit de 4 jours à Merzouga, et l'oasis de Tissardmine dès le premier jour a été un moment fort auquel je ne m'attendais pas, tant de fossiles simplement posés dans la roche. Le pique-nique à l'oasis de Safsaf juste après était paisible, et la balade à dos de chameau jusqu'aux dunes pour le coucher du soleil a donné à cette première journée des allures de vraie aventure.
+- name: Benoît Lacroix
+  date: 06/02/2025
+  likes: 0
+  stars: 5
+  title: La route d'Ouzina, le vrai Maroc sans touristes
+  text: Si vous cherchez un Maroc loin des foules, c'est exactement ça. Mifis était étrange et fascinant, les musiciens gnawa de Khamlia ont fait danser tout le groupe, et suivre l'ancienne piste du rallye Dakar jusqu'à Ouzina donnait vraiment l'impression d'être isolé du monde. Notre chauffeur Youssef connaissait chaque virage.
+- name: Delphine Aubry
+  date: 25/03/2025
+  likes: 0
+  stars: 4
+  title: Des journées longues mais qui en valent la peine
+  text: La route entre les différents sites s'accumule sur quatre jours et les pistes deviennent cahoteuses, ce n'est donc pas un voyage reposant. Cela dit, voir le lever de soleil sur l'Erg Chebbi et essayer le sandboard juste après a largement compensé la fatigue.
+- name: Guillaume Renard
+  date: 17/04/2025
+  likes: 1
+  stars: 5
+  title: Une leçon d'histoire en plein milieu de nulle part
+  text: Notre guide nous a expliqué comment les mines de Mifis étaient autrefois exploitées par les Français pour le plomb et le zinc, et que le khôl utilisé par les femmes marocaines en provient également. Se tenir au bord d'un puits de 50 mètres en plein désert était surréaliste. Le dîner au camp ce soir-là, sous un ciel entièrement étoilé, était la conclusion parfaite de la journée.
+- name: Amandine Colin
+  date: 09/05/2025
+  likes: 0
+  stars: 5
+  title: Khamlia et la piste du Dakar
+  text: En version courte, les musiciens gnawa de Khamlia étaient fantastiques, les gravures rupestres près du restaurant Itrane Sahara étaient un bonus inattendu, et la route le long de la piste Paris-Dakar jusqu'à Ouzina ne ressemble à rien d'autre au Maroc.
+- name: Florian Marchal
+  date: 28/06/2025
+  likes: 0
+  stars: 5
+  title: Ramlia et la traversée de l'oued
+  text: Traverser l'oued Ghris pour rejoindre Ramlia puis Tafraoute a été un de ces moments où l'on réalise à quel point on est loin de tout. Nous nous sommes arrêtés pour un thé dans le village et notre chauffeur Rachid a discuté avec une famille locale qui nous a invités à voir leur jardin dans l'oasis. Ce sont ces petits moments qui ont marqué le voyage.
+- name: Aurore Fontanel
+  date: 11/08/2025
+  likes: 0
+  stars: 5
+  title: La porte de Bethléem et la cité perdue
+  text: Les gorges de Mharech sont minuscules comparées à celles du Todra, mais elles ont un vrai charme, et le surnom local de « porte de Bethléem » prend tout son sens en voyant la forme des palmiers contre la roche. Les ruines portugaises d'Oubahlou juste après offraient un contraste étrange et silencieux, un détour depuis Ouzina qui vaut vraiment le coup.
+- name: Sébastien Perrier
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: Le buggy en option, aucun regret
+  text: Nous avons payé un supplément pour le buggy double à travers l'Erg Chebbi le deuxième jour et cela valait chaque euro dépensé. Notre guide Karim a organisé cela sans la moindre difficulté et nous a quand même amenés à Ouzina à temps pour le dîner et une bonne nuit de sommeil avant les gorges et les ruines du troisième jour.
+- name: Margaux Dupuis
+  date: 22/10/2025
+  likes: 0
+  stars: 5
+  title: Des villages vraiment isolés
+  text: Jdaid, Ramlia, Mifis, aucun de ces endroits ne se découvre par soi-même. Quatre jours nous ont semblé être la durée idéale pour vraiment s'imprégner du rythme du désert, plutôt que de le traverser en une seule nuit comme le font beaucoup de circuits plus courts.
+- name: Nicolas Barbier
+  date: 15/12/2025
+  likes: 0
+  stars: 5
+  title: L'Erg Znaigui pour clore le voyage en beauté
+  text: La dernière matinée, en traversant les dunes de l'Erg Znaigui en direction de Merzouga, a été une belle façon tranquille de terminer après trois journées plutôt intenses. Balade à dos de chameau, coucher et lever de soleil, musique gnawa, ruines anciennes, ce circuit couvre énormément de choses en quatre jours.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sfr!2sfr!4v1757232785170!5m2!1sfr!2sfr

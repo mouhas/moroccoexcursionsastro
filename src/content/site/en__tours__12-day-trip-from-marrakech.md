@@ -194,7 +194,79 @@ faqs:
     <p>The journey continues with a visit to Morocco’s capital, Rabat, where you can see historical landmarks like the Hassan Tower and the Kasbah of the Udayas. After that, you’ll head to Casablanca, known for the impressive Hassan II Mosque and the lively Corniche.</p>
 
     <p>Finally, the tour ends back in Marrakech, giving you time to enjoy the vibrant souks, palaces, gardens, and the famous Jemaa el-Fnaa square.</p>'
-reviews: []
+- q: What's the difference between the standard and superior desert camp?
+  aHtml: <p>The standard Mouhou Camp option gives you a comfortable private tent with a real bed and shared washroom facilities, while the superior Mouhou Luxury Camp upgrade adds larger tents with private bathrooms and a more polished dining setup. Both include the same camel trek and sunset in the Erg Chebbi dunes.</p>
+- q: When is the best time to do this 12-day loop?
+  aHtml: <p>Spring and autumn suit this route best, since it combines the Atlantic coast, the desert, and mountain passes in one trip. Summer can be very hot in Merzouga, and winter nights in the desert camp and Chefchaouen get cold, so pack accordingly whichever season you choose.</p>
+- q: How much should we tip the driver and guides?
+  aHtml: '<p>Tipping is customary but not required. A common approach is around 10-15 euros per day for your driver, with a smaller separate tip for the local guides in Marrakech and Fes if you''re happy with their tour.</p>'
+- q: Is there phone or wifi signal during the desert nights?
+  aHtml: '<p>Signal is generally weak to non-existent right at the desert camp near Erg Chebbi, even though nearby Merzouga town has coverage. It''s worth telling anyone back home in advance that you may be offline for that stretch.</p>'
+- q: Can a larger group or family book this tour?
+  aHtml: <p>Yes, the price table adjusts for group size and the vehicle is upsized to an SUV, van, or minibus depending on numbers, so families and groups traveling together are easy to accommodate.</p>
+- q: With so many hotel changes, is this trip tiring?
+  aHtml: '<p>There is a fair amount of driving between Marrakech, the coast, the north, and the desert, but the two nights in Fes, two nights in the desert camp, and the built-in stops along the way (like the argan cooperative or Todra Gorges) break up the longer days so it doesn''t feel non-stop.</p>'
+reviews:
+- name: Vera M.
+  date: 15/02/2024
+  likes: 0
+  stars: 5
+  title: Argan cooperative stop was a nice surprise
+  text: 'On the way to Essaouira we stopped to watch the goats climbing the argan trees and then visited a women''s cooperative making the oil by hand. Small detail but it made the drive to the coast much more interesting than just a transit day.'
+- name: Salim T.
+  date: 03/03/2024
+  likes: 0
+  stars: 5
+  title: Khamlia and the Gaoua music
+  text: 'Our guide took us to Khamlia village to hear Gaoua music from the Gnawa community there, which wasn''t something I expected on a Merzouga itinerary. Combined with the off-road drive along the old Paris Dakar route and the nomad family visit, this was the most memorable day of the whole trip.'
+- name: Natasha C.
+  date: 21/03/2024
+  likes: 0
+  stars: 5
+  title: Two days in Fes with a real local guide
+  text: 'The guided walk through Fes el Bali, including the university at Al-Karaouine and the brass Royal Palace gates, made the medina''s maze of 9,000 alleys actually make sense. Ahmed, our guide, clearly knew the city inside out.'
+- name: Nadja B.
+  date: 09/04/2024
+  likes: 0
+  stars: 5
+  title: Sandboarding after the camel ride
+  text: We tried sandboarding on the dunes near the camp after our sunset camel ride and it was a fun bonus nobody warned us about. Great addition to an already solid desert stop.
+- name: Rui F.
+  date: 27/04/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges and the drive from Merzouga
+  text: 'Leaving the desert camp after sunrise and riding camels back before breakfast, then heading toward Tineghir through the Berber villages, was a great transition day. Walking through Todra Gorges with the stream running through the canyon was a highlight I wasn''t expecting to love as much as I did.'
+- name: Franz G.
+  date: 14/05/2024
+  likes: 0
+  stars: 5
+  title: Ouarzazate film studios and Ait Ben Haddou
+  text: 'Seeing the studio sets where Game of Thrones was filmed and then walking through Ait Ben Haddou''s mud-brick kasbah on the same day was a great pairing. Our driver Rachid gave good context on both without turning it into a lecture.'
+- name: Colin D.
+  date: 02/06/2024
+  likes: 1
+  stars: 4
+  title: Packed itinerary, worth it overall
+  text: Twelve days covering Marrakech, Essaouira, Rabat, Chefchaouen, Fes, and the desert is genuinely a lot of driving, and a couple of the transfer days ran long. That said, the souks in Marrakech and the blue streets of Chefchaouen were both excellent, and having a guide for Fes made a real difference. Just go in knowing some days are mostly in the car.
+- name: Jarrod D.
+  date: 19/06/2024
+  likes: 0
+  stars: 5
+  title: Chefchaouen after Rabat and Casablanca
+  text: The stretch from the Hassan II Mosque in Casablanca to the Oudaya Kasbah in Rabat and then up into the Rif Mountains to Chefchaouen showed three completely different sides of Morocco in two days.
+- name: Trevor T.
+  date: 07/07/2024
+  likes: 1
+  stars: 4
+  title: Solid trip, Meknes was rushed
+  text: 'Volubilis and Meknes were interesting stops with the Bab el Mansour gate being a highlight, but we only had a short lunch break there before pushing on to Fes. Everything else, especially the desert camp and Essaouira''s Skala fortress, was well paced.'
+- name: Nia R.
+  date: 20/07/2024
+  likes: 0
+  stars: 5
+  title: Marrakech souks with a local guide
+  text: Starting the trip with a guided walk through the Babouche and El-Attarine souks in Marrakech gave us the confidence to navigate the medina on our own later. The Saadian Tombs and Majorelle Garden were both quieter than I feared given how touristy Marrakech can get.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sus!4v1753800762390!5m2!1sen!2sus

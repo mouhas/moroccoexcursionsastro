@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import '../styles/newtheme-scoped.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { LANGS, homeHref, type Lang } from '../site';
@@ -11,8 +12,14 @@ interface Props {
   langAlternates?: boolean; // set true when this exact path exists for every language (home, /tours)
   section?: 'home' | 'pages' | 'tours' | 'cars';
   pslug?: string;
+  // Individual tour detail pages keep their original body content (gallery,
+  // pricing, itinerary — all still styled by global.css) — set true only for
+  // those (see [...path].astro's isTour). Header and footer use the new
+  // theme everywhere, tour pages included, so each gets its own standalone
+  // .newtheme wrapper instead of sharing one with <main>.
+  legacyTheme?: boolean;
 }
-const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false, section = 'home', pslug } = Astro.props;
+const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false, section = 'home', pslug, legacyTheme = false } = Astro.props;
 const htmlLang = lang === 'pt-br' ? 'pt-BR' : lang;
 const site = 'https://morocco-excursion.com';
 const canonical = site + Astro.url.pathname;
@@ -39,13 +46,25 @@ const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').repl
   <meta name="twitter:description" content={description} />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&family=Open+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400&family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
 </head>
 <body>
-  <Header lang={lang} section={section} pslug={pslug} />
-  <main>
-    <slot />
-  </main>
-  <Footer lang={lang} />
+  {legacyTheme ? (
+    <>
+      <Header lang={lang} section={section} pslug={pslug} />
+      <main>
+        <slot />
+      </main>
+      <Footer lang={lang} />
+    </>
+  ) : (
+    <div class="newtheme" style="display:flex;flex-direction:column;min-height:100vh">
+      <Header lang={lang} section={section} pslug={pslug} />
+      <main style="flex:1;max-width:1180px;width:100%;margin:0 auto">
+        <slot />
+      </main>
+      <Footer lang={lang} />
+    </div>
+  )}
 </body>
 </html>

@@ -102,7 +102,77 @@ faqs:
   aHtml: <p>Oui, ce sont de vraies familles qui vivent réellement dans le désert. Votre guide les connaît. Vous visitez leur véritable maison. Il ne s'agit pas d'une mise en scène. C'est un aperçu de leur vraie vie. Veuillez toujours leur demander leur accord avant de prendre une photo.</p>
 - q: Quelles autres activités puis-je faire?
   aHtml: <p>Il existe d'autres activités ludiques dans le désert. Vous pouvez également faire une balade à dos de chameau, conduire un quad ou louer un buggy dans le désert de Merzouga.</p>
-reviews: []
+- q: Quelle est la différence entre les différentes options d'excursion proposées?
+  aHtml: <p>Les options les plus courtes se concentrent sur les dunes de l'Erg Chebbi, tandis que les options plus longues ajoutent la visite d'une famille nomade, du village de Khamlia, des mines de fossiles ou même de l'oasis cachée de Safsaf. Plus l'excursion est longue, plus vous découvrez de facettes du désert.</p>
+- q: Quelle est la politique d'annulation?
+  aHtml: <p>Vous pouvez annuler ou modifier votre réservation gratuitement jusqu'à un jour avant le départ de l'excursion. Contactez-nous rapidement si votre programme change.</p>
+- q: S'agit-il d'une excursion privée?
+  aHtml: <p>Oui, le véhicule 4x4 et le chauffeur sont réservés uniquement pour vous et vos compagnons de voyage. Vous pouvez donc adapter légèrement le programme, par exemple rester plus longtemps chez les nomades ou raccourcir une étape.</p>
+- q: Le déjeuner est-il inclus dans toutes les options?
+  aHtml: <p>Le déjeuner est inclus uniquement pour les circuits de plus de trois heures. Pour les balades plus courtes, nous vous conseillons simplement d'apporter de l'eau et une petite collation.</p>
+- q: Quel est le meilleur moment de l'année pour faire cette excursion en 4x4?
+  aHtml: <p>Le printemps et l'automne offrent les températures les plus agréables pour explorer le désert. L'été peut être très chaud en milieu de journée, c'est pourquoi nous privilégions alors les départs tôt le matin ou en fin d'après-midi.</p>
+reviews:
+- name: Antoine Roche
+  date: 11/01/2025
+  likes: 0
+  stars: 5
+  title: Superbe balade sur les dunes de l'Erg Chebbi
+  text: 'Nous avons pris la formule courte pour un premier aperçu du désert et c''était parfait. La voiture qui monte et descend sur les vagues de sable donne vraiment l''impression d''être sur des montagnes russes.'
+- name: Fatima Zahra Idrissi
+  date: 06/02/2025
+  likes: 1
+  stars: 5
+  title: Rencontre inoubliable avec une famille nomade
+  text: 'Le thé à la menthe partagé sous la tente en poils de chameau avec la famille nomade était un moment très touchant. Notre chauffeur a pris le temps de tout nous expliquer sur leur mode de vie.'
+- name: Robert Schmidt
+  date: 27/03/2025
+  likes: 0
+  stars: 5
+  title: La musique gnawa de Khamlia, un vrai coup de coeur
+  text: 'Écouter les musiciens de Khamlia jouer du tambour dans cette petite maison simple était fascinant. On sent que cette musique gnawa fait vraiment partie de l''histoire de la région.'
+- name: Aicha Benali
+  date: 19/04/2025
+  likes: 0
+  stars: 4
+  title: Belle excursion, un peu longue sous le soleil
+  text: 'La formule complète est riche en découvertes, entre les fossiles, le désert noir et l''oasis de Tissardmine, mais la chaleur en milieu de journée était intense. Prévoyez bien chapeau et crème solaire.'
+- name: Lucas Moreau
+  date: 14/05/2025
+  likes: 0
+  stars: 5
+  title: L'oasis de Safsaf, un vrai bijou caché
+  text: 'Après une longue traversée du désert rocailleux, arriver à l''oasis de Safsaf au fond du canyon avec ses palmiers était magique. Le pique-nique à l''ombre était le moment parfait pour se reposer.'
+- name: Ingrid Larsen
+  date: 02/06/2025
+  likes: 2
+  stars: 5
+  title: Fossiles marins en plein désert, fascinant
+  text: 'Apprendre que tout ce désert était autrefois un océan et voir les fossiles marins que les habitants taillent et polissent était vraiment surprenant. Notre chauffeur connaissait beaucoup de détails sur cette histoire.'
+- name: Karim Ouazzani
+  date: 25/07/2025
+  likes: 0
+  stars: 5
+  title: Le désert noir, une expérience à part
+  text: 'Je ne m''attendais pas à voir un paysage aussi différent avec ces roches sombres qui recouvrent le sol au lieu du sable habituel. On avait vraiment l''impression d''être sur une autre planète.'
+- name: Helena Novakova
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: Chauffeur passionné et attentionné
+  text: 'Notre chauffeur nous a montré comment gravir un peu les plus hautes dunes pour prendre de superbes photos. Il connaissait aussi très bien le village berbère traditionnel que nous avons traversé sur le retour.'
+- name: Omar Fassi
+  date: 04/11/2025
+  likes: 0
+  stars: 5
+  title: Parfait pour découvrir plusieurs villages
+  text: 'La visite du village berbère avec ses maisons en pisé, en plus de Khamlia et des nomades, donne une vraie richesse culturelle à cette excursion en 4x4. On ne s''ennuie jamais.'
+- name: Sarah Mitchell
+  date: 20/03/2026
+  likes: 1
+  stars: 4
+  title: Bonne excursion, prévoir de bonnes chaussures
+  text: 'La marche autour des mines de fossiles est un peu caillouteuse, donc de bonnes chaussures sont utiles. Cela dit, la balade finale sur les dunes dorées d''Erg Chebbi a été le meilleur moment de la journée.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d207989.26901849997!2d-4.016495704350869!3d31.134824578958135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!5e1!3m2!1sfr!2sfr!4v1757427880845!5m2!1sfr!2sfr

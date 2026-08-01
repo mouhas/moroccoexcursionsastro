@@ -142,7 +142,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, layers for cool evenings in Chefchaouen and the desert, and a light jacket for winter nights in Merzouga and the Dades Valley are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from your hotel, the airport, or the port, making it easy to combine with a ferry crossing from Spain.</p>
-reviews: []
+- q: Should we tip our driver-guide at the end of the tour?
+  aHtml: <p>Tipping is not required but is customary in Morocco, and many travelers set aside around 10-15 euros per day for the driver-guide across the ten-day loop.</p>
+- q: Is there reliable Wi-Fi or phone signal during the desert camp night in Merzouga?
+  aHtml: '<p>Signal is weaker around Merzouga than in the cities, and the desert camp''s Wi-Fi, if available, tends to be slow, so it''s worth telling people at home you may be harder to reach that night.</p>'
+- q: What's the best time of year for this loop from Tangier?
+  aHtml: <p>Spring and autumn bring the most comfortable temperatures for both the northern coast and the Sahara stretch near Merzouga. Summer heat in the desert can be intense, and winter nights in Chefchaouen and Merzouga get cold.</p>
+- q: How many hours of driving are involved each day on average?
+  aHtml: <p>Driving days vary, with some shorter coastal hops and a few longer stretches such as Casablanca to Essaouira or Marrakech to the Dades Valley, which can run 5-6 hours with stops. The itinerary is spread over ten days specifically to avoid back-to-back long drives.</p>
+reviews:
+- name: Tobias D.
+  date: 09/02/2024
+  likes: 0
+  stars: 5
+  title: Tangier's Kasbah and the Caves of Hercules
+  text: A great first day looking out over the Strait of Gibraltar, then the whitewashed murals in Assilah the next morning before heading down toward Rabat.
+- name: Whitney P.
+  date: 27/03/2024
+  likes: 1
+  stars: 5
+  title: Essaouira's fishing port, a great pause
+  text: 'After the coastal drive down from Casablanca, a relaxed evening in Essaouira''s harbor was exactly what we needed.'
+- name: Hana Z.
+  date: 15/05/2024
+  likes: 0
+  stars: 5
+  title: Marrakech's free day, well used
+  text: Youssef let us set our own pace for the Bahia Palace and the Majorelle Garden, then joined back up for dinner recommendations in the medina.
+- name: Malika M.
+  date: 02/07/2024
+  likes: 0
+  stars: 4
+  title: Ait Ben Haddou was stunning, the early stretch felt rushed
+  text: The kasbah and the Todra Gorges a few days later were both genuinely impressive, but the run from Tangier down to Marrakech through Assilah, Rabat, Casablanca, and Essaouira in just a few days felt like a lot of driving packed together. Once we reached the desert and the mountains the pace felt right again.
+- name: Greta U.
+  date: 20/08/2024
+  likes: 0
+  stars: 5
+  title: Camel trek into Erg Chebbi at sunset
+  text: Hassan was great company on the long drive south, and the camel trek into the dunes as the light turned gold was the highlight of the whole loop, with music around the campfire after dinner.
+- name: Amira M.
+  date: 07/10/2024
+  likes: 0
+  stars: 5
+  title: Fes' tanneries and madrasas with a local guide
+  text: The medina in Fes is genuinely maze-like, so having a local guide for the free day made a big difference in actually finding the tanneries and madrasas rather than wandering in circles.
+- name: Maya H.
+  date: 25/11/2024
+  likes: 0
+  stars: 5
+  title: Chefchaouen before the drive back to Tangier
+  text: The blue lanes of Chefchaouen were quieter than I expected, and the drive back through the Rif Mountains to Tangier the next day was scenic the whole way.
+- name: Simone R.
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: A quick stop at the Hassan II Mosque
+  text: We only had an hour or so in Casablanca but seeing the mosque right on the Atlantic made the short detour worthwhile.
+- name: Rui T.
+  date: 01/03/2025
+  likes: 0
+  stars: 5
+  title: Dades Valley and the Roses Valley at Mgouna
+  text: 'The rock formations in Dades were dramatic, and the drive through Mgouna''s rose gardens the day before smelled wonderful even outside of harvest season.'
+- name: Trevor V.
+  date: 19/04/2025
+  likes: 0
+  stars: 5
+  title: Tangier round trip, smooth from start to finish
+  text: Omar handled the whole loop without a hitch, and finishing back in Tangier made it easy to catch our ferry back to Spain the next morning.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

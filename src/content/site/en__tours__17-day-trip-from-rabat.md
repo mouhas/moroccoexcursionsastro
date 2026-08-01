@@ -171,6 +171,14 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, swimwear for the coastal stops, and a warm layer for cool evenings in Chefchaouen and the desert are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Rabat, with pickup available from your hotel, the airport, or the train station, making it convenient to combine with onward travel.</p>
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>Bookings can be cancelled or rescheduled free of charge up to 1 day before departure. This flexibility makes it easy to adjust your plans if your travel dates change.</p>'
+- q: Is this a private tour or a group tour?
+  aHtml: '<p>This is a fully private tour, so you will travel with only your own group in a private air-conditioned vehicle with a dedicated driver-guide. There is no joining other travelers, and the pace and stops can be adjusted to suit you.</p>'
+- q: What is the best time of year to take this 17-day tour?
+  aHtml: '<p>Spring (March to May) and autumn (September to November) offer the most comfortable temperatures for both the Mediterranean coast and the Sahara. Summer can be very hot in Merzouga, while winter brings cooler evenings in Chefchaouen and the desert, so pack accordingly.</p>'
+- q: Is the camel trek and desert camp night safe and comfortable?
+  aHtml: '<p>Yes, the camel trek into the Erg Chebbi dunes is gentle and suitable for most travelers, and the desert camp offers proper beds, dinner, and toilet facilities rather than basic tents. Anyone who prefers not to ride a camel can be driven directly to the camp by 4x4 instead.</p>'
 reviews:
 - name: Paola
   date: 13/08/2024
@@ -178,6 +186,60 @@ reviews:
   stars: 5
   title: Amazing Experience
   text: Highly recommended tour, thank to Mohammed
+- name: Marta L.
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: 'A Mediterranean surprise'
+  text: 'We weren''t expecting much from Al Hoceima and Saidia, but that stretch of coast turned out to be one of the highlights of the whole 17 days. It was quiet, beautiful, and completely different from the usual Morocco tour route.'
+- name: Julien P.
+  date: 22/03/2025
+  likes: 1
+  stars: 5
+  title: 'Chefchaouen stole the show'
+  text: 'Our driver gave us a full afternoon to wander the blue streets of Chefchaouen and it was magical. The whole 17-day loop from Rabat felt well paced, with just enough time in each place.'
+- name: Tom H.
+  date: 09/05/2025
+  likes: 0
+  stars: 4
+  title: 'Long but worth it'
+  text: 'Seventeen days is a lot of driving, and by the free day in Fes we were ready for a break from the car. That said, getting a local guide through the Fes medina and tanneries made it worth every hour on the road.'
+- name: Anika S.
+  date: 30/06/2025
+  likes: 0
+  stars: 5
+  title: 'Loved the extra desert day'
+  text: 'Most tours only give you one night in Merzouga, so having a free day to do a 4x4 excursion into the dunes on top of the camel trek was fantastic. Our guide even arranged a visit to a nomad family nearby.'
+- name: Ricardo M.
+  date: 18/08/2025
+  likes: 2
+  stars: 5
+  title: 'Ait Ben Haddou was unreal'
+  text: 'Walking through the kasbah at Ait Ben Haddou after seeing it in movies for years was a real moment. Our driver-guide knew all the film history and pointed out where different scenes were shot.'
+- name: Sophie D.
+  date: 05/10/2025
+  likes: 0
+  stars: 5
+  title: 'Taroudant and Agadir were a nice change'
+  text: 'After the desert, stopping in Taroudant felt like a calmer version of Marrakech, and the beach time in Agadir was a welcome rest. This route covers so much more of Morocco than the shorter tours we looked at.'
+- name: Liam O''Connor
+  date: 21/11/2025
+  likes: 0
+  stars: 3
+  title: 'Great route, tired by the end'
+  text: 'The itinerary itself is excellent and covers parts of Morocco most tourists never see, like Saidia. My only complaint is that a couple of the hotels along the way were basic, though the driver and desert camp were great.'
+- name: Chiara B.
+  date: 12/01/2026
+  likes: 1
+  stars: 5
+  title: 'Essaouira and Marrakech were perfect'
+  text: 'The free day in Marrakech let us take our time in the Majorelle Garden and the souks without feeling rushed, and Essaouira the day before was so relaxing by comparison. A great way to end a long trip.'
+- name: Noah K.
+  date: 27/03/2026
+  likes: 0
+  stars: 5
+  title: 'Full circle back to Rabat'
+  text: 'Finishing with a stop at the Hassan II Mosque in Casablanca before heading back to Rabat tied the whole trip together nicely. Seventeen days felt like we actually saw the real Morocco, not just the highlights reel.'
 rating: 5.0
 reviewCount: 100
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sRabat%2C%20Morocco!4m1!2sCasablanca%2C%20Morocco

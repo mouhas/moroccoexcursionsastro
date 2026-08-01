@@ -98,7 +98,77 @@ faqs:
   aHtml: <p>Le moment idéal pour cette randonnée est au printemps (janvier-mai) ou en automne (septembre-novembre), lorsque les températures sont modérées et agréables. Les étés peuvent être extrêmement chauds, rendant les longues marches épuisantes, tandis que les nuits d'hiver peuvent être très froides, il est donc essentiel de s'habiller convenablement. Le lever et le coucher du soleil sont les moments les plus beaux pour découvrir les dunes, quelle que soit la saison.</p>
 - q: Avez-vous d'autres randonnées similaires?
   aHtml: <p>Oui, nous proposons d'autres circuits de randonnée de 3, 4 et 5 jours. Il est également possible de faire une randonnée d'une seule journée. N'hésitez pas à nous contacter si vous recherchez une randonnée sur mesure.</p>
-reviews: []
+- q: Peut-on ajouter une balade à dos de chameau en plus du trek à pied?
+  aHtml: <p>Oui, il est tout à fait possible de combiner la marche dans les dunes avec une courte balade à dos de chameau, notamment pour l'arrivée au coucher de soleil ou le départ du campement le lendemain matin.</p>
+- q: Que deviennent nos bagages pendant que nous marchons dans le désert?
+  aHtml: <p>Vos bagages sont transportés séparément, généralement à dos d'âne ou en véhicule 4x4, et vous attendent directement au campement dans le désert. Vous ne portez qu'un petit sac de jour avec de l'eau et vos effets personnels pendant la marche.</p>
+- q: Ce trek convient-il aux voyageurs seuls?
+  aHtml: <p>Oui, ce trek de 2 jours convient très bien aux voyageurs seuls comme aux couples ou petits groupes. Vous serez accompagné par un guide berbère local pendant toute la durée de la marche.</p>
+- q: Y a-t-il du réseau téléphonique pendant la nuit au campement dans le désert?
+  aHtml: <p>Le réseau mobile est généralement faible ou inexistant une fois dans les dunes de l'Erg Chebbi. C'est justement l'occasion de se déconnecter complètement et de profiter du silence du Sahara et du ciel étoilé.</p>
+- q: Où et à quelle heure commence le trek de 2 jours?
+  aHtml: <p>Le trek débute le matin à Merzouga, où vous rencontrez votre guide berbère local. Si vous logez à Merzouga ou aux alentours, la prise en charge à votre hébergement peut être organisée avant le départ dans les dunes.</p>
+reviews:
+- name: Solène Guérin
+  date: 06/02/2025
+  likes: 0
+  stars: 5
+  title: Une manière lente et magnifique de découvrir l'Erg Chebbi
+  text: Marcher dans les dunes plutôt que les traverser en 4x4 change complètement la perception du désert. On a pris le temps d'observer les motifs du vent sur le sable, c'était vraiment reposant malgré la chaleur.
+- name: Piotr Kowalski
+  date: 19/06/2025
+  likes: 1
+  stars: 5
+  title: Grimper les dunes de 150 mètres, un vrai effort récompensé
+  text: La montée sur les plus hautes dunes en fin d'après-midi est fatigante mais la vue depuis le sommet sur l'océan de sable doré vaut chaque goutte de sueur. Le dîner et la musique berbère le soir étaient un très bon moment de détente.
+- name: Brigitte Faure
+  date: 02/10/2025
+  likes: 0
+  stars: 4
+  title: Beau trek, prévoir une bonne condition physique
+  text: 'Le guide nous avait prévenus : marcher sur le sable mou pendant 5 à 6 heures est plus fatigant qu''on ne le pense. On a adoré l''expérience mais je ne la conseillerais pas à quelqu''un qui n''a pas l''habitude de marcher longtemps.'
+- name: Connor Walsh
+  date: 15/01/2026
+  likes: 0
+  stars: 5
+  title: Coucher et lever de soleil sur les dunes, à couper le souffle
+  text: Les deux moments forts de ce trek sont sans conteste le coucher de soleil le premier soir et le lever de soleil depuis une dune voisine le lendemain matin. Deux spectacles complètement différents mais tout aussi magiques.
+- name: Léa Toussaint
+  date: 28/04/2025
+  likes: 0
+  stars: 5
+  title: Notre guide Hassan connaissait chaque dune par cœur
+  text: Hassan nous a fait découvrir des petits détails qu'on n'aurait jamais remarqués seuls, comme les traces d'animaux du désert le matin. Le retour à Merzouga par un chemin différent le deuxième jour offre de nouveaux points de vue superbes.
+- name: Matteo Greco
+  date: 11/08/2025
+  likes: 0
+  stars: 5
+  title: Une nuit sous les étoiles inoubliable
+  text: Loin de toute pollution lumineuse, la Voie lactée était incroyablement visible depuis notre tente. Le tajine servi au dîner était délicieux et les tambours autour du feu ont créé une ambiance vraiment chaleureuse.
+- name: Ursula Brandt
+  date: 24/11/2025
+  likes: 0
+  stars: 3
+  title: Beau trek mais chaleur difficile en milieu de journée
+  text: Nous avons fait ce trek en fin d'été et la marche entre midi et 15h était vraiment éprouvante malgré les pauses à l'ombre. Le guide gérait bien le rythme du groupe, mais je recommanderais plutôt le printemps ou l'automne pour ce trek.
+- name: Noémie Beaulieu
+  date: 07/03/2026
+  likes: 1
+  stars: 5
+  title: Rencontre avec des familles nomades sur le chemin du retour
+  text: Le deuxième jour, notre guide nous a fait passer près d'une famille nomade installée en bordure du désert rocheux, un moment simple mais très touchant avant de rentrer à Merzouga.
+- name: Callum Stewart
+  date: 20/05/2025
+  likes: 0
+  stars: 5
+  title: Le meilleur moyen de vraiment ressentir le Sahara
+  text: Contrairement à une excursion en 4x4, marcher dans les dunes donne le temps d'apprécier le silence et l'immensité du désert. Le repas berbère à l'ombre le midi, avec pain frais et thé à la menthe, était simple mais parfait.
+- name: Wiebke Hansen
+  date: 03/09/2025
+  likes: 0
+  stars: 5
+  title: Deux jours parfaits pour les amateurs de marche
+  text: Le rythme de 5 à 6 heures de marche par jour était exactement ce qu'on cherchait, ni trop facile ni trop extrême. Le campement entre les dunes était très bien situé, presque invisible jusqu'à ce qu'on soit dessus.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sfr!2sfr!4v1757162605013!5m2!1sfr!2sfr

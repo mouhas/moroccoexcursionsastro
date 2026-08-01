@@ -166,7 +166,77 @@ faqs:
   aHtml: <p>Sì, l'itinerario può essere completamente personalizzato. È possibile aggiungere notti extra a Marrakech, Fes o Chefchaouen, oppure abbreviare il tour per concentrarsi solo su regioni specifiche.</p>
 - q: Quali altri tour consigliate?
   aHtml: <p>Se avete più tempo a disposizione in Marocco, vi consigliamo un <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 15 giorni</strong></a>, <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>20 giorni</strong></a> o anche il <a href="https://morocco-excursion.com/it/tours/30-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>tour di 30 giorni del Marocco</strong></a>.</p>
-reviews: []
+- q: Che tipo di sistemazione è prevista durante il tour di 12 giorni?
+  aHtml: <p>Soggiornerete in hotel di categoria media o riad tradizionali nelle medine, con una notte in un campo nel deserto a Merzouga (opzione standard o di lusso). A Essaouira e Chefchaouen gli alloggi sono spesso piccoli riad con molto carattere.</p>
+- q: Quanto è impegnativo fisicamente questo tour?
+  aHtml: <p>Il livello di attività è moderato. Camminerete nelle medine di Fes e Marrakech su terreni irregolari e farete una breve escursione a piedi alle cascate di Ouzoud. Il giro in cammello a Merzouga dura circa un'ora ed è adatto a quasi tutti.</p>
+- q: Le escursioni facoltative come quad o mongolfiera sono organizzabili durante il viaggio?
+  aHtml: <p>Sì, attività come i tour in quad a Merzouga o la mongolfiera a Marrakech possono essere aggiunte durante il viaggio, in base alla disponibilità locale. Il costo non è incluso nel prezzo base del tour.</p>
+- q: Qual è il periodo migliore per visitare Essaouira e il deserto nello stesso viaggio?
+  aHtml: <p>La primavera e l'autunno offrono il miglior equilibrio, temperature piacevoli a Essaouira sulla costa e non troppo calde a Merzouga. L'estate può essere molto calda nel deserto, mentre l'inverno porta notti fredde nel campo, ma resta comunque un buon periodo per visitare le città.</p>
+- q: È previsto lo stesso autista per l'intero viaggio di 12 giorni?
+  aHtml: <p>Sì, lo stesso autista esperto vi accompagna dall'inizio alla fine del tour, mentre guide locali specializzate si uniscono a Fes e Marrakech per le visite guidate della medina.</p>
+reviews:
+- name: Elena G.
+  date: 03/03/2025
+  likes: 0
+  stars: 5
+  title: Da Casablanca a Essaouira, un viaggio completo
+  text: Dodici giorni perfetti per vedere il Marocco senza correre troppo. Le cascate di Ouzoud sono state una sorpresa bellissima, con le scimmie che saltano tra gli alberi lungo il sentiero. E finire il viaggio a Essaouira con il pesce fresco al porto dopo tanti giorni nell'entroterra è stato il tocco perfetto.
+- name: Francesca B.
+  date: 21/07/2025
+  likes: 0
+  stars: 5
+  title: Le dune di Erg Chebbi al tramonto
+  text: Il momento più bello è stato senza dubbio il trekking in cammello verso il campo nel deserto, con la guida Brahim che ci raccontava aneddoti sulla vita nomade mentre il sole tramontava dietro le dune. La mattina dopo abbiamo anche incontrato una famiglia nomade vicino a Merzouga, un'esperienza autentica e toccante.
+- name: Oliver B.
+  date: 09/10/2025
+  likes: 0
+  stars: 4
+  title: Ottimo itinerario ma giornate di guida lunghe
+  text: Dodici giorni intensi che coprono davvero tutto, da Chefchaouen fino a Essaouira sull'Atlantico. Alcuni giorni in auto sono stati lunghi, in particolare da Fes a Merzouga, ma i paesaggi della valle dello Ziz ripagano ogni ora di viaggio. Consigliato a chi ama vedere tanto in un solo viaggio.
+- name: Nicolas B.
+  date: 15/12/2025
+  likes: 1
+  stars: 5
+  title: Meknes e le rovine di Volubilis
+  text: Non mi aspettavo che Meknes fosse così affascinante, la porta Bab Mansour è imponente. Poco dopo le rovine romane di Volubilis con i loro mosaici ci hanno lasciato senza parole. Il viaggio prosegue con lo stesso ritmo fino a Essaouira, dove il vento e il porto pieno di barche blu chiudono il viaggio in bellezza.
+- name: Michael B.
+  date: 27/04/2025
+  likes: 0
+  stars: 5
+  title: Windsurf e souk, un mix perfetto
+  text: Essaouira alla fine del tour è stata una scelta azzeccata, dopo giorni tra medine e deserto è bello rilassarsi vicino all'oceano. Prima di arrivare lì, però, il campo nel deserto a Merzouga con la musica Gnawa a Khamlia resta il ricordo più forte di tutto il viaggio.
+- name: Javier G.
+  date: 06/02/2026
+  likes: 0
+  stars: 5
+  title: La Kasbah di Ait Benhaddou, impressionante
+  text: Il passo di Tizi n'Tichka che attraversa l'Alto Atlante per arrivare a Marrakech offre panorami incredibili, e la Kasbah di Ait Benhaddou poco prima è ancora più bella del previsto, sembra davvero un castello di sabbia. La nostra guida ci ha spiegato quali film sono stati girati lì, molto interessante.
+- name: Stefan M.
+  date: 19/08/2025
+  likes: 0
+  stars: 4
+  title: Viaggio molto bello, piccola osservazione
+  text: Il tour è ben organizzato e l'autista molto professionale. L'unica cosa che segnalo è che a Ouarzazate l'hotel era un po' sotto le aspettative rispetto agli altri alloggi del viaggio. Per il resto, le Gole del Todra e la Valle del Dades sono state tra i momenti migliori insieme al campo nel deserto.
+- name: Charlotte D.
+  date: 11/06/2026
+  likes: 0
+  stars: 5
+  title: Un'avventura di dodici giorni indimenticabile
+  text: Dalla Moschea Hassan II a Casablanca fino alla spiaggia di Essaouira, ogni giorno portava qualcosa di nuovo. Il giro in cammello a Merzouga e la notte nel campo nel deserto restano il ricordo più bello, ma anche le cascate di Ouzoud con le scimmie barbaresche sono state una piacevole sorpresa a metà viaggio.
+- name: Ashley T.
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: La notte nel deserto è stata magica
+  text: Dopo giorni passati tra Fes e le montagne del Medio Atlante, arrivare a Merzouga e vedere le dune di Erg Chebbi per la prima volta è stato incredibile. Il nostro autista Omar ci ha portato anche a conoscere una famiglia nomade, un momento semplice ma molto sincero che ricorderemo a lungo.
+- name: Diego L.
+  date: 14/01/2026
+  likes: 0
+  stars: 5
+  title: Chefchaouen e il deserto, contrasti bellissimi
+  text: Le strade blu di Chefchaouen e le dune dorate del Sahara sembrano due mondi diversi, eppure fanno parte dello stesso viaggio. Il pernottamento nel campo a Merzouga con cena berbera e musica al fuoco è stato il momento clou, ma anche Essaouira alla fine, con il suo porto e la brezza dell'Atlantico, merita una menzione speciale.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1sit!2sit!4v1755433740429!5m2!1sit!2sit

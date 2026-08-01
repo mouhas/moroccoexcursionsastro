@@ -77,7 +77,77 @@ faqs:
   aHtml: <p>Los campamentos de lujo ofrecen tiendas privadas con cómodas camas, baños y duchas. Los campamentos estándar son más sencillos, con baños compartidos e instalaciones básicas.</p>
 - q: ¿Ofrecéis otras excursiones por el desierto en Merzouga?
   aHtml: <p>Sí, además de paseos en camello, también organizamos <a href="/es/tours/merzouga-excursion-quad" rel="noopener" target="_blank"><strong>excursiones en quad</strong></a>, aventuras en buggy y <a href="/es/tours/excursion-4x4-merzouga" rel="noopener" target="_blank"><strong>excursiones todoterreno 4x4 por el desierto</strong></a> para explorarlo. Estas excursiones pueden incluir visitas a familias nómadas, pueblos bereberes y lugares recónditos del desierto. Si prefieres no montar en camello, puedes ir en 4x4 o quad y pasar la noche en el campamento.</p>
-reviews: []
+- q: ¿Cuál es la política de cancelación de esta excursión?
+  aHtml: <p>Ofrecemos cancelación flexible y puedes cancelar sin coste incluso el mismo día de la excursión. Aun así, te recomendamos avisarnos con la mayor antelación posible, ya que reservamos tu plaza en el campamento del desierto por adelantado.</p>
+- q: ¿Es una excursión en grupo o privada?
+  aHtml: <p>Esta excursión en camello es un tour en grupo, por lo que compartirás el paseo por las dunas y el campamento con otros viajeros. Es una forma estupenda de conocer gente nueva mientras disfrutas de la puesta de sol y de la música bereber alrededor de la hoguera.</p>
+- q: ¿Es apta esta excursión para niños o personas mayores?
+  aHtml: <p>Los niños suelen disfrutar mucho del paseo en camello y del campamento, aunque recomendamos que vayan siempre acompañados durante el trayecto. Por seguridad, no aconsejamos el paseo en camello a mujeres embarazadas, personas con problemas graves de espalda o cadera, ni a viajeros mayores de 70 años, aunque siempre pueden acceder al campamento en vehículo.</p>
+- q: ¿Cuál es la mejor época del año para hacer esta excursión?
+  aHtml: <p>La primavera y el otoño ofrecen temperaturas más suaves, ideales tanto para el paseo en camello como para la noche en el campamento. En pleno verano las temperaturas diurnas pueden superar los 40 grados, mientras que en invierno las noches en el desierto son bastante frías.</p>
+- q: ¿Debo llevar dinero en efectivo para las bebidas?
+  aHtml: <p>Sí, las bebidas no están incluidas en el precio, así que te recomendamos llevar algo de efectivo en euros o dirhams para comprar agua, refrescos u otras bebidas en el campamento. La cena y el desayuno ya están incluidos en el precio de la excursión.</p>
+reviews:
+- name: Fatima El Amrani
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: El té a la menta al llegar fue un detalle precioso
+  text: Llegamos al campamento justo cuando se ponía el sol y nos recibieron con un té a la menta buenísimo. La cena con tagine y cuscús estuvo deliciosa y la música bereber alrededor del fuego fue el broche perfecto de la noche.
+- name: Jonas Bergström
+  date: 03/03/2025
+  likes: 1
+  stars: 5
+  title: Una hora en camello que se pasa volando
+  text: El paseo en camello por las dunas de Erg Chebbi hasta el campamento dura solo una hora, pero es inolvidable, sobre todo cuando paramos en lo alto de una duna para ver la puesta de sol. Dormir bajo las estrellas en el Sáhara fue una experiencia única.
+- name: Priya Nair
+  date: 22/04/2025
+  likes: 0
+  stars: 4
+  title: Campamento estándar sencillo pero auténtico
+  text: Elegimos el campamento estándar y aunque los baños son compartidos, la experiencia fue muy auténtica. El sandboard después de instalarnos en la tienda fue divertidísimo, aunque subir la duna de nuevo cansa bastante.
+- name: Marco Rinaldi
+  date: 09/05/2025
+  likes: 0
+  stars: 5
+  title: El amanecer del segundo día vale la pena madrugar
+  text: Nos levantamos temprano para subir a una duna cercana y ver el amanecer sobre el desierto, una vista todavía más bonita que la puesta de sol de la noche anterior. Después del desayuno volvimos en camello a Merzouga con una luz preciosa.
+- name: Charlotte Bennett
+  date: 30/06/2025
+  likes: 2
+  stars: 5
+  title: Música bereber junto a la hoguera, un momento mágico
+  text: Después de la cena, los guías tocaron los tambores junto a la hoguera y nos animaron a bailar con ellos. El cielo estrellado del Sáhara, sin ninguna luz alrededor, fue algo que no había visto nunca.
+- name: Kenji Watanabe
+  date: 18/08/2025
+  likes: 0
+  stars: 5
+  title: El campamento de lujo mereció cada euro extra
+  text: Pagamos el suplemento por el campamento de lujo y la tienda privada con ducha y baño propio fue muy cómoda después de un día entero en el desierto. La cena estuvo muy bien servida y el personal fue muy amable en todo momento.
+- name: Amara Diallo
+  date: 05/10/2025
+  likes: 0
+  stars: 5
+  title: Aparcamiento gratuito y buena organización desde el principio
+  text: Llegamos en nuestro propio coche y pudimos dejarlo aparcado gratis en la oficina de Merzouga mientras hacíamos la excursión. Todo estuvo muy bien organizado, desde el paseo en camello hasta la vuelta al día siguiente.
+- name: Tobias Hoffmann
+  date: 27/11/2025
+  likes: 0
+  stars: 3
+  title: Buena experiencia aunque el paseo en camello resulta incómodo
+  text: El entorno de las dunas de Erg Chebbi es espectacular y la cena y la música bereber estuvieron muy bien, pero el paseo en camello se me hizo bastante incómodo sin pantalones largos. Aun así, la puesta de sol desde la duna compensó cualquier molestia.
+- name: Isabela Fonseca
+  date: 14/01/2026
+  likes: 0
+  stars: 5
+  title: Perfecto para viajar en grupo y conocer gente
+  text: Al ser una excursión en grupo, coincidimos con otros viajeros de varios países y la noche en el campamento se convirtió en una fiesta improvisada con los tambores bereberes. El desayuno de la mañana siguiente fue muy completo antes de volver en camello.
+- name: Ryan O'Sullivan
+  date: 09/03/2026
+  likes: 1
+  stars: 5
+  title: Sandboard en las dunas, la sorpresa del viaje
+  text: No esperaba que el sandboard fuera tan divertido, deslizarse por las dunas doradas cerca del campamento fue una de las mejores partes del día. Eso sí, subir de nuevo cansa muchísimo, así que hay que ir con calzado cómodo.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1ses!2ses!4v1756312207723!5m2!1ses!2ses

@@ -95,7 +95,75 @@ faqs:
   aHtml: <p>Bring closed walking shoes, sunscreen, a hat or scarf, sunglasses, a flashlight, and a light jacket for cool desert nights, plus warmer layers if traveling in winter.</p>
 - q: Where does pickup happen in Agadir?
   aHtml: <p>Your driver-guide will meet you at your hotel, riad, or the airport in Agadir early in the morning on day one. Let us know your pickup location and preferred time when booking.</p>
-reviews: []
+- q: Is 3 days really enough to experience the Sahara properly?
+  aHtml: <p>You'll get one full night in the desert camp with the sunset camel trek, campfire, and a sunrise walk in the dunes, which is enough for a genuine taste of the Sahara, though it's brisk. If you'd rather slow down, we also run 4 and 5-day versions of this same Agadir to Marrakech route with an extra night in the desert.</p>
+- q: Can I add an extra night in Merzouga to this itinerary?
+  aHtml: <p>Yes, this is a private tour, so we can extend the desert camp stay to two nights or add a rest day, which shifts this into our 4-day version of the route. Let us know when booking if you'd like a slower pace.</p>
+- q: What's the best time of year to cross the Tizi n'Test and Tizi n'Tichka passes?
+  aHtml: <p>Spring and autumn offer the clearest, mildest conditions on both mountain passes. In winter, snow occasionally closes or slows sections of Tizi n'Test, so check conditions with us if you're traveling between December and February.</p>
+- q: I have an onward flight or bus from Marrakech, will we arrive in time?
+  aHtml: <p>The tour typically arrives in Marrakech in the evening of day three, so we recommend booking onward travel for the following morning rather than the same night, in case of delays on the mountain roads.</p>
+reviews:
+- name: Simone K.
+  date: 05/02/2025
+  likes: 0
+  stars: 5
+  title: Tizi n'Test on day one was already worth the trip
+  text: Taroudant's ramparts were a nice stop, but the drive over Tizi n'Test with valley views the whole way down toward Ouarzazate was the real highlight of day one for me, before we'd even reached the desert.
+- name: Rafael O.
+  date: 18/03/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges in the morning, camels at sunset
+  text: Walking through the Todra Gorges walls felt massive up close, and a few hours later we were on camels heading into Erg Chebbi as the sky turned orange. Efficient itinerary that still delivers the big moments.
+- name: Dorothea M.
+  date: 02/05/2025
+  likes: 1
+  stars: 4
+  title: Brisk pace, but the one desert night delivered
+  text: Be aware this is a fast tour, one night in the Dades Valley and one in the desert camp before a long return day. We'd have liked a bit more time in Merzouga, but the campfire and stars that single night were still fantastic.
+- name: Connor T.
+  date: 21/06/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou on the way back was a great final stop
+  text: Our driver Ahmed timed the Ait Ben Haddou visit well on day three before the Tizi n'Tichka crossing into Marrakech. Nice way to end a one-way trip that covered two completely different mountain passes.
+- name: Silvia P.
+  date: 09/08/2025
+  likes: 0
+  stars: 5
+  title: Perfect if you're headed to Marrakech anyway
+  text: We needed to get from Agadir to Marrakech regardless, so doing it via the desert instead of the direct road was an easy decision. Genuinely felt like we got two trips in one.
+- name: Piotr Z.
+  date: 30/09/2025
+  likes: 0
+  stars: 3
+  title: Good desert night, day three felt rushed
+  text: The sunset camel trek and desert camp were excellent, but the sunrise walk the next morning was cut short because we needed to get moving early for the long drive back through Ouarzazate. Worth it overall, just go in knowing day three is a lot of driving.
+- name: Anneke V.
+  date: 14/11/2025
+  likes: 0
+  stars: 5
+  title: Skoura's palm groves before the Dades Valley
+  text: The drive through Skoura's palm groves on day one set up the Dades Valley overnight nicely, dramatic red rock formations right outside the hotel. Good first night before pushing on to the gorges and the dunes.
+- name: Gabriel R.
+  date: 28/12/2025
+  likes: 0
+  stars: 4
+  title: Short and efficient, campfire night was the highlight
+  text: Definitely a fast-moving 3 days, but the desert camp with music around the fire made up for the rushed feeling on the road. Would consider the longer version next time for a more relaxed pace.
+- name: Wren A.
+  date: 16/01/2026
+  likes: 0
+  stars: 5
+  title: Desert detour between two cities, exactly as advertised
+  text: Needed to get to Marrakech and got a night in the Sahara along the way. Can't complain.
+- name: Otto B.
+  date: 04/04/2025
+  likes: 0
+  stars: 5
+  title: Two mountain passes and a desert camp in 3 days
+  text: Tizi n'Test going out, Tizi n'Tichka coming back, and a night under the stars in Erg Chebbi in between. Great value for a short trip.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sAgadir%2C%20Morocco!4m1!2sMarrakech%2C%20Morocco

@@ -72,7 +72,77 @@ faqs:
   aHtml: <p>Numa excursão curta de quadriciclo, poderá apreciar as dunas e parar para tirar fotos nos pontos mais altos. As excursões médias geralmente incluem visitas a famílias nómadas ou ao lado mais distante de Erg Chebbi. As excursões mais longas podem levá-lo a oásis escondidos, incluir um almoço tradicional e até mesmo dar-lhe a oportunidade de experimentar o sandboard.</p>
 - q: Posso adicionar também os passeios de 4x4 e buggy?
   aHtml: <p>Sim, é possível fazer passeios de ATV e depois outra excursão pelo deserto em 4x4 ou um passeio de buggy nas dunas.</p>
-reviews: []
+- q: Qual é a diferença entre o quadriciclo individual e o duplo?
+  aHtml: <p>O quadriciclo individual é ideal para quem quer conduzir sozinho com total independência, enquanto o quad duplo permite que duas pessoas partilhem o mesmo veículo, uma ótima opção para casais ou amigos. O preço do quad duplo é mais alto, mas dividido entre os dois passageiros costuma sair mais em conta.</p>
+- q: Há idade mínima para conduzir o quadriciclo?
+  aHtml: <p>Sim, normalmente é exigida uma idade mínima de 16 anos para conduzir sozinho. Crianças mais novas podem participar sentadas atrás de um adulto no quad duplo, sempre sob a supervisão do guia local.</p>
+- q: O que devo vestir para o passeio de quadriciclo?
+  aHtml: <p>Recomendamos roupas confortáveis que cubram braços e pernas, sapatos fechados e óculos de sol. Fornecemos capacete e óculos de proteção, mas um lenço para proteger o nariz e a boca da areia é muito útil, especialmente nos passeios mais longos.</p>
+- q: É um passeio privado ou partilhado com outros grupos?
+  aHtml: <p>É um passeio privado, então irá com o seu grupo e um guia dedicado, sem se juntar a outros viajantes. Isso permite escolher o horário de partida e ajustar o ritmo do passeio às suas preferências.</p>
+- q: Qual é a política de cancelamento?
+  aHtml: <p>Pode cancelar gratuitamente até um dia antes da data marcada para o passeio. Recomendamos avisar-nos com antecedência caso os seus planos mudem, para que possamos reorganizar o guia e o quadriciclo para outros viajantes.</p>
+reviews:
+- name: Fabio Rodrigues
+  date: 13/01/2025
+  likes: 0
+  stars: 5
+  title: Dunas douradas em todas as direções
+  text: Escolhemos o passeio curto de duas horas e foi perfeito para começar, o guia levou-nos às dunas mais altas de Erg Chebbi para fotos incríveis. O capacete e os óculos fornecidos foram essenciais contra a areia.
+- name: Charlotte Wilson
+  date: 05/02/2025
+  likes: 1
+  stars: 5
+  title: Chá de menta com uma família berbere
+  text: O passeio de quatro horas levou-nos além das primeiras dunas até uma família nómada que ainda vive em tenda, um momento muito autêntico. As crepes marroquinas caseiras foram a surpresa mais gostosa do dia.
+- name: David Levi
+  date: 24/03/2025
+  likes: 0
+  stars: 4
+  title: Condução cansativa mas linda
+  text: O quad duplo com a minha esposa foi divertido, mas depois de seis horas na areia fofa os braços já estavam cansados. A paragem no oásis escondido com almoço tradicional compensou todo o esforço.
+- name: Ana Beatriz Silva
+  date: 12/04/2025
+  likes: 0
+  stars: 5
+  title: Sandboard inesquecível
+  text: No passeio mais longo conseguimos experimentar o sandboard perto do oásis, um complemento fantástico depois de tantas horas de condução. O nosso guia conhecia caminhos longe das multidões que nenhum outro grupo cruzava.
+- name: Youssef Amrani
+  date: 20/05/2025
+  likes: 0
+  stars: 5
+  title: Perfeito para quem nunca conduziu um quadriciclo
+  text: Nunca tinha conduzido um quadriciclo antes, então escolhi o passeio de uma hora e foi a escolha certa. O guia explicou tudo com calma antes de partirmos entre as dunas de Erg Chebbi.
+- name: Anja Schmidt
+  date: 30/06/2025
+  likes: 2
+  stars: 5
+  title: Pôr do sol nas dunas com o quad duplo
+  text: Reservámos o quad duplo no final da tarde e ver o sol a pôr-se sobre as dunas douradas ainda em cima do quadriciclo foi mágico. O preço dividido entre nós tornou a experiência ainda mais em conta.
+- name: Lucas Pereira
+  date: 14/08/2025
+  likes: 0
+  stars: 5
+  title: Vistas panorâmicas de tirar o fôlego
+  text: Subimos pequenas colinas do deserto de onde se via todo o Erg Chebbi, uma vista que não vou esquecer facilmente. O passeio de três horas teve a duração certa para não cansar demais.
+- name: Giulia Marino
+  date: 02/10/2025
+  likes: 0
+  stars: 5
+  title: Um oásis verde no meio do deserto
+  text: Não esperava atravessar um verdadeiro oásis cheio de palmeiras durante o passeio de quadriciclo, um contraste lindo com as dunas douradas ao redor. O guia tornou tudo seguro e divertido mesmo para iniciantes.
+- name: Benjamin Cooper
+  date: 22/11/2025
+  likes: 0
+  stars: 3
+  title: Bom mas o percurso curto passa rápido
+  text: O passeio de uma hora é agradável, mas termina muito rápido, da próxima vez vamos reservar pelo menos quatro horas para chegar até às famílias nómadas. Ainda assim, conduzir nas dunas de Erg Chebbi continua a ser uma experiência única.
+- name: Freya Andersen
+  date: 10/01/2026
+  likes: 0
+  stars: 5
+  title: Tajine cozinhado com carinho
+  text: No passeio mais longo partilhámos um tajine preparado pela população local perto de um oásis escondido, um momento simples mas inesquecível. Recomendo a todos reservar o passeio mais longo para viver o deserto de verdade.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1spt-br!2spt-br!4v1757252086435!5m2!1spt-br!2spt-br

@@ -29,7 +29,7 @@ img{max-width:100%;display:block}
 .btn.blue:hover{background:var(--blue-dk)}
 .btn.sm{padding:9px 18px;font-size:14px}
 .eyebrow{text-transform:uppercase;letter-spacing:.16em;font-size:12.5px;font-weight:700;color:var(--orange-dk)}
-.stars{display:inline-flex;gap:2px;color:var(--orange-dk)}
+.stars{display:inline-flex;gap:2px;color:#ef7c45}
 .stars svg{width:15px;height:15px;fill:currentColor;stroke:none}
 
 /* HEADER */
@@ -183,7 +183,7 @@ section.pad{padding:70px 0}
 .tour-info-row .ti.link:hover b{color:var(--orange-dk)}
 .print-btn{background:none;border:0;font:inherit;padding:0;margin-left:auto}
 @media(max-width:680px){.print-btn{margin-left:0}}
-.tour-info-row .stars{color:var(--orange-dk)}
+.tour-info-row .stars{color:#ef7c45}
 
 /* KNOW BEFORE YOU GO */
 .kbyg{background:var(--blue-lt);border-radius:var(--r);padding:20px 22px;margin-bottom:22px}
@@ -212,7 +212,7 @@ section.pad{padding:70px 0}
 }
 
 /* SUB-NAV (Overview / Itinerary / Included / Reviews / FAQ) — highlights active section on scroll */
-.subnav{position:sticky;top:72px;z-index:40;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 2px 10px rgba(20,50,90,.04)}
+.subnav{position:sticky;top:75px;z-index:40;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 2px 10px rgba(20,50,90,.04)}
 .subnav .wrap{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}
 .subnav .wrap::-webkit-scrollbar{display:none}
 .subnav a{white-space:nowrap;padding:16px 16px;font-size:14.5px;font-weight:600;color:var(--muted);border-bottom:3px solid transparent;transition:.15s}

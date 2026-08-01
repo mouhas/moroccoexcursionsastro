@@ -120,7 +120,73 @@ faqs:
     <p>Articoli da toeletta personali (alcuni campi forniscono servizi di base)</p>'
 - q: Questo trekking è adatto ai bambini o agli anziani?
   aHtml: <p>Questo itinerario è generalmente adatto a adolescenti e adulti in buona salute. I bambini sotto i 10 anni o i viaggiatori con mobilità ridotta potrebbero trovare difficile camminare sulla sabbia per lunghi periodi. Le escursioni in cammello e il ritmo flessibile aiutano ad accontentare la maggior parte dei viaggiatori, ma si consiglia di consultare il tour operator per questioni specifiche.</p>
-reviews: []
+- q: È un trekking privato o di gruppo?
+  aHtml: '<p>Si tratta di un trekking privato. Il tuo gruppo viaggia con la propria carovana di cammelli, la propria guida e il proprio staff del campo, e l''itinerario non viene condiviso con altri viaggiatori. Questo permette alle guide di adattare il ritmo di cammino giornaliero al tuo gruppo.</p>'
+- q: Qual è la politica di cancellazione per questo trekking?
+  aHtml: '<p>Puoi cancellare o modificare la tua prenotazione gratuitamente fino a un giorno prima dell''inizio del trekking. Se hai bisogno di cancellare più vicino alla data di partenza, contattaci direttamente per discutere le tue opzioni.</p>'
+- q: Il trasporto per Merzouga è incluso nel prezzo?
+  aHtml: '<p>Il trasporto da e per Merzouga non è incluso in questo trekking. Dovrai organizzare autonomamente il tuo trasporto fino a Merzouga, dove inizia e termina il trekking di 5 giorni, e possiamo aiutarti a organizzare un transfer o un tour di guida separato se ci contatti prima del tuo viaggio.</p>'
+reviews:
+- name: Alessia F.
+  date: 10/01/2025
+  likes: 0
+  stars: 5
+  title: Carovana di cammelli nel silenzio dorato
+  text: Il primo giorno siamo partiti con la carovana di cammelli verso le dune e abbiamo ammirato un tramonto incredibile prima di cenare sotto le stelle. Dormire in una tenda tradizionale nel cuore del Sahara è qualcosa che non dimenticherò mai.
+- name: Giacomo P.
+  date: 24/02/2025
+  likes: 1
+  stars: 5
+  title: L'attraversata dell'Erg Chebbi è stata il momento clou
+  text: La lunga traversata delle dune dell'Erg Chebbi il secondo giorno è stata più faticosa del previsto, ma ne è valsa assolutamente la pena. Arrivare al villaggio di Hassi Mardani con il cielo che si tingeva di viola è stata una vera ricompensa dopo una giornata intera di cammino.
+- name: Serena D.
+  date: 15/03/2025
+  likes: 0
+  stars: 4
+  title: L'altopiano roccioso è stato un bel cambiamento
+  text: Mi è piaciuto che il terzo giorno ci abbia portati attraverso l'Hamada du Guir, un deserto di pietra nera completamente diverso dalle dune. Le gambe erano stanche quando siamo arrivati all'Erg Znaigui, ma la notte a osservare le stelle ha ripagato ogni sforzo.
+- name: Tommaso V.
+  date: 29/04/2025
+  likes: 0
+  stars: 5
+  title: L'incontro con la famiglia al villaggio di Begaa
+  text: Il pranzo al sacco all'ombra al villaggio di Begaa il quarto giorno è stato uno dei momenti che ho preferito del trekking. Abbiamo imparato come gli abitanti usano il sistema di irrigazione per coltivare i loro palmeti in mezzo al deserto.
+- name: Michela R.
+  date: 12/06/2025
+  likes: 0
+  stars: 5
+  title: Musica Gnaoua a Khamlia
+  text: L'ultima mattina abbiamo ammirato l'alba sull'Erg Znaigui e poi siamo andati a piedi fino a Khamlia per ascoltare un'esibizione dal vivo di musica Gnaoua con tamburi e nacchere. Un modo commovente per concludere cinque giorni nel Sahara.
+- name: Filippo N.
+  date: 31/07/2025
+  likes: 2
+  stars: 5
+  title: Cinque giorni di puro silenzio del deserto
+  text: Ogni notte nel campo del deserto sembrava più pacifica della precedente, soprattutto l'ultimo bivacco all'Erg Znaigui sotto la Via Lattea. Le nostre guide ci hanno cucinato un delizioso tajine ogni sera, anche se eravamo lontanissimi da qualsiasi villaggio.
+- name: Camilla B.
+  date: 18/09/2025
+  likes: 0
+  stars: 4
+  title: Bel trekking ma portate scarpe robuste
+  text: Camminare sulla sabbia per ore tra Hassi Mardani e l'Erg Znaigui è stato più duro per i piedi di quanto pensassi, quindi le scarpe giuste contano davvero. I cammelli hanno portato i nostri bagagli per tutto il tragitto, il che ha aiutato molto.
+- name: Amine El K.
+  date: 05/11/2025
+  likes: 0
+  stars: 5
+  title: Un trekking privato che è sembrato su misura
+  text: Essendo un trekking privato, la nostra guida ci ha lasciato fermarci più a lungo al villaggio di Begaa per parlare con le famiglie locali delle loro tradizioni. Il ritmo non è mai sembrato frettoloso, anche se ogni giorno percorrevamo molta strada.
+- name: Valentina G.
+  date: 22/12/2025
+  likes: 1
+  stars: 5
+  title: Alba indimenticabile all'Erg Znaigui
+  text: L'alba dell'ultima mattina sulle dune dell'Erg Znaigui è stato il momento più bello dell'intero viaggio. Avevamo già vissuto quattro notti di osservazione delle stelle incredibili, ma quell'ultima alba ha superato tutto.
+- name: Riccardo S.
+  date: 20/05/2026
+  likes: 0
+  stars: 5
+  title: Il modo migliore per vedere il vero Sahara
+  text: Il trekking da Merzouga attraverso l'Hamada du Guir fino al villaggio di Begaa ci ha mostrato un lato del deserto che una breve gita di un giorno non potrebbe mai offrire. Cinque giorni sono sembrati esattamente il tempo giusto per rallentare e godersi il silenzio.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sit!2sit!4v1756995114878!5m2!1sit!2sit

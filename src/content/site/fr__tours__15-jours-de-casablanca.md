@@ -174,7 +174,77 @@ faqs:
   aHtml: '<p>Cet itinéraire vous offre le meilleur du Maroc en deux semaines : les villes impériales, le désert du Sahara, les montagnes de l''Atlas et la côte atlantique. Vous découvrirez la culture, l''histoire, la nature et la vie locale en un seul voyage.</p>'
 - q: Recommandez-vous d'autres circuits similaires?
   aHtml: <p>Oui, si vous recherchez un voyage plus long, consultez nos <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuits de 20 jours</strong></a> et <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
-reviews: []
+- q: Ce circuit de 15 jours est-il physiquement exigeant?
+  aHtml: '<p>Le rythme est soutenu avec plusieurs longs trajets en voiture, mais les efforts physiques restent modérés : marche dans les médinas, dans les gorges du Todra et balade à dos de chameau. Une bonne condition physique générale suffit, sans expérience de randonnée particulière.</p>'
+- q: S'agit-il d'un circuit privé ou partagé avec d'autres voyageurs?
+  aHtml: <p>Ce circuit de 15 jours est entièrement privé. Vous voyagez avec votre chauffeur dédié, sans autre groupe ajouté, ce qui permet d'ajuster le rythme entre Tanger, le désert et la côte selon vos envies.</p>
+- q: Quelle est la meilleure période pour un circuit aussi complet, du nord au désert et à la côte?
+  aHtml: '<p>Le printemps et l''automne restent les meilleures saisons, car ils évitent la chaleur extrême de Merzouga en été et les nuits très froides du désert en hiver. La côte, à Essaouira ou Taghazout, reste agréable presque toute l''année grâce à la brise atlantique.</p>'
+- q: Le pourboire est-il vraiment à prévoir, sachant qu'il est exclu de l'offre?
+  aHtml: <p>Oui, le pourboire n'est pas inclus dans le prix du circuit mais reste une pratique courante et appréciée au Maroc. Prévoyez environ 5 à 10 euros par jour pour le chauffeur, et un montant similaire pour les guides à Fès et à Marrakech.</p>
+- q: Que dois-je emporter pour un circuit qui traverse autant de régions différentes?
+  aHtml: '<p>Prévoyez des vêtements légers pour Essaouira et Taghazout, une veste chaude pour les nuits à Chefchaouen et dans le désert, de bonnes chaussures de marche pour les médinas et les gorges du Todra, ainsi qu''un maillot de bain pour les étapes côtières comme Sidi Ifni ou Agadir.</p>'
+reviews:
+- name: Frédéric Simon
+  date: 09/02/2025
+  likes: 0
+  stars: 5
+  title: Quinze jours pour tout voir du Maroc, ou presque
+  text: 'De la mosquée Hassan II à Casablanca jusqu''à la médina d''Essaouira, en passant par les grottes d''Hercule à Tanger et la nuit à dos de chameau à Merzouga, ce circuit couvre une variété incroyable de paysages. Notre chauffeur Rachid était impeccable du début à la fin.'
+- name: Claudia Berger
+  date: 28/05/2025
+  likes: 1
+  stars: 5
+  title: Chefchaouen et le cap Spartel, deux ambiances magiques
+  text: Le cap Spartel où l'Atlantique rencontre la Méditerranée était bien plus beau que je ne l'imaginais, et Chefchaouen quelques heures plus tard nous a offert un tout autre univers avec ses ruelles bleues. Un très bon départ de circuit.
+- name: Élise Marchetti
+  date: 14/09/2025
+  likes: 0
+  stars: 4
+  title: Fès et ses tanneries, fascinant mais long trajet ensuite
+  text: 'La visite des tanneries Chouara et de l''université Al Quaraouiyine à Fès était un des grands moments du séjour. Par contre, la route vers Merzouga le lendemain via Azrou est vraiment longue, même si les macaques dans la forêt de cèdres ont bien occupé la pause.'
+- name: Patrick Doyle
+  date: 03/12/2025
+  likes: 0
+  stars: 5
+  title: Les villages abandonnés du désert, un moment fort inattendu
+  text: On ne s'attendait pas à visiter des villages abandonnés et des zones riches en fossiles autour de Merzouga. La rencontre avec une famille nomade et leur thé à la menthe sous la tente restera un des souvenirs les plus authentiques du voyage.
+- name: Ines Rocha
+  date: 22/03/2026
+  likes: 0
+  stars: 5
+  title: La vallée des mille kasbahs et Ouarzazate, superbe
+  text: La vallée du Dadès avec toutes ses kasbahs en terre et la vallée des roses juste avant Ouarzazate étaient magnifiques. Aït Ben Haddou le lendemain, avec ses murs d'argile qui ressemblent à un château de sable, est un des sites les plus impressionnants du Maroc.
+- name: Werner Zimmermann
+  date: 07/07/2025
+  likes: 0
+  stars: 5
+  title: Taroudant et Sidi Ifni, une belle découverte hors des sentiers battus
+  text: Peu de circuits proposent Taroudant, la « petite Marrakech » entourée de remparts rouges, ni Sidi Ifni avec son architecture Art déco espagnole. Ces étapes moins connues ont rendu le voyage encore plus intéressant que prévu.
+- name: Margaux Lemoine
+  date: 30/10/2025
+  likes: 1
+  stars: 5
+  title: Taghazout et Essaouira, la partie côtière est un vrai bonus
+  text: Après le désert et les montagnes, arriver à Taghazout puis Essaouira avec son port de pêche animé et ses remparts portugais était un très bon changement de rythme. On a adoré se promener dans la médina d'Essaouira.
+- name: Tobias Richter
+  date: 16/01/2026
+  likes: 0
+  stars: 3
+  title: Circuit très riche mais parfois trop chargé
+  text: Le contenu est impressionnant, mais quinze jours avec autant d'étapes, c'est parfois un peu fatigant, surtout les longues journées de route entre Ouarzazate et Sidi Ifni. Le désert et Chefchaouen restent malgré tout les grands moments du voyage.
+- name: Aurélie Chevalier
+  date: 12/04/2025
+  likes: 0
+  stars: 5
+  title: Marrakech en clôture, un final éblouissant
+  text: Le palais Bahia, les jardins Majorelle et la place Jemaa el-Fnaa le soir ont clôturé ce voyage de la plus belle des manières. Un immense merci à notre guide qui connaissait chaque recoin de la médina de Marrakech.
+- name: Liam Foster
+  date: 25/06/2026
+  likes: 0
+  stars: 5
+  title: Le meilleur moyen de découvrir tout le Maroc en un seul voyage
+  text: De Rabat à Marrakech en passant par le Sahara et la côte atlantique, ce circuit de 15 jours donne vraiment un aperçu complet du pays. Les nuits dans le campement du désert et à Essaouira ont été mes deux coups de cœur personnels.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755608529674!5m2!1sfr!2sfr

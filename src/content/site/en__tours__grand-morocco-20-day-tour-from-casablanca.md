@@ -135,7 +135,77 @@ faqs:
   aHtml: <p>The desert activities that are included are camel trekking, Sandboarding, 4x4 off-road excursion, night at a desert camp. The extra possible activities are the ATV and buggy excursions.</p>
 - q: Is there another tour similar to the 20 day tour from Casablanca?
   aHtml: <p>If you are looking for similar tours to this 20-day tour, please check the <a href="https://morocco-excursion.com/tours/30-day-tour-from-casablanca/" rel="noopener" target="_blank"><strong>30-day tour</strong></a> or the <a href="/tours/10-day-marrakech-tour" rel="noopener" target="_blank"><strong>10-day tour from Marrakech</strong></a>. Both include the best cities of Morocco.</p>
-reviews: []
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>Bookings can be cancelled or rescheduled free of charge up to 1 day before departure. This gives some flexibility if your travel plans change close to the start date.</p>'
+- q: Is this a private tour or a group tour?
+  aHtml: '<p>This is a fully private tour, so you will travel with only your own group in a private air-conditioned vehicle with a dedicated driver throughout the 20 days. The pace, hotel category, and order of some stops can be adjusted to suit you.</p>'
+- q: What is the best time of year for this 20-day tour?
+  aHtml: '<p>Spring (March to May) and autumn (September to November) offer the most comfortable weather across the coast, mountains, and desert sections of this route. Summer can be very hot in Merzouga, while winter brings cold nights in the desert and the Middle Atlas.</p>'
+- q: What type of accommodation is used during the tour?
+  aHtml: '<p>The tour uses a mix of hotels and riads in the cities, plus a desert camp for the night in Merzouga, all with breakfast and dinner included. Standard and luxury accommodation options are both available depending on your budget.</p>'
+- q: Where does the tour start and end?
+  aHtml: '<p>The tour starts with an airport pickup in Casablanca and ends in Marrakech, with a transfer available to either the Marrakech or Casablanca airport for your departure flight. This makes it easy to fly into one city and out of the other.</p>'
+reviews:
+- name: Vanessa T.
+  date: 10/01/2025
+  likes: 0
+  stars: 5
+  title: 'The full Morocco experience'
+  text: 'Twenty days sounded long at first, but every region felt different, from the Hassan II Mosque in Casablanca to the blue streets of Chefchaouen. This is the trip to take if you really want to see the whole country.'
+- name: Marco D.
+  date: 24/02/2025
+  likes: 1
+  stars: 5
+  title: 'Chefchaouen and the Rif were a highlight'
+  text: 'We had a full day just to wander Chefchaouen''s blue medina and it was one of the best days of the whole trip. The drive through the Rif Mountains beforehand was gorgeous too.'
+- name: Renata O.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: 'Volubilis and Fes were fascinating'
+  text: 'Seeing the Roman ruins at Volubilis before heading into Fes gave us such a good sense of Morocco''s layered history. The full day guided tour of the Fes medina and tanneries was equally impressive.'
+- name: Samuel K.
+  date: 02/06/2025
+  likes: 0
+  stars: 4
+  title: 'Long trip, incredible variety'
+  text: 'This tour covers so much ground that some travel days between Fes and Merzouga were long, but the payoff was watching the sunset from a camel in the Erg Chebbi dunes. Well worth the driving time.'
+- name: Ines P.
+  date: 19/07/2025
+  likes: 2
+  stars: 5
+  title: 'Meeting a nomad family'
+  text: 'The day we spent visiting nomad families near Merzouga and learning about their daily life was unlike anything else on the trip. It gave real context to the desert landscapes we''d been driving through.'
+- name: Callum R.
+  date: 05/09/2025
+  likes: 0
+  stars: 5
+  title: 'Todra Gorges and the Valley of Roses'
+  text: 'Driving from the desert through the Todra Gorges and then the Valley of Roses on the way to Ouarzazate was a stunning stretch of the trip. Our driver knew exactly where to stop for the best photos.'
+- name: Giulia F.
+  date: 23/10/2025
+  likes: 0
+  stars: 5
+  title: 'Ouarzazate film studios were fun'
+  text: 'Visiting the film studios in Ouarzazate after seeing the kasbahs was a fun change of pace from the natural scenery. Sidi Ifni a couple of days later was a quiet coastal surprise none of us had heard of before.'
+- name: Bilal H.
+  date: 11/12/2025
+  likes: 1
+  stars: 5
+  title: 'Taghazout and Essaouira by the coast'
+  text: 'Stopping in Taghazout to watch the surfers before reaching Essaouira''s medina gave the trip a totally different feel from the desert and mountains earlier on. A full day in Essaouira was just the right amount of time.'
+- name: Naomi S.
+  date: 28/01/2026
+  likes: 0
+  stars: 5
+  title: 'Marrakech and Ouzoud to finish'
+  text: 'Ending with the Bahia Palace and Majorelle Gardens in Marrakech, plus a day trip to the Ouzoud Waterfalls, was a great way to close out 20 days on the road. Everything was well organized from start to finish.'
+- name: Anders L.
+  date: 14/03/2026
+  likes: 0
+  stars: 4
+  title: 'A serious itinerary but worth it'
+  text: 'This is not a relaxed trip, there is a lot of driving and a lot to see, but that''s exactly what we wanted for our first visit to Morocco. Azrou''s cedar forest and the macaques were an unexpected favorite stop.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1755675314275!5m2!1sen!2sen

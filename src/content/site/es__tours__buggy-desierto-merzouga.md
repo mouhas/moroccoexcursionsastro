@@ -77,7 +77,75 @@ faqs:
   aHtml: <p>Disponemos de buggies con asientos para dos personas y buggies más grandes para cuatro personas.</p>
 - q: ¿Por qué elegir un buggy en lugar de un quad?
   aHtml: <p>Los buggies son más grandes que los quads, más estables y cómodos, lo que los hace ideales para familias, parejas o cualquier persona que desee mayor seguridad sin dejar de disfrutar de la aventura en el desierto. Para explorar el desierto de Merzouga, recomendamos encarecidamente las excursiones en buggy y las excursiones en 4x4 por el desierto.</p>
-reviews: []
+- q: ¿Qué debo llevar para la excursión en buggy?
+  aHtml: <p>Te recomendamos llevar calzado cerrado, gafas de sol y un pañuelo o bandana para proteger la cara del polvo. También es buena idea llevar agua y crema solar, especialmente en las excursiones de varias horas que pasan más tiempo bajo el sol del desierto.</p>
+- q: ¿Cuál es la política de cancelación?
+  aHtml: <p>Puedes cancelar esta excursión sin cargo hasta el mismo día de la actividad. Te recomendamos avisarnos con la mayor antelación posible si tus planes cambian.</p>
+- q: ¿Puedo elegir la duración de la excursión?
+  aHtml: <p>Sí, ofrecemos excursiones de 1 a 2 horas, de 3 a 4 horas y de 5 a 6 horas, tanto en buggy para 2 personas como en buggy para 4 personas. Cuanto más larga sea la excursión, más lejos llegarás en el desierto y más paradas podrás hacer.</p>
+- q: ¿La excursión incluye visitas a familias nómadas u oasis?
+  aHtml: <p>Sí, las excursiones de 3 a 4 horas y de 5 a 6 horas suelen incluir una parada en un campamento de familias nómadas para tomar té a la menta, así como una visita a un pequeño oasis con palmeras. Las excursiones cortas de 1 a 2 horas se centran principalmente en las dunas de Erg Chebbi.</p>
+reviews:
+- name: Carlos
+  date: 11/01/2025
+  likes: 0
+  stars: 5
+  title: Adrenalina pura en las dunas
+  text: Reservamos la excursión de 3 a 4 horas y fue una de las mejores experiencias de nuestro viaje a Marruecos. Conducir por las dunas de Erg Chebbi es más emocionante de lo que esperaba y la parada con la familia nómada para tomar té a la menta fue muy especial. Nuestro guía fue paciente y nos explicó todo antes de empezar.
+- name: Laura
+  date: 24/02/2025
+  likes: 1
+  stars: 5
+  title: Perfecto para principiantes
+  text: Era la primera vez que conducía un buggy y me sentí segura en todo momento gracias a las indicaciones del guía. La excursión corta de una hora fue suficiente para disfrutar de las vistas desde lo alto de las dunas. Volvería a repetir sin duda en un viaje más largo.
+- name: Thomas
+  date: 15/03/2025
+  likes: 0
+  stars: 4
+  title: Gran aventura, un poco movido
+  text: El recorrido de cinco horas nos llevó a zonas del desierto que casi no ve nadie, con dunas enormes y mucho silencio. El camino es bastante accidentado en algunas partes, así que si tienes problemas de espalda mejor elige un trayecto más corto. El almuerzo tradicional en el oasis fue un gran final para la excursión.
+- name: Ana
+  date: 02/05/2025
+  likes: 0
+  stars: 5
+  title: Una tarde inolvidable en el Sáhara
+  text: Hicimos la excursión de dos personas en buggy y las vistas desde la cima de Erg Chebbi fueron espectaculares al atardecer. Nuestro guía local conocía perfectamente las pistas y nos llevó a rincones muy tranquilos del desierto. Los crepes marroquíes que nos ofrecieron en el campamento nómada estaban deliciosos.
+- name: Marco
+  date: 19/06/2025
+  likes: 2
+  stars: 5
+  title: Ideal para toda la familia
+  text: Fuimos con nuestros hijos y pudimos alquilar un buggy grande para cuatro personas, mucho más cómodo y estable que un quad. Los niños disfrutaron muchísimo cruzando las dunas doradas y haciendo fotos desde los miradores. El equipo de seguridad que nos dieron nos hizo sentir muy tranquilos durante todo el recorrido.
+- name: Sofía
+  date: 07/08/2025
+  likes: 0
+  stars: 5
+  title: El oasis fue una sorpresa maravillosa
+  text: No esperaba que la excursión larga incluyera una parada en un oasis con palmeras tan bonito en medio del desierto. El tajín que comimos allí fue uno de los mejores que probamos en todo el viaje. Conducir el buggy por las pistas del desierto fue más fácil de lo que imaginaba.
+- name: David
+  date: 25/09/2025
+  likes: 0
+  stars: 5
+  title: Guías muy profesionales
+  text: Desde el primer momento el guía nos explicó las normas de seguridad y nos ayudó a sentirnos cómodos conduciendo el buggy por la arena blanda. Las vistas del atardecer sobre las dunas de Erg Chebbi fueron impresionantes. Repetiríamos esta excursión sin dudarlo.
+- name: Helena
+  date: 13/11/2025
+  likes: 1
+  stars: 4
+  title: Divertido pero cansado tras varias horas
+  text: La excursión de cuatro horas fue muy completa, con paradas en zonas escondidas del desierto y una visita a una familia nómada. Después de un rato conduciendo por dunas irregulares notamos algo de cansancio en el cuello, así que recomendamos hacer pausas. Aun así la experiencia mereció totalmente la pena.
+- name: Miguel
+  date: 04/01/2026
+  likes: 0
+  stars: 5
+  title: La mejor forma de ver el Sáhara
+  text: Alquilamos el buggy para dos personas durante seis horas y llegamos hasta zonas del desierto que apenas reciben visitantes. La parada en el oasis con palmeras para el almuerzo fue tranquila y muy agradable después de tanta adrenalina. El guía local conocía cada duna y cada camino como la palma de su mano.
+- name: Claudia
+  date: 22/02/2026
+  likes: 0
+  stars: 5
+  title: Excelente relación calidad precio
+  text: Comparamos varias opciones en Merzouga y esta excursión en buggy fue sin duda la mejor decisión. El paisaje desde lo alto de las dunas de Erg Chebbi es impresionante y el té a la menta con la familia nómada fue un detalle muy bonito. Sin duda recomendaría esta actividad a cualquiera que visite el desierto.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!2d-4.001314!3d31.129742999999998!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!5e1!3m2!1ses!2ses!4v1757418298032!5m2!1ses!2ses

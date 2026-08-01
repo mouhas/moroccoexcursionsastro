@@ -81,6 +81,18 @@ faqs:
   aHtml: '<p>Yes, there are other day trips similar to the Essaouira day trip. One popular option is a <a href="/tours/ouzoud-day-trip-from-marrakech" rel="noopener" target="_blank"><strong>day trip to the Ouzoud Waterfalls</strong></a>, which is about a three-hour drive from Marrakech. There, you can enjoy beautiful waterfalls, stunning mountain views, and even see wild monkeys.</p>
 
     <p>Another great alternative is a <a href="/tours/day-trip-to-ourika" rel="noopener" target="_blank"><strong>day trip to Ourika Valley</strong></a>, located closer to Marrakech. This trip takes you through the High Atlas Mountains, traditional Berber villages, and peaceful riverside spots, with the option to hike to nearby waterfalls. Both trips offer a nice mix of nature, culture, and relaxation like the Essaouira day tour.</p>'
+- q: What is included in the price of this day trip?
+  aHtml: '<p>The price includes private transportation in an air-conditioned vehicle and an experienced driver who speaks multiple languages. Lunch and drinks are not included, so travelers can choose a seafood restaurant in Essaouira that fits their taste and budget.</p>'
+- q: Is this a private tour or a shared group tour?
+  aHtml: '<p>This is a private tour, so the vehicle and driver are reserved only for your group. The schedule can be adjusted, for example by starting earlier or spending more time at the argan oil cooperative or in the medina.</p>'
+- q: What is the cancellation policy for this day trip?
+  aHtml: '<p>Bookings can be cancelled or changed free of charge up to 1 day before the trip date. This makes it easy to adjust plans if the weather changes or the schedule needs to move.</p>'
+- q: Is the stop at the argan oil cooperative worth the time?
+  aHtml: '<p>Yes, the stop is short but interesting, since visitors can watch local women extract argan oil by hand using traditional methods. It also gives an opportunity to buy genuine argan oil products directly from the cooperative.</p>'
+- q: What should travelers bring for the day trip to Essaouira?
+  aHtml: '<p>Comfortable walking shoes are recommended for the medina streets and the ramparts. A light jacket is also useful, since Essaouira is often windier and cooler than Marrakech, even in summer.</p>'
+- q: Is this day trip suitable for children and elderly travelers?
+  aHtml: '<p>Yes, the trip is relaxed and does not involve difficult walking, so it is suitable for children and elderly travelers. The medina of Essaouira is flat and easy to explore on foot, unlike some other Moroccan cities.</p>'
 reviews:
 - name: Charles
   date: 04/09/2021
@@ -94,6 +106,54 @@ reviews:
   stars: 5
   title: Essaouira excursion
   text: We visited Essaouira during our trip to Marrakech and we were lucky to have Hassan as our guide. He was a very friendly, knowledgeable, and safe driver/guide. I would recommend Hassan to everyone. Thank you so much.
+- name: Ingrid B.
+  date: 16/01/2025
+  likes: 0
+  stars: 5
+  title: 'Argan oil stop was fascinating'
+  text: 'Watching the women at the argan oil cooperative crush the nuts by hand was such an interesting stop before we even reached Essaouira. We ended up buying several bottles to take home.'
+- name: Rodrigo A.
+  date: 04/03/2025
+  likes: 1
+  stars: 5
+  title: 'Loved the Skala Kasbah'
+  text: 'Walking along the ramparts of the Skala Kasbah with the Atlantic waves crashing below was the highlight of the day for me. The whole medina felt calm and easy to explore on foot.'
+- name: Wei C.
+  date: 22/04/2025
+  likes: 0
+  stars: 5
+  title: 'Fresh seafood by the port'
+  text: 'Our driver dropped us near the fishing port and we found a small restaurant serving the freshest grilled fish I''ve had in Morocco. Watching the colorful boats come in was a great way to spend lunch.'
+- name: Simone K.
+  date: 09/06/2025
+  likes: 0
+  stars: 4
+  title: 'Windy but worth it'
+  text: 'It was quite windy by the time we reached the beach in the afternoon, which our driver had actually warned us about beforehand. The medina''s blue doors and narrow streets more than made up for it.'
+- name: Alexei P.
+  date: 27/07/2025
+  likes: 0
+  stars: 5
+  title: 'Relaxing break from Marrakech'
+  text: 'After a few busy days in Marrakech, this day trip to Essaouira felt like exactly the change of pace we needed. The drive through argan tree country was scenic and our guide pointed out goats climbing the trees along the way.'
+- name: Beatriz M.
+  date: 13/09/2025
+  likes: 1
+  stars: 5
+  title: 'Great value day trip'
+  text: 'For a full day out of Marrakech, this trip covered a lot: the cooperative, the port, the medina, and time to shop in the souk. Our driver was on time and easy to communicate with the whole day.'
+- name: Dmitri V.
+  date: 30/10/2025
+  likes: 0
+  stars: 5
+  title: 'Loved the old fortifications'
+  text: 'Seeing the Portuguese fortifications and Bab Laalouj gate gave the visit a real sense of history beyond just the beach and shops. We were back in Marrakech by early evening as promised.'
+- name: Helena F.
+  date: 18/12/2025
+  likes: 0
+  stars: 5
+  title: 'Perfect coastal escape'
+  text: 'The mellah and the fishing port were quieter and more charming than we expected after the busy streets of Marrakech. Our seafood lunch with an ocean view was the perfect end to the walk around town.'
 rating: 5.0
 reviewCount: 200
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d870315.2729128638!2d-9.534125609899723!3d31.560696432097995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!5e0!3m2!1sen!2sbg!4v1753437940961!5m2!1sen!2sbg

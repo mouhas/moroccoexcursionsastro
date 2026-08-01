@@ -182,7 +182,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, swimwear for the coastal stops, and a warm layer for cool evenings in Chefchaouen, Midelt, and the desert are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from your hotel, the airport, or the port, making it easy to combine with a ferry crossing from Spain.</p>
-reviews: []
+- q: Is there phone or wifi signal during the trip?
+  aHtml: <p>Signal is reliable in Tangier, Rabat, Casablanca, Marrakech, and Fes, and generally fine in Essaouira, Agadir, and Chefchaouen. Coverage is weaker in Sidi Ifni, Tafraout, and around the Merzouga desert camp, so it is worth downloading offline maps in advance.</p>
+- q: What is the best time of year for this 19-day route?
+  aHtml: <p>Spring (March to May) and autumn (September to November) are ideal, offering comfortable temperatures on the coast, in the Atlas Mountains, and in the desert. Summer can be very hot in Merzouga and Marrakech, while winter nights are cold in Chefchaouen, Midelt, and the Sahara.</p>
+- q: Should I tip the driver-guide?
+  aHtml: <p>Tipping is not mandatory but is customary and appreciated for a trip of this length. Many travelers tip around 10-15 euros per day for the driver-guide, plus a small additional tip for the local guides in Marrakech and Fes.</p>
+- q: Can extra nights be added in Marrakech or Essaouira?
+  aHtml: <p>Yes, since this is a private and fully customizable tour, additional nights can be added in Marrakech, Essaouira, or any other stop along the route, adjusting the total price accordingly.</p>
+reviews:
+- name: Mateus U.
+  date: 14/03/2024
+  likes: 0
+  stars: 5
+  title: An unforgettable 19 days across Morocco
+  text: 'Our driver-guide Hassan made this trip incredible from start to finish. The Ouzoud Waterfalls day trip from Marrakech was a real highlight, and the extra free day in Merzouga gave us time to properly enjoy the Erg Chebbi dunes beyond just one night. Assilah''s murals were also a lovely surprise on day two.'
+- name: Amira W.
+  date: 02/05/2024
+  likes: 0
+  stars: 5
+  title: Every region of Morocco in one trip
+  text: 'Chefchaouen''s blue streets at the very end were the perfect finish after two weeks on the road. Sidi Ifni''s Art Deco buildings and the Todra Gorges were both completely unexpected favorites.'
+- name: Hiro Z.
+  date: 21/06/2024
+  likes: 0
+  stars: 4
+  title: Long but worth it
+  text: 'Tafraout''s pink granite landscape was stunning and completely different from anything else on the route. Nineteen days is a lot of driving between stops, but our guide Youssef kept things interesting with stories along the way. Would have liked one more free day around Tafraout.'
+- name: Piotr U.
+  date: 09/07/2024
+  likes: 0
+  stars: 5
+  title: Fes medina and the desert camp stood out
+  text: Rachid was a fantastic guide through the tanneries and madrasas of Fes el Bali. The night in the Merzouga desert camp with the drumming around the fire was just as memorable as the imperial cities.
+- name: Nathalie Q.
+  date: 18/08/2024
+  likes: 0
+  stars: 5
+  title: Legzira arches and Ait Ben Haddou
+  text: 'The natural rock arches at Legzira beach near Sidi Ifni were breathtaking, and Ait Ben Haddou''s kasbah walls glowing at sunset made the long Marrakech-to-Dades driving day worth it.'
+- name: Helga A.
+  date: 30/08/2024
+  likes: 0
+  stars: 4
+  title: Essaouira free day was a nice pause
+  text: 'The free day in Essaouira''s medina was a welcome slow moment in a fairly packed itinerary. The Ouzoud Waterfalls trip with the Barbary macaques was fun too, though our hotel in Sidi Ifni was a bit basic for the price.'
+- name: Todd C.
+  date: 12/09/2024
+  likes: 0
+  stars: 5
+  title: Dades kasbahs and desert sunset
+  text: Watching the sunset from the Erg Chebbi dunes after the camel trek was the moment of the whole trip. The Dades Valley kasbahs the night before were a great preview of the desert to come.
+- name: Chiara J.
+  date: 25/09/2024
+  likes: 0
+  stars: 5
+  title: Cedar forest monkeys near Ifrane
+  text: Ahmed pulled over so we could see the wild Barbary macaques in the cedar forest near Azrou, right before we reached Ifrane. A small moment but one of the best surprises of the whole 19 days.
+- name: Rajesh P.
+  date: 08/10/2024
+  likes: 0
+  stars: 5
+  title: The full Morocco loop, done right
+  text: 'From the Atlantic coast at Essaouira and Agadir down to Sidi Ifni and Tafraout, then across the Atlas to Marrakech, into the Sahara at Merzouga, and finally north through Fes and Chefchaouen, this itinerary covers everything without ever feeling rushed. Our guide Said was patient with our endless photo stops, and the two free days in Marrakech gave us time to actually enjoy the city rather than just pass through.'
+- name: Ramon N.
+  date: 19/10/2024
+  likes: 0
+  stars: 5
+  title: Casablanca and Rabat were nice bonus stops
+  text: Most people only think of Marrakech and Fes for Morocco, but the Hassan II Mosque in Casablanca and the Kasbah of the Udayas in Rabat right at the start of this tour were both worth the stop.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

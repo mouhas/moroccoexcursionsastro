@@ -174,7 +174,77 @@ faqs:
   aHtml: '<p>Questo itinerario ti offre il meglio del Marocco in due settimane: città imperiali, il deserto del Sahara, le montagne dell''Atlante e la costa atlantica. Potrai scoprire la cultura, la storia, la natura e la vita locale in un unico viaggio.</p>'
 - q: Consigli altri tour simili?
   aHtml: <p>Sì, se stai cercando un viaggio più lungo, dai un'occhiata ai nostri <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 20 giorni</strong></a> e <a href="https://morocco-excursion.com/it/tours/30-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>30 giorni in Marocco</strong></a>.</p>
-reviews: []
+- q: È un viaggio adatto per chi viaggia da solo?
+  aHtml: <p>Sì, il tour di 15 giorni è adatto anche a chi viaggia da solo, in particolare come tour privato con autista dedicato. Le città e i villaggi attraversati sono generalmente sicuri, ma come ovunque consigliamo di vestirsi in modo sobrio ed evitare di camminare da soli di notte nelle medine.</p>
+- q: Quanto bagaglio possiamo portare durante un viaggio così lungo?
+  aHtml: <p>Consigliamo una valigia morbida o uno zaino da viaggio, più facili da caricare e scaricare ogni giorno dal veicolo. Con quindici giorni tra città, montagna, deserto e costa, un bagaglio non troppo ingombrante rende i trasferimenti quotidiani molto più semplici.</p>
+- q: Il tour prevede molte ore di guida ogni giorno?
+  aHtml: <p>Varia molto in base alla tappa, alcuni giorni come quelli costieri (Agadir, Taghazout, Essaouira) richiedono 2-3 ore, mentre i tragitti verso il deserto o tra Taroudant e Sidi Ifni possono superare le 5-6 ore. Le soste fotografiche e le pause pranzo sono sempre previste.</p>
+- q: È possibile aggiungere o togliere qualche tappa dall'itinerario di 15 giorni?
+  aHtml: <p>Sì, l'itinerario è flessibile e può essere adattato ai vostri interessi. Chi ha meno tempo per la costa può accorciare la parte tra Sidi Ifni e Taghazout, mentre chi vuole restare più a lungo nel deserto può aggiungere una seconda notte a Merzouga.</p>
+- q: Le mance sono incluse nel prezzo del tour?
+  aHtml: <p>No, le mance non sono incluse. È buona pratica lasciare qualcosa per l'autista che vi accompagna per tutto il viaggio e per le guide locali a Fes e Marrakech, oltre a una piccola mancia per il personale del campo nel deserto se lo desiderate.</p>
+reviews:
+- name: Luca M.
+  date: 04/03/2025
+  likes: 0
+  stars: 5
+  title: Quindici giorni per scoprire tutto il Marocco
+  text: Difficile immaginare un tour più completo, da Tangeri e le Grotte di Ercole fino a Sidi Ifni con la sua architettura Art Déco. Il deserto a Merzouga resta comunque il ricordo più forte, soprattutto la visita ai villaggi abbandonati e l'incontro con una famiglia nomade la mattina dopo il campo.
+- name: Isla R.
+  date: 22/06/2025
+  likes: 0
+  stars: 5
+  title: Tangeri e Capo Spartel, inizio perfetto
+  text: Vedere l'Oceano Atlantico incontrare il Mediterraneo a Capo Spartel è stato uno dei momenti più suggestivi del viaggio. Da lì Chefchaouen sembra un altro mondo, tutto dipinto di blu. Poi il deserto a Merzouga con le dune di Erg Chebbi ha chiuso la prima metà del tour in bellezza.
+- name: Julien M.
+  date: 10/11/2025
+  likes: 0
+  stars: 4
+  title: Un viaggio lungo ma ben strutturato
+  text: Quindici giorni sono tanti, ma il ritmo era sempre gestibile grazie a soste frequenti. Taroudant, chiamata la piccola Marrakech, ci è piaciuta più del previsto, tranquilla e con mura rosse bellissime. L'unico appunto è che Sidi Ifni meriterebbe una notte in più per goderselo davvero.
+- name: Ryan D.
+  date: 28/01/2026
+  likes: 1
+  stars: 5
+  title: Taghazout, la sorpresa del viaggio
+  text: Non conoscevo Taghazout prima di questo tour, un piccolo villaggio di pescatori diventato paradiso dei surfisti. Dopo giorni tra deserto e montagne, fermarsi lì per una notte è stato rigenerante. Merzouga resta comunque indimenticabile, cammello al tramonto e cena berbera nel campo.
+- name: Sabine K.
+  date: 15/08/2025
+  likes: 0
+  stars: 5
+  title: Fes e il Sahara in un solo viaggio
+  text: La medina di Fes con le concerie di Chouara e l'università Al Quaraouiyine ci ha affascinato per un giorno intero. Pochi giorni dopo eravamo tra le dune di Erg Chebbi, un contrasto pazzesco che rende questo tour di quindici giorni davvero unico. Il nostro autista Karim è stato gentile e sempre disponibile.
+- name: Chiara V.
+  date: 02/05/2026
+  likes: 0
+  stars: 5
+  title: Essaouira e il porto dei pescatori
+  text: Dopo tanti giorni nell'entroterra, arrivare a Essaouira con il suo porto pieno di barche blu e il pesce alla griglia è stato un bel cambio di ritmo. Anche la Valle delle Rose e le Gole del Todra qualche giorno prima erano stati momenti altissimi del viaggio.
+- name: George M.
+  date: 19/09/2025
+  likes: 0
+  stars: 3
+  title: Bel viaggio, ma alcune giornate di trasferimento pesanti
+  text: Il tour tocca davvero tantissimi luoghi, forse anche troppi per quindici giorni. Alcune giornate erano quasi interamente di trasferimento, in particolare tra Taroudant e Sidi Ifni. Il deserto a Merzouga e Chefchaouen restano comunque due esperienze bellissime che consiglio a chiunque.
+- name: Manon R.
+  date: 07/12/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou, un tuffo nel passato
+  text: La kasbah di Ait Ben Haddou vicino a Ouarzazate sembra uscita da un film, ed è proprio lì che sono stati girati molti dei film che conosciamo. La guida ci ha spiegato la storia degli edifici in argilla mentre camminavamo tra i vicoli. Un momento clou di un viaggio già ricco di sorprese.
+- name: Jessica M.
+  date: 23/03/2026
+  likes: 0
+  stars: 5
+  title: Marrakech alla fine, il finale perfetto
+  text: Dopo due settimane on the road, la giornata intera a Marrakech con il Palazzo Bahia, le Tombe Saadiane e la sera in piazza Jemaa el-Fnaa è stata il modo perfetto per chiudere il viaggio. Il deserto a Merzouga resta comunque il ricordo più speciale di tutto il tour.
+- name: Cristina V.
+  date: 11/07/2025
+  likes: 0
+  stars: 5
+  title: Agadir e la costa, relax dopo il deserto
+  text: Dopo l'intensità del deserto e delle montagne, le tappe costiere come Agadir e Taghazout sono state un ottimo modo per rilassarsi prima di tornare a Marrakech. Il nostro autista ha sempre rispettato i tempi e ci ha dato consigli utili su dove mangiare in ogni città.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755608529674!5m2!1sit!2sit

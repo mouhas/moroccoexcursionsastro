@@ -74,7 +74,75 @@ faqs:
   aHtml: <p>Non, il n'y a pas d'installations à l'oasis.</p>
 - q: Pouvons-nous faire d'autres activités pendant cette excursion ?
   aHtml: <p>Il s'agit d'une excursion d'une journée complète, mais vous pouvez ajouter des activités supplémentaires à Merzouga, telles qu'une balade à dos de chameau, du quad, une excursion en buggy au coucher du soleil ou même un dîner romantique dans un campement dans le désert.</p>
-reviews: []
+- q: Combien de temps dure exactement cette excursion à l'oasis de Safsaf ?
+  aHtml: <p>Comptez environ 7 à 8 heures au total. Le départ se fait le matin depuis votre hôtel ou campement à Merzouga, avec les arrêts à Tissardmine et chez les nomades, puis un long moment à l'oasis de Safsaf pour le pique-nique et la détente, avant un retour en fin d'après-midi.</p>
+- q: Quelle est la politique d'annulation ?
+  aHtml: <p>Vous pouvez annuler ou reporter gratuitement jusqu'à 48 heures avant le départ. Passé ce délai, des frais peuvent s'appliquer, alors n'hésitez pas à nous contacter dès que possible en cas de changement de programme.</p>
+- q: S'agit-il d'un tour privé ou partagé avec d'autres voyageurs ?
+  aHtml: <p>C'est un tour entièrement privé. Le véhicule 4x4 et le guide sont réservés uniquement pour vous et vos compagnons de voyage, ce qui permet d'adapter légèrement le rythme de la journée selon vos envies.</p>
+- q: Cette excursion convient-elle aux enfants et aux personnes âgées ?
+  aHtml: <p>Oui, le rythme est tranquille et adapté à tous les âges. La marche se limite à de courtes promenades dans les oasis, mais la piste jusqu'à Safsaf est cahoteuse par endroits, ce qui peut être fatigant pour les dos fragiles.</p>
+reviews:
+- name: Sophie Marchand
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: Une oasis secrète magnifique
+  text: 'Le détour par l''oasis de Tissardmine pour voir les fossiles était déjà surprenant, mais l''arrivée à Safsaf nous a laissés sans voix : des palmiers immenses et un petit lac où nous avons pu nous baigner. Le pique-nique à l''ombre était un vrai moment de calme.'
+- name: Laurent Girard
+  date: 03/03/2025
+  likes: 1
+  stars: 5
+  title: Rencontre authentique avec les nomades
+  text: 'Le thé à la menthe partagé avec la famille nomade sous leur tente restera un des meilleurs souvenirs du voyage. Le guide a pris le temps de nous expliquer leur mode de vie sans que cela paraisse mis en scène.'
+- name: Emma Wilson
+  date: 22/04/2025
+  likes: 0
+  stars: 4
+  title: Belle sortie mais piste très longue
+  text: 'La piste hors route pour atteindre Safsaf est assez longue et secouée, mais le paysage en vaut la peine. Une fois sur place, se reposer sous les palmiers après le pique-nique était exactement ce dont on avait besoin.'
+- name: Carlos Mendes
+  date: 09/05/2025
+  likes: 0
+  stars: 5
+  title: Baignade inattendue dans le désert
+  text: 'On ne s''attendait pas à pouvoir nager en plein Sahara, mais le petit lac de l''oasis de Safsaf avait assez d''eau ce jour-là. Un moment surréaliste après la chaleur du trajet en 4x4.'
+- name: Julia Hoffmann
+  date: 18/06/2025
+  likes: 0
+  stars: 5
+  title: Les fossiles de Tissardmine, un vrai plus
+  text: 'Je ne savais pas que cette région était recouverte par un océan il y a des millions d''années. Voir les fossiles marins à Tissardmine avant de rejoindre l''oasis cachée a rendu la journée encore plus intéressante.'
+- name: Nadia El Amrani
+  date: 07/08/2025
+  likes: 2
+  stars: 5
+  title: Pique-nique parfait sous les palmiers
+  text: 'Le déjeuner préparé par notre guide à l''ombre des palmiers de Safsaf était simple mais délicieux. Le silence complet de cette oasis isolée nous a permis de vraiment déconnecter pendant quelques heures.'
+- name: Thomas Novak
+  date: 25/09/2025
+  likes: 0
+  stars: 5
+  title: Un désert bien plus varié qu'imaginé
+  text: 'Entre les dunes de l''Erg Chebbi, la palmeraie de Tissardmine et le campement nomade, cette excursion montre plusieurs visages du désert en une seule journée. L''oasis de Safsaf en fin de parcours était le clou du spectacle.'
+- name: Isabelle Rousseau
+  date: 11/11/2025
+  likes: 0
+  stars: 5
+  title: Guide passionnant et attentionné
+  text: 'Notre chauffeur connaissait chaque recoin de la piste jusqu''à Safsaf et s''est arrêté plusieurs fois pour nous expliquer la géologie du désert noir aux alentours. Une excursion bien rythmée du début à la fin.'
+- name: Daniel Kim
+  date: 30/01/2026
+  likes: 0
+  stars: 5
+  title: Loin de la foule, exactement ce qu'on cherchait
+  text: 'Contrairement à d''autres excursions bondées près de Merzouga, nous n''avons croisé presque personne sur la route de Safsaf. L''oasis cachée avec ses palmiers était un vrai havre de paix.'
+- name: Marion Lefebvre
+  date: 16/06/2026
+  likes: 1
+  stars: 4
+  title: Très bonne excursion, prévoir de l'eau
+  text: 'Le trajet en 4x4 vers l''oasis est un peu long sous la chaleur, donc pensez à bien vous hydrater. Une fois arrivés, la fraîcheur des palmiers de Safsaf et le pique-nique nous ont totalement réconciliés avec la journée.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1sfr!2sfr!4v1757684506799!5m2!1sfr!2sfr

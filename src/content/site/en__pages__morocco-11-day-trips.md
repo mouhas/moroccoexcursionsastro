@@ -1,14 +1,30 @@
 ---
-title: "11 Days in Morocco: Tour Itineraries And Prices"
-lang: "en"
-section: "pages"
-pslug: "morocco-11-day-trips"
-urlPath: "morocco-11-day-trips"
+title: '11 Days in Morocco: Tour Itineraries And Prices'
+lang: en
+section: pages
+pslug: morocco-11-day-trips
+urlPath: morocco-11-day-trips
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/morocco-11-day-trips/"
+source: https://morocco-excursion.com/morocco-11-day-trips/
+faqs:
+- q: How much can I see in 11 days in Morocco?
+  aHtml: '<p>In 11 days, you can explore Morocco’s main cities, the desert, mountains, and coast. It allows a mix of history, nature, and cultural experiences without rushing.</p>
+
+    <p>In 11 days, you can explore <b>Marrakech</b>, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like <b>Fes</b> or Rabat.</p>'
+- q: Should I hire a guide for an 11-day trip?
+  aHtml: <p>A tour guide or private driver helps with navigation, local insights, and safety, especially in medinas and remote areas.</p>
+- q: Are group tours better than private tours for 11 days?
+  aHtml: <p>Private tours give flexibility to choose destinations and pace. Group tours are more social and sometimes cheaper.</p>
+- q: How physically demanding is an 11-day Morocco tour?
+  aHtml: <p>Walking in medinas and markets is easy to moderate. Hiking in the Atlas or desert trekking may require more stamina.</p>
+- q: Can I include Casablanca, Rabat, Fez, and Marrakech?
+  aHtml: <p>Sure. 2–3 days in each city allow time to see key landmarks, markets, and cultural sites.</p>
+- q: What are the best things to do in Morocco in 11 days?
+  aHtml: <p>You will be able to discover the best of Morocco in 11 days. Morocco is a land where tradition meets modern life. In only 11 days, travelers can experience a rich mixture of history, culture, and natural beauty without feeling rushed.</p>
 ---
+
 During an 11-day trip in Morocco, visitors can discover a mix of culture and nature. **Casablanca** and Rabat show Morocco’s modern and old sides, with beautiful buildings, gardens, and busy streets. Fez’s old medina is full of traditional crafts, leather tanneries, and ancient mosques, giving a look at Morocco’s rich history. **Marrakech** is full of sights and sounds, from the lively Jemaa el-Fnaa square to colorful markets and quiet gardens.
 
 The Atlas Mountains have amazing hiking trails, small Berber villages, and stunning scenery. The Sahara Desert impresses with huge sand dunes, camel rides, sandboarding, and nights under bright stars in desert camps. Dades and Todra Valleys offer amazing gorges and calm nature, great for relaxing.
@@ -32,36 +48,6 @@ Morocco’s coast is peaceful and beautiful, with Essaouira’s historic port an
 Create your perfect Moroccan adventure with a fully customized 11-day trip. You can explore the best of Morocco, from vibrant cities and historic medinas to stunning deserts, mountains, and coasts.
 
 Visit Casablanca, Rabat, Fez, and Marrakech, discovering ancient architecture, bustling markets, and cultural treasures. Experience the dramatic Atlas Mountains, peaceful Berber villages, and the vast Sahara Desert with camel rides and starry nights.
-
-### Questions about 11-day tours in Morocco
-
-### How much can I see in 11 days in Morocco?
-
-In 11 days, you can explore Morocco’s main cities, the desert, mountains, and coast. It allows a mix of history, nature, and cultural experiences without rushing.
-
-####
-
-In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like **Fes** or Rabat.
-
-### Should I hire a guide for an 11-day trip?
-
-A tour guide or private driver helps with navigation, local insights, and safety, especially in medinas and remote areas.
-
-### Are group tours better than private tours for 11 days?
-
-Private tours give flexibility to choose destinations and pace. Group tours are more social and sometimes cheaper.
-
-### How physically demanding is an 11-day Morocco tour?
-
-Walking in medinas and markets is easy to moderate. Hiking in the Atlas or desert trekking may require more stamina.
-
-### Can I include Casablanca, Rabat, Fez, and Marrakech?
-
-Sure. 2–3 days in each city allow time to see key landmarks, markets, and cultural sites.
-
-## What are the best things to do in Morocco in 11 days?
-
-You will be able to discover the best of Morocco in 11 days. Morocco is a land where tradition meets modern life. In only 11 days, travelers can experience a rich mixture of history, culture, and natural beauty without feeling rushed.
 
 ## **Morocco’s Historic Cities**
 

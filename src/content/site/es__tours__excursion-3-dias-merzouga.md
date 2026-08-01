@@ -92,7 +92,77 @@ faqs:
   aHtml: <p>También se pueden añadir actividades adicionales, como un paseo en buggy o motocross. Un paseo en buggy de una hora cuesta 75 euros por persona (para dos personas en el buggy), y un paseo en motocross de una hora cuesta 150 euros por persona. Estas actividades te permiten explorar más el desierto y añadir emoción a tu viaje.</p>
 - q: ¿Es posible reservar solo una de esas excursiones?
   aHtml: <p>También es posible reservar solo una actividad sin realizar el tour completo. Puedes elegir solo un paseo en camello, un <strong>tour en quad</strong>, una <strong>excursión en buggy</strong>, un tour en motocross o una <strong>excursión por el desierto en 4x4</strong>. De esta manera, podrás disfrutar del desierto exactamente como desee, ya sea para una aventura corta o una experiencia completa.</p>
-reviews: []
+- q: ¿A qué hora debo llegar a Merzouga para empezar el tour?
+  aHtml: <p>El check-in en nuestra oficina de Merzouga es a última hora de la tarde, normalmente sobre las 16:00 en invierno y las 18:00 en verano. Esto te da tiempo para aparcar de forma segura, dejar el equipaje extra en depósito y preparar una pequeña bolsa antes de la excursión en camello por las dunas.</p>
+- q: ¿El paseo en camello o en quad son actividades físicamente exigentes?
+  aHtml: <p>El paseo en camello es suave y adecuado para la mayoría de los niveles de forma física, aunque no se recomienda para mujeres embarazadas ni personas con problemas de espalda. El paseo en quad requiere algo más de coordinación, pero no experiencia previa, y nuestro equipo ofrece una breve explicación antes de salir hacia las dunas.</p>
+- q: ¿Cuál es la mejor época del año para hacer este tour?
+  aHtml: <p>La primavera y el otoño ofrecen las temperaturas más agradables para el paseo en camello y en quad. Los días de verano en Erg Chebbi pueden ser muy calurosos, mientras que las noches de invierno en el campamento pueden acercarse a los cero grados, así que lleva la ropa adecuada sea cual sea la temporada en la que viajes.</p>
+- q: ¿Tendré cobertura telefónica o wifi en el campamento del desierto?
+  aHtml: <p>La cobertura móvil es irregular en cuanto se sale del pueblo de Merzouga y prácticamente desaparece al llegar a las dunas, así que no esperes una conexión fiable en el campamento. Esto forma parte de lo que hace que las noches de estrellas y hoguera se sientan tan remotas.</p>
+- q: ¿Debo dar propina a los camelleros y al personal del campamento?
+  aHtml: <p>La propina no es obligatoria, pero se agradece para los camelleros, los músicos de Khamlia y el personal del campamento que prepara las comidas. Unos euros o dírhams por actividad es un gesto habitual si has disfrutado de la experiencia.</p>
+reviews:
+- name: Carlos M.
+  date: 15/01/2025
+  likes: 0
+  stars: 5
+  title: El campamento de lujo mereció la pena
+  text: Llegamos a Merzouga a última hora de la tarde y dejamos el coche en la oficina antes de salir en camello hacia las dunas de Erg Chebbi. Ver las dunas teñirse de naranja al atardecer ya valió el viaje, y el personal del campamento Mouhou nos recibió con té a la menta. Elegimos el campamento de lujo y la cama cómoda con baño privado fue un lujo tras un día de arena y sol.
+- name: Elena R.
+  date: 03/03/2025
+  likes: 1
+  stars: 5
+  title: La música gnawa en Khamlia fue una sorpresa
+  text: No esperaba que el segundo día fuera tan interesante como el primero. La actuación gnawa en Khamlia estaba llena de energía, y las vistas desde la meseta de las minas de M'ifis sobre las dunas fueron increíbles. Nuestro guía también nos señaló fósiles en la roca por el camino, algo que ninguno de nosotros sabía que era una especialidad local.
+- name: Javier P.
+  date: 22/04/2025
+  likes: 0
+  stars: 4
+  title: Genial, aunque el quad se quedó corto
+  text: El campamento y el paseo en camello fueron justo lo que esperábamos, y la visita a la familia nómada resultó muy emotiva. Mi única queja es que la hora en quad se pasó volando; habría pagado gustoso por otra vuelta más por las dunas al atardecer.
+- name: Marta S.
+  date: 10/06/2025
+  likes: 0
+  stars: 5
+  title: Said hizo que el desierto se sintiera cercano
+  text: Nuestro guía Said nos explicó de todo, desde cómo se montan las tiendas bereberes hasta por qué las dunas cambian de color a lo largo del día. Nos decantamos por el campamento de lujo y mereció la pena, camas de verdad y baño privado después de un día entero de arena y sol.
+- name: Diego F.
+  date: 28/07/2025
+  likes: 2
+  stars: 5
+  title: El sandboard fue lo mejor para los niños
+  text: Pasar dos noches en el desierto con niños pequeños parecía arriesgado, pero salió perfecto. Se lo pasaron en grande con el sandboard junto al campamento y todavía hablan del paseo en camello por las dunas.
+- name: Lucia V.
+  date: 14/09/2025
+  likes: 0
+  stars: 5
+  title: Las historias de Youssef junto al fuego
+  text: Youssef nos llevó en el 4x4 durante el segundo día y entretuvo a todo el grupo con historias de su infancia cerca de Erg Chebbi. La parada de té con la familia nómada y los fósiles de las minas de M'ifis fueron cosas que no habíamos leído antes de reservar, así que se sintieron como auténticos descubrimientos.
+- name: Pablo N.
+  date: 30/10/2025
+  likes: 1
+  stars: 5
+  title: Dos días repletos de experiencias
+  text: Entre el paseo en camello, el sandboard, los músicos gnawa de Khamlia, las minas, la visita a la familia nómada y el paseo en quad al atardecer, no hubo un momento aburrido. Dormir bajo tantas estrellas en el campamento estándar fue igualmente cómodo.
+- name: Isabel C.
+  date: 20/12/2025
+  likes: 0
+  stars: 5
+  title: Sencillo, bien organizado, sin quejas
+  text: Reservamos el campamento estándar y estaba limpio y cómodo. Paseo en camello al atardecer, cena junto al fuego y amanecer a la mañana siguiente, justo lo que buscábamos en una escapada corta al desierto.
+- name: Ramón A.
+  date: 08/02/2026
+  likes: 0
+  stars: 5
+  title: Hassan conocía cada rincón de Erg Chebbi
+  text: Hassan guio nuestro grupo en 4x4 hasta las minas y el campamento nómada, y era evidente que conocía la zona mucho más allá de las rutas turísticas habituales. Buscar fósiles en la meseta fue una sorpresa divertida para mi hijo adolescente.
+- name: Cristina B.
+  date: 25/04/2026
+  likes: 0
+  stars: 5
+  title: El paseo en quad al atardecer fue inolvidable
+  text: El último paseo en quad subiendo las dunas más altas mientras se ponía el sol es uno de los mejores recuerdos de viaje que tengo. Sumado a la parada de música en Khamlia esa misma mañana, el segundo día se pasó volando.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1ses!2ses!4v1756648805984!5m2!1ses!2ses

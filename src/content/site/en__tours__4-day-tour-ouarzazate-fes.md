@@ -101,7 +101,75 @@ faqs:
   aHtml: <p>Yes, stops, pace, and accommodation level can all be adjusted to fit your interests and schedule. Popular add-ons include a 4x4 excursion in the dunes, extra time in the Todra Gorges, or an additional night along the route.</p>
 - q: Where does the tour start and end exactly?
   aHtml: <p>The tour starts with a pickup from your hotel, riad, or the bus/train station in Ouarzazate, and ends with drop-off at your accommodation in Fes after the guided medina tour. Airport transfers in either city can be arranged on request.</p>
-reviews: []
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>You can cancel or reschedule free of charge up to 48 hours before departure. Just let us know as early as possible so we can adjust the driver''s schedule.</p>'
+- q: Is this a private or a group tour?
+  aHtml: '<p>This is a fully private tour, so you will travel only with your own group in a private vehicle with a dedicated driver-guide. Nobody else is added to your car, and the schedule is built around you.</p>'
+- q: What is the best time of year to do this route?
+  aHtml: '<p>Spring (March to May) and autumn (September to November) offer the most pleasant temperatures for both the Todra Gorges walk and the desert camp. Summer days in Merzouga can be very hot, while winter nights in the desert and the Middle Atlas can drop close to freezing.</p>'
+- q: Is this tour suitable for children or elderly travelers?
+  aHtml: '<p>Yes, the pace is comfortable with plenty of stops, and the walk through the Todra Gorges is short and easy. The camel trek can be swapped for a 4x4 transfer to the desert camp for anyone who prefers not to ride.</p>'
+reviews:
+- name: Hannah W.
+  date: 11/01/2025
+  likes: 0
+  stars: 5
+  title: 'Perfect one-way route'
+  text: 'We were heading north after Marrakech anyway, so a one-way tour from Ouarzazate to Fes was exactly what we needed. The stop in Skoura''s palm groves on day one was a lovely, quiet start to the trip.'
+- name: Diego F.
+  date: 26/02/2025
+  likes: 1
+  stars: 5
+  title: 'Dades Valley rock formations'
+  text: 'The drive through the Dades Gorges and those strange ''monkey fingers'' rock formations was one of the best surprises of the trip. Our driver stopped several times so we could take photos without feeling rushed.'
+- name: Priya N.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: 'Todra Gorges walk was incredible'
+  text: 'Walking between those 300-meter canyon walls in the Todra Gorges on day two was breathtaking, and we still made it to Merzouga in time for the camel trek at sunset. Great pacing overall.'
+- name: Marcus B.
+  date: 03/06/2025
+  likes: 0
+  stars: 4
+  title: 'Great desert night'
+  text: 'The night in the desert camp near Erg Chebbi was unforgettable, with Berber music around the fire under a huge sky of stars. The only downside was a very early wake-up for sunrise over the dunes.'
+- name: Camille R.
+  date: 20/07/2025
+  likes: 2
+  stars: 5
+  title: 'Saw the macaques in Azrou'
+  text: 'We didn''t expect to see wild Barbary macaques right along the road near Azrou, but our driver knew exactly where to stop. The cedar forest there was a nice cool break after the desert heat.'
+- name: Erik J.
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: 'Ifrane felt like another country'
+  text: 'Ifrane really does look like a little Swiss town dropped into the Middle Atlas, which made for a strange but fun contrast after the Sahara. Our overnight there was quiet and relaxing before the final drive to Fes.'
+- name: Yuki T.
+  date: 28/10/2025
+  likes: 0
+  stars: 5
+  title: 'Fes medina tour was the perfect ending'
+  text: 'Ending the four days with a local guide through the Fes medina and the Chouara tanneries tied everything together. Four days felt like the right amount of time to cover this much ground without rushing.'
+- name: Fatima Z.
+  date: 14/12/2025
+  likes: 1
+  stars: 5
+  title: 'Ziz Valley views'
+  text: 'The drive north through the Ziz Valley, with its long ribbon of palm groves squeezed between the mountains, was more scenic than I expected from what''s essentially a transfer day. Our driver was patient with all our photo stops.'
+- name: Owen P.
+  date: 02/02/2026
+  likes: 0
+  stars: 3
+  title: 'Good tour, tight on lunch time'
+  text: 'The route and stops were all great, especially Skoura and the Todra Gorges, but a couple of our lunch breaks felt rushed because of the driving distances. Still a solid way to get from Ouarzazate to Fes in four days.'
+- name: Lotta S.
+  date: 17/05/2026
+  likes: 0
+  stars: 5
+  title: 'One-way route we''d recommend to anyone'
+  text: 'This is such a smart way to see the south and the desert without doubling back on the same roads. From Skoura to the Dades Valley to Merzouga and finally Fes, every day brought something completely different.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sOuarzazate%2C%20Morocco!4m1!2sFes%2C%20Morocco

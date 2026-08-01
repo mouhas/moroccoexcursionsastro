@@ -127,7 +127,75 @@ faqs:
   aHtml: <p>We use comfortable, well-located hotels and riads in each city, plus a Sahara desert camp in Merzouga with proper beds, bedding, and a shared dining tent. Standard and superior options are both available.</p>
 - q: Where does the tour start and end?
   aHtml: <p>The tour starts and ends in Agadir, with pickup and drop-off available at your hotel or the airport. Let us know your flight details or accommodation when booking so we can arrange the timing.</p>
-reviews: []
+- q: Is tipping the driver-guide expected on this tour?
+  aHtml: <p>Tipping is not required but is appreciated and customary in Morocco. Most travelers set aside around 10-15 euros per day for the driver-guide across the full circuit.</p>
+- q: Will I have phone signal or Wi-Fi in places like Merzouga or Chefchaouen?
+  aHtml: <p>Wi-Fi is generally available at hotels in Marrakech, Fes, Chefchaouen, and the coastal towns, but signal is weaker in the High Atlas and around the Merzouga desert camp, so expect a quieter night or two out there.</p>
+- q: What's the best time of year for this loop from Agadir?
+  aHtml: <p>Spring and autumn give the most comfortable temperatures for both the Sahara stretch and the mountain crossings. Summer can be very hot in Merzouga, and winter nights in the desert camp and Dades Valley get cold.</p>
+- q: How physically demanding is the camel trek and the walk through the Todra Gorges?
+  aHtml: <p>Both are manageable for most fitness levels. The camel trek to the desert camp is a gentle ride rather than a hike, and the walk through the Todra Gorges is mostly flat and can be shortened if needed.</p>
+reviews:
+- name: Ayesha H.
+  date: 08/02/2024
+  likes: 0
+  stars: 5
+  title: Full loop back to Agadir, worth every hour
+  text: Ali drove us the entire ten days from Agadir and back, and having one driver the whole way made the long stretches feel easy. The camel trek into Erg Chebbi at sunset and the night in the desert camp were the clear highlight.
+- name: Pieter X.
+  date: 26/03/2024
+  likes: 0
+  stars: 5
+  title: Chefchaouen and Volubilis back to back
+  text: Wandering Chefchaouen's blue alleys in the morning and then standing over the mosaics at Volubilis a day later was a great contrast, two very different sides of Morocco in one loop.
+- name: Nadja H.
+  date: 14/05/2024
+  likes: 2
+  stars: 5
+  title: Todra Gorges, unforgettable
+  text: The narrow cliffs at Todra were the single most photogenic stop of the whole trip.
+- name: Zara E.
+  date: 30/06/2024
+  likes: 0
+  stars: 5
+  title: Essaouira was the perfect final stretch
+  text: After the mountains and the desert, the windswept beach and fishing harbor in Essaouira were a calm way to end the loop before heading back down to Agadir.
+- name: Otto Z.
+  date: 17/08/2024
+  likes: 0
+  stars: 4
+  title: Tizi-n-Tichka pass has incredible views, long day though
+  text: Karim handled the winding mountain road over the Tizi-n-Tichka pass really well, and the views were some of the best of the trip, just be ready for a full day of driving to get from Agadir up to Marrakech and beyond.
+- name: Adrian O.
+  date: 05/10/2024
+  likes: 0
+  stars: 5
+  title: Free day in Fes was well used
+  text: We took the optional guided half-day through the Fes el-Bali medina, and it was worth arranging since the tanneries and madrasas are easy to miss on your own.
+- name: Bruno F.
+  date: 22/11/2024
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou looks like a film set
+  text: Because it has been used in so many productions, walking through Ait Ben Haddou almost feels staged, except it is all real and still inhabited in parts. A must stop on the way to Ouarzazate.
+- name: Hana W.
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: A quick but memorable stop in Casablanca
+  text: We only had a couple of hours at the Hassan II Mosque before continuing to Essaouira, but seeing it right on the ocean made it worth the detour.
+- name: Greta Y.
+  date: 26/02/2025
+  likes: 0
+  stars: 5
+  title: Marrakech's free day gave us breathing room
+  text: Having a day with no set plan in Marrakech let us linger in the Majorelle Garden in the morning and stay out late at Jemaa el-Fna that night without feeling rushed toward the next stop.
+- name: Adrian H.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: Rachid made the whole loop feel effortless
+  text: Ten days, six regions, and Rachid drove us through every one of them without a single stressful moment. The desert camp near Merzouga and the sunset camel ride were the standout, but honestly the whole circuit from Agadir was consistently good.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sAgadir%2C%20Morocco!4m1!2sEssaouira%2C%20Morocco

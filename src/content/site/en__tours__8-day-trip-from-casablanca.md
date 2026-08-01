@@ -134,7 +134,75 @@ faqs:
   aHtml: <p>A driver/guide with your name on a sign will meet you in arrivals. They’ll have contact details for your hotel.</p>
 - q: Do you recommend another tour similar to this 8 day tour from Casablanca?
   aHtml: <p>We have another two similar tours that include more cities. The tours are the <strong><a href="https://morocco-excursion.com/tours/10-days-from-casablanca/" rel="noopener" target="_blank">10-day</a></strong> and the <a href="https://morocco-excursion.com/tours/12-day-tour-package-from-casablanca/" rel="noopener" target="_blank"><strong>12-day tour from Casablanca</strong></a>.</p>
-reviews: []
+- q: Is 8 days enough time to cover Casablanca to Marrakech without feeling rushed?
+  aHtml: <p>It's a full itinerary, roughly 1,500 km in total, but the pacing gives you a full free day in both Fes and Marrakech rather than rushing straight through. The longer driving days are Fes to Merzouga and Dades to Marrakech, which include scenic stops like the Ziz Valley and Ait Ben Haddou along the way.</p>
+- q: How should I prepare for the heat difference between the coast and the desert?
+  aHtml: <p>Casablanca and Rabat stay mild thanks to the Atlantic, but by the time you reach Merzouga temperatures can be 40°C (104°F) or higher in summer. Pack light breathable layers for the coast and cities, plus a scarf, sunglasses, and sun protection for the Ziz Valley and desert days.</p>
+- q: We've already done a Sahara tour before, can the Merzouga section be skipped?
+  aHtml: <p>Yes, the itinerary is flexible and the desert night can be swapped for extra time in Fes, the Dades Valley, or Marrakech instead. Let us know when booking so we can rebuild those two days around your preference.</p>
+- q: Is bottled water provided during the long driving days?
+  aHtml: <p>Your driver typically stops at shops and cafés along the route where you can buy bottled water and snacks. It's a good idea to keep a refillable bottle with you, especially for the Ziz Valley and Merzouga legs where stops are more spread out.</p>
+reviews:
+- name: Greta L.
+  date: 08/02/2025
+  likes: 0
+  stars: 5
+  title: Hassan II Mosque set the tone for the whole trip
+  text: Arrived tired after a long flight but our driver still made time for the Hassan II Mosque before check-in, and it was worth staying awake for. Great first impression of Casablanca before the real driving started the next day.
+- name: Pablo N.
+  date: 21/03/2025
+  likes: 0
+  stars: 5
+  title: Meknes' royal stables were bigger than I imagined
+  text: Our guide Omar explained the stables once held 12,000 horses, hard to picture until you're standing in them. Rabat's Udayas Kasbah earlier that same day was a nice contrast, quiet blue streets above the sea before Fes in the evening.
+- name: Siobhan K.
+  date: 05/05/2025
+  likes: 1
+  stars: 5
+  title: Chouara Tannery smell is real, go anyway
+  text: Yes the tannery smells strong, they hand you mint leaves for a reason, but watching the leather being dyed in those vats is unforgettable. Al Quaraouiyine and the medina's souks filled the rest of a packed, brilliant day in Fes.
+- name: Anton W.
+  date: 17/07/2025
+  likes: 0
+  stars: 4
+  title: Ifrane's Swiss houses were a strange, fun detour
+  text: Didn't expect Alpine-style chalets in the middle of Morocco, but Ifrane delivers. The promised cedar forest monkeys took a bit of searching, we only spotted them on the second stop, so temper expectations there.
+- name: Miriam T.
+  date: 02/09/2025
+  likes: 0
+  stars: 5
+  title: Sunset camel ride into Erg Chebbi, best night of the trip
+  text: Everything about the Merzouga night matched the description, camels at sunset, the sand turning orange, Berber music at the camp afterward under a genuinely huge sky of stars. Worth the long drive through the Ziz Valley to get there.
+- name: Erik S.
+  date: 14/10/2025
+  likes: 0
+  stars: 5
+  title: Rissani market to Todra Gorges in one big day
+  text: Our guide Ali got us to Rissani early enough to see nomads trading dates before the market got busy, then the 300-meter cliffs at Todra Gorges in the afternoon were a completely different kind of impressive. Dades Valley that evening rounded off a huge but rewarding day.
+- name: Bianca R.
+  date: 29/11/2025
+  likes: 0
+  stars: 4
+  title: Rose Valley, Ait Ben Haddou, and Atlas Studios all in one day
+  text: This was the longest day of the trip for us, Amridil Kasbah in the morning, Atlas Studios and Ait Ben Haddou in the afternoon, then over the High Atlas into Marrakech by evening. Amazing content, just know it's a full day before you sit down for dinner.
+- name: Jasper V.
+  date: 09/01/2026
+  likes: 0
+  stars: 5
+  title: Free day in Marrakech was the perfect finish
+  text: Bahia Palace in the morning, Jemaa el-Fnaa's chaos at midday, and the calm of Majorelle Garden in the afternoon made for a well-balanced last full day. Good bookend to a trip that started at the Hassan II Mosque.
+- name: Constance P.
+  date: 22/02/2026
+  likes: 0
+  stars: 3
+  title: Great content, a couple of days felt very packed
+  text: Everything on this itinerary is genuinely worth seeing, but day six in particular, Rose Valley, Ouarzazate, Ait Ben Haddou, then over the Atlas to Marrakech, was a lot to fit in before dinner. Consider it if you prefer a slower pace.
+- name: Rudi F.
+  date: 03/04/2025
+  likes: 0
+  stars: 5
+  title: 1500 km, worth every one
+  text: Coast, imperial cities, desert, gorges, and Marrakech in eight days. Exhausting in the best way.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sus!4v1755183565542!5m2!1sen!2sus

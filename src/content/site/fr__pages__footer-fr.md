@@ -19,7 +19,7 @@ N’hésitez pas à appeler notre [**agence**](/fr/agence) de voyage marocaine �
 
 [Les Avis](/fr/reviews)
 
-Blog
+[Blog](https://morocco-excursion.com/fr/#)
 
 [Politique de paiement](https://morocco-excursion.com/fr/#)
 

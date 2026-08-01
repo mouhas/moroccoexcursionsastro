@@ -134,7 +134,75 @@ faqs:
   aHtml: <p>Um motorista/guia com o seu nome numa placa irá recebê-lo na área de chegadas. Ele terá os dados de contacto do seu hotel.</p>
 - q: Recomenda outra excursão semelhante a esta excursão de 8 dias a partir de Casablanca?
   aHtml: <p>Temos outros dois passeios semelhantes que incluem mais cidades. Os passeios são o <a href="/pt-br/tours/10-dias-de-casablanca" rel="noopener" target="_blank"><strong>passeio de 10 dias</strong></a> e o <a href="/pt-br/tours/12-dias-de-casablanca" rel="noopener" target="_blank"><strong>passeio de 12 dias a partir de Casablanca</strong></a>.</p>
-reviews: []
+- q: Quanto tempo demora a viagem de Fez até Merzouga?
+  aHtml: <p>A viagem de Fez até Merzouga demora cerca de 8 a 9 horas, incluindo paragens em Ifrane, na floresta de cedros de Azrou e no Vale do Ziz. É um dos dias mais longos da excursão, mas as paisagens tornam o percurso mais leve.</p>
+- q: Os Atlas Studios em Ouarzazate estão incluídos na visita?
+  aHtml: <p>Passamos junto aos Atlas Studios, onde filmes como Gladiador foram gravados, a caminho de Ait Ben Haddou. A entrada ao estúdio não está incluída no preço, mas pode ser adicionada como paragem extra se tiver interesse.</p>
+- q: É possível reduzir esta excursão de 8 dias para um roteiro mais curto?
+  aHtml: <p>Sim, por ser um tour privado, o itinerário pode ser encurtado, por exemplo, retirando uma noite em Fez ou combinando o trajeto do deserto de forma mais direta, dependendo do tempo disponível.</p>
+- q: Quantas noites passamos no deserto durante esta excursão de 8 dias?
+  aHtml: <p>Está incluída uma noite num acampamento no deserto em Merzouga, com jantar, música berbere e pequeno-almoço antes de seguir viagem no dia seguinte para as Gargantas do Todra.</p>
+reviews:
+- name: Jake T.
+  date: 09/02/2025
+  likes: 0
+  stars: 5
+  title: Ótima primeira viagem a Marrocos
+  text: Era a nossa primeira vez em Marrocos e este roteiro de 8 dias mostrou o essencial sem correria. A Mesquita Hassan II, Fez e depois o deserto em Merzouga formaram uma introdução perfeita ao país.
+- name: Ashley M.
+  date: 26/03/2025
+  likes: 0
+  stars: 5
+  title: Curtumes de Fez, um cheiro que não se esquece
+  text: Os curtumes de Fez são intensos, deram-nos folhas de hortelã para cheirar em vez do odor forte do couro, mas valeu muito a pena ver o processo de tingimento tão de perto.
+- name: Ryan C.
+  date: 14/04/2025
+  likes: 1
+  stars: 4
+  title: Boa viagem, hotel em Dades simples
+  text: O roteiro em si é excelente, sobretudo as Gargantas do Todra que superaram as expectativas. O hotel em Dades era mais simples do que os outros, mas nada que atrapalhasse a experiência geral.
+- name: Megan P.
+  date: 02/06/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou parece saído de um filme
+  text: Andar pela kasbah de Ait Ben Haddou e saber que Gladiador foi filmado ali perto foi incrível. O guia contou várias curiosidades sobre as produções que passaram por Ouarzazate.
+- name: Tyler B.
+  date: 20/07/2025
+  likes: 0
+  stars: 5
+  title: Acampamento no deserto, noite inesquecível
+  text: Depois do passeio de camelo até às dunas de Erg Chebbi, a noite no acampamento com música berbere à volta da fogueira foi um dos melhores momentos da nossa viagem a Marrocos.
+- name: Jessica L.
+  date: 08/09/2025
+  likes: 0
+  stars: 5
+  title: Motorista Said tornou tudo mais fácil
+  text: O nosso motorista Said falava inglês fluente e sempre nos ajudava com dicas de onde comer e o que comprar nos souks de Marraquexe. Isso fez muita diferença numa viagem de 8 dias tão cheia.
+- name: Brandon K.
+  date: 27/10/2025
+  likes: 0
+  stars: 3
+  title: Bom roteiro, mas o dia de Fez a Merzouga é longo
+  text: O passeio é muito bem organizado, só o trajeto de Fez até Merzouga é realmente cansativo, quase um dia inteiro de estrada. Vale a pena pelo destino final, mas quem tem enjoo deve preparar-se.
+- name: Nicole H.
+  date: 12/12/2025
+  likes: 0
+  stars: 5
+  title: Jardim Majorelle, o toque final perfeito
+  text: Terminar o último dia inteiro em Marraquexe no Jardim Majorelle, depois do Palácio da Bahia e da praça Jemaa el-Fnaa, foi um fecho tranquilo e bonito para uma viagem intensa de 8 dias.
+- name: Kevin S.
+  date: 30/01/2026
+  likes: 0
+  stars: 5
+  title: Vale do Ziz, paisagem que não esperava
+  text: Não sabia que existia um vale tão verde no meio do caminho para o deserto. O Vale do Ziz com milhares de palmeiras foi uma paragem linda antes de chegarmos às dunas de Merzouga.
+- name: Amber R.
+  date: 15/03/2026
+  likes: 1
+  stars: 5
+  title: Oito dias bem aproveitados, recomendo
+  text: Para quem tem pouco tempo em Marrocos, esta é a viagem certa. Vimos Rabat, Fez, o deserto do Saara e Marraquexe sem sentir que estávamos a correr demais entre um lugar e outro.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1spt-pt!2spt-pt!4v1755183565542!5m2!1spt-pt!2spt-pt

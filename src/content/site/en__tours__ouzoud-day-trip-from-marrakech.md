@@ -97,6 +97,18 @@ faqs:
     <p>Perfect for culture, shopping, and seaside views</p>
 
     <p>Both trips offer a chance to see nature and local culture, just like the Ouzoud waterfalls tour.</p>'
+- q: What is included in the Ouzoud Waterfalls day trip?
+  aHtml: '<p>The price includes round-trip transportation from your Marrakech hotel in an air-conditioned vehicle, an experienced multilingual driver, fuel, and free time to explore the waterfalls at your own pace. Lunch and drinks are not included, but there are local restaurants at Ouzoud with lovely views where you can buy a meal.</p>'
+- q: What time does the tour start and how long does it last?
+  aHtml: '<p>Pickup from your hotel in Marrakech is around 08:00 AM, and the drive to Ouzoud takes about 3 hours each way. Including the hike down to the falls, free time, and the drive back, this is a full-day trip and you should expect to return to Marrakech in the evening.</p>'
+- q: What should I bring for this trip?
+  aHtml: '<p>Wear comfortable walking shoes since the path to the base of the waterfall has steps and steep sections. It is also a good idea to bring a swimsuit if you want to cool off in the water, along with a hat, sunscreen, and a small amount of cash for lunch or a boat ride near the falls.</p>'
+- q: Is this a private or group tour?
+  aHtml: '<p>This is a private day trip, so you will travel with your own driver in a private vehicle rather than joining a large group. This allows the schedule to be adjusted a little to suit your pace, especially on the walk down to the falls.</p>'
+- q: What is the cancellation policy?
+  aHtml: '<p>You can cancel this tour free of charge up to 1 day before the scheduled departure date. Please contact us as early as possible if your plans change so we can adjust the booking.</p>'
+- q: Can I swim at the waterfalls?
+  aHtml: '<p>Yes, once you reach the base of the waterfalls you can swim and cool off in the pools, take a short boat ride closer to the falling water, or simply relax and enjoy the mist and the view. Many visitors combine swimming with lunch at one of the nearby restaurants.</p>'
 reviews:
 - name: Rafael
   date: 04/09/2021
@@ -116,6 +128,48 @@ reviews:
   stars: 5
   title: Fabulous
   text: This excursion was one of the best experiences we had while visiting Morocco. The trek through the Berber village was lovely. We didn’t have the chance to see the monkey because there were a lot of tourists, so my advice is not to go on the high season, otherwise, the guides were helpful, friendly and the scenery was fabulous.
+- name: Emma
+  date: 15/02/2025
+  likes: 0
+  stars: 5
+  title: Peaceful escape from the city
+  text: We walked through the olive groves and a small Berber village on the way down to the falls, and the whole path felt calm and green. Seeing the Barbary monkeys playing near the trail was a lovely surprise. The boat ride close to the waterfall was a fun way to finish the visit.
+- name: Karim
+  date: 22/03/2025
+  likes: 2
+  stars: 5
+  title: Great value day trip from Marrakech
+  text: Our driver picked us up right at 8am and the drive through the Atlas foothills was already beautiful before we even reached Ouzoud. We had lunch at one of the restaurants overlooking the falls, which turned out to be the best part of the day. Highly recommend booking this if you need a break from the Marrakech medina.
+- name: Isabella
+  date: 10/05/2025
+  likes: 0
+  stars: 4
+  title: Beautiful falls, tiring walk down
+  text: The waterfalls themselves are stunning and definitely worth the trip, but the walk down to the base is steeper than I expected and the climb back up left us out of breath. Bring good shoes and take it slow. The scenery and the rainbow in the mist made it all worthwhile.
+- name: Tom
+  date: 03/07/2025
+  likes: 1
+  stars: 5
+  title: Rainbows over Ouzoud
+  text: We visited on a sunny afternoon and got to see a full rainbow forming in the mist at the bottom of the falls, it was incredible. Swimming in the cool water after the walk down was exactly what we needed. Our driver was patient and let us take our time exploring.
+- name: Yuki
+  date: 19/09/2025
+  likes: 0
+  stars: 5
+  title: Monkeys, waterfalls and olive groves
+  text: This was one of my favorite days in Morocco. Watching the Barbary apes climb around the trees on the path felt like a safari moment, and the view of the falls from the top of the trail was breathtaking. The olive grove walk on the way back was quiet and relaxing.
+- name: Lucas
+  date: 28/11/2025
+  likes: 0
+  stars: 5
+  title: Lovely drive through the countryside
+  text: The drive from Marrakech passes through peach and apricot orchards which made the journey itself enjoyable, not just the destination. Ouzoud waterfalls are much bigger than I imagined, with a real sense of scale once you are standing at the base. A great half day trip that never felt rushed.
+- name: Fatima
+  date: 14/02/2026
+  likes: 3
+  stars: 5
+  title: Highlight of our Morocco trip
+  text: We booked this as a private tour and it felt very personal, with our driver explaining the local Berber villages we passed on the way. Lunch by the stream near the falls with the sound of the water in the background was unforgettable. We even tried the small boat ride right up to the waterfall.
 rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1736558.4215714682!2d-8.678076534718182!3d31.778240115304797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Marruecos!3m2!1d32.014226!2d-6.7189627!5e0!3m2!1sen!2sbg!4v1753370928860!5m2!1sen!2sbg

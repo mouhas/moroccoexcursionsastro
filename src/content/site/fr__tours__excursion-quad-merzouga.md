@@ -80,7 +80,77 @@ faqs:
   aHtml: <p>Lors d'une courte excursion en quad, vous profiterez des dunes et vous vous arrêterez pour prendre des photos aux points les plus élevés. Les excursions moyennes comprennent souvent des visites chez des familles nomades ou de l'autre côté de l'Erg Chebbi. Les excursions plus longues peuvent vous emmener dans des oasis cachées, inclure un déjeuner traditionnel et même vous donner la possibilité d'essayer le sandboard.</p>
 - q: Puis-je ajouter les excursions en 4x4 et en buggy également?
   aHtml: <p>Oui, il est possible de faire à la fois des excursions en quad et une autre excursion dans le désert en 4x4 ou en buggy dans les dunes.</p>
-reviews: []
+- q: Quelle est la politique d'annulation pour les excursions en quad?
+  aHtml: <p>Vous pouvez annuler ou modifier votre réservation gratuitement jusqu'à un jour avant l'excursion. Contactez-nous simplement dès que possible pour organiser un changement d'horaire ou de durée.</p>
+- q: Vaut-il mieux réserver un quad simple ou un quad double?
+  aHtml: <p>Le quad simple vous laisse conduire vous-même en toute indépendance, tandis que le quad double permet à deux personnes de partager le même véhicule, l'une conduisant et l'autre étant passagère. C'est un excellent choix pour les couples ou les familles qui préfèrent rouler ensemble.</p>
+- q: Que faut-il porter comme vêtements pour le quad dans le désert?
+  aHtml: <p>Portez des vêtements confortables que vous ne craignez pas de salir, des chaussures fermées et, si possible, un foulard pour protéger votre visage de la poussière. Nous fournissons casques et lunettes de protection pour toutes les excursions.</p>
+- q: Quel est le meilleur moment de la journée pour faire du quad à Merzouga?
+  aHtml: <p>Le matin tôt et la fin d'après-midi sont idéaux, car la chaleur est moins forte et la lumière sur les dunes de l'Erg Chebbi est particulièrement belle pour les photos. Nous adaptons toutefois les horaires selon vos disponibilités.</p>
+- q: Le quad est-il adapté aux personnes qui n'ont jamais conduit ce genre de véhicule?
+  aHtml: <p>Oui, tout à fait. Nos guides expliquent le fonctionnement du quad avant le départ et recommandent aux débutants de commencer par une balade d'une à deux heures pour se familiariser avec les commandes en toute sécurité.</p>
+reviews:
+- name: Nicolas Bertrand
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: Sensations fortes garanties sur les dunes
+  text: 'Une heure de quad sur les dunes de l''Erg Chebbi a suffi pour nous donner des sensations incroyables. Le guide nous a menés jusqu''aux points les plus hauts pour des photos magnifiques du désert à perte de vue.'
+- name: Camille Dubois
+  date: 21/02/2025
+  likes: 1
+  stars: 5
+  title: Quad double parfait en couple
+  text: 'Nous avons choisi le quad double pour trois heures et c''était un excellent choix, mon mari conduisait pendant que je profitais du paysage. L''arrêt chez une famille berbère pour le thé et les crêpes maison a été un vrai plus.'
+- name: Ahmed Bensalem
+  date: 15/03/2025
+  likes: 0
+  stars: 4
+  title: Très bon moment, un peu fatigant
+  text: 'La balade de quatre heures était géniale mais rouler dans le sable mou demande vraiment de la force dans les bras. Heureusement, le déjeuner traditionnel avec les habitants nous a permis de bien récupérer avant de rentrer.'
+- name: Laura Fontaine
+  date: 04/04/2025
+  likes: 0
+  stars: 5
+  title: Sandboard en bonus, quelle bonne surprise
+  text: 'Sur l''excursion longue de six heures, nous avons pu essayer le sandboard sur les dunes après le déjeuner à l''oasis. Une activité qu''on ne s''attendait pas à faire et qui a rendu la journée encore plus mémorable.'
+- name: Youssef Alaoui
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Guide très professionnel
+  text: 'Notre guide connaissait parfaitement le désert et nous a montré des endroits secrets loin des autres touristes. Rencontrer la famille nomade et partager leur thé à la menthe restera un moment fort du séjour.'
+- name: Elena Petrova
+  date: 12/07/2025
+  likes: 2
+  stars: 5
+  title: Premiere fois en quad, parfait pour débuter
+  text: 'C''était ma première fois sur un quad et le briefing sécurité avant le départ m''a rassurée. La balade d''une heure sur les dunes dorées était juste assez intense pour découvrir cette activité sans stress.'
+- name: Marc Lambert
+  date: 08/09/2025
+  likes: 0
+  stars: 5
+  title: Vue imprenable sur l'Erg Chebbi
+  text: 'Grimper avec le quad jusqu''aux petites collines pour admirer le panorama sur tout l''Erg Chebbi était vraiment impressionnant. On a l''impression d''être seuls au monde face à cet océan de sable doré.'
+- name: Chiara Romano
+  date: 17/10/2025
+  likes: 0
+  stars: 5
+  title: Une belle rencontre culturelle en plus de l'aventure
+  text: 'Ce que j''ai préféré, c''est que ce n''est pas juste de la conduite : l''arrêt dans la maison berbère pour le thé et les crêpes maison a ajouté une vraie dimension humaine à notre excursion en quad.'
+- name: David Cohen
+  date: 05/12/2025
+  likes: 0
+  stars: 5
+  title: Excursion longue très complète
+  text: 'Nous avons opté pour les six heures et nous ne regrettons rien : oasis cachée, déjeuner traditionnel au tajine, et sandboard sur les dunes pour finir. Le meilleur rapport qualité-prix de notre séjour à Merzouga.'
+- name: Priya Sharma
+  date: 22/02/2026
+  likes: 1
+  stars: 4
+  title: Beau moment, prévoir un foulard
+  text: 'La poussière soulevée par les quads devant nous entrait un peu partout, donc un foulard est vraiment utile. Cela dit, traverser les dunes de l''Erg Chebbi restera un souvenir fort de notre voyage au Maroc.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1sfr!2sfr!4v1757252086435!5m2!1sfr!2sfr

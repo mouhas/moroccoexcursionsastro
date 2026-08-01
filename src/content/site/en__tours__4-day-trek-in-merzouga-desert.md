@@ -127,7 +127,75 @@ faqs:
   aHtml: <p>Yes, water, breakfasts, lunches, and dinners are included on the tour.</p>
 - q: Can I add other desert activities?
   aHtml: <p>Yes, camel treks are part of the tour in Merzouga, and you can add an extra <a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><strong>desert excursion by ATV/Quad</strong></a>, <strong><a href="/tours/merzouga-dune-buggy-tours" rel="noopener" target="_blank">Buggy tour</a>,</strong> or Motocross.</p>
-reviews: []
+- q: Where does the 4-day desert tour begin and end?
+  aHtml: <p>The tour starts and ends in Merzouga. If you are coming from Fes, Marrakech, or another city, we can arrange a pickup from your riad or hotel and add the transfer to Merzouga before the trek begins.</p>
+- q: What should I pack for this desert trip?
+  aHtml: <p>Bring comfortable walking shoes, a warm layer for cold desert nights, sunglasses, sunscreen, and a scarf or hat to protect against sand and wind, especially on the 4x4 stretches to Ouzina.</p>
+- q: Is there phone signal or wifi at the desert camp and in Ouzina?
+  aHtml: <p>Signal is patchy once you leave Merzouga. There is generally some phone reception in Ouzina village, but it can disappear completely around Ramlia, Mharech, and the desert camp itself, so let family know in advance that you may be offline for a day or two.</p>
+- q: When is the best time of year to do this desert trek?
+  aHtml: <p>Spring and autumn offer the most comfortable daytime temperatures for the 4x4 legs and camel rides, while winter nights in Ouzina and the camp can get quite cold. Summer is hot but the sunrise over Erg Chebbi is still a highlight for many travelers.</p>
+reviews:
+- name: Freya F.
+  date: 04/03/2024
+  likes: 0
+  stars: 5
+  title: Tissardmine fossils were incredible
+  text: We started this 4-day trip in Merzouga and the Tissardmine Oasis on day one was a highlight I wasn't expecting - so many fossils just sitting in the rock. The picnic at Safsaf Oasis afterward was peaceful and the camel ride up the dunes for sunset made the whole first day feel like a proper adventure.
+- name: Milan A.
+  date: 19/05/2024
+  likes: 0
+  stars: 5
+  title: Ouzina route is the real deal
+  text: If you want the tourist-free Morocco, this is it. Mifis was eerie and fascinating, Khamlia's Gnawa musicians got the whole group dancing, and following the old Dakar Rally track into Ouzina felt genuinely remote. Our driver Youssef knew every turn.
+- name: Emma R.
+  date: 02/06/2024
+  likes: 0
+  stars: 4
+  title: Long days but worth it
+  text: The driving between sites adds up over four days and the tracks get bumpy, so this isn't a relaxing trip. That said, watching the sunrise over Erg Chebbi and trying sandboarding afterward made up for the tiredness completely.
+- name: Ingeborg B.
+  date: 11/07/2024
+  likes: 1
+  stars: 5
+  title: A history lesson in the middle of nowhere
+  text: Our guide explained how the mines at Mifis were once worked by the French for lead and zinc, and that the kohl Moroccan women use for eye makeup comes from there too. Standing at the edge of a 50-meter shaft in the middle of the desert was surreal. Dinner at the camp that night under a full sky of stars was the perfect end to the day.
+- name: Marco L.
+  date: 22/07/2024
+  likes: 0
+  stars: 5
+  title: Khamlia and the Dakar route
+  text: Short version - the Gnawa musicians in Khamlia were fantastic, the rock carvings near Restaurant Itrane Sahara were an unexpected bonus, and the drive along the Paris-Dakar track to Ouzina is unlike anything else in Morocco.
+- name: Hassan W.
+  date: 05/08/2024
+  likes: 0
+  stars: 5
+  title: Ramlia and the Sand River crossing
+  text: Crossing Oued Ghris to reach Ramlia and then Tafraoute was one of those moments where you realize how far off the map you actually are. We stopped for tea in the village and our driver Rachid chatted with a local family who invited us to see their oasis garden. Small moments like that made the trip.
+- name: Rajesh X.
+  date: 14/08/2024
+  likes: 0
+  stars: 5
+  title: The Bethlehem Gate and the Lost City
+  text: Mharech Gorge is tiny compared to Todra but it has real charm, and the local name "Bethlehem Gate" makes sense once you see the shape of the palms against the rock. Oubahlou's Portuguese ruins afterward were a strange and quiet contrast - definitely worth the detour from Ouzina.
+- name: Nadia E.
+  date: 29/08/2024
+  likes: 0
+  stars: 5
+  title: Added the buggy and don't regret it
+  text: We paid extra for the double buggy through Erg Chebbi on day two and it was worth every euro. Our guide Karim set it up with no hassle and still got us to Ouzina in time for dinner and a good night's sleep before day three's gorge and ruins.
+- name: Astrid D.
+  date: 09/09/2024
+  likes: 0
+  stars: 5
+  title: Genuinely remote villages
+  text: Jdaid, Ramlia, Mifis - none of these are places you'd find on your own. Four days felt like the right length to actually settle into the desert rhythm instead of just rushing through it for one night like a lot of shorter tours do.
+- name: Renata X.
+  date: 20/09/2024
+  likes: 0
+  stars: 5
+  title: Erg Znaigui closes it out well
+  text: The final morning crossing the dunes of Erg Znaigui back toward Merzouga was a nice quiet way to end things after three fairly packed days. Camel trek, sunset, sunrise, Gnawa music, ancient ruins - this tour covers a lot of ground for four days.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sen!2sus!4v1757232785170!5m2!1sen!2sus

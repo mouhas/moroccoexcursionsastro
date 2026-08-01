@@ -116,7 +116,75 @@ faqs:
   aHtml: <p>You'll stay in comfortable, well-located hotels or riads in each city, and in a proper desert camp in Merzouga with real beds and a shared dining tent. Standard and superior options are both available.</p>
 - q: Where does the tour start and end?
   aHtml: <p>The tour starts and ends in Tangier, with pickup and drop-off available at your hotel, the airport, or the ferry port if you're arriving from Spain.</p>
-reviews: []
+- q: When is the best time of year for this 12-day route?
+  aHtml: <p>Spring (March-May) and autumn (September-November) are the most comfortable months, since the Sahara can be brutally hot in summer and the Todra Gorges area gets cold overnight in winter. The desert camp is enjoyable in most seasons, but layers help either way.</p>
+- q: Will I have phone or wifi signal in the desert camp?
+  aHtml: <p>Most Moroccan networks reach Merzouga town, but signal at the desert camp itself can be weak or non-existent depending on the exact camp location. Treat the two nights near Erg Chebbi as a good excuse to disconnect, and download anything you need beforehand.</p>
+- q: How much should I tip the driver-guide?
+  aHtml: '<p>Tipping isn''t mandatory but is customary for a private multi-day tour like this. Many travelers leave around 10-15 euros per day for the driver-guide, adjusted for group size and how happy you were with the trip.</p>'
+- q: Do we have to repack every night with all the hotel changes?
+  aHtml: <p>With a new hotel most nights, keeping a smaller daypack with what you need for one or two nights makes things easier, especially around the two desert camp nights near Merzouga. Your driver handles loading and unloading the main luggage at each stop.</p>
+reviews:
+- name: Ingrid D.
+  date: 04/03/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges walk was the highlight
+  text: Our driver Said was excellent from day one, always on time and full of stories about each town we passed through. The walk through Todra Gorges with the canyon walls rising on both sides was incredible, and climbing up to Ait Ben Haddou before that gave us a real feel for how the kasbahs were built. Twelve days sounds long but every stop earned its place.
+- name: Aisha B.
+  date: 18/05/2024
+  likes: 0
+  stars: 5
+  title: Desert camp was unforgettable
+  text: Camel trek into Erg Chebbi at sunset, then dinner under the stars with Berber drums going late into the night. Worth the whole trip on its own.
+- name: Renata R.
+  date: 02/06/2024
+  likes: 1
+  stars: 4
+  title: Great route, one long day
+  text: 'This tour hits everything I wanted - Chefchaouen''s blue alleys, Volubilis, the Todra Gorges - and our guide Omar kept things moving smoothly the whole way. My only note is the drive from Merzouga up to Fes felt like a marathon in one sitting, so if you''re doing this route ask about splitting that leg with an extra stop. Otherwise a really well put together itinerary.'
+- name: Rajesh D.
+  date: 22/07/2024
+  likes: 0
+  stars: 5
+  title: Fes tanneries were worth the smell
+  text: Our free day in Fes let us actually wander the medina at our own pace instead of being rushed through it, and the tanneries were as intense (and pungent) as everyone says. Hassan, our guide, knew exactly which alleys to take to avoid the crowds. Highly recommend the extra day here over a quick pass-through.
+- name: Paula R.
+  date: 09/08/2024
+  likes: 0
+  stars: 5
+  title: Jemaa el-Fna at night is a must
+  text: Free afternoon in Marrakech ended with us wandering Jemaa el-Fna as the food stalls lit up - loud, chaotic, and exactly what we came for.
+- name: Mei E.
+  date: 14/09/2024
+  likes: 0
+  stars: 5
+  title: Dades Valley scenery, second night in the dunes
+  text: 'The drive through Skoura''s palm groves and the Valley of Roses near Mgouna was more scenic than I expected, and having two nights in the Merzouga camp instead of just one meant we weren''t rushing the next morning. Comfortable beds in the tent too, which surprised me.'
+- name: Silvia V.
+  date: 30/09/2024
+  likes: 0
+  stars: 5
+  title: 4x4 excursion in the dunes was worth adding
+  text: 'We booked the optional 4x4 on our free day in Merzouga and it took us out to visit a nomad family camped further into the Erg Chebbi. Glad we didn''t skip it. Our driver Brahim arranged everything without any hassle.'
+- name: Kwame Y.
+  date: 11/10/2024
+  likes: 0
+  stars: 5
+  title: Solid start to the trip in Rabat and Casablanca
+  text: Hassan Tower and the Kasbah of the Udayas in Rabat gave a good first taste of Morocco before the Hassan II Mosque in Casablanca, which is genuinely massive up close. Good pacing for the early days of a long tour.
+- name: Chloe I.
+  date: 25/10/2024
+  likes: 0
+  stars: 5
+  title: Chefchaouen at sunrise, perfect ending
+  text: Walking the blue streets before the shops opened on our last morning was the calm, quiet ending this trip needed after the desert.
+- name: Astrid R.
+  date: 08/11/2024
+  likes: 0
+  stars: 5
+  title: Twelve days, never felt rushed
+  text: 'From the ferry port in Tangier all the way down to Merzouga and back, our driver-guide Youssef kept the whole trip running smoothly - clean private vehicle, good suggestions for lunch stops, and enough free time in Marrakech and Fes that we didn''t feel dragged from site to site. The Todra Gorges and Ait Ben Haddou were both better than the photos suggested. Would book with them again for a different route.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

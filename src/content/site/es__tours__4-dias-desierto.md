@@ -121,7 +121,75 @@ faqs:
   aHtml: <p>Sí, el agua, los desayunos, los almuerzos y las cenas están incluidos en el tour.</p>
 - q: ¿Puedo añadir otras actividades en el desierto?
   aHtml: <p>Sí, las excursiones en camello forman parte del tour en Merzouga, y puedes añadir una excursión extra por el desierto en quad, buggy o motocross.</p>
-reviews: []
+- q: ¿Dónde dormimos cada noche durante los 4 días?
+  aHtml: <p>La primera noche duermes en un campamento en las dunas de Merzouga, y las noches segunda y tercera en un hotel sencillo en el desierto de Ouzina, mucho más remoto y con menos turistas. El cuarto día no hay pernoctación, ya que se regresa a Merzouga.</p>
+- q: ¿Cuál es la mejor época para hacer esta ruta por el desierto profundo?
+  aHtml: <p>La primavera y el otoño ofrecen las temperaturas más agradables para pasar tantas horas en el 4x4 y explorar pueblos como Ramlia u Oubahlou. En pleno verano, el calor en zonas como Taouz o el desfiladero de Mharech puede ser muy intenso durante el día.</p>
+- q: ¿Qué debo llevar para un recorrido tan alejado de las zonas turísticas?
+  aHtml: <p>Ropa cómoda y ligera, calzado cerrado para las paradas en las minas de Mifis y las ruinas de Oubahlou, protector solar, gafas de sol y una chaqueta para las noches en el desierto. También conviene llevar algo de efectivo, ya que en pueblos como Ramlia no hay cajeros.</p>
+- q: ¿Podemos comprar los fósiles que encontramos en Tissardmine o Mifis?
+  aHtml: <p>En Tissardmine y en el pueblo de Erfoud hay talleres donde se venden fósiles ya pulidos y tallados, que sí puedes comprar como recuerdo. En las minas de Mifis, sin embargo, los fósiles forman parte del yacimiento y no deben retirarse del lugar.</p>
+reviews:
+- name: Kevin L.
+  date: 04/03/2025
+  likes: 0
+  stars: 5
+  title: Las minas de Mifis impresionan de verdad
+  text: Ver esos pozos de más de 50 metros excavados a mano en las minas de Mifis me dio hasta un poco de vértigo. Nuestro guía nos explicó con mucho cuidado dónde podíamos caminar y dónde no, así que en ningún momento nos sentimos en peligro.
+- name: Rocío N.
+  date: 17/04/2025
+  likes: 1
+  stars: 5
+  title: El oasis de Safsaf, un secreto muy bien guardado
+  text: Comer bajo las palmeras del oasis de Safsaf después de horas de pistas de arena fue un regalo total. Casi no se ve turismo por esa zona, así que se siente un lugar solo nuestro durante un rato.
+- name: Mariana T.
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Oubahlou, la ciudad perdida que nadie visita
+  text: Llegar a las ruinas de Oubahlou, la llamada ciudad portuguesa, y caminar entre lo que queda del asentamiento nos hizo sentir auténticos exploradores. En cuatro días vimos partes del desierto que ni sabíamos que existían.
+- name: Rachel B.
+  date: 12/07/2025
+  likes: 0
+  stars: 4
+  title: Días largos en el 4x4, pero el desfiladero de Mharech lo vale
+  text: Se pasan muchas horas dentro del coche cruzando pistas del desierto, así que hay que ir mentalizado para eso. El desfiladero de Mharech, con sus palmeras y su forma tan curiosa, fue la recompensa perfecta después de tanto trayecto.
+- name: Liam T.
+  date: 24/08/2025
+  likes: 0
+  stars: 5
+  title: La música gnawa en Khamlia por la noche
+  text: Parar en Khamlia y escuchar a los músicos gnawa tocando junto al fuego después de un día entero explorando el desierto fue mágico. El pueblo tiene una energía muy distinta al resto de las paradas del tour.
+- name: Carmen A.
+  date: 06/10/2025
+  likes: 0
+  stars: 5
+  title: Grabados rupestres en medio de la nada
+  text: No esperaba encontrar grabados rupestres prehistóricos durante la ruta del Rally Dakar, y nuestro guía nos explicó su origen con mucho detalle mientras comíamos en el restaurante Itrane Sahara. Un día lleno de sorpresas.
+- name: Ignacio F.
+  date: 19/11/2025
+  likes: 0
+  stars: 5
+  title: Ramlia, un pueblo bereber escondido en el desierto
+  text: Visitar Ramlia y su pequeño oasis fue de lo más auténtico del viaje, muy lejos de cualquier ruta turística habitual. Cruzar después el cauce seco del río Sand hasta Tafraoute añadió otra capa de aventura al tercer día.
+- name: Chloe M.
+  date: 02/01/2026
+  likes: 0
+  stars: 3
+  title: Aventura genial, hotel de Ouzina muy básico
+  text: El recorrido en sí es espectacular y muy distinto a cualquier otro tour de desierto que hayamos hecho, pero el hotel en Ouzina es bastante sencillo, casi sin comodidades. Si buscas lujo esto no es para ti, pero si quieres desierto de verdad, cumple de sobra.
+- name: Andreas M.
+  date: 15/02/2026
+  likes: 0
+  stars: 5
+  title: Cruzar las dunas de Erg Znaigui al volver fue el broche final
+  text: El último día, atravesar las dunas de Erg Znaigui de camino a Merzouga demostró lo bien que conducía nuestro guía por arena blanda. Un cierre perfecto para cuatro días que se sintieron como una expedición de verdad.
+- name: Zoe H.
+  date: 28/03/2026
+  likes: 1
+  stars: 5
+  title: El tour de desierto más auténtico que hemos hecho
+  text: Entre Tissardmine, Mifis, Khamlia, Ramlia y Oubahlou, apenas vimos otros turistas en cuatro días. Si buscas algo más profundo que el típico paseo en camello y una noche de campamento, este recorrido es exactamente lo que necesitas.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1ses!2ses!4v1757232785170!5m2!1ses!2ses

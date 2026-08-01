@@ -119,7 +119,75 @@ faqs:
   aHtml: <p>Sì, l'acqua, la colazione, il pranzo e la cena sono inclusi nel tour.</p>
 - q: Posso aggiungere altre attività nel deserto?
   aHtml: <p>Sì, le escursioni in cammello fanno parte del tour a Merzouga ed è possibile aggiungere un'escursione extra nel deserto in ATV/quad, buggy o motocross.</p>
-reviews: []
+- q: Che tipo di alloggio troveremo durante questi 4 giorni?
+  aHtml: <p>La prima notte si dorme in un campo nel deserto vicino a Merzouga, mentre le notti successive sono in semplici hotel tradizionali a Ouzina, con cena e colazione incluse. Non aspettatevi il lusso dei grandi campi turistici, è un'esperienza più autentica e rustica.</p>
+- q: C'è campo telefonico lungo questo percorso remoto?
+  aHtml: <p>Il segnale è molto limitato o assente in gran parte del percorso, soprattutto a Ouzina, Ramlia e Oubahlou. Consigliamo di avvisare i familiari prima di partire e di scaricare mappe offline, dato che ci si allontana parecchio dalle zone con copertura.</p>
+- q: Qual è il periodo migliore per fare questo tour di 4 giorni nel deserto selvaggio?
+  aHtml: <p>Primavera e autunno restano i periodi migliori, con temperature piacevoli durante il giorno e notti fresche ma sopportabili. In estate le piste possono diventare molto calde nelle ore centrali della giornata, mentre in inverno le notti a Ouzina possono essere piuttosto fredde.</p>
+- q: È buona norma lasciare una mancia durante questo tour?
+  aHtml: <p>Le mance non sono obbligatorie, ma sono ben accette per l'autista che vi accompagna per tutti e quattro i giorni e per le famiglie nomadi o i musicisti Gnawa di Khamlia che vi accolgono lungo il percorso.</p>
+reviews:
+- name: Alessandro P.
+  date: 11/03/2025
+  likes: 0
+  stars: 5
+  title: Un deserto diverso da quello dei tour classici
+  text: Questo tour di 4 giorni ci ha portato molto oltre i soliti percorsi turistici. L'oasi di Tissardmine con i suoi fossili e il villaggio abbandonato di Mifis con le vecchie miniere sono stati momenti che raramente si vedono nei tour standard di Merzouga. Il nostro autista conosceva ogni pista a memoria.
+- name: Jack T.
+  date: 28/07/2025
+  likes: 0
+  stars: 5
+  title: Il villaggio minerario abbandonato di Mifis era affascinante
+  text: Non mi aspettavo di trovare pozzi minerari profondi più di 50 metri nel bel mezzo del deserto. La guida ci ha raccontato che i francesi estraevano piombo e zinco da lì e che il famoso kohl usato dalle donne marocchine viene proprio da questa zona. Un lato del Sahara che pochi conoscono.
+- name: Thomas P.
+  date: 14/12/2025
+  likes: 0
+  stars: 5
+  title: Musica Gnawa a Khamlia, un momento speciale
+  text: Fermarsi a Khamlia per ascoltare i musicisti Gnawa suonare e ballare mentre bevevamo un tè alla menta è stato uno dei momenti più genuini di tutto il viaggio in Marocco. Il percorso del Rally Dakar che abbiamo seguito il giorno dopo rende questo tour ancora più avventuroso.
+- name: Tyler H.
+  date: 02/02/2026
+  likes: 0
+  stars: 4
+  title: Remoto e selvaggio, esattamente ciò che cercavamo
+  text: Se cercate un tour nel deserto lontano dalla folla, questo è perfetto. Ramlia e Oubahlou sono villaggi che sembrano usciti da un'altra epoca. Tolgo una stella solo perché l'hotel a Ouzina era piuttosto semplice, ma capisco che siamo davvero in mezzo al nulla.
+- name: Michael T.
+  date: 19/09/2025
+  likes: 1
+  stars: 5
+  title: La gola di Mharech, la porta di Betlemme
+  text: La gola di Mharech, che la nostra guida chiamava la Porta di Betlemme per la sua forma, è stata una sorpresa bellissima, palme e una piccola oasi in mezzo a rocce imponenti. Prima di arrivarci abbiamo attraversato il letto asciutto dell'Oued Ghris, un paesaggio surreale.
+- name: Grace N.
+  date: 06/05/2026
+  likes: 0
+  stars: 5
+  title: Alba e tramonto, entrambi indimenticabili
+  text: Il primo giorno abbiamo ammirato il tramonto dalle dune vicino a Merzouga dopo aver visitato l'oasi di Safsaf per un picnic, mentre il secondo giorno l'alba sulle dune dell'Erg Chebbi prima di partire per Mifis è stata altrettanto magica. Quattro giorni intensi ma mai stancanti.
+- name: Aurélie S.
+  date: 23/10/2025
+  likes: 0
+  stars: 5
+  title: Le incisioni rupestri e il pranzo berbero a Itrane Sahara
+  text: La sosta al ristorante Itrane Sahara con piscina e pranzo berbero è stata una pausa piacevolissima nel mezzo del deserto, e la breve passeggiata per vedere le incisioni rupestri preistoriche poco dopo ci ha lasciato senza parole. Un tour che unisce avventura e storia molto bene.
+- name: Lauren G.
+  date: 04/01/2026
+  likes: 0
+  stars: 5
+  title: Erg Znaigui, la duna finale prima del ritorno
+  text: L'ultimo giorno, attraversare le dune di Erg Znaigui prima di tornare a Merzouga è stato il degno finale di un viaggio che ci ha portato in posti che non avremmo mai trovato da soli. Consiglio vivamente questo tour a chi ha già fatto un giro classico nel deserto e vuole andare oltre.
+- name: Pablo S.
+  date: 15/06/2025
+  likes: 0
+  stars: 4
+  title: Ideale per chi cerca vera avventura
+  text: Quattro giorni in fuoristrada tra villaggi remoti come Jdaid e Ramlia, famiglie nomadi e paesaggi che cambiano continuamente. L'unico appunto riguarda le lunghe ore in auto su piste sterrate, un po' faticose per la schiena, ma nel complesso un'esperienza autentica e ben organizzata.
+- name: Silvia A.
+  date: 30/03/2025
+  likes: 0
+  stars: 5
+  title: Molto più di un semplice tour nel deserto
+  text: Il picnic all'oasi di Safsaf il primo giorno e la visita alle famiglie nomadi lungo il percorso del Rally Dakar il secondo giorno sono stati i momenti che ricorderò di più. Il nostro autista è stato paziente e ci ha spiegato la storia di ogni villaggio che abbiamo attraversato.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sit!2sit!4v1757232785170!5m2!1sit!2sit

@@ -8,7 +8,44 @@ price: null
 duration: null
 tag: null
 source: https://morocco-excursion.com/travel-agency/
+faqs:
+- q: Why choose Morocco Excursions over an international travel agency?
+  aHtml: <p>We're a 100% local, Berber-owned agency based in Morocco, not a foreign reseller working through middlemen. That means direct relationships with our drivers and guides, upfront pricing with no hidden markups, and local knowledge of hidden spots and current road/weather conditions that international agencies simply can't offer.</p>
+- q: How quickly will I get a reply after sending a booking request?
+  aHtml: <p>Our team typically replies within a few hours thanks to our dedicated customer service line. If your dates are coming up fast or you need help while already traveling in Morocco, you can also reach us directly on WhatsApp for a faster response.</p>
+- q: Can you customize a tour instead of just offering fixed packages?
+  aHtml: <p>Yes, tailor-made itineraries are one of our specialties. Tell us your interests, timeframe, and budget, and our team will build a private route around them, whether that means extra days in the Sahara, a different start/end city, or upgraded accommodations.</p>
+- q: Do I need to pay the full amount when booking?
+  aHtml: <p>No, most travelers secure their trip with a 10% deposit and settle the rest with their driver-guide at the start of the tour. Full online payment is also available if you'd prefer to handle everything upfront.</p>
+- q: What languages do your guides and drivers speak?
+  aHtml: <p>Our driver-guides are multilingual, most comfortably in English and French, with several also speaking Spanish, Italian, or German. Let us know your preferred language when you book and we'll match you with a suitable guide.</p>
+- q: Are your drivers licensed, insured, and trained?
+  aHtml: <p>Yes, every driver we work with is properly licensed, insured, and experienced on Morocco's roads, including the mountain routes through the Atlas and the tracks into the Sahara. Safety and comfort are treated as non-negotiable, not an upsell.</p>
+- q: Will I be traveling with strangers on a private tour?
+  aHtml: <p>No, private tours are exclusively for your own group, with your own vehicle and driver-guide. If you'd rather share costs with other travelers, we also offer group tours on fixed itineraries at a lower per-person price.</p>
+- q: What happens if I need to change my travel plans after booking?
+  aHtml: <p>Just message our team as soon as you know, whether that's changing dates, adjusting the itinerary, or handling a short-notice request. Our 24-hour customer service line exists specifically to help with situations like this, even while you're already on the road.</p>
+iconGrid:
+- icon: globe
+  title: 100% Locals
+  text: Being Berbers ourselves, we bring a unique perspective and understanding of Morocco's diverse landscapes, traditions, and languages, for an authentic and immersive experience.
+- icon: star
+  title: '+12 Years of Experience'
+  text: A remarkable 12-year legacy in Moroccan tourism, with unparalleled insight into the country's diverse landscapes, rich culture, and historical heritage.
+- icon: shield
+  title: Trustworthiness
+  text: Our reputation is built on a long history of outstanding tours tailored to each visitor, backed by the dedication of our team and the trust of our clients.
+- icon: bolt
+  title: Online Booking
+  text: A swift, hassle-free booking process — select your tour, follow the easy steps, and receive instant confirmation so you can start looking forward to your trip.
+- icon: cal
+  title: Availability
+  text: Itineraries thoughtfully designed to match every season, from the vibrant energy of summer to the mild climate of winter, so you can travel whenever suits you.
+- icon: tag
+  title: Affordable
+  text: Top-quality tours and travel services without the fortune — we keep costs down by optimizing our operations and working with trusted local partners.
 ---
+
 We at **Morocco Excursions** have been providing travelers from all over the world with a variety of shared and private [Morocco tours](https://www.morocco-excursion.com/) and all-inclusive vacations to Morocco. We have become one of the top Moroccan travel agencies as a result of the trust and loyalty of our clients throughout the years.
 
 When exploring Morocco, it’s like having a local friend show you around. That’s what we do as a **Moroccan tour operator** with local guides.
@@ -35,45 +72,9 @@ No matter where they are in the world, travelers may get help thanks to a dedica
 6. Our top travel guides can provide expert travel advice.
 7. Arrangements for all food and drink, lodging, and transport.
 
-### Why Our Travel Agency?
-
----
-
-##### **100% Locals**
-
-Being Berbers ourselves, we bring a unique perspective and understanding of Morocco’s diverse landscapes, traditions, and languages. Our intimate connection with the local communities, desert oases, and ancient Berber villages allows us to provide an authentic and immersive experience to travelers.
-
-##### **+12 Years Of Experience**
-
-With a remarkable 12-year legacy in the tourism industry, Morocco Excursions Company stands out as an exceptionally seasoned and trustworthy Moroccan tour operator. This extensive experience underscores our deep-rooted expertise in delivering exceptional travel experiences throughout Morocco.
-
-Over the years, we have fine-tuned our services, providing travelers with unparalleled insights into Morocco’s diverse landscapes, rich culture, and historical heritage. Our long-standing presence in the industry has cultivated a deep understanding of our customers’ preferences, enabling us to craft tailor-made itineraries that cater to their unique desires.
-
-##### **Trustworthiness**
-
-Our reputation is built on a long history of providing outstanding tours that cater to the unique preferences of each visitor. We take pride in our role as storytellers, introducing people to Morocco’s captivating tales.
-
-Our success is due to the dedication of our team and the trust of our clients. We’re committed to sharing Morocco’s beauty, culture, and hospitality with the world. We look forward to creating lasting memories for many more travelers in the years to come.
-
-##### **Online Booking**
-
-For those seeking a swift and hassle-free booking process, we provide the convenience of **online booking**. Visit our website, select your desired tour, and follow the easy steps to secure your adventure. The online booking platform ensures a seamless and efficient process, allowing you to receive instant confirmation, so you can quickly start looking forward to your Moroccan journey.
-
-##### **Availability**
-
-No matter when you plan your visit, we ensure you can explore Morocco’s diverse landscapes and cultural wonders. From the bustling medinas of Marrakech to the serene Sahara Desert, our itineraries are thoughtfully designed to match the season, making your experience unforgettable.
-
-Whether you seek the vibrant energy of summer or the mild climate of winter, our tours are adaptable to provide you with a seamless journey. You can dive into the magic of Morocco during the spring’s blossoming, immerse in the lively atmosphere of autumn festivals, or savor the tranquility of the off-season. Our flexible departures enable you to experience Morocco’s beauty, history, and traditions at your convenience, promising an enriching adventure no matter when you choose to explore this captivating country.
-
-##### **Affordable**
-
-Our main aim is to give you top-quality tours in Morocco and other travel services, all without costing you a fortune. We want your experience to be amazing, whether you’re exploring the bustling Marrakech markets or wandering through the Sahara Desert.
-
-We believe that affordability should never mean compromising on the quality of your adventure. We work hard to make our tours accessible to everyone by optimizing our operations and working with local partners to keep costs down.
-
 When you choose us, you can trust that your money is well spent, and you’ll get a fantastic Moroccan experience without blowing your budget. Our [**DMC**](/dmc-morocco)‘s focus is on providing you with unforgettable moments in Morocco, full of culture, heritage, and warm hospitality.
 
-### Travelers’s Recommendations
+### Travelers’ Recommendations
 
 #### Rita
 
@@ -112,6 +113,6 @@ We took a three-day excursion from Fez to Marrakech via the Merzouga Desert. Thi
 
 #### Elena
 
-Morocco Excxursions Travel Agency hosted my spouse and myself for three days. We began in Fes and traveled to Marrakech through many destinations. The excursion featured a stay in a luxurious desert tent. Everything was wonderful. Our driver, Ahmed, was incredibly knowledgeable and thoroughly detailed all of the sights we saw as well as the traditional customs. We all aspire to have the same experience. Thank you very much, Hassan and Ahmed.
+Morocco Excursions Travel Agency hosted my spouse and myself for three days. We began in Fes and traveled to Marrakech through many destinations. The excursion featured a stay in a luxurious desert tent. Everything was wonderful. Our driver, Ahmed, was incredibly knowledgeable and thoroughly detailed all of the sights we saw as well as the traditional customs. We all aspire to have the same experience. Thank you very much, Hassan and Ahmed.
 
-MORE REVIEWS
+[MORE **REVIEWS**](/reviews)

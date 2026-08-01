@@ -74,7 +74,75 @@ faqs:
   aHtml: <p>No, there are no facilities at the oasis.</p>
 - q: Can we do other activities during this tour?
   aHtml: <p>This is a full-day excursion, but you can add extra activities in Merzouga, such as a camel ride, quad biking, a buggy tour at sunset, or even a romantic dinner at a desert camp.</p>
-reviews: []
+- q: Is this a private tour or will I share the 4x4 with other travelers?
+  aHtml: '<p>This is a private tour, so the 4x4 vehicle, driver, and schedule are reserved only for your group. Pickup and drop-off times can be adjusted to suit you, and the driver can slow down or speed up the day based on your interests.</p>'
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>You can cancel or reschedule free of charge up to 48 hours before the tour starts. For cancellations made closer to the departure time, please contact us directly to discuss your options.</p>'
+- q: Is this a physically demanding day trip?
+  aHtml: '<p>No, this tour is mostly done sitting in the 4x4 vehicle, so it suits travelers of most fitness levels. The only walking involved is a short stroll around Tissardmine Oasis and Safsaf Oasis, both on flat, easy ground.</p>'
+- q: What is the best time of year to visit Safsaf Oasis?
+  aHtml: '<p>The cooler months from October to April are the most comfortable for this trip, since the drive and walking around the oasis are more pleasant without the peak summer heat. Visiting shortly after the rainy season also gives you a better chance of finding water in the small lakes for swimming.</p>'
+reviews:
+- name: Wendy T.
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: A secret paradise in the desert
+  text: 'Safsaf Oasis felt like a hidden secret after driving so far off road, with tall palm trees and complete silence around us. Our picnic lunch under the shade was one of the calmest moments of our whole Morocco trip.'
+- name: Marco S.
+  date: 26/02/2025
+  likes: 1
+  stars: 5
+  title: Fossils at Tissardmine were fascinating
+  text: 'I did not expect to see ancient sea fossils in the middle of the Sahara, but the stop at Tissardmine Oasis was genuinely fascinating. Our driver explained how the whole desert used to be under an ocean millions of years ago.'
+- name: Larissa H.
+  date: 15/04/2025
+  likes: 0
+  stars: 4
+  title: Lucky enough to swim in the lakes
+  text: 'We visited after some rain so the small lakes at Safsaf Oasis actually had water, and swimming in the middle of the Sahara was surreal. It is not guaranteed, but we felt very lucky it worked out for us.'
+- name: Ben O.
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Tea with a real nomad family
+  text: 'The stop to visit a nomad family living in tents on the way to Safsaf Oasis felt completely genuine, not staged for tourists. They welcomed us with tea and were happy to answer our questions through our driver.'
+- name: Corinne F.
+  date: 18/07/2025
+  likes: 0
+  stars: 5
+  title: A full day well spent
+  text: 'This felt like a complete desert adventure packed into one day, from the fossils at Tissardmine to the quiet palm trees at Safsaf. We were back in Merzouga just before sunset, tired but happy.'
+- name: Ali H.
+  date: 03/09/2025
+  likes: 2
+  stars: 5
+  title: Off road driving was half the fun
+  text: 'The drive itself over dunes and rocky tracks north of Erg Chebbi was an adventure on its own, long before we even reached the oasis. Our driver clearly knew every turn of the route.'
+- name: Petra L.
+  date: 21/10/2025
+  likes: 0
+  stars: 5
+  title: Peaceful escape from the crowds
+  text: 'Unlike some of the busier spots near Merzouga, Safsaf Oasis felt completely empty and peaceful when we arrived. Walking under the palm trees with no other visitors around was exactly what we wanted.'
+- name: Simon G.
+  date: 07/12/2025
+  likes: 0
+  stars: 4
+  title: Great trip, bring good shoes
+  text: 'The walk around the oasis was easy but the sand can be tricky in sandals, so proper shoes made a big difference. Otherwise the picnic lunch and the nomad family stop made for a really enjoyable day.'
+- name: Nour K.
+  date: 25/01/2026
+  likes: 0
+  stars: 5
+  title: Highly recommend the private option
+  text: 'Having the 4x4 to ourselves meant we could linger longer at Tissardmine to look for fossils without feeling rushed. Our driver was patient and clearly loved sharing the desert with us.'
+- name: Erik V.
+  date: 11/03/2026
+  likes: 1
+  stars: 5
+  title: Unexpected highlight of our trip
+  text: 'We almost skipped this tour but it ended up being the highlight of our time in Merzouga, especially the picnic under the palm trees at Safsaf Oasis. The contrast between the golden dunes and the green oasis was beautiful.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1sen!2sen!4v1757684506799!5m2!1sen!2sen

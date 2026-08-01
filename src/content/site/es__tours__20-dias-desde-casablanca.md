@@ -135,7 +135,77 @@ faqs:
   aHtml: <p>Las actividades en el desierto que están incluidas son paseos en camello, sandboard, excursión todoterreno en 4x4 y noche en un campamento en el desierto. Las actividades adicionales posibles son las excursiones en quad y buggy.</p>
 - q: ¿Hay algún otro tour similar al tour de 20 días desde Casablanca?
   aHtml: <p>Si busca tours similares a este tour de 20 días, consulte el <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>tour de 30 días</strong></a> o el <a href="https://morocco-excursion.com/es/tours/10-dias-de-marrakech/" rel="noopener" target="_blank"><strong>tour de 10 días desde Marrakech</strong></a>. Ambos incluyen las mejores ciudades de Marruecos.</p>
-reviews: []
+- q: ¿Qué se puede ver en la parada de Asilah?
+  aHtml: <p>Asilah es una pequeña ciudad costera conocida por sus murallas encaladas y los coloridos murales que artistas locales pintan cada año en sus calles. Es una parada corta pero muy fotogénica de camino a Tánger.</p>
+- q: ¿Hay días de descanso en un itinerario tan largo?
+  aHtml: <p>El recorrido de 20 días no incluye días completamente libres, pero varias noches se quedan en el mismo lugar, como Chefchaouen, Fez o Essaouira, lo que te da tiempo para explorar con calma sin subir cada día al vehículo.</p>
+- q: ¿Puedo unirme al tour a mitad de camino o hacer solo una parte?
+  aHtml: <p>Sí, el itinerario de 20 días se puedes adaptar. Si solo tienes unos días disponibles, podemos organizar tu llegada o salida en cualquier punto del recorrido, por ejemplo, uniéndote directamente en Fez o en Marrakech.</p>
+- q: ¿Necesito llevar mucho dinero en efectivo durante el viaje?
+  aHtml: <p>Sí, conviene llevar efectivo suficiente para pueblos pequeños, mercados y el campamento del desierto, donde no siempre se aceptan tarjetas. En ciudades como Casablanca, Fez o Marrakech encontrarás cajeros automáticos sin problema.</p>
+- q: ¿Cuántas noches se pasan en riads, hoteles y campamentos durante los 20 días?
+  aHtml: <p>La mayoría de las noches se alojan en hoteles de gama media o riads tradicionales, con una noche en el desierto en un campamento junto a las dunas de Erg Chebbi. En ciudades grandes como Fez o Marrakech, sueles alojarte en riads dentro de la medina.</p>
+reviews:
+- name: Ryan D.
+  date: 08/03/2025
+  likes: 0
+  stars: 5
+  title: Asilah nos enamoró antes de llegar a Tánger
+  text: No esperábamos que una parada tan corta como Asilah nos gustara tanto, con sus murales de colores por todas las calles de la medina. Fue un buen calentamiento antes de las veinte jornadas que teníamos por delante.
+- name: Milagros K.
+  date: 22/04/2025
+  likes: 1
+  stars: 5
+  title: Veinte días para ver Marruecos entero, literalmente
+  text: Desde Chefchaouen hasta Taghazout, pasando por el desierto de Merzouga, sentimos que no nos quedamos con ganas de nada. Parar en Taghazout unos días fue un descanso perfecto en medio de tanto movimiento.
+- name: Isabella C.
+  date: 05/06/2025
+  likes: 0
+  stars: 5
+  title: Sidi Ifni, la ciudad que no sale en las postales típicas
+  text: Casi nadie nos había hablado de Sidi Ifni antes de este viaje y terminó siendo una de las paradas más curiosas, con esa arquitectura Art Déco por la antigua presencia española. Un contraste total con las medinas del norte.
+- name: Emily C.
+  date: 19/07/2025
+  likes: 0
+  stars: 5
+  title: Las cascadas de Ouzoud, un día perfecto cerca de Marrakech
+  text: Después de tantos días de ciudades y desierto, la excursión a las cascadas de Ouzoud fue un cambio de aire estupendo. Ver los monos de Berbería jugando cerca del sendero mientras caminábamos hacia el mirador fue un extra que no esperábamos.
+- name: Tiago N.
+  date: 02/09/2025
+  likes: 0
+  stars: 5
+  title: Los pueblos abandonados del desierto me marcaron
+  text: Visitar a familias nómadas y ver pueblos abandonados alrededor de Merzouga le dio al viaje una capa de realidad que no tienen los recorridos más cortos. Se nota que veinte días permiten profundizar mucho más en cada región.
+- name: Iván C.
+  date: 16/10/2025
+  likes: 0
+  stars: 4
+  title: Todra, Dades y el valle de las rosas, tres joyas seguidas
+  text: Encadenar las gargantas del Todra, el valle del Dades y el valle de las rosas en pocos días fue espectacular, aunque reconozco que a esas alturas del viaje ya empezábamos a notar el cansancio acumulado de tantas horas de carretera.
+- name: Mateo H.
+  date: 29/11/2025
+  likes: 0
+  stars: 4
+  title: Muy completo, aunque hacia la mitad se hace largo
+  text: El itinerario está pensado con mucho cuidado y cada región de Marruecos aporta algo distinto, pero honestamente hacia el día diez u once notamos cierta fatiga de tanto cambiar de hotel. Aun así, la segunda mitad del viaje, con la costa y Marrakech, nos devolvió toda la energía.
+- name: Grace N.
+  date: 11/01/2026
+  likes: 0
+  stars: 5
+  title: Essaouira, viento y calma antes de Marrakech
+  text: El puerto pesquero, las murallas frente al Atlántico y el ambiente relajado de la medina de Essaouira fueron un contraste precioso justo antes de la energía de Marrakech. Muy recomendable como parada intermedia en un viaje tan largo.
+- name: Felix M.
+  date: 24/02/2026
+  likes: 0
+  stars: 5
+  title: El día completo en Fez, inolvidable
+  text: Nuestro guía en Fez nos llevó por curtidurías, la universidad Al-Qarawiyyin y rincones de la medina que jamás habríamos encontrado por nuestra cuenta. Fue uno de los días con guía local más completos de todo el recorrido de veinte días.
+- name: Chloé F.
+  date: 09/04/2026
+  likes: 1
+  stars: 5
+  title: Jemaa el-Fnaa y los jardines Majorelle como cierre
+  text: Después de casi tres semanas viajando, terminar con un día completo en Marrakech, entre los jardines Majorelle por la mañana y la plaza Jemaa el-Fnaa de noche, fue el cierre perfecto para un viaje que realmente enseña Marruecos de punta a punta.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1ses!2ses!4v1755675314275!5m2!1ses!2ses

@@ -174,7 +174,77 @@ faqs:
   aHtml: '<p>Este itinerário oferece o melhor de Marrocos em duas semanas: cidades imperiais, o deserto do Saara, as montanhas Atlas e a costa atlântica. Você vai conhecer a cultura, a história, a natureza e a vida local, tudo numa só viagem.</p>'
 - q: Recomenda algum outro passeio semelhante?
   aHtml: <p>Sim, se procura uma viagem mais longa, consulte os nossos circuitos de <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> e de <a href="https://morocco-excursion.com/pt-br/tours/30-dias-de-casablanca/" rel="noopener" target="_blank"><strong>30 dias em Marrocos</strong></a>.</p>
-reviews: []
+- q: Taghazout é realmente bom para quem gosta de surf?
+  aHtml: <p>Sim, Taghazout é conhecida como um dos principais destinos de surf de Marrocos, com ondas constantes ao longo do ano. Mesmo sem surfar, a atmosfera descontraída desta vila de pescadores transformada em ponto turístico é um respiro perfeito depois dos dias no deserto.</p>
+- q: Por que o itinerário passa por Sidi Ifni, uma cidade menos conhecida?
+  aHtml: <p>Sidi Ifni foi um enclave espanhol até 1969 e conserva uma arquitetura Art Déco única na costa marroquina, muito diferente de qualquer outra cidade do roteiro. É uma paragem tranquila entre o deserto e Agadir, perfeita para caminhar sem pressa junto ao oceano.</p>
+- q: Esta viagem de 15 dias é fisicamente exigente?
+  aHtml: <p>É um ritmo moderado, com muitas horas de estrada e caminhadas nas medinas, kasbahs e desfiladeiros. Não é necessário condicionamento físico avançado, mas recomenda-se boa disposição para caminhar em terrenos irregulares e alguma resistência nos dias mais longos de viagem.</p>
+- q: É necessário contratar seguro de viagem?
+  aHtml: <p>Recomendamos vivamente contratar um seguro de viagem que cubra atividades como passeios de camelo e excursões 4x4, além de eventuais imprevistos médicos, já que partes do roteiro passam por regiões remotas do deserto e da costa.</p>
+- q: Há um guia connosco durante todo o percurso de 15 dias?
+  aHtml: <p>O motorista acompanha-o durante toda a viagem, e guias locais licenciados juntam-se ao grupo nas cidades onde a visita a pé é mais rica, como Fez e Marraquexe, para explicar a história e ajudar a navegar pelas medinas.</p>
+reviews:
+- name: João P.
+  date: 11/02/2025
+  likes: 0
+  stars: 5
+  title: Tânger e o Cabo Spartel, início e tanto
+  text: Começar a viagem com a visita às Grutas de Hércules e ao Cabo Spartel, onde o Atlântico encontra o Mediterrâneo, já deu o tom da aventura. Chefchaouen logo depois foi ainda mais bonita do que nas fotos que eu tinha visto.
+- name: Sofia M.
+  date: 25/03/2025
+  likes: 0
+  stars: 5
+  title: Quinze dias e nenhum deles repetido
+  text: O que mais gostei foi a variedade, cidades imperiais, deserto, montanhas e ainda praias em Sidi Ifni, Taghazout e Essaouira. Cada região parecia um país diferente dentro do mesmo Marrocos.
+- name: Miguel T.
+  date: 09/04/2025
+  likes: 1
+  stars: 4
+  title: Roteiro longo, mas bem distribuído
+  text: Quinze dias parecem muitos, mas o itinerário está bem pensado para não cansar demasiado. Só senti que os dois dias seguidos de estrada entre Fez e Merzouga foram um pouco puxados, apesar de as paisagens compensarem.
+- name: Inês R.
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Aldeias abandonadas perto de Merzouga, ponto alto
+  text: Depois do passeio de camelo até às dunas de Erg Chebbi, no dia seguinte visitámos famílias nómadas e passámos por aldeias abandonadas no meio do deserto. Foi diferente de qualquer outra excursão que já tinha feito em Marrocos.
+- name: Tiago C.
+  date: 14/07/2025
+  likes: 0
+  stars: 5
+  title: Taroudant, a Marraquexe em miniatura
+  text: Nunca tinha ouvido falar de Taroudant antes desta viagem e adorei. As muralhas vermelhas e os mercados são mais calmos do que em Marraquexe, mas igualmente cheios de vida. Uma paragem que recomendo a quem já foi a Marrocos antes.
+- name: Beatriz L.
+  date: 02/09/2025
+  likes: 0
+  stars: 5
+  title: Sidi Ifni parece outro país
+  text: A arquitetura Art Déco de Sidi Ifni surpreendeu, é uma cidade completamente diferente de tudo o que vimos até ali. A brisa do oceano depois de dias no deserto foi um alívio bem-vindo.
+- name: André S.
+  date: 19/10/2025
+  likes: 0
+  stars: 3
+  title: Boa viagem, mas atenção ao cansaço acumulado
+  text: É uma viagem longa e recompensadora, só recomendo não fazer atividades extra todos os dias porque o cansaço acumula. Ainda assim, o motorista Hassan foi impecável e sempre disposto a ajustar o ritmo quando pedimos uma pausa maior.
+- name: Catarina F.
+  date: 05/12/2025
+  likes: 0
+  stars: 5
+  title: Essaouira e Taghazout, praias inesquecíveis
+  text: Depois de tanto deserto, chegar a Taghazout e depois a Essaouira com aquele vento fresco e os frutos do mar grelhados no porto foi maravilhoso. Um final de viagem completamente diferente do início em Casablanca.
+- name: Ricardo N.
+  date: 20/01/2026
+  likes: 0
+  stars: 5
+  title: Fez continua a ser o meu destaque
+  text: Já tínhamos visto muita coisa até chegar a Fez, mas a medina, os curtumes e a Madrasa Bou Inania continuam a ser inesquecíveis. O guia local em Fez sabia contar histórias que tornavam cada esquina mais interessante.
+- name: Mariana B.
+  date: 08/03/2026
+  likes: 1
+  stars: 5
+  title: Quinze dias que valem cada euro
+  text: Contratámos esta viagem de 15 dias e não nos arrependemos um minuto sequer. Desde a Mesquita Hassan II em Casablanca até à praça Jemaa el-Fnaa em Marraquexe, cada dia trouxe algo novo. O motorista Rachid tornou tudo ainda mais especial com o seu bom humor.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1spt-pt!2spt-pt!4v1755608529674!5m2!1spt-pt!2spt-pt

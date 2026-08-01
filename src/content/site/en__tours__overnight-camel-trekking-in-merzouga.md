@@ -77,7 +77,77 @@ faqs:
   aHtml: <p>The luxury camps offer private tents with comfortable beds, bathrooms, and showers. Standard camps are simpler, with shared bathrooms and basic facilities.</p>
 - q: Do you offer other desert excursions in Merzouga?
   aHtml: <p>Yes, besides camel rides, we also organize ATV/<a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><strong>quad bike tours</strong></a>, buggy adventures, and <strong><a href="/tours/merzouga-4wd-desert-safari" rel="noopener" target="_blank">4x4 off-road desert excursions</a></strong> to explore the desert. These tours can include visits to nomadic families, Berber villages, and hidden desert spots. If you prefer not to ride camels, you can go by 4x4 or quad and still spend the night in the camp.</p>
-reviews: []
+- q: Is this tour suitable for children, elderly travelers, or pregnant women?
+  aHtml: <p>Children usually enjoy the camel trek and the desert camp, though shorter rides can be arranged for younger kids. For safety reasons, camel rides are not recommended for pregnant women, people with serious back or hip problems, or travelers over the age of 70, but they are welcome to reach the camp by car instead and still enjoy the sunset, dinner, and Berber music.</p>
+- q: Where do we meet and is parking available?
+  aHtml: <p>The tour starts at our office in Merzouga, where you can park your car for free while you are in the desert. Our team will help you get ready before the camel trek begins, around 16:00 in winter or 18:00 in summer.</p>
+- q: What is the cancellation policy?
+  aHtml: <p>You can cancel or reschedule this camel trek and desert camp night free of charge up to 1 day before departure. Just let us know as early as possible so we can adjust your booking.</p>
+- q: Can dietary requirements be accommodated for dinner?
+  aHtml: <p>Yes, our team prepares traditional Moroccan dishes such as tagine and couscous for dinner and breakfast, and we are happy to prepare vegetarian, vegan, or other special meals if you let us know in advance.</p>
+- q: Is this a private or group experience?
+  aHtml: <p>This is a group tour, so you will share the camel trek and the campfire evening with other travelers staying at the camp, which adds to the fun of the Berber music and storytelling around the fire. Private tents are still provided for each booking, whether you choose the standard or luxury camp.</p>
+reviews:
+- name: Sophie
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: Magical sunset on the dunes
+  text: Riding a camel up onto the Erg Chebbi dunes just as the sky turned orange was the highlight of our whole trip to Morocco. The camp welcomed us with mint tea and the tagine dinner afterward was delicious. Falling asleep under that many stars is something I will never forget.
+- name: Marco
+  date: 27/02/2025
+  likes: 1
+  stars: 5
+  title: Great value for a standard camp
+  text: We booked the standard camp and it was still very comfortable, with a cozy tent and a warm welcome. The camel ride took about an hour each way and our guide stopped often so we could take photos of the dunes. The Berber music around the fire after dinner was a fun surprise.
+- name: Priya
+  date: 15/03/2025
+  likes: 0
+  stars: 4
+  title: Beautiful but the camel ride is bumpy
+  text: The scenery was absolutely stunning and the sunset over the dunes was worth the trip alone, but I would recommend wearing long pants because the camel ride is bumpier than it looks. Sandboarding at the camp was a lot of fun once we settled in. Breakfast the next morning had a great view of the sunrise.
+- name: Anders
+  date: 30/04/2025
+  likes: 0
+  stars: 5
+  title: Luxury camp was worth it
+  text: We upgraded to the luxury camp and had our own private tent with a proper bathroom, which made a big difference after a full day of travel. The camel trek into Erg Chebbi at sunset was calm and peaceful, and dinner in the restaurant tent was better than we expected. Watching the sunrise from the top of a dune the next morning was unforgettable.
+- name: Chiara
+  date: 18/06/2025
+  likes: 2
+  stars: 5
+  title: Berber music around the campfire
+  text: After dinner the guides brought out drums and got everyone dancing around the fire, it was such a fun and unexpected part of the night. The camel ride out to the camp was slow and relaxing, giving us plenty of time to enjoy the golden dunes. Waking up early for the sunrise hike was tiring but absolutely worth it.
+- name: Daniel
+  date: 05/08/2025
+  likes: 0
+  stars: 5
+  title: Perfect introduction to the Sahara
+  text: This was our first time in the desert and everything about it felt well organized, from free parking at the office in Merzouga to the camel ride into the dunes. Sliding down the dunes on a sandboard before dinner was a great way to burn off some energy. The starry sky that night was the clearest I have ever seen.
+- name: Mei
+  date: 22/09/2025
+  likes: 0
+  stars: 5
+  title: Unforgettable night in Erg Chebbi
+  text: The tallest dunes in Morocco really do look like a golden sea, especially when the sun starts to set during the camel ride. Our tent at the standard camp was simple but clean and comfortable. Breakfast the next morning before the ride back to Merzouga was a nice way to end the trip.
+- name: Oliver
+  date: 11/11/2025
+  likes: 1
+  stars: 4
+  title: Loved the desert camp, tent was a bit chilly
+  text: The dinner of tagine and fresh bread was delicious and the mint tea on arrival was a nice touch. Our tent got a little cold overnight in the standard camp, so I would suggest bringing a warm layer even in the milder months. The sunrise hike up the dune the next morning more than made up for it.
+- name: Camila
+  date: 03/01/2026
+  likes: 0
+  stars: 5
+  title: Camel trek, dinner, and drums under the stars
+  text: Everything about this overnight trip felt authentic, from the camel ride across the dunes to the Berber drumming after dinner. Our guide let us stop several times during the trek to take photos of the changing colors of the sand. Sleeping in the desert with no city lights around was such a peaceful experience.
+- name: Ben
+  date: 20/03/2026
+  likes: 0
+  stars: 5
+  title: Sandboarding and mint tea welcome
+  text: We arrived at the camp tired after a long day of travel and the mint tea welcome instantly put us at ease. Sandboarding down the dunes before dinner was surprisingly tiring but a lot of fun. The camel ride back to Merzouga the next morning felt even more scenic in the daylight.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sen!2sen!4v1756312207723!5m2!1sen!2sen

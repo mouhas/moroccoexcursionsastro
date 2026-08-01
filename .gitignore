@@ -3,3 +3,13 @@ dist/
 .astro/
 .env
 .DS_Store
+
+# Real admin-panel credentials/token — never commit this. Copy
+# config.example.php to config.php and fill in your own values.
+admin-panel/config.php
+
+# Design-reference material used while building the new theme — not
+# imported by the site (src/styles/newtheme-scoped.css is what's actually
+# used), kept locally only.
+newsite/
+src/styles/newtheme/

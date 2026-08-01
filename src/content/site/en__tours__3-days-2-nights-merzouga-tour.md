@@ -92,7 +92,77 @@ faqs:
   aHtml: <p>Extra adventures like a buggy or motocross ride can also be added. A one-hour buggy ride costs 75 euros per person (for two people in the buggy), and a one-hour motocross ride costs 150 euros per person. These activities let you explore more of the desert and add excitement to your trip.</p>
 - q: Is it possible to book just one of those excursions?
   aHtml: <p>It is also possible to book only one activity without taking the full tour. You can choose just a camel ride, an <a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><strong>ATV / quad tour</strong></a>, a <a href="/tours/merzouga-dune-buggy-tours" rel="noopener" target="_blank"><strong>buggy excursion</strong></a>, a tour by motocross, or a <a href="/tours/merzouga-4wd-desert-safari" rel="noopener" target="_blank"><strong>4x4 desert excursion</strong></a>. This way, you can enjoy the desert exactly how you want, whether for a short adventure or a complete experience.</p>
-reviews: []
+- q: What time should I arrive in Merzouga to start the tour?
+  aHtml: <p>Check-in at our office in Merzouga is in the late afternoon, usually around 16:00 in winter and 18:00 in summer. This gives you time to park safely, drop off extra luggage, and pack a small bag before the camel trek into the dunes.</p>
+- q: Is the camel trek or quad bike ride physically demanding?
+  aHtml: '<p>The camel trek is gentle and suitable for most fitness levels, though it isn''t recommended for pregnant women or people with back problems. The quad bike ride requires a bit more coordination but no prior experience, and our team gives a short briefing before you set off into the dunes.</p>'
+- q: When is the best time of year to do this tour?
+  aHtml: <p>Spring and autumn offer the most comfortable temperatures for the camel trek and quad ride. Summer days in Erg Chebbi can be very hot, while winter nights at the camp can drop close to freezing, so pack accordingly whichever season you travel in.</p>
+- q: Will I have phone signal or wifi at the desert camp?
+  aHtml: '<p>Mobile signal is patchy once you leave Merzouga village and mostly disappears once you reach the dunes, so don''t expect reliable coverage at the camp. It''s part of what makes the stargazing and campfire nights feel so remote.</p>'
+- q: Should I tip the camel handlers and camp staff?
+  aHtml: '<p>Tipping isn''t required but is appreciated for the camel handlers, the Khamlia musicians, and the camp staff who prepare meals. A few euros or dirhams per activity is a common gesture if you enjoyed the experience.</p>'
+reviews:
+- name: Sarah I.
+  date: 14/03/2025
+  likes: 1
+  stars: 5
+  title: Camel trek and camp exceeded expectations
+  text: We arrived in Merzouga in the late afternoon and left the car at the office before setting off on the camel trek into Erg Chebbi. Watching the dunes turn orange at sunset was worth the trip alone, and the Mouhou camp staff had mint tea waiting when we got there. Dinner and the Berber drumming around the fire made for a perfect first night.
+- name: Lidia G.
+  date: 02/04/2025
+  likes: 0
+  stars: 5
+  title: 'Khamlia music and the M''ifis mines were a surprise'
+  text: 'I didn''t expect the second day to be as interesting as the first. The Gnawa performance in Khamlia was full of energy, and the views from the M''ifis mines plateau over the dunes were incredible. Our guide also pointed out fossils in the rock along the way, which none of us knew was a local specialty.'
+- name: Nina T.
+  date: 18/02/2025
+  likes: 0
+  stars: 4
+  title: Great trip, quad ride felt a little short
+  text: The desert camp and camel trek were everything we hoped for, and the nomad family visit was a really humbling stop. My only complaint is that the hour on the quad bike went by too fast, I would have happily paid for a second lap around the dunes at sunset.
+- name: Grace E.
+  date: 25/01/2025
+  likes: 1
+  stars: 5
+  title: Said made the desert feel personal
+  text: Our guide Said explained everything from how the Berber tents are set up to why the dunes shift color at different times of day. We upgraded to the luxury camp and it was worth it, proper beds and a private bathroom after a day of sand and sun.
+- name: Marion W.
+  date: 09/05/2025
+  likes: 0
+  stars: 5
+  title: Sandboarding was the highlight for the kids
+  text: Two nights in the desert with young kids sounded ambitious but it worked out great. They loved the sandboarding right by camp and still talk about the camel ride into the dunes.
+- name: Jesper G.
+  date: 30/11/2024
+  likes: 0
+  stars: 5
+  title: 'Youssef''s stories around the campfire'
+  text: 'Youssef drove us out for the 4x4 day and kept the whole group entertained with stories about growing up near Erg Chebbi. The nomad family tea stop and the fossils at M''ifis mines were both things I hadn''t read about before booking, so they felt like genuine discoveries.'
+- name: Callum C.
+  date: 21/06/2025
+  likes: 1
+  stars: 5
+  title: Two full days packed with variety
+  text: 'Between the camel trek, sandboarding, Khamlia''s Gnawa musicians, the mines, a nomad family visit, and the quad ride at sunset, there was never a dull moment. Sleeping under that many stars at the standard camp was still comfortable enough for us.'
+- name: Georgia U.
+  date: 05/03/2025
+  likes: 0
+  stars: 5
+  title: Simple, well organized, no complaints
+  text: Booked the standard camp option and it was clean and comfortable. Camel ride at sunset, dinner by the fire, sunrise the next morning, exactly what we wanted from a short desert stop.
+- name: Wojciech J.
+  date: 12/12/2024
+  likes: 0
+  stars: 5
+  title: Hassan knew every corner of Erg Chebbi
+  text: Hassan led our 4x4 group to the mines and the nomad camp and clearly knew the area well beyond the usual tourist stops. The fossil hunting along the plateau was unexpected fun for my teenage son.
+- name: Zoe R.
+  date: 08/09/2024
+  likes: 0
+  stars: 5
+  title: Quad ride at sunset was unforgettable
+  text: The final quad bike ride up the tallest dunes as the sun went down is one of the best travel memories I have. Combine that with the Khamlia music stop earlier that day and the whole second day flew by.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sen!2sen!4v1756648805984!5m2!1sen!2sen

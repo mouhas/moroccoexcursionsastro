@@ -135,7 +135,77 @@ faqs:
   aHtml: '<p>Le attività nel deserto incluse sono: escursioni in cammello, sandboarding, escursioni fuoristrada in 4x4, notte in un campo nel deserto. Le attività extra disponibili sono escursioni in ATV e buggy.</p>'
 - q: Esiste un altro tour simile al tour di 20 giorni da Casablanca?
   aHtml: <p>Se siete alla ricerca di tour simili a questo tour di 20 giorni, date un'occhiata al <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 30 giorni</strong></a> da Casablaanca o al <a href="https://morocco-excursion.com/it/tours/10-giorni-da-marrakech/" rel="noopener" target="_blank"><strong>tour di 10 giorni da Marrakech</strong></a>. Entrambi includono le città più belle del Marocco.</p>
-reviews: []
+- q: Qual è il periodo migliore per un viaggio così lungo attraverso tutto il Marocco?
+  aHtml: <p>La primavera (marzo-maggio) e l'autunno (settembre-novembre) sono ideali perché offrono temperature miti sia sulla costa che nel deserto e in montagna. L'estate può essere molto calda a Merzouga, mentre l'inverno porta notti fredde nel deserto e piogge occasionali sulla costa.</p>
+- q: Come si affrontano i cambi climatici tra costa, montagna e deserto?
+  aHtml: <p>Consigliamo un abbigliamento a strati che si possa adattare facilmente, capi leggeri per la costa e le città, una giacca per le montagne dell'Atlante e vestiti caldi per le notti nel campo nel deserto. Un k-way leggero è utile per la costa atlantica, spesso ventosa.</p>
+- q: È possibile accorciare il tour di 20 giorni se non abbiamo così tanto tempo?
+  aHtml: <p>Sì, l'itinerario di 20 giorni può essere adattato in versioni più brevi, come i nostri tour di 15 o 12 giorni, che coprono le tappe principali. Possiamo anche personalizzare il percorso rimuovendo alcune città costiere o riducendo i giorni nel deserto.</p>
+- q: Le mance per l'autista e le guide sono incluse nel prezzo?
+  aHtml: <p>No, non sono incluse. Considerando la durata del viaggio, molti clienti lasciano una mancia complessiva all'autista alla fine del tour, oltre a piccole mance per le guide locali a Fes, Marrakech ed Essaouira.</p>
+- q: Dovremo cambiare spesso hotel durante questo lungo itinerario?
+  aHtml: <p>Sì, con venti giorni e così tante tappe cambierete alloggio quasi ogni notte, con alcune eccezioni nelle città dove è prevista una giornata intera di visita, come Chefchaouen, Fes, Essaouira e Marrakech. Un bagaglio pratico e non troppo pesante renderà i trasferimenti più semplici.</p>
+reviews:
+- name: Federico N.
+  date: 08/03/2025
+  likes: 0
+  stars: 5
+  title: Venti giorni, un viaggio che sembra un'esplorazione vera e propria
+  text: Con venti giorni a disposizione abbiamo visto letteralmente tutto, da Asilah con i suoi murales colorati fino a Taghazout e le sue onde per i surfisti. Il tempo extra rispetto ai tour più brevi si sente soprattutto nelle giornate intere dedicate a Chefchaouen ed Essaouira, mai di corsa.
+- name: Simone F.
+  date: 25/06/2025
+  likes: 0
+  stars: 5
+  title: Asilah è stata una piacevole scoperta
+  text: Non conoscevo Asilah prima di questo viaggio, un piccolo gioiello sulla costa con case bianche e murales ad ogni angolo. Poco dopo Tangeri e Chefchaouen ci hanno conquistato allo stesso modo. Il deserto a Merzouga qualche settimana dopo è stato comunque il momento clou di tutto il tour.
+- name: Lily P.
+  date: 12/11/2025
+  likes: 0
+  stars: 4
+  title: Lungo ma incredibilmente gratificante
+  text: Venti giorni sono un impegno serio, ma ogni giorno portava qualcosa di nuovo, dalle montagne del Rif al deserto del Sahara fino alla costa atlantica. L'unico appunto è che verso la fine del viaggio iniziavamo a sentire un po' di stanchezza per i continui spostamenti.
+- name: Chloé V.
+  date: 30/01/2026
+  likes: 0
+  stars: 5
+  title: I villaggi abbandonati vicino a Merzouga
+  text: La giornata dedicata all'esplorazione del deserto intorno a Merzouga, con la visita ai villaggi abbandonati e alle famiglie nomadi, è stata sorprendentemente toccante. Il nostro autista Rachid conosceva tutte le famiglie che abbiamo incontrato lungo il percorso.
+- name: Nicole F.
+  date: 17/08/2025
+  likes: 1
+  stars: 5
+  title: Taroudant, la piccola Marrakech che non ti aspetti
+  text: Taroudant ci ha colpito più di quanto pensassimo, mura rosse, mercati vivaci e molta più tranquillità rispetto a Marrakech. Prima ancora, le Gole del Todra e la Valle delle Rose erano già stati momenti altissimi del nostro lungo viaggio in Marocco.
+- name: Paula N.
+  date: 04/05/2026
+  likes: 0
+  stars: 5
+  title: Ouzoud, la gita perfetta per chiudere il viaggio
+  text: L'escursione di un giorno alle cascate di Ouzoud verso la fine del tour è stata un bellissimo modo per rilassarsi dopo tante settimane di viaggio. Le scimmie barbaresche lungo il sentiero ci hanno fatto sorridere, e l'acqua verde smeraldo alla base delle cascate è bellissima.
+- name: Valentina D.
+  date: 21/09/2025
+  likes: 0
+  stars: 5
+  title: Merzouga resta il ricordo più forte
+  text: Con un tour così lungo è difficile scegliere il momento migliore, ma la notte nel campo a Merzouga tra le dune di Erg Chebbi resta impressa più di tutto il resto. Cena tradizionale, musica berbera e un cielo stellato che in città non si vede mai.
+- name: William C.
+  date: 09/12/2025
+  likes: 0
+  stars: 3
+  title: Bel viaggio, qualche intoppo logistico
+  text: Il viaggio in sé è fantastico e vale davvero i venti giorni, ma un paio di hotel lungo il percorso, specialmente a Sidi Ifni, erano più semplici di quanto sperassimo. Il deserto e le città imperiali restano comunque il punto forte assoluto di questo lungo itinerario.
+- name: Maxime H.
+  date: 26/03/2026
+  likes: 0
+  stars: 5
+  title: Essaouira, una giornata intera ben meritata
+  text: Dopo settimane di spostamenti quasi quotidiani, avere un'intera giornata a Essaouira per esplorare la Skala de la Ville e passeggiare sulla spiaggia è stato un vero sollievo. Il porto pieno di gabbiani e barche blu resta uno dei ricordi più belli del viaggio.
+- name: Kevin P.
+  date: 13/07/2025
+  likes: 0
+  stars: 5
+  title: Il tour più completo che abbiamo mai fatto
+  text: Venti giorni ci hanno permesso di vedere il Marocco senza dover scegliere tra costa, montagna, deserto e città. Dalla Moschea Hassan II a Casablanca fino alle cascate di Ouzoud vicino a Marrakech, ogni tappa aveva il suo fascino particolare.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1755675314275!5m2!1sit!2sit

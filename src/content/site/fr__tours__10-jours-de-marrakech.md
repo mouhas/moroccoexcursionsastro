@@ -192,7 +192,73 @@ faqs:
   aHtml: '<p>Voici deux circuits similaires à celui de 10 jours :</p>
 
     <p><a href="/fr/tours/12-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="/fr/tours/10-jours-depart-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a></p>'
-reviews: []
+- q: La journée en 4x4 dans le désert est-elle physiquement difficile?
+  aHtml: <p>Non, la journée en 4x4 vers le lac de Merzouga, Khamlia et les familles nomades ne demande aucun effort physique particulier. Il s'agit surtout de trajets sur piste avec de nombreux arrêts. Seule la balade à dos de chameau en fin de journée demande un peu d'équilibre, mais elle reste accessible à tous.</p>
+- q: Quelle est la meilleure saison pour ce circuit entre l'Atlas, le désert et Essaouira?
+  aHtml: '<p>Le printemps et l''automne offrent le meilleur équilibre entre les températures fraîches de l''Atlas, la chaleur du désert de Merzouga et le vent souvent frais d''Essaouira. En été, prévoyez des vêtements légers pour Merzouga et une petite laine pour la brise atlantique à Essaouira, qui reste bien plus fraîche que l''intérieur des terres.</p>'
+- q: Faut-il prévoir des pourboires pour le chauffeur et les guides?
+  aHtml: <p>Le pourboire n'est pas imposé mais il est de coutume au Maroc. Beaucoup de voyageurs laissent environ 5 à 10 euros par jour pour le chauffeur, et un petit geste supplémentaire pour les guides à Marrakech ou lors de la visite de la coopérative d'huile d'argan près d'Essaouira.</p>
+reviews:
+- name: Emma Schmidt
+  date: 11/02/2025
+  likes: 0
+  stars: 5
+  title: De l'Atlas au désert, un condensé parfait du Maroc
+  text: Le passage par Aït Ben Haddou puis la vallée des roses avant Dadès nous a scotchés. Ensuite Merzouga et la balade à dos de chameau au coucher de soleil, on a presque eu du mal à repartir le lendemain matin.
+- name: Lucas Moreau
+  date: 24/07/2025
+  likes: 1
+  stars: 5
+  title: Khamlia et la musique gnaoua, un souvenir fort
+  text: Notre guide Hassan nous a emmenés voir les musiciens de Khamlia le matin de notre journée en 4x4, avant de partager le thé avec une famille nomade. On a même aperçu des flamants roses sur le lac de Merzouga, on ne s'y attendait pas du tout.
+- name: Isabelle Tremblay
+  date: 03/10/2025
+  likes: 0
+  stars: 4
+  title: Belle boucle depuis Marrakech, un peu de route
+  text: Les gorges du Todra et la nuit dans le désert étaient magnifiques, mais le trajet retour par Alnif et la vallée du Draa est assez long. Le chauffeur Omar conduisait très bien et faisait des pauses régulières, ce qui a beaucoup aidé.
+- name: Marta Rossi
+  date: 15/12/2025
+  likes: 0
+  stars: 5
+  title: Ouzoud et ses singes, une parenthèse rafraîchissante
+  text: Après plusieurs jours de route, la journée aux chutes d'Ouzoud était parfaite pour se détendre. On a vu les singes magots près des cascades et déjeuné avec vue sur les arcs-en-ciel créés par la brume, un vrai bol d'air après le désert.
+- name: Kevin O'Brien
+  date: 29/03/2026
+  likes: 0
+  stars: 5
+  title: Essaouira en fin de circuit, excellente idée
+  text: La coopérative de femmes qui fabrique l'huile d'argan était fascinante, et on a vraiment vu des chèvres grimper dans les arganiers en chemin. Essaouira avec ses remparts et son port de pêche était un final tout en douceur après le désert.
+- name: Céline Girard
+  date: 08/05/2025
+  likes: 0
+  stars: 5
+  title: Dix jours intenses et magnifiques
+  text: 'Le col du Tizi n''Tichka, la kasbah d''Aït Ben Haddou, les gorges du Todra puis la nuit dans les dunes de l''Erg Chebbi : tout s''enchaîne à un rythme parfait. Le campement dans le désert avec la musique berbère le soir était mon moment préféré.'
+- name: Stefan Weber
+  date: 19/09/2025
+  likes: 0
+  stars: 3
+  title: Beau circuit mais climatisation capricieuse
+  text: Le contenu du voyage est excellent, notamment Merzouga et Essaouira, mais la climatisation du véhicule est tombée en panne une après-midi entre Ouarzazate et Marrakech. Le chauffeur a été réactif et a réglé le problème le lendemain, donc rien de dramatique.
+- name: Rachel Adams
+  date: 02/01/2026
+  likes: 1
+  stars: 5
+  title: Vallée des roses et Skoura, un vrai coup de cœur
+  text: On ne s'attendait pas à trouver la vallée des roses aussi belle en dehors de la saison de floraison. Les kasbahs de Skoura et le passage par Nkob nous ont montré un Maroc rural très authentique, loin des foules.
+- name: Antoine Lefebvre
+  date: 17/06/2025
+  likes: 0
+  stars: 5
+  title: Rissani et le désert de Merzouga, superbe combinaison
+  text: Le grand marché de Rissani le matin avant de rejoindre Ouarzazate était un moment fort et très vivant. Notre chauffeur Rachid connaissait tous les bons arrêts photo sur la route du Draa. Circuit très bien rythmé du début à la fin.
+- name: Ingrid Larsen
+  date: 26/04/2026
+  likes: 0
+  stars: 4
+  title: Belle immersion, quelques hôtels simples
+  text: Le contenu du circuit est riche, du Haut Atlas jusqu'à l'océan à Essaouira. Les hôtels à Dadès et Ouarzazate étaient plus modestes que je l'imaginais, mais le campement de luxe à Merzouga a largement compensé, avec sa tente privée et sa salle de bain.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3490480.340150224!2d-9.526072093675358!3d31.312803790105967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Morocco!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753779891580!5m2!1sfr!2sfr

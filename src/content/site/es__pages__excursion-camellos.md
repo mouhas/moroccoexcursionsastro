@@ -1,14 +1,42 @@
 ---
-title: "Excursión de Camellos en Marruecos"
-lang: "es"
-section: "pages"
-pslug: "excursion-camellos"
-urlPath: "es/excursion-camellos"
+title: Excursión de Camellos en Marruecos
+lang: es
+section: pages
+pslug: excursion-camellos
+urlPath: es/excursion-camellos
 price: 35
 duration: null
 tag: null
-source: "https://morocco-excursion.com/es/excursion-camellos/"
+source: https://morocco-excursion.com/es/excursion-camellos/
+faqs:
+- q: ¿Qué empacar para la excursión en camello?
+  aHtml: '<p><b>Mochila</b> Para el aseo personal y la vestimenta se necesita una mochila pequeña o una riñonera mediana.</p>
+
+    <p><b>Linterna</b> Es recomendable tener una linterna si quieres caminar por las dunas de noche.</p>
+
+    <p><b>Gafas de sol</b> Se recomienda llevar gafas de sol para proteger los ojos del sol y si hay tormenta de arena.</p>
+
+    <p><b>Turbante o Sombrero</b> Un turbante protegerá tu cabello, orejas y nariz de la arena y los rayos del sol.</p>
+
+    <p><b>Protector solar</b> Se necesita protector solar, especialmente si viaja durante el verano.</p>
+
+    <p><b>Zapatos</b> Necesitarás zapatos que sean cómodos y que se ajusten a tus pies.</p>
+
+    <p><b>Pantalones</b> Se necesitan pantalones largos para montar en camello, sin embargo, no se recomiendan jeans si viaja durante el verano o los meses calurosos. Es preferible usar pantalones ligeros y holgados.</p>
+
+    <p><b>Agua</b> El agua se proporciona en el campamento, pero se recomienda llevar una botella por persona durante la excursión en camello.</p>'
+- q: ¿Cuál es la mejor época para viajar al desierto de Marruecos?
+  aHtml: <p>El mejor momento para visitar el desierto marroquí, hacer un recorrido en camello y pasar la noche en el desierto es desde mediados de septiembre hasta mediados de mayo. Hace un poco más de frío a finales de diciembre y enero, pero los campamentos están equipados con suficientes mantas. No se recomienda viajar al desierto durante el verano debido al calor extremo durante el día y la noche. Además del hecho de que los escorpiones y las serpientes son más activos durante esta época del año. Recomendamos alojarse en un hotel con aire acondicionado y piscina, y montar en camellos solo durante el atardecer o el amanecer.</p>
+- q: ¿Cómo llegar al desierto del Sahara?
+  aHtml: <p>Debido a las buenas condiciones de la carretera, se puede llegar al desierto de Merzouga (también conocido como el desierto de Erg Chebbi) en un automóvil normal. También puede tomar un autobús público, alquilar un automóvil con conductor o unirse a uno de nuestras rutas por el desierto con salida desde Marrakech, Fez, Casablanca y otras ciudades de Marruecos.</p>
+- q: ¿Qué tengo que saber antes de reservar la excursión en camello por Marruecos?
+  aHtml: '<p>Más de 30 minutos de paseo en camello pueden ser dolorosos. El excursion en camello no es recomendable que las mujeres embarazadas</p>
+
+    <p>Las personas con problemas en las piernas y la espalda deben evitar montar camellos. No se recomienda montar en camello a personas que pesen más de 120 kg.</p>
+
+    <p><b>Opiniones</b></p>'
 ---
+
 Sin duda, una de las actividades más recomendada que puedes hacer en Marruecos es montar en camello por el impresionante Sahara. Únete a una de nuestras **excursiónes en camellos** y descubre la majestuosidad y la soledad del Sahara.
 
 Una de las atracciones obligada cuando se visita el [desierto del Sahara](https://es.wikipedia.org/wiki/Desierto_del_Sahara) (Marruecos) es la excursión en camello. Viajarás en camello a través de un mar de arena, contemplarás el amanecer y el atardecer sobre las dunas de arena más altas y pasarás una hasta tres noches en un campamento en el desierto, en un oasis o con una familia nómada.
@@ -145,51 +173,6 @@ Preguntas sobre cómo llegar al desierto, qué llevar, qué ponerse, el mejor mo
 ---
 
 ###
-
-##### ¿Qué empacar para la excursión en camello?
-
-- **Mochila**
-Para el aseo personal y la vestimenta se necesita una mochila pequeña o una riñonera mediana.
-
-- **Linterna**
-Es recomendable tener una linterna si quieres caminar por las dunas de noche.
-
-- **Gafas de sol**
-Se recomienda llevar gafas de sol para proteger los ojos del sol y si hay tormenta de arena.
-
-- **Turbante o Sombrero**
-Un turbante protegerá tu cabello, orejas y nariz de la arena y los rayos del sol.
-
-- **Protector solar**
-Se necesita protector solar, especialmente si viaja durante el verano.
-
-- **Zapatos**
-Necesitarás zapatos que sean cómodos y que se ajusten a tus pies.
-
-- **Pantalones**
-Se necesitan pantalones largos para montar en camello, sin embargo, no se recomiendan jeans si viaja durante el verano o los meses calurosos. Es preferible usar pantalones ligeros y holgados.
-
-- **Agua**
-El agua se proporciona en el campamento, pero se recomienda llevar una botella por persona durante la excursión en camello.
-
-##### ¿Cuál es la mejor época para viajar al desierto de Marruecos?
-
-El mejor momento para visitar el desierto marroquí, hacer un recorrido en camello y pasar la noche en el desierto es desde mediados de septiembre hasta mediados de mayo. Hace un poco más de frío a finales de diciembre y enero, pero los campamentos están equipados con suficientes mantas.
-No se recomienda viajar al desierto durante el verano debido al calor extremo durante el día y la noche. Además del hecho de que los escorpiones y las serpientes son más activos durante esta época del año. Recomendamos alojarse en un hotel con aire acondicionado y piscina, y montar en camellos solo durante el atardecer o el amanecer.
-
-##### ¿Cómo llegar al desierto del Sahara?
-
-Debido a las buenas condiciones de la carretera, se puede llegar al desierto de Merzouga (también conocido como el desierto de Erg Chebbi) en un automóvil normal. También puede tomar un autobús público, alquilar un automóvil con conductor o unirse a uno de nuestras rutas por el desierto con salida desde Marrakech, Fez, Casablanca y otras ciudades de Marruecos.
-
-##### ¿Qué tengo que saber antes de reservar la excursión en camello por Marruecos?
-
-- Más de 30 minutos de paseo en camello pueden ser dolorosos.
-- El excursion en camello no es recomendable que las mujeres embarazadas
-
-- Las personas con problemas en las piernas y la espalda deben evitar montar camellos.
-- No se recomienda montar en camello a personas que pesen más de 120 kg.
-
-**Opiniones**
 
 #### Mara A
 

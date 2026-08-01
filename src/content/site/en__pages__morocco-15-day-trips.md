@@ -1,14 +1,30 @@
 ---
-title: "15 Days in Morocco: Tour Itineraries And Prices"
-lang: "en"
-section: "pages"
-pslug: "morocco-15-day-trips"
-urlPath: "morocco-15-day-trips"
+title: '15 Days in Morocco: Tour Itineraries And Prices'
+lang: en
+section: pages
+pslug: morocco-15-day-trips
+urlPath: morocco-15-day-trips
 price: 580
 duration: null
 tag: null
-source: "https://morocco-excursion.com/morocco-15-day-trips/"
+source: https://morocco-excursion.com/morocco-15-day-trips/
+faqs:
+- q: How can I make the 15 day trip unique?
+  aHtml: <p>Hire local guides, explore lesser-known towns like Skoura or Tiznit, attend festivals, take cooking classes, and combine city life with desert and mountain adventures.</p>
+- q: Can I try adventure sports?
+  aHtml: <p>Yes, options include sandboarding, camel trekking, kitesurfing, hiking, and 4×4 desert trips.</p>
+- q: Are there hiking opportunities?
+  aHtml: <p>Yes, the Atlas and Rif Mountains offer day hikes and multi-day treks.</p>
+- q: Are night drives safe in Morocco?
+  aHtml: <p>Main highways are generally safe, but avoid poorly lit roads in remote areas at night.</p>
+- q: What is the best coastal city to visit?
+  aHtml: <p>Essaouira is calm and scenic; Casablanca is modern and historic. Oualidia is ideal for relaxation and seafood.</p>
+- q: What are the best things to do in Morocco in 15 days?
+  aHtml: '<p>Morocco is more than just Marrakech, Chefchaouen, Essaouira, Fes, and the Sahara Desert. With 15 days, you have the chance to explore hidden gems, cultural traditions, and off-the-beaten-path experiences that make your journey unforgettable.</p>
+
+    <p>Morocco is a country full of surprises. In 15 days, you can go beyond the famous attractions and discover hidden villages, mountain trails, coastal gems, and traditions that show the country’s real spirit. Here are 15 unique things you can add to your Morocco itinerary.</p>'
 ---
+
 With 15 days in Morocco, you have enough time to see both the famous sights and hidden gems. You can join a cooking class, starting with a visit to the market to buy fresh ingredients before learning how to make couscous or tagine.
 
 In the High Atlas Mountains, the village of Imlil is a peaceful place for short hikes, meeting Berber families, and enjoying mountain views. South of there, Skoura Oasis and the Rose Valley are filled with palm trees, old kasbahs, and in spring, the air is scented with roses.
@@ -24,34 +40,10 @@ To relax, visit a traditional Moroccan hammam, and in Essaouira, end the evening
 | Tours | Departure | Highlights |
 | --- | --- | --- |
 | 15 days from Marrakech | Marrakech | Imperial cities & South |
-| 15 days from Agadir | Agadir | Ocea & South |
+| 15 days from Agadir | Agadir | Ocean & South |
 | 15-day tour from Fes | Fes | Imperial cities & Sahara |
 | 15-day trip from Casablanca | Casablanca | Imperial cities |
 | 15-day tour from Tanger | Tanger | North of Morocco |
-
-## Morocco 15-day tour itineraries
-
-### 15-Day tour from Casablanca (The Great Morocco)
-
-2 [**Reviews**](/reviews)
-
-15 Days
-
-from
-
- €580,00
-
-Tangier, Morocco
-
-### [15-Day Tour From Tangier](/tours/15-day-tour-from-tangier)
-
-0 reviews
-
-15
-
-from
-
- €0,00
 
 ## Customize your 15-day trip in Morocco
 
@@ -60,38 +52,6 @@ from
 Don’t hesitate to contact us to customize your 15 days in Morocco. Our guides make your trip more meaningful and personal. In cities like Marrakech, Fes, and Chefchaouen, our licensed guides share the history and hidden stories behind palaces, medinas, and markets.
 
 In the Sahara, our Berber guides lead **camel treks** and 4×4 excursions, giving you a true desert experience. For adventure lovers, our team also arranges guided hikes in the Atlas Mountains and day trips to traditional villages, allowing you to connect with local life and culture.
-
-### Questions about 15-day tours in Morocco
-
-### How can I make the 15 day trip unique?
-
-Hire local guides, explore lesser-known towns like Skoura or Tiznit, attend festivals, take cooking classes, and combine city life with desert and mountain adventures.
-
-####
-
-In a week, you can explore Marrakech, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
-
-### Can I try adventure sports?
-
-Yes, options include sandboarding, camel trekking, kitesurfing, hiking, and 4×4 desert trips.
-
-### Are there hiking opportunities?
-
-Yes, the Atlas and Rif Mountains offer day hikes and multi-day treks.
-
-### Are night drives safe in Morocco?
-
-Main highways are generally safe, but avoid poorly lit roads in remote areas at night.
-
-### What is the best coastal city to visit?
-
-Essaouira is calm and scenic; Casablanca is modern and historic. Oualidia is ideal for relaxation and seafood.
-
-## What are the best things to do in Morocco in 15 days?
-
-Morocco is more than just Marrakech, Chefchaouen, Essaouira, Fes, and the Sahara Desert. With 15 days, you have the chance to explore hidden gems, cultural traditions, and off-the-beaten-path experiences that make your journey unforgettable.
-
-Morocco is a country full of surprises. In 15 days, you can go beyond the famous attractions and discover hidden villages, mountain trails, coastal gems, and traditions that show the country’s real spirit. Here are 15 unique things you can add to your Morocco itinerary.
 
 ## 1. Moroccan Cooking Class
 

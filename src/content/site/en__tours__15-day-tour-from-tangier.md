@@ -166,7 +166,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, swimwear for the coastal stops, and a light jacket for cool evenings in Chefchaouen and the Middle Atlas are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from your hotel, the airport, or the port, making it easy to combine with a ferry crossing from Spain.</p>
-reviews: []
+- q: 'What''s the difference between standard and superior hotels on this route?'
+  aHtml: <p>Standard hotels are comfortable, well-located 3-star properties or riads, while the superior category upgrades to nicer riads and boutique hotels in the same cities, including in Essaouira, Sidi Ifni, and Marrakech. Both options follow the same itinerary and pickup points.</p>
+- q: Will we have phone or wifi signal in Tafraout and Sidi Ifni?
+  aHtml: '<p>Coverage is generally fine in the towns themselves, though it can weaken along the mountain roads between Sidi Ifni and Tafraout. It''s less of a concern here than on desert routes, since this itinerary doesn''t include a desert camp.</p>'
+- q: 'What''s a fair tip for the driver-guide over 15 days?'
+  aHtml: '<p>Many travelers on a trip this length tip somewhere around 10-15 euros per day for the driver-guide, plus a smaller amount for the local guide in Fes if you take the guided medina walk. It''s not required, just customary for private multi-day tours.</p>'
+- q: Do we need to deal with laundry during a 15-day trip?
+  aHtml: '<p>Most of the hotels along this route, including in Essaouira, Agadir, and Marrakech where you get free days, offer laundry service for a small fee, so you don''t need to pack for all 15 days at once.</p>'
+reviews:
+- name: Franz O.
+  date: 10/01/2024
+  likes: 0
+  stars: 5
+  title: Sidi Ifni was the surprise of the trip
+  text: 'I''d never heard of Sidi Ifni before booking this tour, but the Spanish Art Deco buildings and the quiet cliffside promenade were a nice change of pace from the bigger cities. We also drove out to Legzira beach to see the rock arches, which was worth the detour on its own.'
+- name: Fredrik P.
+  date: 28/01/2024
+  likes: 0
+  stars: 5
+  title: Ouzoud Waterfalls with the macaques
+  text: 'Walking down to the base of Ouzoud and watching Barbary macaques move through the trees near the falls was one of those moments that doesn''t come across in the brochure photos. Our driver Ali waited patiently while we took far too many pictures.'
+- name: Maya G.
+  date: 15/02/2024
+  likes: 0
+  stars: 5
+  title: 'Tafraout''s pink rocks were unreal'
+  text: Nothing about the earlier coastal days prepared me for the granite landscape around Tafraout. Almond groves against pink rock formations, and almost no other tourists around. A real change of scenery on a fifteen-day trip that already had plenty of variety.
+- name: Conor R.
+  date: 04/03/2024
+  likes: 1
+  stars: 4
+  title: Long trip, mostly excellent
+  text: This route covers an enormous amount of ground - Assilah, Rabat, Essaouira, Agadir, Sidi Ifni, Tafraout, Marrakech, Ouzoud, Fes, and two nights in Chefchaouen - and honestly by day twelve we were ready for it to wind down. That said, the free days in Essaouira and Fes were genuinely restful, and our guide Karim handled the long driving stretches well.
+- name: Jonas S.
+  date: 22/03/2024
+  likes: 0
+  stars: 5
+  title: 'Essaouira''s harbor at sunrise'
+  text: 'Two nights in Essaouira meant we actually got to watch the blue fishing boats come in early morning instead of just passing through the medina on a lunch stop. Small thing, but it made the coast feel less rushed than other tours we''ve done.'
+- name: Zoe I.
+  date: 09/04/2024
+  likes: 0
+  stars: 5
+  title: 'Chefchaouen''s Ras El Maa waterfall hike'
+  text: 'With two full nights in Chefchaouen we had time to do the short hike up to the Ras El Maa waterfall in addition to wandering the blue medina, which you''d probably skip on a shorter itinerary. Great way to end a long trip.'
+- name: Dorota D.
+  date: 27/04/2024
+  likes: 1
+  stars: 4
+  title: Great route, book the superior hotels if you can
+  text: 'The standard hotels were fine throughout, but after fifteen days on the road I wished we''d upgraded to the superior category, especially in Agadir and Marrakech where we had free days and wanted a bit more comfort to relax in. The itinerary itself, crossing from the Rif Mountains all the way to Tafraout, was excellent.'
+- name: Thabo Z.
+  date: 18/06/2024
+  likes: 0
+  stars: 5
+  title: Marrakech free day, Majorelle Garden
+  text: After the quiet days in Sidi Ifni and Tafraout, the free day in Marrakech felt like a different country - Jemaa el-Fna in the evening was loud and overwhelming in the best way, and the Majorelle Garden in the morning was the calm counterpoint. Our driver Omar gave good recommendations for lunch near the souks too.
+- name: Klaus H.
+  date: 12/05/2024
+  likes: 0
+  stars: 5
+  title: Fes el Bali medina with a local guide
+  text: 'Our free day in Fes came with a guide who took us deep into Fes el Bali past the tanneries and several madrasas we''d never have found alone. Genuinely the largest car-free urban area I''ve ever walked through.'
+- name: Conor H.
+  date: 30/05/2024
+  likes: 0
+  stars: 5
+  title: 'Assilah''s murals, quick but memorable'
+  text: The stop in Assilah on the way south was brief but the whitewashed walls covered in murals made it worth the short detour before continuing to Rabat.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

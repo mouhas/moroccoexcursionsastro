@@ -74,7 +74,75 @@ faqs:
   aHtml: <p><span>No, no hay instalaciones en el oasis.</span></p>
 - q: ¿Podemos realizar otras actividades durante este tour?
   aHtml: <p><span>Se trata de una excursión de día completo, pero puedes añadir actividades adicionales en Merzouga, como un paseo en camello, un paseo en quad, un recorrido en buggy al atardecer o incluso una cena romántica en un campamento en el desierto.</span></p>
-reviews: []
+- q: ¿Cuál es la política de cancelación?
+  aHtml: <p>Puedes cancelar de forma gratuita hasta 48 horas antes del inicio de la excursión. Si cancelas con menos antelación, es posible que se aplique algún cargo, así que te recomendamos confirmarnos cualquier cambio de planes lo antes posible.</p>
+- q: ¿Cuántas personas caben en el vehículo 4x4?
+  aHtml: <p>El precio varía según el número de personas, 95 euros por persona para grupos de 1 a 3 personas, 90 euros para grupos de 4 a 6 personas y 85 euros para grupos de 7 a 12 personas. Al ser un tour privado, el vehículo 4x4 es solo para tu grupo, sin compartirlo con otros viajeros.</p>
+- q: ¿Es un tour privado o compartido con otros viajeros?
+  aHtml: <p>Es un tour completamente privado, con tu propio vehículo 4x4 y conductor guía. Esto te permite adaptar el ritmo del día y pasar más tiempo en el oasis de Tissardmine o con las familias nómadas si lo deseas.</p>
+- q: ¿Qué debo llevar para nadar en el oasis?
+  aHtml: <p>Si quieres aprovechar los pequeños lagos naturales del oasis de Safsaf, te recomendamos llevar bañador y una toalla, aunque ten en cuenta que la posibilidad de nadar depende del nivel de agua según la temporada. También es buena idea llevar sandalias o calzado ligero para caminar cómodamente por el oasis.</p>
+reviews:
+- name: Helena Kovač
+  date: 20/01/2025
+  likes: 0
+  stars: 5
+  title: Un oasis escondido que parece sacado de un sueño
+  text: Después de horas cruzando dunas y pistas rocosas en el 4x4, llegar al oasis de Safsaf con sus palmeras y el lago de agua dulce fue una sorpresa preciosa. Comimos el picnic a la sombra de las palmeras y el silencio del lugar era total.
+- name: Andres Villalobos
+  date: 11/02/2025
+  likes: 0
+  stars: 5
+  title: Los fósiles de Tissardmine, una parada que no esperábamos disfrutar tanto
+  text: La primera parada en el oasis de Tissardmine para ver los fósiles marinos fue mucho más interesante de lo que pensaba. Nuestro guía nos explicó muy bien la historia geológica de la zona antes de seguir hacia el oasis de Safsaf.
+- name: Mei Lin Tan
+  date: 28/03/2025
+  likes: 1
+  stars: 5
+  title: El té con la familia nómada, el momento más especial del día
+  text: Parar a tomar té con una familia nómada en su tienda en pleno desierto fue el mejor momento de la excursión. Ver cómo viven lejos de todo y compartir un rato con ellos nos dio una perspectiva distinta de Marruecos.
+- name: Declan Murphy
+  date: 15/05/2025
+  likes: 0
+  stars: 4
+  title: Día largo pero muy completo
+  text: Son casi 8 horas de excursión, así que hay que ir preparado para pasar todo el día fuera. Aun así, entre Tissardmine, los nómadas y el oasis de Safsaf, no hubo un solo momento aburrido.
+- name: Valentina Rossi
+  date: 02/07/2025
+  likes: 0
+  stars: 5
+  title: Nos pudimos bañar en el lago del oasis
+  text: Tuvimos suerte y el lago del oasis de Safsaf tenía suficiente agua para nadar un rato, algo que no me esperaba en pleno desierto del Sáhara. Fue muy refrescante después de tantas horas dando vueltas en el 4x4 por caminos rocosos.
+- name: Youssef Benali
+  date: 19/08/2025
+  likes: 0
+  stars: 5
+  title: El conductor conocía cada rincón del desierto
+  text: Nuestro guía manejó el 4x4 con mucha soltura por caminos que un coche normal jamás podría cruzar. Nos recogió puntual en el hotel de Merzouga y nos devolvió justo antes del atardecer sobre las dunas.
+- name: Ingrid Nilsen
+  date: 04/10/2025
+  likes: 0
+  stars: 5
+  title: Picnic bajo las palmeras, un lujo sencillo
+  text: El almuerzo tipo picnic a la sombra de las palmeras del oasis fue justo lo que necesitábamos después de la caminata por Tissardmine. La combinación de tranquilidad, palmeras y comida fresca fue perfecta.
+- name: Rafael Pinto
+  date: 21/11/2025
+  likes: 2
+  stars: 5
+  title: Una excursión privada que se adapta a tu ritmo
+  text: Al ser un tour privado, nuestro guía nos dejó pasar más tiempo del previsto con la familia nómada y en el oasis de Safsaf sin ningún problema. Se nota mucho la diferencia frente a las excursiones en grupos grandes.
+- name: Camille Dubois
+  date: 09/01/2026
+  likes: 0
+  stars: 3
+  title: Bonito pero sin agua suficiente para nadar
+  text: El paisaje del oasis de Safsaf con sus palmeras es precioso, pero cuando fuimos nosotros el lago apenas tenía agua para bañarse. Aun así, el paseo por Tissardmine y el encuentro con los nómadas hicieron que la excursión mereciera la pena.
+- name: Owen Fitzgerald
+  date: 26/02/2026
+  likes: 0
+  stars: 5
+  title: Agua embotellada y buena organización durante todo el día
+  text: Se agradece que lleven agua embotellada durante todo el trayecto, porque el calor en el desierto aprieta bastante. Entre las dunas de Erg Chebbi, Tissardmine y el oasis de Safsaf, fue un día de casi 8 horas muy bien aprovechado.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1ses!2ses!4v1757684506799!5m2!1ses!2ses

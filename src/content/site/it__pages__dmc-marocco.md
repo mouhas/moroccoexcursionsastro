@@ -1,14 +1,40 @@
 ---
-title: "DMC In Marocco - Agenzia Di Gestione Delle Destinazioni"
-lang: "it"
-section: "pages"
-pslug: "dmc-marocco"
-urlPath: "it/dmc-marocco"
+title: DMC In Marocco - Agenzia Di Gestione Delle Destinazioni
+lang: it
+section: pages
+pslug: dmc-marocco
+urlPath: it/dmc-marocco
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/it/dmc-marocco/"
+source: https://morocco-excursion.com/it/dmc-marocco/
+faqs:
+- q: Chi siamo?
+  aHtml: <p>Siamo una DMC (Destination Management Company) con sede in Marocco. Un’agenzia di viaggi esperta a livello locale specializzata nell’organizzazione e nella gestione di servizi di viaggio, tra cui logistica, alloggi, tour, trasporti ed eventi per gruppi aziendali, MICE (Meetings, Incentives, Conventions, and Exhibitions) e viaggiatori di piacere.</p>
+- q: Perché dovrei rivolgermi a un DMC in Marocco?
+  aHtml: <p>Abbiamo una profonda conoscenza del territorio, ottimi rapporti con i fornitori e una grande esperienza nella gestione di itinerari complessi in Marocco per gruppi piccoli e grandi.</p>
+- q: Quali servizi può offrire un DMC in Marocco?
+  aHtml: '<p>Ecco i servizi che possiamo offrire:</p>
+
+    <p>Viaggi aziendali ed eventi MICE Tour personalizzati e viaggi di lusso Trasporti e trasferimenti Alloggi Attività di team building Esperienze culturali e avventurose Logistica e gestione delle operazioni</p>'
+- q: Siete in grado di gestire grandi eventi aziendali?
+  aHtml: <p>Sì, siamo specializzati in eventi aziendali su larga scala, tra cui conferenze, viaggi incentive e lanci di prodotti, con esperienza in località come Marrakech, Casablanca e Agadir.</p>
+- q: Lavori con clienti internazionali?
+  aHtml: <p>Si, abbiamo servito clienti globali, tra cui organizzatori di eventi, agenzie di viaggio e aziende, offrendo assistenza multilingue.</p>
+- q: Quali sono le principali destinazioni in Marocco per i servizi DMC?
+  aHtml: '<p>Ecco le nostre destinazioni principali:</p>
+
+    <p>Marrakech (lusso ed eventi) Casablanca (viaggi aziendali) Fez (tour culturali) Deserto del Sahara (viaggi avventura) Agadir e Tangeri (costa e tempo libero)</p>'
+- q: Qual è la differenza tra un DMC e un tour operator in Marocco?
+  aHtml: '<p>DMC: Specializzata nella gestione completa delle destinazioni (logistica, eventi, viaggi aziendali).</p>
+
+    <p>Tour Operator: Si concentra su pacchetti turistici preconfezionati per viaggiatori individuali.</p>'
+- q: Come posso pagare?
+  aHtml: '<p>Offriamo opzioni di pagamento sicure e convenienti per le vostre prenotazioni e i nostri servizi:</p>
+
+    <p><b>Carte</b> – Visa, Mastercard, Maestro (elaborate tramite gateway di pagamento sicuri). <b>PayPal, Revolut, Wise</b> – Pagamenti online rapidi e sicuri (per clienti internazionali). <b>Bonifico bancario</b> – Pagamenti bancari diretti (locali e internazionali).</p>'
 ---
+
 Stai programmando un viaggio in Marocco? In qualità di agenzia di viaggi locale con sede proprio qui in Marocco, ti offriamo tutto ciò di cui hai bisogno per rendere il tuo viaggio piacevole, emozionante e indimenticabile. Dai tour personalizzati e viaggi di gruppo alle esperienze di lusso, dai trasporti privati alle attività locali autentiche, copriamo l’intero Paese, dalle montagne dell’Alto Atlante alle dune dorate del Sahara.
 
 Il nostro team vive e lavora in Marocco, quindi conosciamo la cultura, la storia e le gemme nascoste che la maggior parte dei viaggiatori non vede. Andiamo oltre i percorsi turistici standard per offrirti esperienze autentiche e significative, come condividere un pasto cucinato in casa con una famiglia locale, passeggiare nelle antiche medine con guide esperte o imparare l’artigianato tradizionale da abili artigiani. Che tu sia alla ricerca di avventura, scoperta culturale o relax totale, progettiamo ogni viaggio in base ai tuoi interessi, al tuo ritmo e al tuo budget.
@@ -66,60 +92,6 @@ Organizziamo tour privati per singoli, coppie e famiglie che desiderano un viagg
 Se cercate qualcosa di più attivo, offriamo anche tour avventurosi che includono escursioni, trekking a dorso di cammello, campeggio nel deserto ed esperienze fuoristrada. Qualunque sia il tipo di viaggio che sognate, noi lo realizzeremo.
 
 Grazie alla nostra conoscenza del territorio e al nostro team di professionisti, potrete godervi un viaggio sicuro, confortevole e indimenticabile attraverso il Marocco.
-
-### Domande frequenti
-
-#### Chi siamo?
-
-Siamo una DMC (Destination Management Company) con sede in Marocco. Un’agenzia di viaggi esperta a livello locale specializzata nell’organizzazione e nella gestione di servizi di viaggio, tra cui logistica, alloggi, tour, trasporti ed eventi per gruppi aziendali, MICE (Meetings, Incentives, Conventions, and Exhibitions) e viaggiatori di piacere.
-
-#### Perché dovrei rivolgermi a un DMC in Marocco?
-
-Abbiamo una profonda conoscenza del territorio, ottimi rapporti con i fornitori e una grande esperienza nella gestione di itinerari complessi in Marocco per gruppi piccoli e grandi.
-
-#### Quali servizi può offrire un DMC in Marocco?
-
-Ecco i servizi che possiamo offrire:
-
-- Viaggi aziendali ed eventi MICE
-- Tour personalizzati e viaggi di lusso
-- Trasporti e trasferimenti
-- Alloggi
-- Attività di team building
-- Esperienze culturali e avventurose
-- Logistica e gestione delle operazioni
-
-#### Siete in grado di gestire grandi eventi aziendali?
-
-Sì, siamo specializzati in eventi aziendali su larga scala, tra cui conferenze, viaggi incentive e lanci di prodotti, con esperienza in località come Marrakech, Casablanca e Agadir.
-
-#### Lavori con clienti internazionali?
-
-Si, abbiamo servito clienti globali, tra cui organizzatori di eventi, agenzie di viaggio e aziende, offrendo assistenza multilingue.
-
-#### Quali sono le principali destinazioni in Marocco per i servizi DMC?
-
-Ecco le nostre destinazioni principali:
-
-1. Marrakech (lusso ed eventi)
-2. Casablanca (viaggi aziendali)
-3. Fez (tour culturali)
-4. Deserto del Sahara (viaggi avventura)
-5. Agadir e Tangeri (costa e tempo libero)
-
-#### Qual è la differenza tra un DMC e un tour operator in Marocco?
-
-DMC: Specializzata nella gestione completa delle destinazioni (logistica, eventi, viaggi aziendali).
-
-Tour Operator: Si concentra su pacchetti turistici preconfezionati per viaggiatori individuali.
-
-#### Come posso pagare?
-
-Offriamo opzioni di pagamento sicure e convenienti per le vostre prenotazioni e i nostri servizi:
-
-**Carte** – Visa, Mastercard, Maestro (elaborate tramite gateway di pagamento sicuri).
-**PayPal, Revolut, Wise** – Pagamenti online rapidi e sicuri (per clienti internazionali).
-**Bonifico bancario** – Pagamenti bancari diretti (locali e internazionali).
 
 ### Recensioni
 

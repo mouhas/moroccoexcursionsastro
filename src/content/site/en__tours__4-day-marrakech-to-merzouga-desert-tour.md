@@ -129,6 +129,16 @@ faqs:
   aHtml: '<p>Here are 2 alternative tours similar to the 4-day Sahara desert tour from Marrakech:</p>
 
     <p><a href="/tours/4-day-trip-from-marrakech-to-fes" rel="noopener" target="_blank">4-Day Tour from Marrakech to Fes via Sahara</a><br/><a href="/tours/5-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">5-Day Sahara Desert Tour From Marrakech</a></p>'
+- q: What's the difference between the standard, superior, and luxury options?
+  aHtml: <p>All three levels use the same itinerary and route, but the standard option offers comfortable hotels and a shared-style desert camp, the superior option upgrades to nicer riads and camps with private bathrooms, and the luxury option includes higher-end kasbah hotels and a more elevated desert camp experience near Merzouga.</p>
+- q: Is the camel ride suitable for everyone?
+  aHtml: '<p>The camel ride into the Erg Chebbi dunes is generally comfortable but is not recommended for pregnant women, people with back problems, or travelers over 70. If you''d rather skip it, we can arrange a direct 4x4 transfer to the desert camp instead.</p>'
+- q: What should I pack for this tour?
+  aHtml: <p>Bring layered clothing since temperatures swing from hot midday sun to cold desert nights, plus comfortable shoes for the Todra Gorges walk and the Ait Ben Haddou kasbah, a scarf, sunglasses, and sunscreen.</p>
+- q: Is this a private tour or will we be grouped with strangers?
+  aHtml: <p>This is a private tour from Marrakech, meaning your vehicle, driver, and schedule are exclusive to your own group for all 4 days, including the stops at Ait Ben Haddou and in the desert.</p>
+- q: Should we tip our driver at the end of the trip?
+  aHtml: <p>Tipping is not required but is customary and appreciated for good service across the 4 days. Most travelers tip an amount that reflects their group size and overall experience with their driver-guide.</p>
 reviews:
 - name: Kelly O
   date: 30/08/2024
@@ -160,6 +170,36 @@ reviews:
   stars: 5
   title: 4-day luxury Sahara desert trip
   text: My friends booked the 4-day luxury desert trip starting from Marrakech to the Atlas Mountains, Sahara Desert, and back to Marrakech. The luxury hotels and the luxury Sahara camp were unbelievable. Our driver Ali was such a great and friendly guy, we always feel that the car is so safe that he drives very carefully and smoothly (the van is super comfortable). I highly recommend this tour.
+- name: Youssef Z.
+  date: 04/09/2024
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou stole the show
+  text: 'We''ve seen a lot of kasbahs on trips through Morocco but Ait Ben Haddou on the last day, with its film-set history and the climb to the top for the view over the valley, was on another level. The whole loop through Ouarzazate, the Draa Valley palm groves, and the Todra Gorges made the Tizi n''Tichka pass on day one feel like a fitting start.'
+- name: Stefan B.
+  date: 16/03/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges walk broke up the drive perfectly
+  text: Four days is a lot of driving through the Atlas but the stops made it worthwhile - the Taourirt Kasbah in Ouarzazate, a short walk through the Todra Gorges before Merzouga, and the camel ride into the dunes at sunset. Our driver Brahim knew when to push on and when to slow down for photos.
+- name: Katarzyna F.
+  date: 22/05/2024
+  likes: 0
+  stars: 5
+  title: Rose Valley in bloom
+  text: 'We happened to pass through the Valley of Roses around El Kelaa M''Gouna while the flowers were out, which our driver said isn''t guaranteed depending on the season. Skoura''s palm groves and old kasbahs right before that were just as memorable, and the night in the desert camp near Merzouga capped it off nicely.'
+- name: Silvia G.
+  date: 30/10/2023
+  likes: 0
+  stars: 4
+  title: Good tour, long day three
+  text: The drive from Merzouga to Ouarzazate through Alnif, Agdz, and the Draa Valley on day three is long, but the palm groves along the Draa made it scenic rather than boring. Everything else, from the camel trek to visiting Ait Ben Haddou on the final morning, was excellent.
+- name: Santiago Y.
+  date: 11/01/2024
+  likes: 0
+  stars: 5
+  title: Film studios and a fortress in one afternoon
+  text: 'Didn''t expect to enjoy the Ouarzazate film studio visit as much as we did, then walking through the old Taourirt Kasbah right after gave a totally different, more authentic feel. Rachid drove us safely the whole way back over the Atlas Mountains to Marrakech.'
 rating: 5.0
 reviewCount: 500
 mapUrl: https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d3497684.3150255904!2d-8.642006129471948!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sbg!4v1753530877704!5m2!1sen!2sbg

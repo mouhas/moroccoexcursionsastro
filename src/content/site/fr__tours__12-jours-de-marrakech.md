@@ -194,7 +194,79 @@ faqs:
     <p>Le voyage se poursuit par une visite de la capitale du Maroc, Rabat, où vous pourrez voir des sites historiques tels que la tour Hassan et la kasbah des Oudayas. Ensuite, vous vous rendrez à Casablanca, connue pour l''impressionnante mosquée Hassan II et la Corniche animée.</p>
 
     <p>Enfin, le circuit se termine à Marrakech, où vous aurez le temps de profiter des souks animés, des palais, des jardins et de la célèbre place Jemaa el-Fnaa.</p>'
-reviews: []
+- q: Est-il obligatoire de monter à dos de chameau pour rejoindre le campement dans le désert?
+  aHtml: <p>Non, si la randonnée à dos de chameau ne convient pas à toutes les personnes du groupe, un véhicule 4x4 peut vous emmener directement jusqu'au campement dans les dunes de l'Erg Chebbi.</p>
+- q: Pourquoi le circuit prévoit-il deux nuits dans le désert de Merzouga?
+  aHtml: <p>La première nuit permet de profiter du coucher de soleil sur les dunes après la balade à dos de chameau. La seconde journée est consacrée à une excursion en 4x4 vers Khamlia, le lac de Merzouga et les familles nomades, avant une deuxième nuit sous les étoiles.</p>
+- q: Quelle est la meilleure période pour ce circuit de 12 jours entre Marrakech, le désert et le nord?
+  aHtml: '<p>Le printemps et l''automne offrent les conditions les plus agréables, avec des températures modérées à Merzouga et dans le Haut Atlas. En été, les journées peuvent dépasser 40 °C dans la vallée du Ziz, tandis qu''en hiver les nuits dans le désert et à Ifrane sont fraîches.</p>'
+- q: Le pourboire est-il d'usage pour le chauffeur et les guides locaux?
+  aHtml: <p>Oui, le pourboire n'est pas obligatoire mais reste une pratique courante au Maroc. Comptez généralement entre 5 et 10 euros par jour pour le chauffeur, et un montant similaire pour les guides à Fès et à Marrakech.</p>
+- q: Pouvez-vous prendre en compte des allergies ou régimes alimentaires particuliers?
+  aHtml: <p>Oui, signalez-nous vos besoins (végétarien, végétalien, sans gluten, allergies) avant le départ afin que les hôtels, riads et le campement dans le désert puissent adapter les repas en conséquence.</p>
+- q: La marche dans les gorges du Todra ou sur les dunes de Merzouga est-elle physiquement exigeante?
+  aHtml: <p>Non, la promenade dans les gorges du Todra se fait sur un chemin plat accessible à tous, et la balade à dos de chameau ne demande aucun effort particulier. Seule la montée sur les dunes les plus hautes pour admirer le coucher de soleil peut être un peu fatigante.</p>
+reviews:
+- name: Éric Fournier
+  date: 17/02/2025
+  likes: 0
+  stars: 5
+  title: Douze jours magnifiques entre villes et désert
+  text: L'itinéraire est très complet, de la médina de Marrakech jusqu'à Essaouira, puis vers le nord jusqu'à Chefchaouen avant de redescendre par le désert de Merzouga. Notre chauffeur Omar était toujours de bonne humeur malgré les longues journées de route.
+- name: Karin Vogel
+  date: 02/06/2025
+  likes: 1
+  stars: 5
+  title: La coopérative d'argan près d'Essaouira, un vrai plus
+  text: Voir les femmes préparer l'huile d'argan à la main et apercevoir les chèvres perchées dans les arganiers en chemin vers Essaouira était fascinant. La ville elle-même, avec sa forteresse de Skala, est un endroit très paisible.
+- name: Manon Perrot
+  date: 24/09/2025
+  likes: 0
+  stars: 4
+  title: Beau circuit, journée Fès-Merzouga fatigante
+  text: 'La vallée du Ziz et Erfoud sont magnifiques, mais la route jusqu''à Merzouga est longue. Une fois sur place, la balade à dos de chameau au coucher du soleil et la nuit dans le campement ont fait oublier la fatigue du trajet.'
+- name: Diego Alvarez
+  date: 11/12/2025
+  likes: 0
+  stars: 5
+  title: Khamlia et la route du rallye Paris-Dakar
+  text: Peu de circuits proposent de suivre une portion de l'ancienne route du Paris-Dakar dans le désert rocheux près de Merzouga. La musique gnaoua à Khamlia et la rencontre avec une famille nomade autour d'un thé ont été des moments très authentiques.
+- name: Fiona Campbell
+  date: 05/03/2026
+  likes: 0
+  stars: 5
+  title: Volubilis et Meknès, un très bel arrêt historique
+  text: Les mosaïques romaines de Volubilis sont impressionnantes, et la porte Bab el Mansour à Meknès juste après nous a permis de mieux comprendre l'histoire du sultan Moulay Ismail. Un bon complément à la visite de Fès le lendemain.
+- name: Julia Krause
+  date: 19/07/2025
+  likes: 0
+  stars: 5
+  title: L'université Al Quaraouiyine à Fès, incontournable
+  text: Notre guide à Fès nous a expliqué l'histoire de la plus ancienne université du monde avec beaucoup de précision. La médina, divisée entre Fès el Bali et Fès Jdid, est un vrai labyrinthe qu'on n'aurait jamais osé explorer seuls.
+- name: Bastien Aubert
+  date: 28/04/2025
+  likes: 0
+  stars: 3
+  title: Circuit riche mais rythme intense sur la fin
+  text: Les gorges du Todra et la vallée des roses avant Ouarzazate étaient superbes, mais le retour vers Marrakech via Aït Benhaddou et le Tizi n'Tichka en une seule journée était fatigant. Le contenu du circuit reste malgré tout excellent.
+- name: Nadia Costa
+  date: 08/10/2025
+  likes: 1
+  stars: 5
+  title: Chefchaouen et Rabat, une belle parenthèse dans le nord
+  text: Après le désert, remonter vers Chefchaouen et ses rues bleues puis vers Rabat pour voir la kasbah des Oudayas et le mausolée Mohammed V a apporté une belle diversité au voyage. Très bon équilibre entre nature, histoire et culture.
+- name: Owen Clarke
+  date: 14/01/2026
+  likes: 0
+  stars: 5
+  title: Aït Benhaddou et les studios de cinéma d'Ouarzazate
+  text: Visiter les studios où ont été tournés Gladiator et Game of Thrones avant de découvrir le village fortifié d'Aït Benhaddou était un des grands moments du voyage. Le guide connaissait toutes les anecdotes de tournage.
+- name: Sylvie Marchand
+  date: 21/05/2026
+  likes: 0
+  stars: 5
+  title: Douze jours qui valent largement leur prix
+  text: Entre Marrakech, Essaouira, le désert de Merzouga et le retour par les gorges du Todra, ce circuit ne laisse aucun temps mort. Le chauffeur Youssef était très professionnel et attentif à notre confort tout au long du trajet.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753800762390!5m2!1sfr!2sfr

@@ -102,7 +102,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, a light jacket for cool evenings in Chefchaouen and the Rif Mountains, and sunscreen are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from the airport, the ferry port, or your hotel.</p>
-reviews: []
+- q: Is this a private tour or shared with other travelers?
+  aHtml: '<p>This is a private tour for the full 4 days, with your own air-conditioned vehicle and driver-guide, whether you''re traveling solo, as a couple, or in a group.</p>'
+- q: What's the best time of year to visit Chefchaouen and the north?
+  aHtml: '<p>Spring and autumn offer mild, comfortable weather for wandering Chefchaouen''s blue medina and driving through the Rif Mountains. Winter can bring rain to the Rif, while summer along the coast in Assilah and Larache stays pleasantly warm rather than extreme.</p>'
+- q: What happens if my ferry from Spain is delayed?
+  aHtml: '<p>Let us know your ferry details in advance and we''ll track the crossing; if it''s delayed, your driver-guide will simply adjust the pickup time at the port in Tangier accordingly.</p>'
+- q: Is the Rif Mountains region safe to drive through?
+  aHtml: <p>Yes, the road through the Rif Mountains between Larache and Chefchaouen is a regular route for private tours and is safe with an experienced driver-guide, who knows the road conditions and where to stop along the way.</p>
+reviews:
+- name: Nurit E.
+  date: 19/09/2024
+  likes: 0
+  stars: 5
+  title: Blue streets are even better in person
+  text: We only had four days before flying out of Casablanca so this compact loop from Tangier was perfect. Wandering the blue-washed medina in Chefchaouen after the drive up through the Rif Mountains was the highlight, though the murals in Assilah on day two came a close second.
+- name: Bjorn F.
+  date: 02/07/2023
+  likes: 0
+  stars: 5
+  title: Caves of Hercules and the Kasbah views
+  text: Our guide took us to the Caves of Hercules on the coast right after the Tangier Kasbah, looking out over the Strait of Gibraltar with Spain visible across the water. Easy, relaxed pace for four days, never felt rushed between stops.
+- name: Fabio N.
+  date: 27/04/2024
+  likes: 0
+  stars: 5
+  title: Larache was a nice surprise
+  text: Everyone talks about Chefchaouen but Larache, with its Spanish colonial buildings overlooking the Loukkos river, ended up being one of our favorite quiet stops. Omar drove us through the Rif Mountains the next morning without a single complaint about the winding roads.
+- name: Aline G.
+  date: 11/12/2023
+  likes: 0
+  stars: 5
+  title: Compact but complete introduction to the north
+  text: 'Came off the ferry from Tarifa with only four days to spare and this tour covered exactly what we wanted: the Tangier medina, Assilah''s murals, Larache, and Chefchaouen''s blue lanes, without ever feeling like we were racing through it.'
+- name: Zara Q.
+  date: 05/02/2025
+  likes: 0
+  stars: 4
+  title: Good trip, wished for more time in Chefchaouen
+  text: 'Everything ran smoothly, from pickup at the ferry port in Tangier to the drop-off four days later. My only wish is that we''d had a bit more free time in Chefchaouen since one afternoon and a morning felt short for such a photogenic town.'
+- name: Pieter D.
+  date: 14/08/2024
+  likes: 0
+  stars: 5
+  title: Assilah's murals were a highlight
+  text: 'Didn''t expect much from Assilah but the whitewashed walls covered in murals by local and international artists were beautiful, much quieter than Chefchaouen too. Our driver Karim let us wander at our own pace before continuing to Larache.'
+- name: Yusuf Y.
+  date: 09/10/2024
+  likes: 0
+  stars: 5
+  title: Relaxed pace, no long driving days
+  text: 'This route never felt like a marathon - short hops between Tangier, Assilah, Larache, and up into the Rif to Chefchaouen. Good option if you''re short on time but still want to see more than just Tangier itself.'
+- name: Rosa Y.
+  date: 23/03/2024
+  likes: 0
+  stars: 5
+  title: The Rif Mountains drive was beautiful
+  text: The climb up through the Rif Mountains toward Chefchaouen, past small Berber villages and forested slopes, was more scenic than I expected from what I thought would just be a transfer day. Arriving in the blue city in the late afternoon light made it even better.
+- name: Zoe J.
+  date: 17/06/2024
+  likes: 0
+  stars: 4
+  title: Solid short tour
+  text: Nothing fancy, just a well-organized four days covering Tangier, the coast, and Chefchaouen. Our driver was on time every morning and knew the towns well. Would have liked a little longer in Tangier itself on the first day.
+- name: Ingrid S.
+  date: 30/01/2025
+  likes: 0
+  stars: 5
+  title: Perfect for a short stay before flying home
+  text: We only had a few days left in Morocco and this tour let us see the north properly instead of just Tangier. The Kasbah views over the Strait of Gibraltar on day one and the blue medina in Chefchaouen on day three were both worth the trip.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

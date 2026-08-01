@@ -72,7 +72,77 @@ faqs:
   aHtml: <p>En una excursión corta en quad, podrás disfrutar de las dunas y parar para hacer fotos en los puntos más altos. Las excursiones medianas suelen incluir visitas a familias nómadas o al otro lado de Erg Chebbi. Las excursiones más largas pueden llevarte a oasis escondidos, incluir un almuerzo tradicional e incluso darte la oportunidad de probar el sandboard.</p>
 - q: ¿Puedo añadir también las excursiones en 4x4 y buggy?
   aHtml: <p>Sí, es posible realizar tanto excursiones en quad como otra excursión por el desierto en 4x4 o una excursión en buggy por las dunas.</p>
-reviews: []
+- q: ¿Cuál es la política de cancelación?
+  aHtml: <p>Ofrecemos una política de cancelación totalmente flexible, puedes cancelar tu excursión en quad sin coste adicional en cualquier momento antes de la salida, sin necesidad de avisar con días de antelación. Si tus planes cambian, simplemente contáctanos y te ayudaremos a reprogramar o cancelar tu reserva.</p>
+- q: ¿Qué debo llevar el día de la excursión?
+  aHtml: <p>Te recomendamos llevar calzado cerrado, gafas de sol y ropa cómoda que puedas ensuciar, ya que el casco y las gafas de protección para la arena te los proporcionamos nosotros. Un pañuelo o buff para cubrirte la boca y la nariz también es muy útil para evitar el polvo, especialmente en los recorridos más largos.</p>
+- q: ¿Pueden participar niños o personas mayores?
+  aHtml: <p>Los niños pueden disfrutar de la experiencia sentados como pasajeros en un quad doble junto a un adulto, aunque no está permitido que conduzcan solos por motivos de seguridad. Para personas mayores o con problemas de espalda o cuello, recomendamos elegir un recorrido corto de 1 a 2 horas, ya que las excursiones más largas pueden resultar más exigentes físicamente.</p>
+- q: ¿Cuál es la mejor época del año para hacer esta excursión?
+  aHtml: <p>La excursión en quad puede realizarse durante todo el año, pero la primavera (marzo a mayo) y el otoño (octubre a noviembre) ofrecen las temperaturas más agradables para conducir por las dunas. En verano, las horas centrales del día pueden ser muy calurosas, por lo que solemos programar los recorridos más largos a primera hora de la mañana o al atardecer.</p>
+- q: ¿Puedo elegir entre un quad individual o compartirlo con otra persona?
+  aHtml: <p>Sí, ofrecemos quads individuales para quienes prefieren conducir de forma independiente y quads dobles para parejas, amigos o familiares que quieran compartir la experiencia. Los precios varían según la duración elegida y el tipo de quad, y puedes consultar todas las opciones en nuestra tabla de precios.</p>
+reviews:
+- name: Laura Martínez
+  date: 20/01/2025
+  likes: 0
+  stars: 5
+  title: Adrenalina pura en las dunas de Erg Chebbi
+  text: Hicimos el recorrido corto de una a dos horas y fue perfecto para sentir la adrenalina sin agotarnos. El guía nos llevó hasta las dunas más altas para hacer fotos y las vistas panorámicas del Sáhara nos dejaron sin palabras.
+- name: Thomas Becker
+  date: 14/03/2025
+  likes: 1
+  stars: 5
+  title: El té con la familia bereber, un recuerdo inolvidable
+  text: Elegimos la excursión de tres a cuatro horas y la parada en la casa bereber para tomar té a la menta y crepes caseras fue mi momento favorito del día. Los quads eran fáciles de manejar incluso siendo la primera vez que conducía uno.
+- name: Sophie Dubois
+  date: 02/05/2025
+  likes: 0
+  stars: 4
+  title: Divertido, aunque los brazos acaban cansados
+  text: La arena blanda de las dunas exige más esfuerzo del que pensaba y terminamos con los brazos agotados tras las tres horas de recorrido. Aun así, mereció la pena por las vistas de Erg Chebbi y lo simpático que fue nuestro guía.
+- name: Marco Rossi
+  date: 21/06/2025
+  likes: 0
+  stars: 5
+  title: El oasis escondido y el tajín, una combinación perfecta
+  text: Nos apuntamos a la excursión larga de cinco a seis horas y llegar al oasis escondido entre las dunas para almorzar un tajín tradicional a la sombra de las palmeras fue mágico. Después probamos el sandboard y fue la guinda perfecta al día.
+- name: Emma Lindqvist
+  date: 15/08/2025
+  likes: 2
+  stars: 5
+  title: Perfecto para quien nunca ha conducido un quad
+  text: Era la primera vez que conducía un quad y el guía nos explicó los controles con mucha paciencia antes de salir del pueblo de Merzouga. En menos de media hora ya me sentía segura conduciendo por las dunas doradas.
+- name: Diego Fernández
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: Vistas panorámicas del Sáhara que no olvidaré
+  text: Subir a las pequeñas colinas del desierto y ver las dunas de Erg Chebbi extendiéndose hasta el horizonte fue el punto álgido de nuestra excursión de cuatro horas. El casco y las gafas que nos dieron ayudaron mucho contra el polvo.
+- name: Anna Kowalska
+  date: 11/11/2025
+  likes: 0
+  stars: 5
+  title: Ideal en pareja con el quad doble
+  text: Reservamos un quad doble para hacerlo junto a mi pareja y fue mucho más económico que dos individuales. Recorrer las dunas juntos y parar en un pueblo bereber a mitad de camino hizo que la experiencia fuera aún más especial.
+- name: Nadia Haddad
+  date: 08/01/2026
+  likes: 0
+  stars: 4
+  title: Recomendable, aunque hacía bastante calor
+  text: Hicimos la excursión al mediodía y el calor se notaba bastante sobre las dunas, así que recomendaría reservar a primera hora de la mañana. Aun así, el guía fue muy atento y las paradas para hacer fotos en las dunas más altas merecieron la pena.
+- name: Liam Murphy
+  date: 19/03/2026
+  likes: 1
+  stars: 5
+  title: Los guías conocen el desierto como la palma de su mano
+  text: Nuestro guía sabía exactamente qué dunas evitar para que el quad no se quedara atascado en la arena blanda y siempre nos indicaba la velocidad correcta. Terminamos la tarde con una sesión de sandboard que no esperábamos y fue una sorpresa genial.
+- name: Carla Andrade
+  date: 24/06/2026
+  likes: 0
+  stars: 5
+  title: Nos recogieron directamente en el campamento del desierto
+  text: Como ya estábamos alojados en un campamento cerca de Merzouga, nos recogieron directamente en la tienda y no perdimos ni un minuto de la excursión. Conducir entre las dunas al atardecer con esa luz dorada fue una experiencia que repetiría sin dudarlo.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1ses!2ses!4v1757252086435!5m2!1ses!2ses

@@ -1,14 +1,48 @@
 ---
-title: "Excursões de Camelos em Marrocos"
-lang: "pt-br"
-section: "pages"
-pslug: "excursoes-camelos"
-urlPath: "pt-br/excursoes-camelos"
+title: Excursões de Camelos em Marrocos
+lang: pt-br
+section: pages
+pslug: excursoes-camelos
+urlPath: pt-br/excursoes-camelos
 price: 40
 duration: null
 tag: null
-source: "https://morocco-excursion.com/pt-br/excursoes-camelos/"
+source: https://morocco-excursion.com/pt-br/excursoes-camelos/
+faqs:
+- q: O que levar para o passeio de camelo?
+  aHtml: '<p><b>Mochila</b> Para higiene pessoal e roupas, é necessária uma mochila pequena ou uma pochete média.</p>
+
+    <p><b>Lanterna</b> É aconselhável ter uma lanterna se quiser caminhar pelas dunas à noite.</p>
+
+    <p><b>Óculos de sol</b> Recomenda-se o uso de óculos de sol para proteger os olhos do sol e se houver uma tempestade de areia.</p>
+
+    <p><b>Turbante ou Chapéu</b> Um turbante protegerá seu cabelo, orelhas e nariz da areia e dos raios do sol.</p>
+
+    <p><b>Protetor solar</b> Protetor solar é necessário, especialmente se você estiver viajando durante o verão.</p>
+
+    <p><b>Sapato</b> Você precisará de sapatos confortáveis ​​e adequados aos seus pés.</p>
+
+    <p><b>Calça</b> Calças compridas são necessárias para andar de camelo, no entanto, jeans não são recomendados se você estiver viajando durante o verão ou meses quentes. É preferível usar calças leves e soltas.</p>
+
+    <p><b>Água</b> A água é fornecida no acampamento, mas é recomendável trazer uma garrafa por pessoa durante a caminhada de camelo.</p>'
+- q: Qual é a melhor época para viajar para o deserto Marroquino?
+  aHtml: <p>A melhor época para visitar o deserto marroquino, fazer um passeio de camelo e passar a noite no deserto é de meados de setembro a meados de maio. Fica um pouco mais frio no final de dezembro e janeiro, mas os acampamentos estão equipados com cobertores suficientes. Viajar para o deserto durante o verão não é recomendado devido ao calor extremo durante o dia e a noite. Além do fato de escorpiões e cobras serem mais ativos nessa época do ano. Recomendamos ficar em um hotel com ar condicionado e piscina e andar de camelo apenas durante o pôr do sol ou nascer do sol.</p>
+- q: Como chegar ao deserto do Saara - Marrocos?
+  aHtml: <p>Devido às boas condições da estrada, o deserto de Merzouga (também conhecido como deserto de Erg Chebbi) pode ser alcançado por um carro normal. Você também pode pegar um ônibus público, alugar um carro com motorista ou participar de um de nossos passeios no deserto partindo de Marrakech, Fez, Casablanca e outras cidades do Marrocos.</p>
+- q: O que devo saber antes de reservar a excursão de camelo em Marrocos?
+  aHtml: '<p>Mais de 30 minutos de passeio de camelo podem ser dolorosos. O passeio de camelo não é recomendado para mulheres grávidas.</p>
+
+    <p>Pessoas com problemas nas pernas e nas costas devem evitar andar de camelo. Andar de camelo não é recomendado para pessoas com peso superior a 120 kg.</p>'
+- q: Quanto tempo dura um passeio de camelo no deserto?
+  aHtml: <p>O passeio de camelo em si costuma durar de 30 minutos a algumas horas, dependendo da excursão escolhida, e geralmente acontece ao entardecer ou ao amanhecer. Já a excursão completa — incluindo o passeio de camelo e a noite no acampamento — pode variar de uma única noite a até cinco dias, dependendo se você prefere um passeio rápido, uma excursão de dois a três dias ou uma expedição mais longa pelo deserto.</p>
+- q: Quais são os tipos de acampamento disponíveis nas excursões de camelo?
+  aHtml: <p>Oferecemos acampamentos de luxo com banheiro privativo em cada barraca (alguns com aquecimento e ar condicionado), acampamentos padrão com barracas privadas e banheiros compartilhados, e acampamentos selvagens, montados longe de outros turistas para quem busca uma experiência nômade mais autêntica. Todas as opções incluem camas, cobertores e o essencial para uma estadia confortável no deserto.</p>
+- q: Posso combinar o passeio de camelo com outras atividades, como quadriciclo (ATV) ou buggy?
+  aHtml: <p>Sim. Se você não quiser andar de camelo, ou quiser complementar a experiência, todos os nossos acampamentos no deserto também podem ser alcançados de ATV (moto quadriciclo), buggy ou carro 4×4. Muitos viajantes optam por combinar o passeio de camelo até o acampamento com um passeio de buggy ou quadriciclo pelas dunas no dia seguinte.</p>
+- q: Qual é o melhor deserto de Marrocos para fazer um passeio de camelo?
+  aHtml: <p>Passeios de camelo estão disponíveis em várias regiões do deserto marroquino, mas o mais popular é o deserto de Merzouga, nas dunas de Erg Chebbi — as dunas mais altas do Marrocos, também conhecidas como dunas douradas por causa da sua cor. Zagora, no Vale do Draa, é outra opção popular, com dunas menores, porém mais próxima de Marrakech.</p>
 ---
+
 Sem dúvida, uma das atividades mais recomendadas que você pode fazer no Marrocos é andar de camelo pelo impressionante Saara. Junte-se a uma de nossas excursões de camelo e descubra a majestade e a solidão do Saara.
 
 Uma das atrações imperdíveis ao visitar o **[deserto do Saara](https://pt.wikipedia.org/wiki/Deserto_do_Saara)** (Marrocos) é a excursão de camelo. Você vai andar de camelo por um mar de areia, assistir o nascer e o pôr do sol sobre as dunas de areia mais altas e passar uma a três noites em um acampamento no deserto, oásis ou com uma família nômade.
@@ -147,51 +181,6 @@ As perguntas frequentes sobre como chegar ao deserto, o que levar, o que vestir,
 ---
 
 ###
-
-##### O que levar para o passeio de camelo?
-
-- **Mochila**
-Para higiene pessoal e roupas, é necessária uma mochila pequena ou uma pochete média.
-
-- **Lanterna**
-É aconselhável ter uma lanterna se quiser caminhar pelas dunas à noite.
-
-- **Óculos de sol**
-Recomenda-se o uso de óculos de sol para proteger os olhos do sol e se houver uma tempestade de areia.
-
-- **Turbante ou Chapéu**
-Um turbante protegerá seu cabelo, orelhas e nariz da areia e dos raios do sol.
-
-- **Protetor solar**
-Protetor solar é necessário, especialmente se você estiver viajando durante o verão.
-
-- **Sapato**
-Você precisará de sapatos confortáveis ​​e adequados aos seus pés.
-
-- **Calça**
-Calças compridas são necessárias para andar de camelo, no entanto, jeans não são recomendados se você estiver viajando durante o verão ou meses quentes. É preferível usar calças leves e soltas.
-
-- **Água**
-A água é fornecida no acampamento, mas é recomendável trazer uma garrafa por pessoa durante a caminhada de camelo.
-
-##### Qual é a melhor época para viajar para o deserto Marroquino?
-
-A melhor época para visitar o deserto marroquino, fazer um passeio de camelo e passar a noite no deserto é de meados de setembro a meados de maio. Fica um pouco mais frio no final de dezembro e janeiro, mas os acampamentos estão equipados com cobertores suficientes.
-Viajar para o deserto durante o verão não é recomendado devido ao calor extremo durante o dia e a noite. Além do fato de escorpiões e cobras serem mais ativos nessa época do ano. Recomendamos ficar em um hotel com ar condicionado e piscina e andar de camelo apenas durante o pôr do sol ou nascer do sol.
-
-##### Como chegar ao deserto do Saara - Marrocos?
-
-Devido às boas condições da estrada, o deserto de Merzouga (também conhecido como deserto de Erg Chebbi) pode ser alcançado por um carro normal. Você também pode pegar um ônibus público, alugar um carro com motorista ou participar de um de nossos passeios no deserto partindo de Marrakech, Fez, Casablanca e outras cidades do Marrocos.
-
-##### O que devo saber antes de reservar a excursão de camelo em Marrocos?
-
-- Mais de 30 minutos de passeio de camelo podem ser dolorosos.
-- O passeio de camelo não é recomendado para mulheres grávidas.
-
-- Pessoas com problemas nas pernas e nas costas devem evitar andar de camelo.
-- Andar de camelo não é recomendado para pessoas com peso superior a 120 kg.
-
-**Avaliações**
 
 #### Valentina O
 

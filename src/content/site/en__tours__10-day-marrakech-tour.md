@@ -211,7 +211,77 @@ faqs:
     <p><strong><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-day tour from Marrakech</a></strong></p>
 
     <p><strong><a href="/tours/8-days-from-marrakech" rel="noopener" target="_blank">8-day tour from Marrakech </a> </strong></p>'
-reviews: []
+- q: What's the difference between the standard and superior accommodation options?
+  aHtml: <p>The standard option uses comfortable riads and hotels like Hotel Riad Marana in Marrakech or Hotel Kasbah Didis in Dades, while the superior option upgrades to properties such as Hotel Riad Bahia Salam or Hotel Ksar Sultan. The same upgrade applies to the desert camp, moving from the Mouhou Standard Camp to the Mouhou Luxury Camp.</p>
+- q: Will I have phone signal or Wi-Fi during the trip?
+  aHtml: '<p>Wi-Fi is available at hotels and riads in the cities, but the signal weakens noticeably in the Atlas Mountains and around the Merzouga desert camp. It''s worth telling anyone at home that you may be harder to reach for a night or two.</p>'
+- q: What's the best time of year to do this tour?
+  aHtml: <p>Spring (March to May) and autumn (September to November) offer the most comfortable temperatures for both the Sahara and the mountain passes. Summer can be very hot in the desert, and winter nights in Ifrane and the desert camp get cold.</p>
+- q: Should I tip the driver and local guides?
+  aHtml: '<p>Tipping isn''t required but is customary and appreciated for your driver and any local guides in Marrakech or Fes. Many travelers budget around 10-15 euros per day for the driver, adjusted to the length and quality of service.</p>'
+- q: How physically demanding is this tour?
+  aHtml: <p>Most of the tour is done by vehicle, with light walking through kasbahs, gorges, and medinas. The camel trek into Erg Chebbi is gentle and suitable for most fitness levels, and the walk through the Todra Gorges is flat and easy to shorten if needed.</p>
+reviews:
+- name: Chiara O.
+  date: 14/03/2024
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou was the highlight
+  text: Walking through Ait Ben Haddou and knowing it was used in Gladiator made the stop feel special. Our guide Youssef pointed out the different kasbahs and explained how families still live inside parts of it. The camel ride into Erg Chebbi at sunset the next day was just as memorable, and the desert camp dinner with Berber drums went on late into the night.
+- name: Ramon C.
+  date: 02/05/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges and the Fes tanneries
+  text: The walk through Todra Gorges was incredible, those cliffs are enormous up close. A few days later we were standing above the Chouara tanneries in Fes watching workers dye leather by hand, which was a completely different kind of impressive. Ten days packed with contrast, exactly what we wanted.
+- name: Elena W.
+  date: 22/06/2024
+  likes: 1
+  stars: 5
+  title: Blue city, then Casablanca in one week
+  text: Chefchaouen's blue streets in the morning, Hassan II Mosque by the ocean two days later. Great pacing, no regrets.
+- name: Beatriz R.
+  date: 09/09/2024
+  likes: 0
+  stars: 4
+  title: Beautiful but Merzouga to Fes is a long haul
+  text: 'The Cedar Forest stop near Azrou was a fun surprise, the monkeys came right up to the car, and Ifrane genuinely looks like a European village dropped into Morocco. My only note is that the drive from the desert up to Fes is a full day in the car, so pace yourself and bring something to keep busy. Still a trip I''d recommend.'
+- name: Grace B.
+  date: 18/11/2024
+  likes: 0
+  stars: 5
+  title: Majorelle Garden and a proper hammam
+  text: Our second day in Marrakech was the Majorelle Garden, the YSL museum, and then a hammam in the afternoon, a really nice way to recover before the long drive south started. Hassan drove us the whole ten days and never once seemed rushed even on the mountain roads.
+- name: Farida S.
+  date: 03/01/2025
+  likes: 0
+  stars: 5
+  title: Volubilis and Meknes were an unexpected favorite
+  text: I expected the desert to be the highlight and it was wonderful, but the Roman ruins at Volubilis and the gate at Bab Mansour in Meknes surprised me. Having a full day dedicated to Fes beforehand made the history click into place.
+- name: Lucia Q.
+  date: 27/02/2025
+  likes: 0
+  stars: 5
+  title: Sunset over Erg Chebbi
+  text: 'Said led our camel trek into the dunes right as the light turned orange, and it is genuinely one of the best moments from any trip I''ve taken. Dinner at the camp afterward with the whole sky full of stars sealed it.'
+- name: Bea B.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: Rabat was a nice surprise
+  text: Kasbah of the Udayas and the Hassan Tower were quieter and more relaxed than the imperial cities, a good breather before Casablanca.
+- name: Conor E.
+  date: 30/06/2025
+  likes: 0
+  stars: 4
+  title: Dades Valley kasbahs are worth the stop
+  text: 'The kasbah we stayed at in the Dades Valley had a great terrace looking out over the valley, and the drive through the Valley of Roses beforehand smelled amazing even though it wasn''t the blooming season. Only downside was the wifi barely worked those two nights, but honestly that''s part of being somewhere this remote.'
+- name: Sanne C.
+  date: 20/09/2025
+  likes: 0
+  stars: 5
+  title: Ten days, one incredible loop
+  text: From Jemaa el-Fna on day one to shopping in the same souks on day nine, this tour covers so much ground. Rachid was our driver for the second half and was full of stories about every kasbah we passed. Highly recommend doing the full loop rather than picking just one region.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425707.1096300003!2d-8.65925717332393!3d33.01914009082002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda067e2acf2ef09%3A0x8bdbd265c6bd6453!2sOualili%2C%20Morocco!3m2!1d34.0390802!2d-5.5624455!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753870727378!5m2!1sen!2sen

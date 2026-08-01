@@ -108,7 +108,7 @@ Merci beaucoup à Amar, Hassan et Moroccan Excursions.
 
 #### Elise
 
-We took a three-day excursion from Fez to Marrakech via the Merzouga Desert. This was a once-in-a-lifetime opportunity! Ahmed was a fantastic driver, guide, and overall companion; he was really courteous and lovely to travel with. It is important to emphasize that he is a very decent man, and we are extremely fortunate to have met him; he deserves the best. Thank you so much, Ahmed! The entire vacation was incredible; we saw a lot of locations and learnt a lot of things, but the most spectacular experience was spending the night in the desert. All of the other guides we met were also really nice and helpful, and we'd want to thank them as well! We highly recommend booking a trip to Morocco with this great crew!
+Nous avons fait une excursion de trois jours de Fès à Marrakech en passant par le désert de Merzouga. Ce fut une expérience unique ! Ahmed a été un chauffeur, guide et compagnon de route fantastique ; il s'est montré très courtois et agréable tout au long du voyage. Il est important de souligner que c'est un homme très bien, et nous avons énormément de chance de l'avoir rencontré ; il mérite ce qu'il y a de mieux. Merci beaucoup, Ahmed ! L'ensemble du séjour était incroyable ; nous avons vu de nombreux endroits et beaucoup appris, mais l'expérience la plus spectaculaire a été de passer la nuit dans le désert. Tous les autres guides que nous avons rencontrés ont également été très sympathiques et serviables, et nous tenons à les remercier aussi ! Nous recommandons vivement de réserver un voyage au Maroc avec cette formidable équipe !
 
 #### Chloe
 

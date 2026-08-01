@@ -141,7 +141,77 @@ faqs:
   aHtml: '<p>Les deux circuits similaires au circuit de 5 jours dans le désert, de Marrakech à Fès, sont :</p>
 
     <p><a href="/fr/tours/6-jours-marrakech-sud" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech vers le Sud</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>'
-reviews: []
+- q: Puis-je annuler ou modifier ma réservation ?
+  aHtml: <p>Oui, contactez-nous par WhatsApp ou email dès que possible pour organiser une annulation ou un changement de date ; nous ferons notre possible pour nous adapter à votre situation.</p>
+- q: Comment se déroule la balade à dos de chameau dans le désert ?
+  aHtml: <p>Vous partirez à dos de chameau en fin d'après-midi pour rejoindre le campement dans les dunes de l'Erg Chebbi, juste à temps pour admirer le coucher de soleil. La balade dure environ une heure et convient à tous les âges.</p>
+- q: Que comprend exactement l'hébergement pendant le circuit ?
+  aHtml: <p>Vous logez en hôtels, riads et camps dans le désert selon les étapes, avec transport privé climatisé, chauffeur local expérimenté et frais de véhicule inclus. La nuit en camp dans le désert à Merzouga inclut le dîner et le petit-déjeuner.</p>
+- q: Le circuit convient-il aux enfants ?
+  aHtml: <p>Oui, le rythme et les activités comme la balade à dos de chameau et le sandboard conviennent bien aux familles. Faites-nous simplement savoir l'âge de vos enfants afin d'adapter les arrêts si nécessaire.</p>
+- q: Vais-je voyager seul avec le chauffeur ou avec d'autres touristes ?
+  aHtml: '<p>Ce circuit est entièrement privé : vous voyagez uniquement avec votre groupe et le chauffeur-guide, sans partager la voiture avec d''autres voyageurs.</p>'
+reviews:
+- name: Pauline M.
+  date: 06/01/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou en randonnée matinale
+  text: On a marché tôt le matin dans la kasbah d'Ait Ben Haddou avant l'arrivée des grands groupes, un moment très calme et photogénique. La suite du circuit vers Fès était tout aussi belle.
+- name: Sebastian K.
+  date: 21/02/2025
+  likes: 1
+  stars: 5
+  title: Le canyon du Todra à pied
+  text: L'heure de marche dans le canyon du Todra était un des meilleurs moments du voyage, les parois sont impressionnantes. Le désert en 4x4 le lendemain a ajouté une bonne dose d'aventure.
+- name: Alix D.
+  date: 09/03/2025
+  likes: 0
+  stars: 4
+  title: Vallée du Ziz superbe en photo
+  text: Les arrêts photo dans la vallée du Ziz étaient magnifiques, on a pris beaucoup trop de photos. Cinq jours bien remplis avec un rythme de conduite raisonnable chaque jour.
+- name: Bruno F.
+  date: 27/04/2025
+  likes: 0
+  stars: 5
+  title: Nuit sous les étoiles à Erg Chebbi
+  text: Dormir dans le campement à Erg Chebbi sous un ciel rempli d'étoiles restera un des grands souvenirs de mon voyage au Maroc. La rencontre avec une famille nomade avant le coucher de soleil était touchante.
+- name: Nora S.
+  date: 15/05/2025
+  likes: 2
+  stars: 5
+  title: Montagnes du Moyen Atlas surprenantes
+  text: Je ne m'attendais pas à autant apprécier les paysages du Moyen Atlas en route vers Fès, c'était un contraste magnifique avec le désert. Le chauffeur connaissait vraiment bien la région.
+- name: Diego M.
+  date: 03/06/2025
+  likes: 0
+  stars: 4
+  title: Cuisine locale au top
+  text: Les repas inclus étaient très bons, tajine et pain frais à chaque étape. Seul petit regret, le déjeuner n'est pas inclus donc prévoir un budget supplémentaire pour ces repas-là.
+- name: Livia P.
+  date: 22/07/2025
+  likes: 0
+  stars: 5
+  title: Coucher de soleil sur les dunes inoubliable
+  text: Le coucher de soleil vu depuis le dos du chameau au-dessus des dunes de sable était vraiment magique, difficile à décrire avec des mots. Le chauffeur nous a laissé tout le temps nécessaire pour en profiter.
+- name: Anton W.
+  date: 11/09/2025
+  likes: 1
+  stars: 5
+  title: Circuit privé bien rythmé
+  text: On voyageait juste nous deux avec le chauffeur, jamais l'impression d'être pressés malgré les cinq jours bien remplis. Les vêtements chauds conseillés pour la nuit dans le désert étaient vraiment nécessaires en cette saison.
+- name: Carolina T.
+  date: 30/10/2025
+  likes: 0
+  stars: 5
+  title: Route vers Fès magnifique jusqu'au bout
+  text: La dernière étape vers Fès à travers le Moyen Atlas était aussi belle que le désert lui-même, avec de superbes points de vue en chemin. Un circuit vraiment complet du Maroc en cinq jours.
+- name: Felix R.
+  date: 17/12/2025
+  likes: 0
+  stars: 5
+  title: Sandboard sur les dunes, un vrai plus
+  text: Le sandboard en option sur les dunes près du campement était un ajout parfait à la balade à dos de chameau. Cinq jours qui filent vite tant chaque étape est différente de la précédente.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1723547.140043255!2d-7.320556939730211!3d32.46458625769901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd99ad0ff58d7e67%3A0xf5cd04ffe907ee71!2sZiz%20Valley%2C%20N13%2C%20Morocco!3m2!1d32.133578299999996!2d-4.3657376999999995!4m5!1s0xd98bf42e8441e9f%3A0x88269ca6a8dbb536!2sMidelt%2C%20Morocco!3m2!1d32.6799423!2d-4.7329267999999995!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sfr!2sfr!4v1753630621321!5m2!1sfr!2sfr

@@ -66,7 +66,79 @@ faqs:
   aHtml: '<p>Sim, um guia não é apenas recomendado, mas essencial para a segurança, navegação e uma experiência mais rica. Os guias fornecem conhecimento local sobre aldeias berberes, oásis escondidos e pontos de referência no deserto que não estão marcados nos mapas.</p>
 
     <p>Os guias também garantem que a sua condução fora de estrada permaneça segura, aconselham sobre ajustes na pressão dos pneus e ajudam em trechos desafiadores de dunas ou rochosos, tornando a sua aventura de condução autónoma segura e imersiva.</p>'
-reviews: []
+- q: O veículo é manual ou automático?
+  aHtml: <p>Todos os veículos 4x4 que fornecemos para este passeio têm câmbio manual, não automático. É importante sentir-se confortável com o câmbio manual, especialmente em trilhas de areia e pedras onde as trocas de marcha frequentes são essenciais para não ficar preso.</p>
+- q: O que está incluído no preço do passeio?
+  aHtml: <p>O preço inclui o aluguer do veículo 4x4, combustível, um guia local do deserto, as instruções básicas de segurança no início, equipamento de recuperação como pá e escadas de areia, e um almoço piquenique durante o percurso. As únicas despesas excluídas são as pessoais.</p>
+- q: Qual é a política de cancelamento?
+  aHtml: <p>É possível cancelar gratuitamente até 48 horas antes da partida. Depois desse prazo podem ser aplicadas taxas, por isso recomendamos avisar-nos o mais cedo possível caso os seus planos mudem.</p>
+- q: Como funciona o preço de acordo com o número de pessoas?
+  aHtml: <p>O preço é calculado por pessoa e diminui à medida que o grupo aumenta, cerca de 150 euros por pessoa para grupos de 1 a 3 pessoas, 130 euros para 4 a 6 pessoas e 115 euros para grupos maiores de 7 a 12 pessoas. Cada participante que desejar pode conduzir o seu próprio veículo.</p>
+- q: Vamos mesmo parar em Khamlia para ouvir música Gnawa ao vivo?
+  aHtml: <p>Sim, uma paragem na aldeia de Khamlia está incluída no itinerário, onde poderá ouvir ao vivo a música Gnawa tocada pelos habitantes locais. É um dos momentos culturais mais apreciados pelos nossos viajantes, junto com o encontro com as famílias nómadas berberes.</p>
+- q: O almoço está incluído no passeio?
+  aHtml: <p>Sim, um almoço piquenique está incluído no preço e é normalmente servido à sombra das palmeiras no oásis de Tissardmine, durante uma pausa entre as etapas do percurso fora de estrada.</p>
+reviews:
+- name: Bruno Carvalho
+  date: 16/01/2025
+  likes: 0
+  stars: 5
+  title: Emoção pura na pista do Rally Dakar
+  text: Conduzir o nosso 4x4 pela antiga pista do Rally Dakar foi incrível, com dunas altas de um lado e trilhos rochosos do outro. As instruções sobre a redução da pressão dos pneus foram muito úteis assim que entrámos na areia fofa.
+- name: Isabela Martins
+  date: 08/02/2025
+  likes: 0
+  stars: 5
+  title: Música Gnawa em Khamlia, uma lembrança especial
+  text: A paragem na aldeia de Khamlia para ouvir a música Gnawa ao vivo foi o momento mais emocionante do passeio. Antes disso já tínhamos visitado as famílias nómadas que ainda vivem em tendas, uma experiência muito autêntica.
+- name: Robert Klein
+  date: 03/03/2025
+  likes: 1
+  stars: 4
+  title: Câmbio manual desafiador mas divertido
+  text: Não conduzia um câmbio manual há anos e na areia fofa no início foi um pouco complicado, mas o guia deu-nos ótimas dicas. As antigas minas de Mifis foram uma surpresa histórica que não esperava encontrar no meio do deserto.
+- name: Camila Oliveira
+  date: 21/04/2025
+  likes: 0
+  stars: 5
+  title: Oásis de Tissardmine, uma pausa perfeita
+  text: Fazer o piquenique à sombra das palmeiras no oásis de Tissardmine depois de horas de condução fora de estrada foi revigorante. Voltar para Merzouga atravessando o deserto negro ao entardecer tornou o dia ainda mais especial.
+- name: Lukas Hoffmann
+  date: 05/05/2025
+  likes: 0
+  stars: 5
+  title: Liberdade total ao volante
+  text: Ao contrário dos passeios tradicionais, aqui podíamos parar quando quiséssemos para tirar fotos em locais tranquilos. O equipamento de recuperação que nos deram tranquilizou-nos quando o nosso 4x4 ficou preso por alguns minutos numa duna macia.
+- name: Amanda Rocha
+  date: 17/06/2025
+  likes: 0
+  stars: 5
+  title: Chá com os nómadas berberes inesquecível
+  text: Visitar uma família nómada berbere que ainda vive em tendas tradicionais foi o momento mais autêntico da viagem. O guia explicou muito bem como ajustar a pressão dos pneus antes de enfrentar as dunas mais íngremes.
+- name: Karim Belhaj
+  date: 30/07/2025
+  likes: 0
+  stars: 3
+  title: Belo percurso mas dia longo
+  text: O passeio é fascinante, com as minas de Mifis e o oásis de Tissardmine entre as melhores paragens, mas depois de várias horas de condução em trilhos rochosos fiquei bastante cansado. Recomendo fazer pausas frequentes se não estiver habituado ao fora de estrada.
+- name: Natasha Ivanova
+  date: 10/09/2025
+  likes: 0
+  stars: 5
+  title: O deserto negro no regresso
+  text: Atravessar o deserto negro em direção a Merzouga no final da tarde, depois de visitar o oásis de Hassi Labied, foi uma das paisagens mais surpreendentes da viagem. O nosso guia deixou-nos conduzir com total segurança durante todo o percurso.
+- name: Henrique Souza
+  date: 24/10/2025
+  likes: 0
+  stars: 5
+  title: Aldeias berberes e trilhas de areia
+  text: A combinação de trilhas de areia, caminhos rochosos e a paragem na aldeia de Khamlia tornou este passeio muito mais variado do que um simples passeio de 4x4. O almoço piquenique perto do oásis foi um momento de descanso muito agradável.
+- name: Valentina Torres
+  date: 12/12/2025
+  likes: 0
+  stars: 5
+  title: Perfeito para quem gosta de conduzir
+  text: Já tínhamos alguma experiência em fora de estrada e este passeio permitiu-nos praticá-la com total liberdade nas trilhas perto de Erg Chebbi. O guia local acompanhou-nos de perto nos trechos mais difíceis entre as dunas.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d207685.50890543303!2d-4.1827306675038!3d31.165040234232738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973b2144e90bb1%3A0x96ef63503b80e425!2sMifis%20Mine%2C%20Merzouga%2C%20Morocco!3m2!1d31.037187499999998!2d-3.9514375!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!5e1!3m2!1spt-pt!2spt-pt!4v1757764222994!5m2!1spt-pt!2spt-pt

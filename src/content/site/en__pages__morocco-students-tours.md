@@ -21,11 +21,39 @@ With a perfect mix of education, cultural immersion, and adventure, Morocco stan
 
 ## Special Trips & Programs for 2026 and 2027:
 
-|  |  |  |
-| --- | --- | --- |
-| - [2-day desert trip from Marrakech to Zagora](https://www.morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/) - [3-day Sahara desert tour from Marrakech](https://www.morocco-excursion.com/tours/3-day-marrakech-to-merzouga-desert-tour/) - [Marrakech to Fes 3-day desert tour](https://www.morocco-excursion.com/tours/3-day-marrakech-to-fes-desert-tour/) - [4-day desert excursion from Marrakech](https://www.morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/) - [4-day desert trip from Marrakech to Fes](https://www.morocco-excursion.com/tours/4-day-marrakech-to-fes-desert-tour/) | - [Fes](https://www.morocco-excursion.com/tours/chefchaouen-day-trip-from-fes/)[to](https://www.morocco-excursion.com/tours/chefchaouen-day-trip-from-fes/)[Chefchaouen day trip](https://www.morocco-excursion.com/tours/chefchaouen-day-trip-from-fes/) - [Fes to Merzouga 3-day desert tour](https://www.morocco-excursion.com/tours/fes-to-merzouga-3-day-desert-tour/) - [3-day desert tour from Fes to Marrakech](https://www.morocco-excursion.com/tours/3-day-fes-to-marrakech-desert-tour/) - [4-day tour from Fes to Sahara](https://www.morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/) - [Fes to Marrakech 4-day desert tour](https://www.morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/) | - [4-day tour from Casablanca](https://www.morocco-excursion.com/tours/4-day-tour-from-casablanca/) - [7-day tour from Casablanca](https://www.morocco-excursion.com/tours/7-day-tour-from-casablanca/) - [8-day trip from Casablanca](https://www.morocco-excursion.com/tours/8-day-trip-from-casablanca/) - [6-day package from Casablanca](https://www.morocco-excursion.com/tours/6-day-tour-from-casablanca/) |
-| - [Camel trekking in Merzouga](https://www.morocco-excursion.com/tours/overnight-camel-trekking-in-merzouga/) - [Merzouga 4WD desert safari](https://www.morocco-excursion.com/tours/merzouga-4wd-desert-safari/) - [Sand dunes self-drive in Merzouga](https://www.morocco-excursion.com/tours/merzouga-dunes-4x4-drive/) - [Merzouga ATV quad desert excursions](https://www.morocco-excursion.com/tours/merzouga-atv-quad-excursion/) - [Merzouga dune buggy tours](https://www.morocco-excursion.com/tours/merzouga-dune-buggy-tours/) - [4×4 excursion to Safsaf desert Oasis](https://www.morocco-excursion.com/tours/merzouga-day-trip-to-desert-oasis/) | - [4-days from Tangier](https://www.morocco-excursion.com/tours/4-day-tour-from-tangier/) - [7-day tour from Tangier](https://www.morocco-excursion.com/tours/7-day-trip-from-tangier/) - [Tangier & South in 8 days](https://www.morocco-excursion.com/tours/tangier-south-in-8-days/) - [10-day travel package from Tangier](https://www.morocco-excursion.com/tours/10-day-trip-from-tangier/) | - [2-day tour from Ouarzazate to Merzouga desert](https://www.morocco-excursion.com/tours/2-day-ouarzazate-desert-tour/) - [3-day Sahara trip from Ouarzazate to Merzouga](https://www.morocco-excursion.com/tours/ouarzazate-merzouga-desert-3-days/) - [3-day trip from Ouarzazate to fes via Merzouga](https://www.morocco-excursion.com/tours/ouarzazate-fes-3-day-desert-tour/) |
-| - [3-day trip from Agadir to Marrakech via desert](https://www.morocco-excursion.com/tours/agadir-marrakech-3day-desert-trip/) - [3-day tour from Agadir to Fes via desert](https://www.morocco-excursion.com/tours/3-days-agadir-fes/) | - [3-day trip from Errachidia to Fes via desert](https://www.morocco-excursion.com/tours/3-days-errachidia-fes) - [3-day desert tour from Errachidia to Merzouga](https://www.morocco-excursion.com/tours/3-days-from-errachidia/) | - [4-days from Errachidia to Sahara Desert](https://www.morocco-excursion.com/tours/4-day-errachidia-sahara-desert/) - [4-day tour from Errachidia to Marrakech via desert](https://www.morocco-excursion.com/tours/4-days-errachidia-marrakech/) |
+- [2-day desert trip from Marrakech to Zagora](https://www.morocco-excursion.com/tours/2-day-marrakech-to-zagora-desert-tour/)
+- [3-day Sahara desert tour from Marrakech](https://www.morocco-excursion.com/tours/3-day-marrakech-to-merzouga-desert-tour/)
+- [Marrakech to Fes 3-day desert tour](https://www.morocco-excursion.com/tours/3-day-marrakech-to-fes-desert-tour/)
+- [4-day desert excursion from Marrakech](https://www.morocco-excursion.com/tours/4-day-marrakech-to-merzouga-desert-tour/)
+- [4-day desert trip from Marrakech to Fes](https://www.morocco-excursion.com/tours/4-day-marrakech-to-fes-desert-tour/)
+- [Fes to Chefchaouen day trip](https://www.morocco-excursion.com/tours/chefchaouen-day-trip-from-fes/)
+- [Fes to Merzouga 3-day desert tour](https://www.morocco-excursion.com/tours/fes-to-merzouga-3-day-desert-tour/)
+- [3-day desert tour from Fes to Marrakech](https://www.morocco-excursion.com/tours/3-day-fes-to-marrakech-desert-tour/)
+- [4-day tour from Fes to Sahara](https://www.morocco-excursion.com/tours/4-day-fes-to-merzouga-sahara-trip/)
+- [Fes to Marrakech 4-day desert tour](https://www.morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/)
+- [4-day tour from Casablanca](https://www.morocco-excursion.com/tours/4-day-tour-from-casablanca/)
+- [7-day tour from Casablanca](https://www.morocco-excursion.com/tours/7-day-tour-from-casablanca/)
+- [8-day trip from Casablanca](https://www.morocco-excursion.com/tours/8-day-trip-from-casablanca/)
+- [6-day package from Casablanca](https://www.morocco-excursion.com/tours/6-day-tour-from-casablanca/)
+- [Camel trekking in Merzouga](https://www.morocco-excursion.com/tours/overnight-camel-trekking-in-merzouga/)
+- [Merzouga 4WD desert safari](https://www.morocco-excursion.com/tours/merzouga-4wd-desert-safari/)
+- [Sand dunes self-drive in Merzouga](https://www.morocco-excursion.com/tours/merzouga-dunes-4x4-drive/)
+- [Merzouga ATV quad desert excursions](https://www.morocco-excursion.com/tours/merzouga-atv-quad-excursion/)
+- [Merzouga dune buggy tours](https://www.morocco-excursion.com/tours/merzouga-dune-buggy-tours/)
+- [4×4 excursion to Safsaf desert Oasis](https://www.morocco-excursion.com/tours/merzouga-day-trip-to-desert-oasis/)
+- [4-days from Tangier](https://www.morocco-excursion.com/tours/4-day-tour-from-tangier/)
+- [7-day tour from Tangier](https://www.morocco-excursion.com/tours/7-day-trip-from-tangier/)
+- [Tangier & South in 8 days](https://www.morocco-excursion.com/tours/tangier-south-in-8-days/)
+- [10-day travel package from Tangier](https://www.morocco-excursion.com/tours/10-day-trip-from-tangier/)
+- [2-day tour from Ouarzazate to Merzouga desert](https://www.morocco-excursion.com/tours/2-day-ouarzazate-desert-tour/)
+- [3-day Sahara trip from Ouarzazate to Merzouga](https://www.morocco-excursion.com/tours/ouarzazate-merzouga-desert-3-days/)
+- [3-day trip from Ouarzazate to fes via Merzouga](https://www.morocco-excursion.com/tours/ouarzazate-fes-3-day-desert-tour/)
+- [3-day trip from Agadir to Marrakech via desert](https://www.morocco-excursion.com/tours/agadir-marrakech-3day-desert-trip/)
+- [3-day tour from Agadir to Fes via desert](https://www.morocco-excursion.com/tours/3-days-agadir-fes/)
+- [3-day trip from Errachidia to Fes via desert](https://www.morocco-excursion.com/tours/3-days-errachidia-fes)
+- [3-day desert tour from Errachidia to Merzouga](https://www.morocco-excursion.com/tours/3-days-from-errachidia/)
+- [4-days from Errachidia to Sahara Desert](https://www.morocco-excursion.com/tours/4-day-errachidia-sahara-desert/)
+- [4-day tour from Errachidia to Marrakech via desert](https://www.morocco-excursion.com/tours/4-days-errachidia-marrakech/)
 
 Traveling to a foreign country fosters open-mindedness and empathy. Special offers encourage students to connect with local communities, share stories, and gain a deeper understanding of the world’s diversity. Participating in traditional ceremonies, enjoying home-cooked meals with Moroccan families, and engaging in conversations with locals promote cross-cultural friendships that can last a lifetime.
 

@@ -192,7 +192,73 @@ faqs:
   aHtml: '<p>Sure! Here are two similar tours to the 10 day tour:</p>
 
     <p><strong><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/14-day-tour-from-marrakech/" rel="noopener" target="_blank">14-day tour from Marrakech</a></strong></p>'
-reviews: []
+- q: Do I need to tip the driver during this tour?
+  aHtml: '<p>Tipping isn''t required but is customary in Morocco. Many travelers give their driver around 10-15 euros per day of the tour, based on service and group size.</p>'
+- q: Will I have mobile signal or Wi-Fi in places like Merzouga or the Todra Gorges?
+  aHtml: <p>Wi-Fi is available at hotels along the route, but the signal gets weak or disappears in the mountains and around the Merzouga desert camp. Expect to be mostly offline during the two desert nights.</p>
+- q: What's the best season to do this 10-day tour from Marrakech?
+  aHtml: <p>Spring and autumn bring the most comfortable temperatures across both the Sahara and the High Atlas crossings. Summer heat in Merzouga can be intense, while winter nights in the desert and Dades Valley get quite cold.</p>
+reviews:
+- name: Fabio C.
+  date: 11/02/2024
+  likes: 0
+  stars: 5
+  title: Khamlia's music and the camel ride after
+  text: The Gnaoua musicians in Khamlia were a great surprise, not something I expected on a desert day trip. A few hours later we were sharing tea with a nomad family and then riding camels into Erg Chebbi as the sun dropped. Hard to beat that stretch of the itinerary.
+- name: Leila V.
+  date: 05/04/2024
+  likes: 0
+  stars: 5
+  title: Ouzoud's monkeys stole the show
+  text: The waterfalls at Ouzoud are stunning on their own, but watching the wild monkeys climb around near the top was the real highlight for my kids. We also loved the argan oil cooperative stop on the way to Essaouira the next day, good to see where the products actually come from.
+- name: Salim Y.
+  date: 19/05/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges are massive
+  text: Omar was a fantastic driver and the cliffs at Todra genuinely towered over us. Short review, big recommendation.
+- name: Kofi E.
+  date: 02/07/2024
+  likes: 0
+  stars: 5
+  title: Flamingos at Lake Merzouga
+  text: We got lucky and there was water in the lake, so we saw flamingos before heading further into the desert for tea with a nomad family. The night in the camp under a completely clear sky was unforgettable.
+- name: Ravin A.
+  date: 21/08/2024
+  likes: 1
+  stars: 5
+  title: Essaouira was the perfect wind-down
+  text: After the desert and the mountains, a slow day on the ramparts of Essaouira with fresh grilled fish for lunch was exactly the pace we needed before flying home.
+- name: Wendy A.
+  date: 09/10/2024
+  likes: 0
+  stars: 5
+  title: Draa Valley and the Rissani market
+  text: The palm groves along the Draa Valley go on forever, and the market in Rissani gave us a real sense of desert trading life rather than a touristy version of it. Small villages like Agdz along the way were a nice touch too.
+- name: Tobias C.
+  date: 30/11/2024
+  likes: 0
+  stars: 4
+  title: Long days crossing the Atlas, but worth it
+  text: 'Ait Ben Haddou was as impressive as photos suggest, and the Tizi n''Tichka pass has some genuinely dramatic views. Just know that both crossings of the High Atlas make for long driving days, so this isn''t a trip to rush if you get carsick easily.'
+- name: Hendrik Z.
+  date: 14/01/2025
+  likes: 0
+  stars: 5
+  title: Evenings in the Mellah and Jemaa el Fna
+  text: 'Brahim took us through the old Jewish quarter in the Mellah on day two, somewhere I wouldn''t have found on my own, then left us free to wander Jemaa el Fna as it lit up for the evening. Great balance of guided and independent time.'
+- name: Fabio W.
+  date: 03/03/2025
+  likes: 0
+  stars: 5
+  title: The Monkey Toes rock formation in Dades
+  text: Never heard of this stop before booking but it turned out to be one of the more interesting geology breaks of the whole trip, right alongside the old Kasbah of Ait Yul.
+- name: Kwame W.
+  date: 22/04/2025
+  likes: 0
+  stars: 4
+  title: Camp tent was basic but the setting made up for it
+  text: The camel trek into Erg Chebbi and the Berber music around the fire were fantastic, though the tent itself at the camp was fairly simple compared to the riads earlier in the trip. Worth it for the stars alone, and everything else on the itinerary from Essaouira to the Roses Valley was excellent.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3490480.340150224!2d-9.526072093675358!3d31.312803790105967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Morocco!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753779891580!5m2!1sen!2sen

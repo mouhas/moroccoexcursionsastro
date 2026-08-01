@@ -135,7 +135,77 @@ faqs:
   aHtml: <p>As atividades no deserto incluídas são passeios de camelo, sandboard, excursão off-road em 4x4 e noite num acampamento no deserto. As atividades extras possíveis são excursões de quadriciclo e buggy.</p>
 - q: Existe outra excursão semelhante à excursão de 20 dias a partir de Casablanca?
   aHtml: <p>Se procura excursões semelhantes a esta excursão de 20 dias, consulte a <a href="https://morocco-excursion.com/pt-br/tours/30-dias-de-casablanca/" rel="noopener" target="_blank"><strong>excursão de 30 dias</strong></a> ou a <a href="https://morocco-excursion.com/pt-br/tours/10-dias-marrakech/" rel="noopener" target="_blank"><strong>excursão de 10 dias a partir de Marrakeh</strong></a>. Ambas incluem as melhores cidades de Marrocos.</p>
-reviews: []
+- q: O que há de especial em Asilah, uma das primeiras paragens?
+  aHtml: <p>Asilah é uma pequena cidade costeira conhecida pelos seus muros caiados de branco cobertos de murais coloridos, pintados a cada verão durante um festival de arte local. É uma paragem curta, mas muito fotogénica, antes de seguir para Tânger.</p>
+- q: Por que escolher 20 dias em vez de um roteiro mais curto?
+  aHtml: <p>Vinte dias permitem visitar não só as cidades imperiais e o deserto, mas também a costa atlântica completa, de Asilah a Essaouira, passando por Taghazout e Sidi Ifni, sem a correria de um roteiro mais curto. É ideal para quem quer mesmo mergulhar em todas as regiões do país.</p>
+- q: Quanto custam as atividades extra no deserto, como quadriciclo ou buggy?
+  aHtml: <p>O passeio de camelo já está incluído, mas atividades opcionais como quadriciclo ou buggy nas dunas de Erg Chebbi têm custo à parte, normalmente entre 45 e 90 euros por pessoa, dependendo da duração escolhida.</p>
+- q: Existe serviço de lavandaria durante uma viagem tão longa?
+  aHtml: <p>A maioria dos hotéis e riads incluídos no roteiro oferece serviço de lavandaria pago à parte. Como a viagem passa por várias cidades, é uma boa ideia planear lavar roupa a cada 5 ou 6 dias, por exemplo em Fez, Merzouga ou Essaouira.</p>
+- q: Esta viagem de 20 dias é adequada para viajantes mais idosos?
+  aHtml: <p>Sim, desde que estejam confortáveis com longas viagens de carro e alguma caminhada em terrenos irregulares nas medinas e kasbahs. O ritmo pode ser ajustado, e o passeio de camelo pode ser substituído por transporte 4x4 até ao acampamento no deserto.</p>
+reviews:
+- name: Klaus B.
+  date: 12/02/2025
+  likes: 0
+  stars: 5
+  title: Vinte dias, a viagem da vida
+  text: Fizemos praticamente a volta a Marrocos inteira, de Asilah a Essaouira passando pelo deserto do Saara. Nenhum outro roteiro que já fiz teve tanta variedade de paisagens e cultura.
+- name: Anna M.
+  date: 27/03/2025
+  likes: 0
+  stars: 5
+  title: Chefchaouen com um dia inteiro faz toda a diferença
+  text: Gostei muito de termos um dia inteiro só para explorar Chefchaouen, sem pressa nenhuma para fotografar as ruas azuis e tomar chá de menta com calma numa esplanada.
+- name: Stefan H.
+  date: 15/04/2025
+  likes: 1
+  stars: 4
+  title: Roteiro completo, mas exige disposição
+  text: É uma viagem longa e às vezes cansativa, com muitas horas de estrada entre Sidi Ifni, Agadir e Taghazout. Compensa muito pela variedade, mas quem tem pouco tempo talvez prefira um roteiro mais curto.
+- name: Greta W.
+  date: 03/06/2025
+  likes: 0
+  stars: 5
+  title: Aldeias abandonadas no deserto, algo diferente
+  text: Depois da noite no acampamento em Merzouga, visitámos aldeias abandonadas e famílias nómadas no dia seguinte. Foi uma parte do deserto que eu nunca tinha visto noutras viagens a Marrocos.
+- name: Markus L.
+  date: 21/07/2025
+  likes: 0
+  stars: 5
+  title: Taroudant surpreendeu mais do que Marraquexe
+  text: Sem exagero, Taroudant tornou-se uma das minhas cidades favoritas da viagem. As muralhas vermelhas e os mercados mais calmos deram um respiro antes da energia de Marraquexe no fim do roteiro.
+- name: Ingrid F.
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: Dois dias em Essaouira valeram muito
+  text: Ter dois dias inteiros em Essaouira permitiu explorar a Skala de la Ville com calma e ainda passear na praia sem pressa. O motorista Youssef sempre nos dava boas dicas de restaurantes de peixe fresco.
+- name: Lukas R.
+  date: 28/10/2025
+  likes: 0
+  stars: 3
+  title: Boa viagem, mas planeie bem o cansaço
+  text: Vinte dias seguidos de excursão cansam, principalmente na parte da costa entre Sidi Ifni e Taghazout, onde há muita estrada. Recomendo pedir um dia de descanso extra em alguma cidade, se possível.
+- name: Petra S.
+  date: 12/12/2025
+  likes: 0
+  stars: 5
+  title: Cataratas de Ouzoud fecharam a viagem em grande
+  text: Perto do fim da viagem, o passeio às Cataratas de Ouzoud com os macacos-de-gibraltar pela trilha foi um bónus incrível antes de regressarmos a Marraquexe para o último jantar.
+- name: Jonas K.
+  date: 24/01/2026
+  likes: 0
+  stars: 5
+  title: Deserto Negro e Erg Chebbi lado a lado
+  text: Uma coisa que adorei foi ver como as paisagens do deserto mudam tanto num só dia, desde as rochas escuras perto de Merzouga até às dunas douradas de Erg Chebbi ao pôr do sol.
+- name: Sabine D.
+  date: 19/03/2026
+  likes: 1
+  stars: 5
+  title: Uma volta completa por Marrocos, sem pressa
+  text: Recomendo esta viagem de 20 dias para quem realmente quer conhecer Marrocos a fundo, das cidades imperiais à costa atlântica e ao Saara. O nosso motorista Ali foi profissional do início ao fim, conhecia cada estrada de cor.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1spt-pt!2spt-pt!4v1755675314275!5m2!1spt-pt!2spt-pt

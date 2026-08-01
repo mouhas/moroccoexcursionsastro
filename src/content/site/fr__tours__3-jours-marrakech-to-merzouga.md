@@ -101,8 +101,6 @@ excluded:
 faqs:
 - q: Quels hébergements sont inclus dans ce circuit?
   aHtml: '<p>Ce circuit de 3 jours de Marrakech au desert comprend deux options : l''hébergement standard et l''hébergement supérieur. L''option standard comprend un hôtel standard et un camp standard dans le désert, et l''option supérieure comprend un hôtel de luxe et un camp de luxe dans le désert du Sahara.</p>'
-- q: Quel temps fait-il dans le désert de Merzouga?
-  aHtml: <p>En hiver (de mi-novembre à début mars), le temps est froid la nuit et chaud le jour (jour ~ 26°C / nuit ~ 0°C). En été (de mi-juin à mi-septembre), il fait chaud le jour et la nuit (jour ~ 45°C / nuit ~ 30°C). Le reste de l'année, la température est presque la même tout au long de la journée et de la nuit (entre 24 et 30°C).</p>
 - q: Que faut-il emporter pour ce circuit de 3 jours de Marrakech à Merzouga?
   aHtml: '<p>Chaussures fermées</p>
 
@@ -119,18 +117,6 @@ faqs:
     <p>des lunettes de soleil</p>
 
     <p>Veste et gants (en hiver)</p>'
-- q: Comment réserver et payer ce circuit de 3 jours de Marrakech vers le désert?
-  aHtml: '<p>Dépôt:</p>
-
-    <p>Afin de confirmer votre réservation, un acompte est demandé à l''avance et le reste du paiement peut être réglé par PayPal, carte de crédit, virement bancaire ou en espèces. Pour payer l''acompte, PayPal, les virements bancaires, les cartes et Western Union sont acceptés.</p>
-
-    <p>Paiements et conditions d''annulations:</p>
-
-    <p>Pour plus d''informations sur les paiements et les annulations, veuillez consulter notre page paiements et conditions d''annulation.</p>
-
-    <p>Conditions:</p>
-
-    <p>Nous ne réservons aucun hébergement avant votre confirmation , donc si les hébergements listés ci-dessus sont déjà complets, nous en réserverons un autre avec la même catégorie et les mêmes services.</p>'
 - q: Combien de temps faut-il pour se rendre au désert de Merzouga depuis Marrakech?
   aHtml: <p>Merzouga se situe au sud-est, à environ 564 km de Marrakech. Le trajet dure environ 10 heures, mais il peut être plus ou moins long en fonction de vos arrêts. Lors de ce circuit, nous n'allons pas nous rendre directement dans le désert en une journée. Nous passerons la première nuit à Dadès, à mi-chemin du désert de Merzouga.</p>
 - q: A quelle heure et d'où commence le circuit de 3 jours de Marrakech a Merzouga?
@@ -141,7 +127,79 @@ faqs:
     <p>Si vous êtes intéressé dans un circuit en groupe, veuillez consulter notre circuit en groupe de 3 jours au départ de Marrakech vers le désert, ou n''hésitez pas à nous contacter pour plus de détails.</p>'
 - q: Quel est le prix du circuit de 3 jours au départ de Marrakech à Merzouga (désert)?
   aHtml: <p>Les prix varient en fonction du nombre de voyageurs et de la catégorie d'hébergement. Vous pouvez surclasser les hôtels et les camps dans le désert, du standard au milieu de gamme ou au luxe. Pour plus de détails, veuillez consulter les prix sur cette page.</p>
-reviews: []
+- q: Existe-t-il des circuits alternatifs similaires au circuit de 3 jours au départ de Marrakech vers le désert de Merzouga?
+  aHtml: '<p>Deux excellentes alternatives au circuit de 3 jours de Marrakech vers le désert sont :</p>
+
+    <p>Le <strong><a href="/fr/tours/4-jours-marrakech-desert" rel="noopener" target="_blank">circuit de 4 jours au départ de Marrakech vers le désert de Merzouga</a></strong>. Ce circuit plus long laisse plus de temps pour explorer la beauté du sud du Maroc. Vous profiterez d''un rythme plus tranquille avec des arrêts supplémentaires dans la vallée du Dadès, les gorges du Todra et les villages berbères. Vous passerez une nuit dans le camp du désert, monterez à dos de chameau et aurez plus de temps pour profiter des paysages en chemin avant de retourner à Marrakech le quatrième jour.</p>
+
+    <p>Le <strong><a href="/fr/tours/4-jours-fes-desert" rel="noopener" target="_blank">circuit de 4 jours au départ de Marrakech vers Fès</a></strong> via le désert de Merzouga. Ce circuit est idéal si vous prévoyez de poursuivre votre voyage vers Fès. Sur quatre jours, vous traverserez les montagnes du Haut Atlas, visiterez Ait Ben Haddou, les gorges du Dadès, et passerez une nuit sous les étoiles à Merzouga. Le dernier jour, vous voyagerez vers le nord à travers la vallée du Ziz et le Moyen Atlas, en vous arrêtant à des endroits comme Midelt, Azrou (pour voir la forêt de cèdres et les singes sauvages) et Ifrane avant d''arriver à Fès.</p>'
+- q: Aurons-nous du réseau téléphonique ou internet pendant le voyage, notamment au camp dans le désert?
+  aHtml: <p>Le réseau est généralement bon à Marrakech, à Ouarzazate et dans la vallée du Dadès, mais il devient instable dans les gorges du Todra et disparaît presque totalement au camp dans le désert, près de Merzouga.</p>
+- q: Le col du Tizi-n-Tichka ou la balade à dos de chameau sont-ils difficiles pour une personne à mobilité réduite?
+  aHtml: '<p>Le col du Tizi-n-Tichka comporte de nombreux virages en montagne, mais aucune marche n''est nécessaire puisque vous restez dans le véhicule. La balade à dos de chameau est douce, mais elle n''est pas recommandée aux femmes enceintes, aux personnes souffrant de problèmes de dos ou de plus de 70 ans ; un transfert direct en voiture jusqu''au camp peut être organisé à la place.</p>'
+- q: 'Est-il d''usage de donner un pourboire au chauffeur à la fin du voyage?'
+  aHtml: <p>Le pourboire n'est pas obligatoire, mais c'est une pratique courante pour un chauffeur privé qui s'occupe de la conduite, de l'itinéraire et des arrêts pendant trois jours. De nombreux voyageurs laissent un petit montant par jour et par personne, selon le déroulement du voyage.</p>
+reviews:
+- name: Camille Bernard
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: Une expérience unique avec notre chauffeur Moha
+  text: Nous avons fait ce circuit de 3 jours avec mon compagnon et c'était une expérience inoubliable. Moha, notre chauffeur, connaissait chaque recoin de la route et nous a beaucoup appris sur la vie berbère pendant le trajet.
+- name: Hugo Martin
+  date: 08/02/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou à la hauteur de sa réputation
+  text: Se promener dans la kasbah d'Ait Ben Haddou après l'avoir vue dans Game of Thrones était surréaliste, et le col du Tizi-n-Tichka juste avant offrait déjà les plus belles vues sur les montagnes de tout le voyage.
+- name: Léa Fontaine
+  date: 21/03/2025
+  likes: 0
+  stars: 5
+  title: Les gorges du Todra, un vrai contraste avec le désert
+  text: Le canyon étroit des gorges du Todra donnait vraiment l'impression de marcher dans un couloir de pierre, un joli contraste avec les dunes ouvertes de Merzouga le soir même. Un très bon équilibre entre montagnes, vallées et désert sur ces trois jours.
+- name: Romain Dubois
+  date: 05/04/2025
+  likes: 1
+  stars: 4
+  title: Beaucoup de points forts, dernière journée longue
+  text: Ait Ben Haddou et la nuit au camp dans le désert resteront de très beaux souvenirs, mais le trajet retour du troisième jour via Alnif et N'Kob représente beaucoup de route d'un coup. Le paysage en vaut la peine, mais il faut se préparer à une longue dernière étape avant Marrakech.
+- name: Manon Girard
+  date: 19/05/2025
+  likes: 0
+  stars: 5
+  title: Le ciel étoilé au camp, un souvenir impérissable
+  text: La balade à dos de chameau jusqu'aux dunes et le ciel étoilé au camp dans le désert justifiaient à eux seuls ces trois jours de voyage.
+- name: Pierre Lambert
+  date: 30/06/2025
+  likes: 0
+  stars: 5
+  title: Hassan a tout organisé sans le moindre accroc
+  text: Nous avons voyagé avec ma fiancée et avons passé un excellent moment. Le personnel était formidable et l'hébergement impeccable, propre et bien situé. Hassan nous a aidés pour toute la planification, l'itinéraire, les hôtels, les transports, et tout s'est déroulé sans le moindre problème.
+- name: Élodie Roux
+  date: 22/08/2025
+  likes: 0
+  stars: 5
+  title: Un voyage vers le désert de Merzouga très réussi
+  text: Mon partenaire et moi avons passé un excellent moment avec Ahmed pendant notre voyage vers le désert de Merzouga. Nous avons apprécié les paysages changeants, la balade à dos de chameau et la nuit dans le désert du Sahara. Mon seul conseil serait de réserver le circuit de 4 jours si vous avez le temps, car celui-ci comprend beaucoup de route.
+- name: Baptiste Caron
+  date: 14/10/2025
+  likes: 0
+  stars: 5
+  title: Un service très professionnel dès le premier échange
+  text: Nous avons réservé ce voyage vers le désert de l'Erg Chebbi avec Hassan et avons vécu une expérience formidable. Dès nos premiers échanges par e-mail, leur professionnalisme était évident. L'hôtel de luxe et le camp dans le désert qu'ils nous ont réservés étaient confortables et impeccables. Les guides étaient compétents et chaleureux.
+- name: Claire Vidal
+  date: 09/12/2025
+  likes: 0
+  stars: 5
+  title: Un circuit de luxe dans le grand sud
+  text: Nous avons fait appel à cette agence pour notre circuit de luxe de 3 jours dans le Sahara au départ de Marrakech, jusqu'au grand sud. Toute l'expérience, du personnel de l'agence aux hôtels choisis en passant par le camp dans le désert, était excellente. Je le recommande vivement.
+- name: Nicolas Boyer
+  date: 26/02/2026
+  likes: 0
+  stars: 4
+  title: Superbe circuit, réseau internet inexistant au camp
+  text: Le trajet à travers le Haut Atlas et les gorges du Todra était magnifique, mais il faut s'attendre à ne plus avoir aucun réseau une fois arrivé au camp dans le désert près de Merzouga. Un excellent moment de déconnexion malgré tout.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1748469.5183186634!2d-7.320579031970023!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2z0KPQsNGA0LfQsNC30LDRgtC1LCBPdWFyemF6YXRlIFByb3ZpbmNlLCDQnNCw0YDQvtC60L4!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Maroc!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2z0JzQsNGA0LDQutC10YgsINCc0LDRgNGA0LDQutC10YgsINCc0LDRgNC-0LrQvg!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1722355654232!5m2!1sfr!2sfr

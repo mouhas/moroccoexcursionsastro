@@ -207,7 +207,77 @@ faqs:
   aHtml: '<p>Oui, bien sûr ! Voici deux circuits similaires au circuit de 10 jours au Maroc au départ de Marrakech :</p>
 
     <p><a href="/fr/tours/12-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 12 jours au départ de Marrakech</strong></a><br/><a href="/fr/tours/8-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>'
-reviews: []
+- q: Quel type de campement est prévu dans le désert de Merzouga?
+  aHtml: <p>Vous avez le choix entre un campement standard, avec des tentes confortables et des sanitaires communs, et un campement de luxe avec tente privée, lit confortable et salle de bain. Les deux incluent le dîner, le petit-déjeuner et la musique berbère en soirée.</p>
+- q: La marche dans les gorges du Todra est-elle difficile?
+  aHtml: <p>Non, la promenade dans les gorges du Todra se fait sur un sentier plat au fond du canyon, accessible à tous les niveaux. Elle dure environ 30 à 45 minutes et permet d'admirer les falaises qui s'élèvent à près de 300 mètres de chaque côté.</p>
+- q: Quelle est la meilleure période pour un circuit qui va du désert jusqu'à Chefchaouen?
+  aHtml: '<p>Le printemps et l''automne restent les saisons les plus confortables, car elles évitent la chaleur extrême de Merzouga en été et le froid parfois vif de Chefchaouen et de Fès en hiver. Si vous voyagez en hiver, prévoyez tout de même des vêtements chauds pour les soirées dans le désert et dans le Rif.</p>'
+- q: Que dois-je emporter pour ce circuit entre montagnes, désert et villes bleues?
+  aHtml: '<p>Nous recommandons des vêtements légers pour la journée, une veste chaude pour les nuits dans le désert et à Chefchaouen, des chaussures de marche confortables pour les gorges du Todra, ainsi qu''un chèche ou un foulard pour se protéger du sable pendant la balade à dos de chameau.</p>'
+- q: Le circuit s'arrête-t-il dans des coopératives ou ateliers d'artisanat?
+  aHtml: <p>Oui, selon l'itinéraire vous pourrez visiter les tanneries traditionnelles et les ateliers de poterie à Fès, ainsi que des boutiques d'artisans dans la médina de Chefchaouen. Ces arrêts sont sans obligation d'achat.</p>
+reviews:
+- name: Hannah Becker
+  date: 16/02/2025
+  likes: 0
+  stars: 5
+  title: Un tour complet du Maroc en dix jours
+  text: 'De Marrakech jusqu''à Chefchaouen en passant par le désert, on a tout vu : Aït Ben Haddou, les gorges du Todra, la nuit à dos de chameau à Merzouga et enfin les ruelles bleues du Rif. Un itinéraire très bien pensé.'
+- name: Mathieu Bernard
+  date: 28/06/2025
+  likes: 1
+  stars: 5
+  title: Rachid, un chauffeur exceptionnel
+  text: Rachid nous a fait traverser le Tizi n'Tichka en toute sécurité et nous a raconté l'histoire d'Aït Ben Haddou, où ont été tournés Gladiator et Game of Thrones. Les gorges du Todra et la nuit dans le désert ont suivi, tout aussi mémorables.
+- name: Giulia Conti
+  date: 09/10/2025
+  likes: 0
+  stars: 4
+  title: Beau circuit, longue route entre Merzouga et Fès
+  text: 'La vallée du Ziz et la forêt de cèdres d''Azrou avec ses macaques sauvages ont bien cassé la monotonie du trajet vers Fès. Ifrane avec ses maisons de style alpin est surprenante en plein Maroc. Seul point faible : le trajet est vraiment long ce jour-là.'
+- name: Ryan Murphy
+  date: 20/03/2026
+  likes: 0
+  stars: 5
+  title: Fès et ses tanneries, un choc culturel fascinant
+  text: Notre guide local à Fès nous a montré les tanneries Chouara et l'université Al Quaraouiyine avec beaucoup de passion. Meknès juste après avec la porte Bab Mansour était un bel ajout à l'itinéraire.
+- name: Chloé Fontaine
+  date: 04/08/2025
+  likes: 0
+  stars: 5
+  title: Volubilis et Chefchaouen, deux ambiances totalement différentes
+  text: Les mosaïques encore visibles à Volubilis nous ont impressionnés, puis quelques heures plus tard on se promenait dans les rues bleues de Chefchaouen au coucher du soleil. Le contraste entre les étapes de ce circuit est vraiment réussi.
+- name: Andreas Hoffmann
+  date: 13/12/2025
+  likes: 0
+  stars: 5
+  title: Merzouga, le point culminant du voyage
+  text: La balade à dos de chameau dans les dunes de l'Erg Chebbi au coucher du soleil, suivie d'une soirée musique berbère autour du feu, c'était exactement ce qu'on espérait du désert marocain. Le guide Mohammed connaissait parfaitement les meilleurs points de vue.
+- name: Valérie Simard
+  date: 22/05/2025
+  likes: 0
+  stars: 3
+  title: Beau circuit, mosquée espagnole trop rapide à Chefchaouen
+  text: Nous aurions aimé un peu plus de temps le matin à Chefchaouen pour monter jusqu'au point de vue de la mosquée espagnole, le programme était un peu serré ce jour-là. Le reste du circuit, notamment le désert et Fès, était excellent.
+- name: Marco Steiner
+  date: 30/09/2025
+  likes: 1
+  stars: 5
+  title: Rabat et Casablanca, une belle conclusion
+  text: La tour Hassan et la kasbah des Oudayas à Rabat étaient superbes, et voir la mosquée Hassan II se dresser au bord de l'Atlantique à Casablanca juste avant de retourner à Marrakech était un final parfait.
+- name: Olivia Bennett
+  date: 07/01/2026
+  likes: 0
+  stars: 5
+  title: Dix jours parfaitement rythmés
+  text: On passe du désert aux montagnes puis aux villes impériales sans jamais s'ennuyer. La nuit dans le campement à Merzouga et la visite de Meknès sont mes deux moments préférés de ce circuit.
+- name: Grégoire Roussel
+  date: 11/04/2026
+  likes: 0
+  stars: 4
+  title: Très bon circuit, wifi limité dans le désert
+  text: Comme prévenu, le réseau et le wifi étaient très faibles dans le désert et dans les montagnes, ce qui n'est pas un problème en soi mais bon à savoir à l'avance. À part ça, l'itinéraire entre Fès, Chefchaouen et Rabat était vraiment bien construit.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425707.1096300003!2d-8.65925717332393!3d33.01914009082002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda067e2acf2ef09%3A0x8bdbd265c6bd6453!2sOualili%2C%20Morocco!3m2!1d34.0390802!2d-5.5624455!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753870727378!5m2!1sfr!2sfr

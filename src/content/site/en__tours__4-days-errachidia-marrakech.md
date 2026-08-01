@@ -99,7 +99,75 @@ faqs:
   aHtml: <p>Yes, the route, pace, and accommodation category can all be adjusted. Popular additions include an extra night in the desert, a 4x4 excursion in the dunes, or extra time exploring Ait Ben Haddou or the Dades Gorges.</p>
 - q: How is pickup arranged in Errachidia?
   aHtml: <p>Your driver-guide will meet you at your hotel, the bus station, or another agreed location in Errachidia at the start of the tour. Let us know your exact location and preferred pickup time when booking.</p>
-reviews: []
+- q: Is this tour private or shared with other travelers?
+  aHtml: <p>This is a fully private tour. The vehicle and driver-guide are exclusively for you and your group, so the pace and stops along the way from Errachidia to Marrakech can be adjusted to suit you.</p>
+- q: Will we have phone or wifi signal along the route?
+  aHtml: <p>Signal is generally fine in Errachidia, the Dades Valley, and Ouarzazate, but it can drop out around the Merzouga dunes and while crossing the Tizi n'Tichka pass. Expect a few quiet stretches without connection.</p>
+- q: Is it customary to tip the driver-guide?
+  aHtml: <p>Tipping isn't required but is appreciated for good service over the four days, especially given the driving and the extra effort guides put into stops like Ait Ben Haddou and the Todra Gorges.</p>
+- q: What is the best time of year for this route?
+  aHtml: <p>Spring and autumn are ideal, with comfortable temperatures for the camel trek in Merzouga and the walk through Ait Ben Haddou. Winter can bring cold nights in the desert camp and snow on the Tizi n'Tichka pass, while summer afternoons in Ouarzazate and Merzouga get very hot.</p>
+reviews:
+- name: Ingmar E.
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: Great one-way option from the east
+  text: We flew into Er-Rachidia from a domestic connection and needed a way to reach Marrakech without backtracking, so this tour was perfect. The Ziz Valley palm groves on day one were beautiful, and reaching Merzouga in time for a camel ride at sunset felt like a proper start to the trip.
+- name: Natasha Q.
+  date: 28/01/2025
+  likes: 0
+  stars: 5
+  title: Berber drums under the stars
+  text: The desert camp near Merzouga was simple but memorable - drumming around the fire, a huge sky of stars, and a driver-guide, Said, who clearly loved sharing the region's history with us.
+- name: Kwame O.
+  date: 09/02/2025
+  likes: 0
+  stars: 4
+  title: A lot of driving, but the gorges deliver
+  text: This is a one-way trip so there's no avoiding long stretches in the car, particularly getting from Merzouga toward Todra. Once we arrived, though, walking through the gorge with those towering rock walls on either side made it worthwhile.
+- name: Marcus Y.
+  date: 20/02/2025
+  likes: 0
+  stars: 5
+  title: Dades Valley views from the hotel
+  text: Waking up to the rock formations of Dades Valley right outside our window was a highlight I didn't expect. The hotel there was modest but the setting more than made up for it.
+- name: Nadia I.
+  date: 03/03/2025
+  likes: 1
+  stars: 5
+  title: Ouarzazate's film history and Skoura's palms
+  text: Our guide pointed out the studios in Ouarzazate where several big films were shot before we continued through Skoura's palm groves. It's a nice quieter stretch between the desert and Ait Ben Haddou.
+- name: Yuki E.
+  date: 15/03/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou lived up to the hype
+  text: Walking through the kasbah's earthen towers and alleyways, it was easy to see why Gladiator and Game of Thrones filmed scenes here. Worth the detour from Ouarzazate on its own.
+- name: Thabo W.
+  date: 27/03/2025
+  likes: 0
+  stars: 4
+  title: Cold at the top of Tizi n'Tichka
+  text: We crossed the pass in early spring and it was noticeably cold at 2,260 meters, so bring a jacket even if the desert days were warm. The views over the valleys and Berber villages were still spectacular.
+- name: Elin D.
+  date: 08/04/2025
+  likes: 0
+  stars: 5
+  title: Convenient one-way route
+  text: Coming from Fes via Errachidia and ending in Marrakech saved us from doubling back, and the driver dropped us right at our riad's door in the medina.
+- name: Simone S.
+  date: 19/04/2025
+  likes: 0
+  stars: 5
+  title: Well organized four days
+  text: From the Ziz Valley to the Todra Gorges to Ait Ben Haddou, every stop felt worth the time allotted. Our guide Omar kept things moving without ever feeling rushed, and the desert night in Merzouga was the clear highlight.
+- name: Zoe P.
+  date: 02/05/2025
+  likes: 0
+  stars: 5
+  title: Smooth transition east to west
+  text: Exactly what we needed after finishing our own trip through Fes and the east - one clean route through the desert and gorges ending in Marrakech, no backtracking required.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sErrachidia%2C%20Morocco!4m1!2sMarrakech%2C%20Morocco

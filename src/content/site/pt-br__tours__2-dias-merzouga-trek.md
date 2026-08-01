@@ -96,7 +96,77 @@ faqs:
   aHtml: <p>A época ideal para esta caminhada é na primavera (janeiro a maio) ou no outono (setembro a novembro), quando as temperaturas são moderadas e agradáveis. Os verões podem ser extremamente quentes, tornando as longas caminhadas exaustivas, enquanto as noites de inverno podem ser muito frias, por isso é essencial usar roupas adequadas. O nascer e o pôr do sol são os momentos mais bonitos para apreciar as dunas, independentemente da estação do ano.</p>
 - q: Tem outras caminhadas semelhantes?
   aHtml: <p>Sim, temos outras excursões de trekking com duração de 3, 4 e 5 dias. Também é possível fazer uma excursão de apenas um dia. Portanto, não hesite em contactar-nos se estiver à procura de uma excursão personalizada.</p>
-reviews: []
+- q: Qual é o tipo de acampamento na noite do trekking?
+  aHtml: <p>Ficará num acampamento tradicional montado no meio das dunas de Erg Chebbi, com tendas berberes equipadas com colchões e mantas. Não é o mesmo acampamento de luxo com casas de banho privadas usado noutras excursões, é uma experiência mais simples e próxima da vida nómada.</p>
+- q: Caminhamos sozinhos ou sempre acompanhados por um guia berbere?
+  aHtml: <p>Um guia berbere local acompanha o grupo durante toda a caminhada, tanto no primeiro dia até ao acampamento como no regresso a Merzouga no segundo dia, indicando o ritmo, os pontos de paragem e a melhor rota pelas dunas.</p>
+- q: Qual é o tamanho do grupo nesta caminhada de dois dias?
+  aHtml: <p>A caminhada é privada para o seu grupo, não é combinada com outros viajantes, o que permite ajustar o ritmo conforme o condicionamento físico de quem participa.</p>
+- q: Como é feita a hidratação durante as horas de caminhada nas dunas?
+  aHtml: <p>É fornecida água ao longo do caminho, mas recomendamos levar também uma garrafa reutilizável própria. Caminhar na areia sob o sol desidrata mais rapidamente do que numa caminhada normal, por isso beber água com frequência é essencial.</p>
+- q: Como chegamos até ao ponto de encontro em Merzouga?
+  aHtml: <p>Pode chegar por conta própria de carro ou autocarro até à aldeia de Merzouga, ou organizar um transfer privado a partir de Fez, Marraquexe ou Ouarzazate antes de iniciar a caminhada de dois dias pelas dunas.</p>
+reviews:
+- name: Emma K.
+  date: 05/02/2025
+  likes: 0
+  stars: 5
+  title: Caminhar pelas dunas é bem diferente de andar de camelo
+  text: Já tínhamos feito um passeio de camelo noutra viagem a Marrocos e decidimos experimentar esta caminhada de dois dias em Merzouga. Caminhar na areia fofa cansa mais do que parece, mas a sensação de estar realmente dentro das dunas de Erg Chebbi compensa cada passo.
+- name: James W.
+  date: 22/03/2025
+  likes: 0
+  stars: 5
+  title: Nascer do sol valeu acordar cedo
+  text: Subimos uma duna ainda de noite para ver o nascer do sol no segundo dia, e foi um dos momentos mais bonitos que já vivi numa viagem. O guia berbere sabia exatamente onde parar para a melhor vista.
+- name: Charlotte B.
+  date: 10/04/2025
+  likes: 1
+  stars: 4
+  title: Caminhada exigente, mas recompensadora
+  text: Não subestimem o cansaço de caminhar horas na areia, principalmente à tarde. Levem bastante água e protetor solar. Ainda assim, dormir no acampamento no meio das dunas, com música berbere à noite, foi mágico.
+- name: Oliver H.
+  date: 28/05/2025
+  likes: 0
+  stars: 5
+  title: Duas noites de silêncio absoluto
+  text: O que mais me marcou foi o silêncio das dunas à noite, sem nenhuma luz de cidade por perto. O céu estrelado sobre Erg Chebbi foi de tirar o fôlego, e o jantar berbere no acampamento foi simples, mas muito saboroso.
+- name: Sophie R.
+  date: 15/07/2025
+  likes: 0
+  stars: 5
+  title: Rota diferente na volta, sempre algo novo para ver
+  text: Gostei que o guia nos levou por um caminho diferente no segundo dia de regresso a Merzouga, passando por famílias nómadas que não tínhamos visto na ida. Deu para sentir que cada trecho da caminhada tinha algo novo.
+- name: Harry D.
+  date: 02/09/2025
+  likes: 0
+  stars: 5
+  title: Sandboard extra valeu muito a pena
+  text: Adicionámos o sandboard como atividade extra na tarde do primeiro dia e foi muito divertido. As dunas de 150 metros dão um bom impulso, e depois de cansados, o chá de menta no acampamento foi bem-vindo.
+- name: Alice M.
+  date: 20/10/2025
+  likes: 0
+  stars: 3
+  title: Bonito, mas fisicamente mais duro do que esperava
+  text: Sabia que ia caminhar, mas não imaginava que 5 a 6 horas na areia fofa seriam tão cansativas. Recomendo só para quem tem mesmo boa condição física. O acampamento e a comida foram ótimos, isso ajudou a recuperar.
+- name: George T.
+  date: 08/11/2025
+  likes: 0
+  stars: 5
+  title: Melhor forma de conhecer o Saara de perto
+  text: Se tiver tempo, faça esta caminhada em vez do passeio de camelo comum. Caminhar devagar pelas dunas de Erg Chebbi permite reparar em detalhes que se perdem quando se passa depressa, como os padrões que o vento desenha na areia.
+- name: Lucy N.
+  date: 30/12/2025
+  likes: 0
+  stars: 5
+  title: Guia berbere contou histórias incríveis
+  text: O nosso guia conhecia cada duna pelo nome e contava histórias sobre a vida nómada enquanto caminhávamos. Isso tornou a experiência muito mais rica do que apenas caminhar sem contexto.
+- name: William F.
+  date: 14/02/2026
+  likes: 0
+  stars: 5
+  title: Dois dias curtos, mas intensos no deserto
+  text: Mesmo sendo apenas dois dias, esta caminhada em Merzouga deu para sentir de verdade o ritmo do deserto, desde o pôr do sol na chegada até ao nascer do sol na manhã seguinte, antes de voltarmos a pé para a aldeia.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1spt-pt!2spt-pt!4v1757162605013!5m2!1spt-pt!2spt-pt

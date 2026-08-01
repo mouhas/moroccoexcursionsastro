@@ -8,6 +8,19 @@ price: null
 duration: null
 tag: null
 source: "https://morocco-excursion.com/reviews/"
+iconGrid:
+- icon: tripadvisor
+  title: TripAdvisor Verified
+  text: Real, verified reviews left by travelers who booked and completed a tour with us on TripAdvisor.
+- icon: globe
+  title: Google Reviews
+  text: More authentic feedback from travelers who found and booked us through Google, published exactly as written.
+- icon: users
+  title: Real Traveler Stories
+  text: No polished marketing copy — these are unedited accounts from solo travelers, couples, and families who explored Morocco with our guides.
+- icon: heart
+  title: Original Language
+  text: We publish every review as it was written, in its original language, so you can trust it's genuinely theirs.
 ---
 **TripAdvisor Reviews**
 
@@ -118,7 +131,7 @@ For our first trip to Morocco, we wanted to hire a private car with driver and w
 
 #### Arturo
 
-We made a tour of 4 days from Marrakech to Merzouga...the trip is really beautiful and highly suggested...we were with Alì Barro our driver and Aziz our guide, both are really friendly and ready to satisfy all needs...I raccomand to do the tour with them because you are gonna feel they are like your close friends during the whole tripBrahim, our guide, and Ali, our driver, were fantastic. Both were considerate, compassionate, and went above and beyond to ensure that all of us were doing well at all times.
+We made a tour of 4 days from Marrakech to Merzouga...the trip is really beautiful and highly suggested...we were with Alì Barro our driver and Aziz our guide, both are really friendly and ready to satisfy all needs...I raccomand to do the tour with them because you are gonna feel they are like your close friends during the whole trip.
 
 [SHOW MORE](#)
 

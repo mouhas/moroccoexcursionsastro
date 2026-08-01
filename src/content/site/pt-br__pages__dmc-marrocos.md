@@ -1,14 +1,40 @@
 ---
-title: "Destination Management Company (DMC) Em Marrocos"
-lang: "pt-br"
-section: "pages"
-pslug: "dmc-marrocos"
-urlPath: "pt-br/dmc-marrocos"
+title: Destination Management Company (DMC) Em Marrocos
+lang: pt-br
+section: pages
+pslug: dmc-marrocos
+urlPath: pt-br/dmc-marrocos
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/pt-br/dmc-marrocos/"
+source: https://morocco-excursion.com/pt-br/dmc-marrocos/
+faqs:
+- q: Quem somos nós?
+  aHtml: <p>Somos uma DMC (Destination Management Company) em Marrocos. Uma agência de viagens local especializada na organização e gestão de serviços de viagens, incluindo logística, alojamento, excursões, transporte e eventos para grupos empresariais, MICE (Meetings, Incentives, Conventions, and Exhibitions) e viajantes em lazer.</p>
+- q: Por que devo usar um DMC em Marrocos?
+  aHtml: <p>Temos um profundo conhecimento local, fortes relações com fornecedores e experiência no tratamento de itinerários complexos em Marrocos para grupos pequenos e grandes.</p>
+- q: Que serviços pode oferecer uma DMC em Marrocos?
+  aHtml: '<p>Aqui estão os serviços que podemos oferecer:</p>
+
+    <p>Viagens corporativas e eventos MICE Excursões personalizadas e viagens de luxo Transporte e transferências Alojamento Atividades de team building Experiências culturais e de aventura Gestão logística e operacional</p>'
+- q: Você consegue lidar com grandes eventos corporativos?
+  aHtml: <p>Sim, somos especializados em eventos corporativos de grande escala, incluindo conferências, viagens de incentivo e lançamentos de produtos, com experiência em locais como Marraquexe, Casablanca e Agadir.</p>
+- q: Vocês trabalham com clientes internacionais?
+  aHtml: <p>É claro que atendemos clientes globais, incluindo organizadores de eventos, agências de viagens e empresas, oferecendo suporte multilingue.</p>
+- q: Quais são os principais destinos em Marrocos para serviços DMC?
+  aHtml: '<p>Aqui estão os nossos principais destinos:</p>
+
+    <p>Marraquexe (luxo e eventos) Casablanca (viagens corporativas) Fez (excursões culturais) Deserto do Saara (viagens de aventura) Agadir e Tânger (litoral e lazer)</p>'
+- q: Qual é a diferença entre um DMC e um operador turístico em Marrocos?
+  aHtml: '<p>DMC: Especializada em gestão completa de destinos (logística, eventos, viagens corporativas).</p>
+
+    <p>Operadora de turismo: Foca em pacotes turísticos pré-definidos para viajantes individuais.</p>'
+- q: Como posso pagar?
+  aHtml: '<p>Oferecemos opções de pagamento seguras e convenientes para as suas reservas e serviços:</p>
+
+    <p><b>Cartões</b> – Visa, Mastercard, Maestro (processados através de gateways de pagamento seguros). <b>PayPal, Revolut, Wise</b> – Pagamentos online rápidos e seguros (para clientes internacionais). <b>Transferência bancária</b> – Pagamentos bancários diretos (nacionais e internacionais).</p>'
 ---
+
 Está a planear uma viagem a Marrocos? Como empresa local de gestão de destinos sediada aqui mesmo em Marrocos, oferecemos tudo o que precisa para tornar a sua viagem tranquila, emocionante e inesquecível. Desde passeios personalizados e viagens em grupo a experiências de luxo, transporte privado e atividades locais autênticas, cobrimos todo o país, desde as montanhas do Alto Atlas até às dunas douradas do Saara.
 
 A nossa equipa vive e trabalha em Marrocos, por isso conhecemos a cultura, a história e as joias escondidas que a maioria dos viajantes não conhece. Vamos além das rotas turísticas padrão para lhe proporcionar experiências reais e significativas, como partilhar uma refeição caseira com uma família local, passear por medinas antigas com guias especializados ou aprender artesanato tradicional com artesãos habilidosos. Quer esteja à procura de aventura, descoberta cultural ou relaxamento total, concebemos cada viagem de acordo com os seus interesses, ritmo e orçamento.
@@ -37,7 +63,7 @@ O nosso objetivo é tornar a sua estadia em Marrocos o mais confortável e memor
 
 ## Transporte
 
-Na Morocco Exursions, temos todos os tipos de serviços de transporte em todo o Marrocos, adaptados às suas necessidades de viagem. Quer esteja a explorar cidades, a dirigir-se para as montanhas ou a planear uma aventura no deserto, podemos providenciar o veículo certo para si, sempre com um motorista profissional e experiente para garantir conforto, segurança e tranquilidade.
+Na Morocco Excursions, temos todos os tipos de serviços de transporte em todo o Marrocos, adaptados às suas necessidades de viagem. Quer esteja a explorar cidades, a dirigir-se para as montanhas ou a planear uma aventura no deserto, podemos providenciar o veículo certo para si, sempre com um motorista profissional e experiente para garantir conforto, segurança e tranquilidade.
 
 A nossa frota inclui uma vasta gama de veículos para atender indivíduos, famílias e grupos de qualquer tamanho. Oferecemos sedans modernos para passeios pela cidade e viagens de negócios, SUVs e 4×4 espaçosos para viagens off-road e nas montanhas, e vans confortáveis para pequenos grupos ou famílias. Para grupos maiores, oferecemos micro-ônibus bem conservados, ônibus de tamanho normal e ônibus de luxo equipados com todas as comodidades necessárias.
 
@@ -66,60 +92,6 @@ Organizamos excursões privadas para indivíduos, casais e famílias que desejam
 Se procura algo mais ativo, também oferecemos excursões de aventura que incluem caminhadas, passeios de camelo, acampamentos no deserto e experiências off-road. Seja qual for o tipo de viagem com que sonha, nós torná-la-emos realidade.
 
 Com o nosso conhecimento local e equipa profissional, desfrutará de uma viagem segura, confortável e inesquecível pelo Marrocos.
-
-### Perguntas frequentes
-
-#### Quem somos nós?
-
-Somos uma DMC (Destination Management Company) em Marrocos. Uma agência de viagens local especializada na organização e gestão de serviços de viagens, incluindo logística, alojamento, excursões, transporte e eventos para grupos empresariais, MICE (Meetings, Incentives, Conventions, and Exhibitions) e viajantes em lazer.
-
-#### Por que devo usar um DMC em Marrocos?
-
-Temos um profundo conhecimento local, fortes relações com fornecedores e experiência no tratamento de itinerários complexos em Marrocos para grupos pequenos e grandes.
-
-#### Que serviços pode oferecer uma DMC em Marrocos?
-
-Aqui estão os serviços que podemos oferecer:
-
-- Viagens corporativas e eventos MICE
-- Excursões personalizadas e viagens de luxo
-- Transporte e transferências
-- Alojamento
-- Atividades de team building
-- Experiências culturais e de aventura
-- Gestão logística e operacional
-
-#### Você consegue lidar com grandes eventos corporativos?
-
-Sim, somos especializados em eventos corporativos de grande escala, incluindo conferências, viagens de incentivo e lançamentos de produtos, com experiência em locais como Marraquexe, Casablanca e Agadir.
-
-#### Vocês trabalham com clientes internacionais?
-
-É claro que atendemos clientes globais, incluindo organizadores de eventos, agências de viagens e empresas, oferecendo suporte multilingue.
-
-#### Quais são os principais destinos em Marrocos para serviços DMC?
-
-Aqui estão os nossos principais destinos:
-
-1. Marraquexe (luxo e eventos)
-2. Casablanca (viagens corporativas)
-3. Fez (excursões culturais)
-4. Deserto do Saara (viagens de aventura)
-5. Agadir e Tânger (litoral e lazer)
-
-#### Qual é a diferença entre um DMC e um operador turístico em Marrocos?
-
-DMC: Especializada em gestão completa de destinos (logística, eventos, viagens corporativas).
-
-Operadora de turismo: Foca em pacotes turísticos pré-definidos para viajantes individuais.
-
-#### Como posso pagar?
-
-We offer secure and convenient payment options for your bookings and services:
-
-**Cards** – Visa, Mastercard, Maestro (processed via secure payment gateways).
-**PayPal, Revolut, Wise** – Fast and secure online payments (for international clients).
-**Bank Transfer**– Direct bank payments (local & international).
 
 ### Avaliações
 

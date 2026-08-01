@@ -1,14 +1,28 @@
 ---
-title: "17 Days in Morocco: Tour Itineraries And Prices"
-lang: "en"
-section: "pages"
-pslug: "morocco-17-day-trips"
-urlPath: "morocco-17-day-trips"
+title: '17 Days in Morocco: Tour Itineraries And Prices'
+lang: en
+section: pages
+pslug: morocco-17-day-trips
+urlPath: morocco-17-day-trips
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/morocco-17-day-trips/"
+source: https://morocco-excursion.com/morocco-17-day-trips/
+faqs:
+- q: What is the best place to start a 17-day tour?
+  aHtml: <p>Most people start their trip in Morocco in Casablanca, <b>Marrakech</b>, or Tangier, depending on flights.</p>
+- q: Can I see both the Atlas, Desert and the Atlantic coast?
+  aHtml: <p>Yes, with 17 days you can enjoy both sand dunes in Merzouga, the High Atlas Mountains, and beaches in Essaouira, or Agadir.</p>
+- q: Can I go to the Atlantic and Mediterranean coasts?
+  aHtml: <p>Yes, Essaouira (Atlantic) and Tangier (Mediterranean) can both fit in 17 days.</p>
+- q: How many UNESCO sites can I see in 17 days?
+  aHtml: <p>You can visit several places like Fes, <b>Marrakech</b>, Ait Ben Haddou, and Rabat.</p>
+- q: What is the price for a 17 day tip in Morocco?
+  aHtml: <p>The price of the 17-day tour in Morocco depends on your flights, the hotels where you’ll be staying, activities, etc</p>
+- q: What are the best things to do in Morocco in 17 days?
+  aHtml: <p>If you are lucky enough to have 17 days in Morocco, you can really explore the heart of this amazing country. Morocco is full of mountains, deserts, beaches, and colorful cities. With more time, you can enjoy slow travel, discover hidden villages, and meet local people. Here are the 17 best and unique things to do in Morocco in 17 days:</p>
 ---
+
 If you have 17 days in Morocco, you can explore its many sides in a relaxing way. You can **book** flights and start in **Casablanca** to see the impressive Hassan II Mosque. In **Rabat**, enjoy the old Kasbah and peaceful gardens. Travel to **Chefchaouen**, the famous blue city, where every street feels magical. In **Fes**, walk through the old medina, visit tanneries, and feel the spirit of ancient Morocco.
 
 One of the most recommended things is to head to the **Sahara Desert** in Merzouga for a camel ride, a night under the stars, and sandboarding. Explore the stunning **Todra and Dades Gorges**, where nature shows its beauty in cliffs and valleys. Visit **Ait Ben Haddou**, a UNESCO site with old kasbahs.
@@ -25,18 +39,6 @@ In **Marrakech**, see the busy Jemaa el-Fnaa square, colorful souks, and Majorel
 | 17-day trip from Tanger | Tanger | North of Morocco |
 | 17-day tour from Casablanca | Casablanca | The Atlantic Ocean |
 
-## Morocco 17-day tour itineraries
-
-### [17-Day Trip From Rabat](/tours/17-day-trip-from-rabat)
-
-1 [**Review**](/reviews)
-
-17 days
-
-from
-
- €0,00
-
 ## Customize your 17-day trip in Morocco
 
 **NOTE:**
@@ -44,36 +46,6 @@ from
 For travelers who don’t yet have an itinerary planned, our team is ready to design a personalized 17-day journey across Morocco. We take care of every detail, creating a trip that matches your pace, interests, and travel style. From the lively streets of Marrakech and the blue town of Chefchaouen, to the golden Sahara dunes, ancient kasbahs, and Atlantic coast, every day will bring something new.
 
 With us, you enjoy comfort, local culture, and authentic experiences in a smooth and worry-free way.
-
-### Questions about 17-day tours in Morocco
-
-### What is the best place to start a 17-day tour?
-
-Most people start their trip in Morocco in Casablanca, **Marrakech**, or Tangier, depending on flights.
-
-####
-
-In a week, you can explore **Marrakech**, visit the Atlas Mountains, spend a night in the Sahara Desert, and discover historic cities like Fes or Rabat.
-
-### Can I see both the Atlas, Desert and the Atlantic coast?
-
-Yes, with 17 days you can enjoy both sand dunes in Merzouga, the High Atlas Mountains, and beaches in Essaouira, or Agadir.
-
-### Can I go to the Atlantic and Mediterranean coasts?
-
-Yes, Essaouira (Atlantic) and Tangier (Mediterranean) can both fit in 17 days.
-
-### How many UNESCO sites can I see in 17 days?
-
-You can visit several places like Fes, **Marrakech**, Ait Ben Haddou, and Rabat.
-
-### What is the price for a 17 day tip in Morocco?
-
-The price of the 17-day tour in Morocco depends on your flights, the hotels where you’ll be staying, activities, etc
-
-## What are the best things to do in Morocco in 17 days?
-
-If you are lucky enough to have 17 days in Morocco, you can really explore the heart of this amazing country. Morocco is full of mountains, deserts, beaches, and colorful cities. With more time, you can enjoy slow travel, discover hidden villages, and meet local people. Here are the 17 best and unique things to do in Morocco in 17 days:
 
 ## 1. Marrakech
 

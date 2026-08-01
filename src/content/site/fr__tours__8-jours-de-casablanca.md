@@ -134,7 +134,75 @@ faqs:
   aHtml: <p>Un chauffeur/guide muni d'une pancarte à votre nom vous attendra dans le hall des arrivées. Il aura les coordonnées de votre hôtel.</p>
 - q: Recommandez-vous un autre circuit similaire à ce circuit de 8 jours au départ de Casablanca?
   aHtml: <p>Nous proposons deux autres circuits similaires qui incluent davantage de villes. Il s'agit des <a href="/fr/tours/10-jours-casablanca" rel="noopener" target="_blank"><strong>circuits de 10 jours</strong></a> et <a href="/fr/tours/12-jours-de-casablanca" rel="noopener" target="_blank"><strong>12 jours au départ de Casablanca</strong></a>.</p>
-reviews: []
+- q: 8 jours suffisent-ils pour aller de Casablanca à Marrakech sans se sentir pressé?
+  aHtml: <p>C'est un itinéraire complet, environ 1 500 km au total, mais le rythme vous laisse une journée entière libre à la fois à Fès et à Marrakech, plutôt que de tout enchaîner sans pause. Les trajets les plus longs sont Fès-Merzouga et Dadès-Marrakech, qui comprennent des arrêts pittoresques comme la vallée du Ziz et Aït Ben Haddou en chemin.</p>
+- q: Comment dois-je me préparer à la différence de chaleur entre la côte et le désert?
+  aHtml: <p>Casablanca et Rabat restent tempérées grâce à l'océan Atlantique, mais lorsque vous atteignez Merzouga, les températures peuvent dépasser 40 °C en été. Prévoyez des vêtements légers et respirants pour la côte et les villes, ainsi qu'une écharpe, des lunettes de soleil et une protection solaire pour la vallée du Ziz et les journées dans le désert.</p>
+- q: Nous avons déjà fait un circuit dans le Sahara, peut-on sauter l'étape de Merzouga?
+  aHtml: <p>Oui, l'itinéraire est flexible et la nuit dans le désert peut être remplacée par du temps supplémentaire à Fès, dans la vallée du Dadès ou à Marrakech. Faites-le-nous savoir lors de la réservation afin que nous puissions réorganiser ces deux jours selon vos préférences.</p>
+- q: De l'eau en bouteille est-elle fournie pendant les longues journées de route?
+  aHtml: <p>Votre chauffeur s'arrête généralement dans des boutiques et des cafés le long du trajet où vous pouvez acheter de l'eau en bouteille et des collations. Il est conseillé de garder une bouteille réutilisable avec vous, en particulier pour les étapes de la vallée du Ziz et de Merzouga, où les arrêts sont plus espacés.</p>
+reviews:
+- name: Camille Étienne
+  date: 18/01/2025
+  likes: 0
+  stars: 5
+  title: La mosquée Hassan II a donné le ton dès le début
+  text: Arrivés fatigués après un long vol, notre chauffeur a quand même pris le temps de nous emmener voir la mosquée Hassan II avant l'enregistrement à l'hôtel, et ça valait vraiment la peine de rester éveillés. Une très belle première impression de Casablanca avant que la vraie route ne commence le lendemain.
+- name: Baptiste Nguyen
+  date: 12/02/2025
+  likes: 0
+  stars: 5
+  title: Les écuries royales de Meknès plus grandes que prévu
+  text: Notre guide Omar nous a expliqué que ces écuries abritaient autrefois 12 000 chevaux, difficile à imaginer avant d'y être. La kasbah des Oudayas à Rabat plus tôt dans la même journée offrait un joli contraste, des ruelles bleues et tranquilles au-dessus de la mer avant Fès le soir.
+- name: Manon Dubreuil
+  date: 27/03/2025
+  likes: 1
+  stars: 5
+  title: L'odeur de la tannerie Chouara est bien réelle, allez-y quand même
+  text: Oui, la tannerie sent fort, on vous tend des feuilles de menthe pour une bonne raison, mais regarder le cuir se teindre dans ces cuves reste inoubliable. Al Quaraouiyine et les souks de la médina ont rempli le reste d'une journée dense et magnifique à Fès.
+- name: Théo Lemercier
+  date: 09/04/2025
+  likes: 0
+  stars: 4
+  title: Les maisons suisses d'Ifrane, un détour étrange et amusant
+  text: Je ne m'attendais pas à voir des chalets de style alpin en plein Maroc, mais Ifrane tient sa promesse. Les singes de la forêt de cèdres promis se sont fait un peu attendre, nous ne les avons repérés qu'au deuxième arrêt, donc mieux vaut ne pas trop en attendre.
+- name: Alix Berger
+  date: 21/05/2025
+  likes: 0
+  stars: 5
+  title: La balade à dos de chameau au coucher du soleil, la meilleure nuit du voyage
+  text: Tout ce qui concernait la nuit à Merzouga correspondait parfaitement à la description, les chameaux au coucher du soleil, le sable qui vire à l'orange, la musique berbère au camp ensuite sous un ciel vraiment immense d'étoiles. La longue route à travers la vallée du Ziz pour y arriver en valait vraiment la peine.
+- name: Quentin Sauvage
+  date: 03/07/2025
+  likes: 0
+  stars: 5
+  title: Du marché de Rissani aux gorges du Todra en une seule grande journée
+  text: Notre guide Ali nous a fait arriver assez tôt à Rissani pour voir les nomades vendre leurs dattes avant que le marché ne s'anime, puis les falaises de 300 mètres des gorges du Todra l'après-midi offraient une tout autre forme d'admiration. La vallée du Dadès ce soir-là a clôturé une journée intense mais très gratifiante.
+- name: Héloïse Vasseur
+  date: 16/08/2025
+  likes: 0
+  stars: 4
+  title: Vallée des Roses, Aït Ben Haddou et studios Atlas en une journée
+  text: Ce fut la journée la plus longue du voyage pour nous, la kasbah d'Amridil le matin, les studios Atlas et Aït Ben Haddou l'après-midi, puis la traversée du Haut Atlas jusqu'à Marrakech le soir. Un contenu incroyable, mais sachez que c'est une journée bien remplie avant même de s'asseoir pour dîner.
+- name: Gabriel Chastain
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: La journée libre à Marrakech, la conclusion parfaite
+  text: Le palais Bahia le matin, l'effervescence de Jemaa el-Fnaa à midi et le calme du jardin Majorelle l'après-midi ont formé un dernier jour vraiment bien équilibré. Une belle façon de refermer un voyage commencé devant la mosquée Hassan II.
+- name: Lorraine Guillot
+  date: 12/11/2025
+  likes: 0
+  stars: 3
+  title: Un contenu formidable, mais quelques journées très chargées
+  text: Tout dans cet itinéraire vaut vraiment la peine d'être vu, mais le sixième jour en particulier, vallée des Roses, Ouarzazate, Aït Ben Haddou, puis la traversée de l'Atlas jusqu'à Marrakech, était beaucoup à caser avant le dîner. À considérer si vous préférez un rythme plus tranquille.
+- name: Fabien Roche
+  date: 05/01/2026
+  likes: 0
+  stars: 5
+  title: 1500 kilomètres, et ils valent tous le détour
+  text: Côte, villes impériales, désert, gorges et Marrakech en huit jours. Épuisant, mais dans le meilleur sens du terme.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m66!1m8!1m3!1d3446506.822762204!2d-6.000155!3d32.479931!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd333073ecf085%3A0xa44fdd883982eb80!2sTodra%20River%2C%20Morocco!3m2!1d31.5219851!2d-5.5273977!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755183565542!5m2!1sfr!2sfr

@@ -77,7 +77,75 @@ faqs:
   aHtml: <p>Abbiamo buggy con posti a sedere per due persone e buggy più grandi per 4 persone.</p>
 - q: Perché scegliere un buggy invece di un quad?
   aHtml: <p>I buggy sono più grandi dei quad, più stabili e confortevoli, il che li rende ideali per famiglie, coppie o chiunque desideri maggiore sicurezza senza rinunciare al piacere dell'avventura nel deserto. Per esplorare il deserto di Merzouga, consigliamo vivamente i tour in buggy e le escursioni nel deserto in 4x4.</p>
-reviews: []
+- q: Qual è la politica di cancellazione per i tour in buggy?
+  aHtml: <p>È possibile cancellare o modificare la prenotazione gratuitamente fino a un giorno prima del tour. Vi consigliamo di contattarci il prima possibile in caso di cambio di programma.</p>
+- q: Cosa devo indossare per il tour in buggy?
+  aHtml: <p>Indossate abiti comodi che non temete di sporcare, scarpe chiuse e, se possibile, una sciarpa per proteggere il viso dalla polvere. Forniamo sempre casco e occhiali protettivi per tutti i partecipanti.</p>
+- q: Qual è il momento migliore della giornata per un tour in buggy?
+  aHtml: <p>Il primo mattino e il tardo pomeriggio sono ideali, perché il caldo è meno intenso e la luce sulle dune dell'Erg Chebbi è particolarmente bella per le foto. Possiamo comunque adattare gli orari alle vostre esigenze.</p>
+- q: Il tour in buggy include soste durante il percorso?
+  aHtml: <p>Sì, durante i tour più lunghi la guida si ferma sui punti panoramici per le foto e, spesso, presso famiglie nomadi o oasi nascoste per un momento di pausa. I giri brevi di un'ora si concentrano invece principalmente sulla guida tra le dune.</p>
+reviews:
+- name: Marco Ferretti
+  date: 13/01/2025
+  likes: 0
+  stars: 5
+  title: Adrenalina pura sulle dune dell'Erg Chebbi
+  text: 'Un''ora di buggy sulle dune dorate è stata un''esperienza incredibile, molto più divertente di quanto immaginassi. La guida ci ha portato nei punti più alti per delle foto spettacolari sul deserto infinito.'
+- name: Sarah Johnson
+  date: 08/02/2025
+  likes: 1
+  stars: 5
+  title: Perfetto in coppia con il buggy da due posti
+  text: 'Abbiamo scelto il buggy per due persone e ci siamo alternati alla guida per tre ore. La sosta da una famiglia berbera per il tè alla menta e le crepes fresche è stata un tocco molto autentico.'
+- name: Giulia Bianchi
+  date: 24/03/2025
+  likes: 0
+  stars: 4
+  title: Divertente ma faticoso sulle dune irregolari
+  text: 'Il percorso di quattro ore era emozionante, anche se guidare sulla sabbia soffice richiede più energia del previsto. Il pranzo tradizionale a base di tajine con la famiglia nomade ha ripagato ogni fatica.'
+- name: Hassan Bouazza
+  date: 17/04/2025
+  likes: 0
+  stars: 5
+  title: Il tour lungo vale ogni minuto
+  text: 'Con il tour di sei ore siamo arrivati in zone dell''Erg Chebbi dove non c''era nessun altro turista. Raggiungere la piccola oasi con le palme per il pranzo è stato il momento più bello della giornata.'
+- name: Emily Clarke
+  date: 05/05/2025
+  likes: 0
+  stars: 5
+  title: Prima volta su un buggy, tutto perfetto
+  text: 'Non avevo mai guidato un buggy prima, ma la guida ci ha spiegato tutto con calma prima di partire. Il giro breve sulle dune è stato un modo sicuro e divertente per iniziare.'
+- name: Thomas Wagner
+  date: 19/06/2025
+  likes: 2
+  stars: 5
+  title: Panorama mozzafiato dalla cima delle dune
+  text: 'Fermarsi in cima all''Erg Chebbi per ammirare il Sahara a 360 gradi è stato incredibile. Il buggy si è dimostrato molto più stabile di quanto pensassi anche sulla sabbia più soffice.'
+- name: Laila Amrani
+  date: 22/07/2025
+  likes: 0
+  stars: 5
+  title: Sandboarding aggiunto al tour lungo, che sorpresa
+  text: 'Durante il tour di sei ore abbiamo potuto provare anche il sandboarding sulle dune alte dopo il pranzo. Un''aggiunta perfetta a una giornata già piena di adrenalina.'
+- name: Peter Novak
+  date: 03/09/2025
+  likes: 0
+  stars: 5
+  title: Guida esperta e molto attenta alla sicurezza
+  text: 'La nostra guida ci ha seguito da vicino per tutto il tragitto, indicandoci sempre la velocità giusta e i punti dove fermarci. Ci siamo sentiti al sicuro anche sulle dune più ripide.'
+- name: Chiara Esposito
+  date: 11/11/2025
+  likes: 0
+  stars: 4
+  title: Bel tour, portate una sciarpa per la sabbia
+  text: 'Guidare in fila con altri buggy solleva parecchia polvere, quindi una sciarpa è davvero utile. A parte questo, l''incontro con la famiglia nomade durante il tour di tre ore è stato molto piacevole.'
+- name: Ryan O'Connell
+  date: 14/02/2026
+  likes: 1
+  stars: 5
+  title: Miglior attività fatta a Merzouga
+  text: 'Abbiamo provato sia il quad che il buggy durante il nostro viaggio e il buggy per quattro persone è stato di gran lunga il più divertente da condividere con gli amici. Consigliatissimo per chi cerca adrenalina in sicurezza.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!2d-4.001314!3d31.129742999999998!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!5e1!3m2!1sit!2sit!4v1757418298032!5m2!1sit!2sit

@@ -1,14 +1,40 @@
 ---
-title: "Destination Management Company (DMC) In Morocco"
-lang: "en"
-section: "pages"
-pslug: "dmc-morocco"
-urlPath: "dmc-morocco"
+title: Destination Management Company (DMC) In Morocco
+lang: en
+section: pages
+pslug: dmc-morocco
+urlPath: dmc-morocco
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/dmc-morocco/"
+source: https://morocco-excursion.com/dmc-morocco/
+faqs:
+- q: Who are we?
+  aHtml: <p>We are a DMC (Destination Management Company) in Morocco. A local expert travel agency that specializes in organizing and managing travel services, including logistics, accommodations, tours, transportation, and events for corporate groups, MICE (Meetings, Incentives, Conventions, and Exhibitions), and leisure travelers.</p>
+- q: Why should I use a DMC in Morocco?
+  aHtml: <p>As a DMC in Morocco, we have in-depth local knowledge, strong supplier relationships, and expertise in handling complex itineraries around Morocco for small and large groups.</p>
+- q: What services does a DMC in Morocco can offer?
+  aHtml: '<p>Here are the services we can offer:</p>
+
+    <p><b>Corporate travel & MICE events</b> <b>Customized tours & luxury travel</b> <b>Transportation & transfers</b> <b>Accommodation</b> <b>Team-building activities</b> <b>Cultural & adventure experiences</b> <b>Logistics & operations management</b></p>'
+- q: Can you handle large corporate events?
+  aHtml: <p>Yes, we specialize in large-scale corporate events, including conferences, incentive trips, and product launches, with expertise in venues like Marrakech, Casablanca, and Agadir.</p>
+- q: Do you work with international clients?
+  aHtml: <p>Of course, we have served global clients, including event planners, travel agencies, and corporations, offering multilingual support.</p>
+- q: What are the top destinations in Morocco for DMC services?
+  aHtml: '<p>Here are our top destinations:</p>
+
+    <p><b>Marrakech</b> (luxury & events) <b>Casablanca</b> (corporate travel) <b>Fez</b> (cultural tours) <b>Sahara Desert</b> (adventure trips) <b>Agadir & Tangier</b> (coastal & leisure)</p>'
+- q: What’s the difference between a DMC and a tour operator in Morocco?
+  aHtml: '<p><b>DMC</b>: Specializes in full-service destination management (logistics, events, corporate travel).</p>
+
+    <p><b>Tour Operator</b>: Focuses on pre-packaged tours for individual travelers.</p>'
+- q: How do I pay?
+  aHtml: '<p>We offer secure and convenient payment options for your bookings and services:</p>
+
+    <p><b>Cards</b> – Visa, Mastercard, Maestro (processed via secure payment gateways). <b>PayPal, Revolut, Wise</b> – Fast and secure online payments (for international clients). <b>Bank Transfer</b>– Direct bank payments (local & international).</p>'
 ---
+
 Planning a trip to Morocco? As a local destination management company based right here in Morocco, we offer everything you need to make your journey smooth, exciting, and unforgettable. From custom-made tours and group travel to luxury experiences, private transport, and authentic local activities, we cover the entire country, from the High Atlas Mountains to the golden dunes of the Sahara.
 
 Our team lives and works in Morocco, so we know the culture, history, and hidden gems that most travelers miss. We go beyond standard tourist routes to connect you with real, meaningful experiences—like sharing a home-cooked meal with a local family, walking through ancient medinas with expert guides, or learning traditional crafts from skilled artisans. Whether you’re looking for adventure, cultural discovery, or total relaxation, we design every trip to match your interests, pace, and budget.
@@ -66,60 +92,6 @@ We arrange private tours for individuals, couples, and families who want a more 
 If you’re looking for something more active, we also offer adventure tours that include hiking, camel trekking, desert camping, and off-road experiences. Whatever kind of trip you’re dreaming of, we’ll make it happen.
 
 With our local knowledge and professional team, you’ll enjoy a safe, comfortable, and unforgettable trip across Morocco.
-
-### Frequently Asked Questions
-
-#### Who are we?
-
-We are a DMC (Destination Management Company) in Morocco. A local expert travel agency that specializes in organizing and managing travel services, including logistics, accommodations, tours, transportation, and events for corporate groups, MICE (Meetings, Incentives, Conventions, and Exhibitions), and leisure travelers.
-
-#### Why should I use a DMC in Morocco?
-
-As a DMC in Morocco, we have in-depth local knowledge, strong supplier relationships, and expertise in handling complex itineraries around Morocco for small and large groups.
-
-#### What services does a DMC in Morocco can offer?
-
-Here are the services we can offer:
-
-- **Corporate travel & MICE events**
-- **Customized tours & luxury travel**
-- **Transportation & transfers**
-- **Accommodation**
-- **Team-building activities**
-- **Cultural & adventure experiences**
-- **Logistics & operations management**
-
-#### Can you handle large corporate events?
-
-Yes, we specialize in large-scale corporate events, including conferences, incentive trips, and product launches, with expertise in venues like Marrakech, Casablanca, and Agadir.
-
-#### Do you work with international clients?
-
-Of course, we have served global clients, including event planners, travel agencies, and corporations, offering multilingual support.
-
-#### What are the top destinations in Morocco for DMC services?
-
-Here are our top destinations:
-
-1. **Marrakech** (luxury & events)
-2. **Casablanca** (corporate travel)
-3. **Fez** (cultural tours)
-4. **Sahara Desert** (adventure trips)
-5. **Agadir & Tangier** (coastal & leisure)
-
-#### What’s the difference between a DMC and a tour operator in Morocco?
-
-**DMC**: Specializes in full-service destination management (logistics, events, corporate travel).
-
-**Tour Operator**: Focuses on pre-packaged tours for individual travelers.
-
-#### How do I pay?
-
-We offer secure and convenient payment options for your bookings and services:
-
-**Cards** – Visa, Mastercard, Maestro (processed via secure payment gateways).
-**PayPal, Revolut, Wise** – Fast and secure online payments (for international clients).
-**Bank Transfer**– Direct bank payments (local & international).
 
 ### Reviews
 

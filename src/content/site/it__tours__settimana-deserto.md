@@ -120,7 +120,79 @@ faqs:
   aHtml: <p>Sì, tutte le escursioni sono supervisionate da guide esperte e prima di iniziare vengono fornite istruzioni di sicurezza. Segui sempre le istruzioni della guida.</p>
 - q: Questo tour può essere personalizzato?
   aHtml: <p>Sì, il tour può essere personalizzato. Possiamo modificare l'itinerario, aggiungere o escludere alcune attività in base alle vostre esigenze e preferenze.</p>
-reviews: []
+- q: Qual è la differenza tra i campi nel deserto utilizzati in questo tour?
+  aHtml: <p>Durante i sette giorni dormirai in diversi tipi di campi nel deserto e pensioni a seconda della località, tra cui campi vicino a Erg Chebbi e alloggi semplici in villaggi come Ouzina ed El Mharech. Tutto l'alloggio, le cene e le colazioni sono inclusi nel prezzo per ogni notte del tour.</p>
+- q: Questo tour è fisicamente impegnativo?
+  aHtml: <p>Questo tour include attività come cavalcare cammelli, scalare dune di sabbia e camminare sulla sabbia soffice, che possono risultare faticose nell'arco di più giorni. I viaggiatori dovrebbero essere in condizioni fisiche ragionevolmente buone e dovrebbero fare pause e bere acqua spesso per evitare di stancarsi troppo.</p>
+- q: Cosa devo mettere in valigia per una settimana nel deserto?
+  aHtml: <p>Porta con te abiti leggeri e protezione solare per le calde temperature diurne, oltre a strati caldi per le fredde notti nel deserto. Sono consigliati anche un cappello, occhiali da sole, crema solare, scarpe chiuse comode e una borraccia riutilizzabile per le escursioni in cammello, i tour in quad e buggy e le passeggiate alle oasi.</p>
+- q: Qual è il periodo migliore dell'anno per questo tour nel deserto?
+  aHtml: <p>I mesi più piacevoli per questo tour vanno da ottobre ad aprile, quando le temperature diurne sono più miti. I mesi estivi, da giugno ad agosto, possono essere molto caldi durante il giorno, quindi chi visita in estate dovrebbe pianificare le attività all'aperto al mattino o nel tardo pomeriggio.</p>
+- q: È un tour privato e può essere fatto da viaggiatori singoli?
+  aHtml: <p>Sì, si tratta di un tour privato con autista e veicolo dedicati, e può essere prenotato sia da viaggiatori singoli che da gruppi. Il prezzo per persona è più basso quando più persone condividono lo stesso veicolo, ma l'itinerario e le attività restano gli stessi indipendentemente dalla dimensione del gruppo.</p>
+- q: Qual è la politica di cancellazione?
+  aHtml: <p>Puoi cancellare questo tour gratuitamente fino a un giorno prima della data di inizio. Contattaci il prima possibile se i tuoi piani cambiano, così potremo aggiornare la tua prenotazione.</p>
+reviews:
+- name: Beatrice L.
+  date: 08/01/2025
+  likes: 0
+  stars: 5
+  title: Una settimana intera di avventura nel deserto
+  text: Sette giorni sono sembrati il tempo perfetto per vivere davvero il Sahara invece di attraversarlo di corsa. Il giro in cammello tra le dune la prima sera e la musica Gnawa a Khamlia il secondo giorno sono stati entrambi indimenticabili. La visita alle famiglie nomadi ci ha dato un'idea vera della vita nel deserto.
+- name: Enrico M.
+  date: 21/02/2025
+  likes: 1
+  stars: 5
+  title: La giornata di quad e buggy è stata bellissima
+  text: Il terzo giorno, con il giro in quad al mattino e il tour in buggy al pomeriggio, è stata la parte più adrenalinica di tutto il viaggio. Il pranzo nell'oasi nel deserto subito dopo è stato un contrasto rilassante rispetto alla velocità della mattinata. Anche il sandboarding la sera al campo è stato un bel bonus.
+- name: Giulia T.
+  date: 10/03/2025
+  likes: 0
+  stars: 4
+  title: I fossili di Tissardmine mi hanno conquistata
+  text: Non mi aspettavo che il sito fossile di Tissardmine il quarto giorno fosse così interessante, la nostra guida ci ha spiegato molto sulla storia della regione. Il picnic all'oasi di Safsaf subito dopo è stato un modo rilassante di trascorrere il pomeriggio. Il tour copre molta strada, quindi mettete in conto qualche trasferimento lungo.
+- name: Nicola F.
+  date: 25/04/2025
+  likes: 0
+  stars: 5
+  title: Le dune rosse di Erg Znaigui erano splendide
+  text: Arrivare a Erg Znaigui il quinto giorno e vedere le dune di sabbia rossa è stato completamente diverso dalle dune dorate di Erg Chebbi dell'inizio del viaggio. Anche il tragitto lungo la vecchia pista del Rally Dakar fino a Ouzina è stato memorabile. Il pernottamento a Ouzina è stato tranquillo e pieno di stelle.
+- name: Sara P.
+  date: 09/06/2025
+  likes: 2
+  stars: 5
+  title: Ramlia e Sidi Ali sembravano intatti
+  text: Il sesto giorno ci ha portati in piccoli villaggi come Ramlia e Sidi Ali che sembravano lontani da qualsiasi folla turistica. Cavalcare di nuovo i cammelli vicino all'oasi di El Mharech la sera è stato un modo delizioso per chiudere la giornata. Questa settimana ci ha dato uno sguardo molto più profondo sul deserto rispetto a un breve tour di due o tre giorni.
+- name: Matteo C.
+  date: 27/07/2025
+  likes: 0
+  stars: 5
+  title: Tramonti diversi ogni sera
+  text: Ogni sera di questo tour di una settimana ha regalato un tramonto diverso, da Erg Chebbi il primo giorno fino alle tranquille dune vicino a El Mharech il sesto giorno. La visita alle famiglie nomadi il secondo giorno è stata una delle parti più memorabili di tutto il viaggio. Il nostro autista è stato flessibile quando volevamo più tempo in certe tappe.
+- name: Laura B.
+  date: 14/09/2025
+  likes: 0
+  stars: 5
+  title: Settimana ben organizzata nel Sahara
+  text: Con così tante tappe in sette giorni, dalla musica Gnawa di Khamlia ai fossili di Tissardmine, mi aspettavo un ritmo frenetico, ma in realtà è stato molto rilassato. I campi e le pensioni nel deserto lungo il percorso erano abbastanza comodi dopo una lunga giornata di attività. L'ultimo giro in cammello vicino a Merzouga è stato un bel modo per chiudere il cerchio.
+- name: Elena R.
+  date: 02/11/2025
+  likes: 0
+  stars: 4
+  title: Il buggy è stato un punto forte, portate strati caldi
+  text: Il tour in buggy il terzo giorno è stato entusiasmante ed è stata una delle parti migliori del viaggio per me e mio marito. Le notti nel deserto sono state più fredde di quanto ci aspettassimo, anche fuori stagione invernale, quindi portate vestiti caldi. Visitare il villaggio di Khamlia e ascoltare la musica Gnawa è stato un momento culturale di cui parliamo ancora.
+- name: Franco D.
+  date: 19/12/2025
+  likes: 1
+  stars: 5
+  title: Un vero viaggio nel deserto fuori dai sentieri battuti
+  text: Questo tour va ben oltre i soliti tour di una o due notti a Merzouga, raggiungendo luoghi come Ouzina e Ramlia che la maggior parte dei visitatori non vede mai. Il picnic all'oasi di Safsaf il quarto giorno è stato uno dei momenti più tranquilli di tutta la settimana. Il nostro autista conosceva ogni villaggio e famiglia che abbiamo visitato.
+- name: Ottavia N.
+  date: 08/02/2026
+  likes: 0
+  stars: 5
+  title: Perfetto per chi ama il deserto
+  text: Se amate il deserto, una settimana intera qui vale davvero la pena, con le avventure in quad e buggy il terzo giorno e le dune rosse di Erg Znaigui il quinto giorno tra i momenti migliori. Dormire sotto le stelle in campi diversi ogni notte non stancava mai. Siamo tornati con una comprensione molto più profonda della vita nomade nel Sahara.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sit!2sit!4v1757243889444!5m2!1sit!2sit

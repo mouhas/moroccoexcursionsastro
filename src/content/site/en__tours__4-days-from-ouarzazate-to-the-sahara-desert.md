@@ -100,7 +100,75 @@ faqs:
   aHtml: <p>Bring closed walking shoes, sunscreen, a hat or scarf, sunglasses, a flashlight, and a light jacket for cool desert nights. In winter, warmer layers are recommended for the evenings in the desert.</p>
 - q: Does the tour return to Ouarzazate the same way it went out?
   aHtml: <p>Yes, this is a round trip, so the return journey on day 4 follows the same road back through the Todra Gorges and Dades Valley. We can adjust the stops on the way back so you see or revisit different spots than on the way out.</p>
-reviews: []
+- q: Is this a private tour or will we share the vehicle with others?
+  aHtml: <p>The car and driver-guide are private to your group for all four days, from the pickup in Ouarzazate to the drop-off at the end. You can adjust the pace and stops as you go.</p>
+- q: When is the best time of year for this route?
+  aHtml: <p>Spring and autumn bring the most pleasant temperatures for the free day exploring Erg Chebbi and for walking through the Todra Gorges. Summer afternoons in Merzouga are very hot, while desert camp nights in winter can be cold.</p>
+- q: Will we have phone signal in Merzouga and along the way?
+  aHtml: <p>Ouarzazate, Skoura, and the Dades and Todra areas generally have reasonable signal. It becomes weaker once you're out among the Erg Chebbi dunes and can disappear entirely at the desert camp itself.</p>
+- q: Should we tip the driver-guide?
+  aHtml: <p>A tip isn't required but is customary for good service, especially given the extra day this tour spends in Merzouga compared to the shorter version. Some travelers also leave something for the camp staff or a nomad family they visit.</p>
+reviews:
+- name: Oliver I.
+  date: 06/01/2025
+  likes: 0
+  stars: 5
+  title: Skoura and the Valley of Roses
+  text: Stopping in Skoura's palm groves on the way to Dades was a lovely, quiet start to the tour, and we caught El Kelaa M'Gouna right as the roses were starting to bloom. Nice slower pace than I expected for a desert tour.
+- name: Ravi T.
+  date: 19/01/2025
+  likes: 0
+  stars: 5
+  title: Dades Gorges red rock at sunset
+  text: The red rock formations around the Dades Gorges hotel were stunning in the late afternoon light. Dinner was simple but good, and the whole first night set a relaxed tone for the rest of the trip.
+- name: Emma M.
+  date: 02/02/2025
+  likes: 0
+  stars: 4
+  title: Todra Gorges walk was the highlight of day two
+  text: The walls rising up on either side of the Todra river are genuinely impressive, easily the best part of the drive to Merzouga. Getting there involves a fair bit of driving though, so pace yourself.
+- name: Colm Y.
+  date: 14/02/2025
+  likes: 1
+  stars: 5
+  title: Two nights in the desert made all the difference
+  text: Compared to a friend's one-night desert tour, having the extra night at the camp meant we weren't rushing the sunset camel trek. Music around the campfire both nights, and no feeling of "already leaving" the next morning.
+- name: Oliver G.
+  date: 26/02/2025
+  likes: 0
+  stars: 5
+  title: Free day in Erg Chebbi well spent
+  text: We added the optional quad-bike excursion on the free day and it was a blast riding through Erg Chebbi with no set itinerary to rush back for. Highly recommend not skipping this add-on.
+- name: Stefan Y.
+  date: 10/03/2025
+  likes: 0
+  stars: 5
+  title: Mint tea with a nomad family
+  text: Our guide arranged a visit to a nomad family living near the dunes on our free day. Simple but genuine, and a nice contrast to the more touristy stops earlier in the trip.
+- name: Yusuf U.
+  date: 24/03/2025
+  likes: 0
+  stars: 5
+  title: Exactly what we wanted after a rushed 3-day tour
+  text: We'd read reviews of the shorter version feeling rushed, so we booked this one instead. Glad we did - the extra day in Merzouga let us actually relax at the camp instead of turning around after one night.
+- name: Sean X.
+  date: 07/04/2025
+  likes: 0
+  stars: 5
+  title: Good lunch stop on the way back
+  text: The return route through Erfoud and the Todra Gorges included a proper lunch stop that broke up the drive nicely. Small thing, but it made the last day feel less like a straight shot back to Ouarzazate.
+- name: Priya Q.
+  date: 20/04/2025
+  likes: 0
+  stars: 5
+  title: Loved the pacing of this one
+  text: Our driver Hassan was easygoing and let us set the pace, especially on the free day in the dunes. Four days felt just right for this route.
+- name: Vera T.
+  date: 03/05/2025
+  likes: 0
+  stars: 5
+  title: Photographing the dunes all day
+  text: I'm into photography and the full free day in Merzouga meant I could chase the changing light over Erg Chebbi from morning through sunset without feeling rushed by a driving schedule. Best decision to pick the 4-day version over the 3-day.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sOuarzazate%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco

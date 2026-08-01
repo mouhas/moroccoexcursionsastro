@@ -102,7 +102,77 @@ faqs:
   aHtml: <p>Sì, sono famiglie reali che vivono davvero nel deserto. La vostra guida le conosce. State visitando la loro vera casa. Non si tratta di una rappresentazione. È uno sguardo alla loro vita reale. Chiedete sempre il loro permesso prima di scattare una foto.</p>
 - q: Quali altre cose divertenti posso fare?
   aHtml: <p>Ci sono altre attività divertenti nel deserto. È anche possibile cavalcare un cammello, guidare un ATV (quad) o noleggiare un buggy nel deserto di Merzouga.</p>
-reviews: []
+- q: Qual è la differenza tra le varie opzioni di tour proposte?
+  aHtml: <p>Le opzioni più brevi si concentrano sulle dune dell'Erg Chebbi, mentre quelle più lunghe aggiungono la visita a una famiglia nomade, al villaggio di Khamlia, alle miniere di fossili o persino all'Oasi di Safsaf. Più lunga è l'escursione, più aspetti del deserto potrete scoprire.</p>
+- q: Qual è la politica di cancellazione?
+  aHtml: <p>Potete cancellare o modificare la prenotazione gratuitamente fino a un giorno prima della partenza. Vi consigliamo di contattarci al più presto se il vostro programma cambia.</p>
+- q: Si tratta di un tour privato?
+  aHtml: <p>Sì, l'auto 4x4 e l'autista sono riservati solo per voi e i vostri compagni di viaggio. Potete quindi personalizzare leggermente il programma, ad esempio restando più a lungo dai nomadi o accorciando una tappa.</p>
+- q: Il pranzo è incluso in tutte le opzioni?
+  aHtml: <p>Il pranzo è incluso solo per i tour di durata superiore alle tre ore. Per le escursioni più brevi vi consigliamo semplicemente di portare acqua e uno spuntino leggero.</p>
+- q: Qual è il periodo migliore dell'anno per fare questa escursione in 4x4?
+  aHtml: <p>Primavera e autunno offrono le temperature più piacevoli per esplorare il deserto. In estate il caldo può essere intenso a metà giornata, quindi preferiamo partire presto al mattino o nel tardo pomeriggio.</p>
+reviews:
+- name: Matteo Ferrara
+  date: 15/01/2025
+  likes: 0
+  stars: 5
+  title: Splendido giro sulle dune dell'Erg Chebbi
+  text: 'Abbiamo scelto l''opzione breve per un primo assaggio del deserto ed è stata perfetta. L''auto che sale e scende sulle onde di sabbia dà davvero la sensazione di essere sulle montagne russe.'
+- name: Rachid Amrani
+  date: 04/02/2025
+  likes: 1
+  stars: 5
+  title: Incontro indimenticabile con una famiglia nomade
+  text: 'Il tè alla menta condiviso sotto la tenda di pelo di cammello con la famiglia nomade è stato un momento molto toccante. Il nostro autista ci ha spiegato con calma il loro stile di vita.'
+- name: Hans Muller
+  date: 22/03/2025
+  likes: 0
+  stars: 5
+  title: La musica Gnawa di Khamlia, un'emozione vera
+  text: 'Ascoltare i musicisti di Khamlia suonare i tamburi in quella casa semplice è stato affascinante. Si percepisce quanto questa musica Gnawa faccia parte della storia della regione.'
+- name: Nour Sassi
+  date: 18/04/2025
+  likes: 0
+  stars: 4
+  title: Bella escursione, un po' calda a mezzogiorno
+  text: 'Il tour completo è ricco di scoperte, tra fossili, Deserto Nero e Oasi di Tissardmine, ma il caldo a metà giornata era piuttosto forte. Consiglio cappello e crema solare.'
+- name: Pierre Girard
+  date: 11/05/2025
+  likes: 0
+  stars: 5
+  title: L'Oasi di Safsaf, un vero gioiello nascosto
+  text: 'Dopo un lungo tratto nel deserto roccioso, arrivare all''Oasi di Safsaf in fondo al canyon con le sue palme è stato magico. Il pranzo al sacco all''ombra è stato il momento ideale per riposarsi.'
+- name: Ingrid Andersen
+  date: 03/06/2025
+  likes: 2
+  stars: 5
+  title: Fossili marini nel deserto, che sorpresa
+  text: 'Scoprire che questo deserto era un tempo un oceano e vedere i fossili marini lavorati dagli abitanti locali è stato davvero sorprendente. Il nostro autista conosceva molti dettagli su questa storia.'
+- name: Karim Belhaj
+  date: 28/07/2025
+  likes: 0
+  stars: 5
+  title: Il Deserto Nero, un paesaggio unico
+  text: 'Non mi aspettavo un paesaggio così diverso, con quelle rocce scure al posto della sabbia. Ci siamo sentiti davvero come su un altro pianeta per qualche minuto.'
+- name: Helena Kovac
+  date: 14/09/2025
+  likes: 0
+  stars: 5
+  title: Autista appassionato e molto disponibile
+  text: 'Il nostro autista ci ha fatto salire un po'' sulle dune più alte per delle foto fantastiche. Conosceva anche molto bene il villaggio berbero tradizionale che abbiamo attraversato al ritorno.'
+- name: Yassine Toumi
+  date: 09/11/2025
+  likes: 0
+  stars: 5
+  title: Perfetto per scoprire più villaggi in un giorno
+  text: 'La visita al villaggio berbero con le case di mattoni di fango, insieme a Khamlia e ai nomadi, dà una vera ricchezza culturale a questa escursione in 4x4. Non ci si annoia mai.'
+- name: Olivia Bennett
+  date: 25/02/2026
+  likes: 1
+  stars: 4
+  title: Bella giornata, portate scarpe robuste
+  text: 'La camminata intorno alle miniere di fossili è un po'' sassosa, quindi meglio avere scarpe comode. Il giro finale sulle dune dorate dell''Erg Chebbi è stato comunque il momento più bello della giornata.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d207989.26901849997!2d-4.016495704350869!3d31.134824578958135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!5e1!3m2!1sit!2sit!4v1757427880845!5m2!1sen!2sit

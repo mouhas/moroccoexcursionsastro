@@ -85,7 +85,61 @@ const site = defineCollection({
     carBadges: z.array(z.string()).default([]),
     carCategory: z.string().nullable().default(null),
     carFeatures: z.array(z.string()).default([]),
+
+    // Real, already-authored structured content that was previously silently
+    // dropped because it wasn't declared here — see en__pages__travel-agency.md
+    // (iconGrid) and en__pages__morocco-rental-cars.md (carListings).
+    iconGrid: z.array(z.object({ icon: z.string(), title: z.string(), text: z.string() })).default([]),
+    carListings: z.array(z.object({
+      icon: z.string(), title: z.string(), text: z.string(),
+      specs: z.array(z.string()).default([]),
+      price: z.string().nullable().default(null),
+      href: z.string().nullable().default(null),
+      bookHref: z.string().nullable().default(null),
+    })).default([]),
+
+    // Optional per-page SEO overrides, editable from the admin panel — when
+    // unset, [...path].astro falls back to its own auto-generated title/
+    // description (see metaDescriptionFor()).
+    metaTitle: z.string().nullable().default(null),
+    metaDescription: z.string().nullable().default(null),
   }),
 });
 
-export const collections = { site };
+// Single-entry site-wide settings (PayPal, contact details) — edited as one
+// file from the admin panel instead of being hardcoded across components.
+const settings = defineCollection({
+  type: 'data',
+  schema: z.object({
+    paypalClientId: z.string().default('sb'),
+    paypalMode: z.enum(['sandbox', 'live']).default('sandbox'),
+    phone: z.string().default('+212 673 55 5408'),
+    phoneHref: z.string().default('tel:+212673555408'),
+    whatsappHref: z.string().default('https://wa.me/212673555408'),
+    email: z.string().default('MoroccoExcursions@Gmail.com'),
+    defaultMetaDescription: z.string().optional(),
+    // The deployed Cloudflare Worker's URL (see worker/), e.g.
+    // "https://morocco-excursions-submit.YOUR-SUBDOMAIN.workers.dev/submit".
+    // Left blank, bookings/messages just aren't logged — mailto: still works.
+    submitEndpoint: z.string().optional(),
+  }),
+});
+
+// Bookings/messages — written by the Cloudflare Worker (see worker/) when a
+// visitor submits the booking widget or contact form, one JSON file per
+// submission. Not rendered as public pages; browsed and triaged from the
+// admin panel (status field is editable there).
+const submission = z.object({
+  name: z.string(),
+  email: z.string(),
+  phone: z.string().optional(),
+  subject: z.string().optional(),
+  message: z.string().optional(),
+  submittedAt: z.string(),
+  status: z.enum(['new', 'contacted', 'booked', 'archived']).default('new'),
+  raw: z.string().optional(),
+});
+const bookings = defineCollection({ type: 'data', schema: submission });
+const messages = defineCollection({ type: 'data', schema: submission });
+
+export const collections = { site, settings, bookings, messages };

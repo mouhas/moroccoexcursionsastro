@@ -124,6 +124,12 @@ faqs:
     <p>The <strong><a href="https://morocco-excursion.com/tours/marrakech-to-fes-3-days/" rel="noopener" target="_blank">3-day tour from Marrakech to Fes</a></strong> also includes the Sahara experience but ends in the cultural city of Fes. It follows a similar route on the first two days, with visits to Ait Ben Haddou, the Dades Valley, Todra Gorges, and Merzouga for the camel ride and desert camp. On the third day, you travel north through the Ziz Valley, the Middle Atlas Mountains, and the cedar forests of Azrou, before reaching Fes via the modern mountain town of Ifrane.</p>
 
     <p>Both tours offer a richer and more diverse experience than the shorter Zagora tour, allowing more time to enjoy the desert and explore Morocco’s changing landscapes.</p>'
+- q: Should I tip the driver-guide?
+  aHtml: <p>Tipping is not obligatory but is customary in Morocco. Around 5-10 euros per day for the driver-guide is a common amount for a short trip like this one.</p>
+- q: Is there phone signal at the desert camp in Zagora?
+  aHtml: <p>Signal is generally available along most of the route, including in Zagora town, but it can become weak or disappear once you are out at the desert camp itself, so let family know in advance that you may be briefly unreachable.</p>
+- q: What is the difference between the standard and luxury desert camps?
+  aHtml: <p>The standard camp has comfortable tents with proper beds and shared bathroom facilities, while the luxury camp offers more spacious tents, private bathrooms, and a higher level of comfort and decor for those wanting to upgrade their night in the desert.</p>
 reviews:
 - name: Jonathan
   date: 22/08/2021
@@ -143,6 +149,48 @@ reviews:
   stars: 5
   title: A great short desert trip
   text: Due to our short time in Morocco, we couldn't book the 3-day tour to Merzouga, so we ended up booking this short tour to the Zagora "desert" which was ok. Zagora's desert is not the desert to expect, it is only a rocky desert with no sand dunes.
+- name: Whitney D.
+  date: 11/04/2024
+  likes: 0
+  stars: 5
+  title: Great value for such a short trip
+  text: 'Said got us across the Tizi n''Tichka pass and down into the Draa Valley in one long but scenic day. The camel ride into the Zagora desert at sunset and the drumming around the fire afterward made it feel like much more than a two-day trip.'
+- name: Duncan Q.
+  date: 24/04/2024
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou was the highlight
+  text: The kasbah at Ait Ben Haddou alone was worth the drive over the Atlas Mountains. Great stops for photos the whole way down to Zagora.
+- name: Diego S.
+  date: 02/05/2024
+  likes: 0
+  stars: 4
+  title: Good trip but manage your expectations
+  text: 'Just like the notes say, Zagora is a rocky desert, not the big orange dunes you see in photos of Merzouga. Still, the camel ride and the night at the camp were fun, and the drive back through Ouarzazate the next day had some great scenery.'
+- name: Ayesha Y.
+  date: 15/05/2024
+  likes: 0
+  stars: 5
+  title: Palm groves of the Draa Valley
+  text: Karim was an excellent guide, stopping often through the six palm groves of the Draa Valley so we could take pictures. The mint tea and camel ride when we arrived in Zagora were a great welcome after a long drive.
+- name: Petra E.
+  date: 29/05/2024
+  likes: 0
+  stars: 5
+  title: Short trip, big memories
+  text: Sunrise over the desert camp on day two was gorgeous. Perfect quick add-on to a Marrakech trip.
+- name: Zara I.
+  date: 10/06/2024
+  likes: 0
+  stars: 5
+  title: Berber villages and Agdez along the way
+  text: 'We stopped in so many small Berber villages crossing the Atlas, and the town of Agdez right before the Draa Valley was a nice surprise. Dinner at the camp after the camel trek was simple but tasty, and the staff kept the mint tea coming all evening.'
+- name: Meera I.
+  date: 22/06/2024
+  likes: 0
+  stars: 5
+  title: Upgraded to the luxury camp, worth it
+  text: Omar arranged our upgrade to the luxury desert camp and it made the night so much more comfortable, with a private bathroom and a much nicer tent than we expected for a two-day trip.
 rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d875658.0734407692!2d-7.575518987531441!3d30.98333485285529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.7041312!2d-6.4530072999999994!4m5!1s0xdbc36ea58680e95%3A0x75e9e9fb616de232!2sZagora%2C%20Maroc!3m2!1d30.345899799999998!2d-5.8406587!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sbg!2sbg!4v1722158542169!5m2!1sbg!2sbg

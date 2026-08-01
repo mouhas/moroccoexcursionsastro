@@ -120,7 +120,79 @@ faqs:
   aHtml: <p>Oui, toutes les activités sont supervisées par des guides expérimentés et des consignes de sécurité sont données avant le départ. Suivez toujours les instructions du guide.</p>
 - q: Cette visite peut-elle être personnalisée?
   aHtml: <p>Oui, le circuit peut être personnalisé. Nous pouvons modifier l'itinéraire, ajouter ou supprimer certaines activités en fonction de vos besoins et de vos préférences.</p>
-reviews: []
+- q: Quelle est la différence entre les campements utilisés pendant ce circuit ?
+  aHtml: '<p>Pendant les sept jours, vous dormirez dans différents types de campements et de maisons d''hôtes selon les lieux, notamment des camps près de l''Erg Chebbi et des hébergements simples dans des villages comme Ouzina et El Mharech. L''hébergement, les dîners et les petits-déjeuners sont inclus dans le prix pour chaque nuit du circuit.</p>'
+- q: Ce circuit est-il physiquement exigeant ?
+  aHtml: '<p>Ce circuit comprend des activités comme la balade à dos de chameau, l''ascension de dunes de sable et la marche dans le sable mou, ce qui peut être fatigant sur plusieurs jours. Les voyageurs doivent être en assez bonne condition physique et faire des pauses régulières en buvant de l''eau souvent pour éviter de se fatiguer excessivement.</p>'
+- q: Que dois-je emporter pour une semaine dans le désert ?
+  aHtml: '<p>Prévoyez des vêtements légers et une protection solaire pour les fortes températures diurnes, ainsi que des couches chaudes pour les nuits froides du désert. Un chapeau, des lunettes de soleil, de la crème solaire, des chaussures fermées confortables et une gourde réutilisable sont également recommandés pour les balades à dos de chameau, les excursions en quad et en buggy, et les marches jusqu''aux oasis.</p>'
+- q: Quelle est la meilleure période de l'année pour ce circuit dans le désert ?
+  aHtml: '<p>Les mois les plus agréables pour ce circuit vont d''octobre à avril, lorsque les températures diurnes sont plus douces. Les mois d''été, de juin à août, peuvent être très chauds pendant la journée, les voyageurs qui visitent en été devraient donc prévoir les activités en extérieur le matin ou en fin d''après-midi.</p>'
+- q: S'agit-il d'un tour privé, et peut-il être réalisé par des voyageurs seuls ?
+  aHtml: '<p>Oui, il s''agit d''un tour privé avec votre propre chauffeur et véhicule, et il peut être réservé aussi bien par des voyageurs seuls que par des groupes. Le prix par personne est plus bas lorsque plusieurs personnes partagent le même véhicule, mais l''itinéraire et les activités restent les mêmes quelle que soit la taille du groupe.</p>'
+- q: Quelle est la politique d'annulation ?
+  aHtml: '<p>Vous pouvez annuler ce circuit gratuitement jusqu''à 1 jour avant la date de départ. Merci de nous contacter dès que possible si vos plans changent afin que nous puissions mettre à jour votre réservation.</p>'
+reviews:
+- name: Aurélie S.
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: 'Une semaine parfaite pour vivre le Sahara'
+  text: 'Sept jours étaient exactement le temps qu''il fallait pour vraiment vivre le Sahara plutôt que de simplement le traverser. La balade à dos de chameau dans les dunes le premier soir et la musique gnawa à Khamlia le deuxième jour étaient toutes deux inoubliables. La visite des familles nomades nous a donné un vrai aperçu de la vie dans le désert.'
+- name: Baptiste N.
+  date: 27/02/2025
+  likes: 1
+  stars: 5
+  title: 'Le quad et le buggy, un pur bonheur'
+  text: 'Le troisième jour, avec le quad le matin et le buggy l''après-midi, a été le moment le plus excitant de tout le voyage. Le déjeuner à l''oasis désertique ensuite offrait un contraste paisible avec la vitesse du matin. Le sandboard au campement le soir était un joli bonus.'
+- name: Pauline G.
+  date: 16/04/2025
+  likes: 0
+  stars: 4
+  title: 'Les fossiles de Tissardmine étaient fascinants'
+  text: 'Je ne m''attendais pas à ce que le site fossilifère de Tissardmine le quatrième jour soit aussi intéressant, notre guide nous a beaucoup appris sur l''histoire de la région. Le pique-nique à l''oasis de Safsaf ensuite était une façon reposante de passer l''après-midi.'
+- name: Kwabena O.
+  date: 03/06/2025
+  likes: 0
+  stars: 5
+  title: 'Les dunes rouges de l''Erg Znaigui nous ont éblouis'
+  text: 'Arriver à l''Erg Znaigui le cinquième jour et découvrir les dunes de sable rouge était complètement différent des dunes dorées de l''Erg Chebbi du début du voyage. La route le long de l''ancienne piste du Dakar jusqu''à Ouzina était mémorable aussi.'
+- name: Anneke V.
+  date: 22/07/2025
+  likes: 2
+  stars: 5
+  title: 'Ramlia et Sidi Ali, hors des sentiers battus'
+  text: 'Le sixième jour nous a menés à de petits villages comme Ramlia et Sidi Ali, loin de toute foule touristique. Remonter à dos de chameau près de l''oasis d''El Mharech le soir était une belle façon de terminer la journée. Cette semaine complète nous a donné une vision bien plus profonde du désert qu''un court séjour de deux ou trois jours.'
+- name: Renaud F.
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: 'Un coucher de soleil différent chaque soir'
+  text: 'Chaque soirée de cette semaine dans le désert a apporté un coucher de soleil différent, de l''Erg Chebbi le premier jour aux dunes tranquilles près d''El Mharech le sixième jour. La visite de la famille nomade le deuxième jour reste l''un des moments les plus marquants de tout le voyage.'
+- name: Tom B.
+  date: 28/10/2025
+  likes: 0
+  stars: 5
+  title: 'Une semaine bien organisée dans le Sahara'
+  text: 'Avec autant d''étapes sur sept jours, de la musique gnawa de Khamlia aux fossiles de Tissardmine, je m''attendais à ce que le voyage paraisse précipité, mais le rythme était en réalité très détendu. La dernière balade à dos de chameau près de Merzouga était une belle façon de boucler la boucle.'
+- name: Salma R.
+  date: 15/12/2025
+  likes: 0
+  stars: 4
+  title: 'Le buggy était le clou du voyage, prévoyez des couches chaudes'
+  text: 'L''excursion en buggy le troisième jour était palpitante et l''un des meilleurs moments du voyage pour mon mari et moi. Les nuits dans le désert étaient plus froides que prévu, même hors de l''hiver, alors emportez des vêtements chauds. La musique gnawa à Khamlia était un vrai moment culturel fort.'
+- name: Xavier M.
+  date: 02/02/2026
+  likes: 1
+  stars: 5
+  title: 'Un vrai voyage hors des sentiers battus'
+  text: 'Ce circuit va bien au-delà des habituels séjours d''une ou deux nuits à Merzouga, en atteignant des endroits comme Ouzina et Ramlia que la plupart des visiteurs ne voient jamais. Le pique-nique à l''oasis de Safsaf le quatrième jour a été l''un des moments les plus calmes de toute la semaine.'
+- name: Clémence D.
+  date: 20/07/2026
+  likes: 0
+  stars: 5
+  title: 'Parfait pour les amoureux du désert'
+  text: 'Si vous aimez le désert, une semaine complète en vaut vraiment la peine, avec les aventures en quad et en buggy le troisième jour et les dunes rouges de l''Erg Znaigui le cinquième jour comme grands moments forts. Dormir à la belle étoile dans des campements différents chaque nuit ne se lasse jamais.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sfr!2sfr!4v1757243889444!5m2!1sfr!2sfr

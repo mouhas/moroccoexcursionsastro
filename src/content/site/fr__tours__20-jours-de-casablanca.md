@@ -135,7 +135,77 @@ faqs:
   aHtml: <p>Les activités dans le désert incluses sont les randonnées à dos de chameau, le sandboard, les excursions en 4x4 tout-terrain et une nuit dans un campement dans le désert. Les activités supplémentaires possibles sont les excursions en quad et en buggy.</p>
 - q: Y a-t-il un autre circuit similaire au circuit de 20 jours au départ de Casablanca ?
   aHtml: <p>Si vous recherchez des circuits similaires à ce circuit de 20 jours, veuillez consulter le <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>circuit de 30 jours</strong></a> ou le <a href="/fr/tours/10-jours-depart-marrakech" rel="noopener" target="_blank"><strong>circuit de 10 jours au départ de Marrakech</strong></a>. Les deux circuits incluent les plus belles villes du Maroc.</p>
-reviews: []
+- q: Quelle est la meilleure période pour un voyage aussi long à travers tout le Maroc ?
+  aHtml: <p>Le printemps (mars-mai) et l'automne (septembre-novembre) sont idéaux, car ils offrent des températures douces aussi bien sur la côte que dans le désert et en montagne. L'été peut être très chaud à Merzouga, tandis que l'hiver apporte des nuits froides dans le désert et des pluies occasionnelles sur la côte.</p>
+- q: Comment gérer les changements climatiques entre la côte, la montagne et le désert ?
+  aHtml: <p>Nous recommandons des vêtements superposables faciles à adapter, des tenues légères pour la côte et les villes, une veste chaude pour les montagnes de l'Atlas et des vêtements bien chauds pour les nuits au campement dans le désert. Un coupe-vent léger est utile pour la côte atlantique, souvent venteuse.</p>
+- q: 'Est-il possible de raccourcir le circuit de 20 jours si nous n''avons pas autant de temps ?'
+  aHtml: <p>Oui, l'itinéraire de 20 jours peut être adapté en versions plus courtes, comme nos circuits de 15 ou 12 jours, qui couvrent les étapes principales. Nous pouvons également personnaliser le parcours en retirant certaines villes côtières ou en réduisant le nombre de jours dans le désert.</p>
+- q: Les pourboires pour le chauffeur et les guides sont-ils inclus dans le prix ?
+  aHtml: <p>Non, ils ne sont pas inclus. Compte tenu de la durée du voyage, de nombreux clients laissent un pourboire global au chauffeur à la fin du circuit, ainsi que de petits pourboires aux guides locaux à Fès, Marrakech et Essaouira.</p>
+- q: 'Devrons-nous changer souvent d''hôtel pendant cet itinéraire aussi long ?'
+  aHtml: <p>Oui, avec vingt jours et autant d'étapes, vous changerez d'hébergement presque chaque nuit, à quelques exceptions près dans les villes où une journée entière de visite est prévue, comme Chefchaouen, Fès, Essaouira et Marrakech. Une valise pratique et pas trop lourde facilitera les transferts.</p>
+reviews:
+- name: Émilie Rousseau
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: Vingt jours qui ressemblent à une vraie exploration
+  text: Avec vingt jours devant nous, nous avons littéralement tout vu, d'Asilah et ses fresques colorées jusqu'à Taghazout et ses vagues pour surfeurs. Le temps supplémentaire par rapport aux circuits plus courts se ressent surtout lors des journées entières consacrées à Chefchaouen et Essaouira, jamais dans la précipitation.
+- name: Julien Bonnet
+  date: 03/04/2025
+  likes: 0
+  stars: 5
+  title: Asilah, une belle surprise sur la route
+  text: Je ne connaissais pas Asilah avant ce voyage, un petit bijou sur la côte avec des maisons blanches et des fresques murales à chaque coin de rue. Peu après, Tanger et Chefchaouen nous ont conquis tout autant. Le désert de Merzouga quelques semaines plus tard est resté malgré tout le sommet du circuit.
+- name: Camille Delacroix
+  date: 22/05/2025
+  likes: 0
+  stars: 4
+  title: Long mais incroyablement gratifiant
+  text: Vingt jours, c'est un engagement sérieux, mais chaque jour apportait quelque chose de nouveau, des montagnes du Rif au désert du Sahara jusqu'à la côte atlantique. Le seul bémol, c'est que vers la fin du voyage, la fatigue des déplacements continus commençait à se faire sentir.
+- name: Nathalie Fournier
+  date: 30/06/2025
+  likes: 1
+  stars: 5
+  title: Les villages abandonnés près de Merzouga
+  text: La journée consacrée à l'exploration du désert autour de Merzouga, avec la visite des villages abandonnés et des familles nomades, nous a beaucoup touchés. Notre chauffeur Youssef connaissait toutes les familles que nous avons rencontrées en chemin.
+- name: Antoine Moreau
+  date: 18/08/2025
+  likes: 0
+  stars: 5
+  title: Taroudant, la petite Marrakech inattendue
+  text: Taroudant nous a surpris plus que nous ne l'imaginions, avec ses remparts rouges, ses marchés animés et bien plus de calme qu'à Marrakech. Juste avant, les gorges du Todra et la vallée des Roses avaient déjà été des moments forts de notre long périple marocain.
+- name: Aurélie Petit
+  date: 25/09/2025
+  likes: 0
+  stars: 5
+  title: Ouzoud, l'excursion parfaite pour clore le voyage
+  text: L'excursion d'une journée aux cascades d'Ouzoud vers la fin du circuit a été une merveilleuse façon de se détendre après tant de semaines de voyage. Les singes magots le long du sentier nous ont beaucoup amusés, et l'eau vert émeraude au pied des chutes est magnifique.
+- name: Thomas Lefebvre
+  date: 10/10/2025
+  likes: 0
+  stars: 5
+  title: Merzouga reste le souvenir le plus fort
+  text: Avec un circuit aussi long, difficile de choisir le meilleur moment, mais la nuit au campement de Merzouga parmi les dunes de l'Erg Chebbi restera gravée plus que tout le reste. Dîner traditionnel, musique berbère et un ciel étoilé qu'on ne voit jamais en ville.
+- name: Vincent Girard
+  date: 27/11/2025
+  likes: 0
+  stars: 3
+  title: Beau voyage, quelques soucis logistiques
+  text: Le voyage en lui-même est fantastique et vaut vraiment les vingt jours, mais deux ou trois hôtels sur le parcours, en particulier à Sidi Ifni, étaient plus simples que ce que nous espérions. Le désert et les villes impériales restent malgré tout le point fort absolu de ce long itinéraire.
+- name: Sophie Tessier
+  date: 15/01/2026
+  likes: 0
+  stars: 5
+  title: Essaouira, une journée entière bien méritée
+  text: Après des semaines de déplacements presque quotidiens, avoir une journée complète à Essaouira pour explorer la Skala de la Ville et flâner sur la plage a été un vrai soulagement. Le port rempli de mouettes et de barques bleues reste l'un des plus beaux souvenirs du voyage.
+- name: Maxime Roy
+  date: 02/03/2026
+  likes: 0
+  stars: 5
+  title: Le circuit le plus complet que nous ayons fait
+  text: Vingt jours nous ont permis de découvrir le Maroc sans avoir à choisir entre côte, montagne, désert et villes. De la mosquée Hassan II à Casablanca jusqu'aux cascades d'Ouzoud près de Marrakech, chaque étape avait son propre charme.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1755675314275!5m2!1sfr!2sfr

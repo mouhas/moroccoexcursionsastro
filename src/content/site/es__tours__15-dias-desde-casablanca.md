@@ -174,7 +174,77 @@ faqs:
   aHtml: '<p>Este itinerario te ofrece lo mejor de Marruecos en dos semanas: ciudades imperiales, el desierto del Sáhara, las montañas del Atlas y la costa atlántica. Disfrutarás de la cultura, la historia, la naturaleza y la vida local, todo en un solo viaje.</p>'
 - q: ¿Recomiendas algún otro tour similar?
   aHtml: <p>Sí, si estás buscando un viaje más largo, echa un vistazo a nuestros tours de <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> y de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
-reviews: []
+- q: ¿Se puede practicar surf en Taghazout durante el tour?
+  aHtml: <p>El tour incluye una parada para pasear y relajarte en Taghazout, pero las clases de surf no están incluidas en el precio base. Si te interesa, tu conductor puede ayudarte a organizar una clase con una escuela local mientras estás allí.</p>
+- q: ¿Qué tiene de especial Sidi Ifni?
+  aHtml: <p>Sidi Ifni estuvo bajo administración española hasta 1969, y todavía conserva edificios de estilo Art Déco poco habituales en Marruecos. Es una parada tranquila junto al océano, muy distinta de las medinas más conocidas del interior.</p>
+- q: ¿Es un viaje cansado al ser tan largo?
+  aHtml: <p>Quince días con tantos traslados requieren energía, sobre todo los días de más carretera entre el desierto y la costa. Sin embargo, el ritmo incluye noches fijas en cada destino y tiempo libre suficiente para descansar entre etapa y etapa.</p>
+- q: ¿Cuál es la mejor época para hacer este recorrido de 15 días?
+  aHtml: <p>La primavera y el otoño son ideales, ya que combinas desierto, montaña y costa atlántica en un mismo viaje. En verano, Merzouga puede ser extremadamente caluroso, mientras que en pleno invierno las noches en el desierto y en Ifrane son bastante frías.</p>
+- q: ¿Hay servicio de lavandería durante un viaje tan largo?
+  aHtml: <p>La mayoría de los riads y hoteles del recorrido ofrecen servicio de lavandería con cargo adicional. En ciudades como Fez, Marrakech o Essaouira es fácil encontrar también lavanderías locales económicas si prefieres esa opción.</p>
+reviews:
+- name: Javier S.
+  date: 05/03/2025
+  likes: 0
+  stars: 5
+  title: Tánger y el Cabo Spartel, un inicio con fuerza
+  text: Las Cuevas de Hércules y el punto donde se juntan el Atlántico y el Mediterráneo en el Cabo Spartel fueron una manera estupenda de empezar el viaje antes de subir a Chefchaouen. Quince días dan tiempo de sobra para disfrutar cada parada sin prisa.
+- name: Alejandro M.
+  date: 19/04/2025
+  likes: 0
+  stars: 5
+  title: Taghazout, la parada más relajada del viaje
+  text: Después de tantos días entre medinas y desierto, llegar a este pueblo de surfistas junto al mar fue un respiro total. Nos quedamos con ganas de más tiempo ahí, pero entendemos que el itinerario tiene mucho que cubrir en quince días.
+- name: Charlotte B.
+  date: 30/05/2025
+  likes: 1
+  stars: 5
+  title: Sidi Ifni no se parece a nada más en Marruecos
+  text: Los edificios de estilo Art Déco por la herencia española nos sorprendieron muchísimo, es una ciudad muy distinta de Fez o Marrakech. El ambiente tranquilo junto al océano fue perfecto para descansar antes de seguir hacia el sur.
+- name: Stefan W.
+  date: 12/07/2025
+  likes: 0
+  stars: 5
+  title: Essaouira, viento y marisco fresco
+  text: El puerto pesquero de Essaouira con sus barcos azules y el marisco recién hecho a la parrilla fue de lo mejor de todo el viaje. Se nota por qué es tan popular para el windsurf, había bastante viento incluso paseando por la medina.
+- name: Élodie M.
+  date: 22/08/2025
+  likes: 0
+  stars: 4
+  title: Taroudant, la pequeña Marrakech que no conocíamos
+  text: Nunca habíamos oído hablar de Taroudant antes de este tour y nos encantaron sus murallas rojas y sus mercados tranquilos, mucho menos masificados que los de Marrakech. Un par de trayectos en coche fueron bastante largos, pero el paisaje siempre compensaba.
+- name: Megan R.
+  date: 03/10/2025
+  likes: 0
+  stars: 5
+  title: Quince días que valen cada euro
+  text: Vimos absolutamente todo lo que queríamos de Marruecos, montañas, desierto, costa y ciudades imperiales, sin sentir que íbamos con prisa. El guía de Marrakech el último día completo fue especialmente bueno explicando la historia del palacio de la Bahía.
+- name: Martín B.
+  date: 15/11/2025
+  likes: 0
+  stars: 5
+  title: Las familias nómadas y los pueblos abandonados del desierto
+  text: La mañana que pasamos con familias bereberes nómadas cerca de Merzouga, con su té y su forma de vida tan sencilla, fue de lo más auténtico del viaje. Los pueblos abandonados que vimos de camino también dieron mucho para pensar sobre cómo cambia el desierto.
+- name: Manuela S.
+  date: 27/12/2025
+  likes: 0
+  stars: 4
+  title: Agotador pero increíble
+  text: No voy a mentir, quince días con tantos traslados cansan bastante, sobre todo la parte de Fez a Merzouga. Aun así, entre las dunas de Erg Chebbi y el valle de las rosas cerca de Ouarzazate, cada día trajo algo distinto que hizo que mereciera totalmente la pena.
+- name: Alessandro T.
+  date: 09/02/2026
+  likes: 0
+  stars: 5
+  title: Todra y el valle del Dades, un dúo espectacular
+  text: Caminar entre los acantilados del Todra y luego recorrer las curvas del valle del Dades al día siguiente fue una de las mejores partes del recorrido. El valle de las rosas justo después añadió un contraste de color precioso antes de llegar a Ouarzazate.
+- name: Thijs H.
+  date: 18/05/2026
+  likes: 1
+  stars: 5
+  title: Marrakech cerró el viaje por todo lo alto
+  text: El último día completo con guía en Marrakech, entre el palacio de la Bahía, las tumbas saadíes y los zocos, fue el broche perfecto para quince días de viaje. Omar, nuestro guía esa jornada, sabía regatear con humor en cada tienda de especias.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d6894619.690521699!2d-12.384101650604649!3d32.45895394411814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xd0b875cf04c132d%3A0x76bfc571bfb4e17a!2sTanger%2C%20Morocco!3m2!1d35.7594651!2d-5.833954299999999!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdb4eb597d2875e9%3A0x4e6390fbcdb70ae5!2sSidi%20Ifni%2C%20Morocco!3m2!1d29.3701124!2d-10.1759285!4m5!1s0xdb24d4538db0173%3A0x3d5bf22fe7d11aca!2sTaghazout%2C%20Morocco!3m2!1d30.5449573!2d-9.7084824!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1ses!2ses!4v1755608529674!5m2!1ses!2ses

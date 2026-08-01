@@ -143,7 +143,73 @@ faqs:
   aHtml: <p>Le coût du circuit de 5 jours dans le désert varie selon le nombre de voyageurs et la catégorie d'hébergement. Veuillez consulter la section « Tarifs » ou nous contacter pour plus d'informations.</p>
 - q: Quels sont les circuits similaires au circuit de 5 jours dans le désert au départ de Marrakech ?
   aHtml: <p>Oui, voici quelques circuits similaires au circuit de 5 jours dans le désert au départ de Marrakech :<br/><a href="/fr/tours/5-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 5 jours de Marrakech à Fès dans le désert</strong></a><br/><a href="/fr/tours/6-jours-marrakech-sud" rel="noopener" target="_blank"><strong>Circuit de 6 jours de Marrakech au Sud</strong></a></p>
-reviews: []
+- q: Puis-je annuler ou modifier ma réservation ?
+  aHtml: <p>Oui, les réservations peuvent être annulées ou modifiées sans frais jusqu'à 48 heures avant le départ. Contactez-nous par WhatsApp ou email pour organiser un changement de date.</p>
+- q: Les studios de cinéma d'Ouarzazate sont-ils vraiment intéressants à visiter ?
+  aHtml: <p>Oui, Ouarzazate est surnommée le « Hollywood du désert » et ses studios ont accueilli de nombreux tournages internationaux. La visite est une pause culturelle agréable entre les paysages naturels de la route vers le désert.</p>
+- q: Voyagerai-je avec d'autres personnes pendant ce circuit ?
+  aHtml: <p>Non, il s'agit d'un circuit privé, vous voyagez uniquement avec votre groupe et le chauffeur-guide, sans partager le véhicule avec d'autres voyageurs.</p>
+reviews:
+- name: Amélie R.
+  date: 08/01/2025
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou impressionnante
+  text: La kasbah d'Ait Ben Haddou vaut vraiment le détour, on comprend pourquoi tant de films y ont été tournés. Les studios de cinéma d'Ouarzazate juste après complètent bien la visite.
+- name: Lukas F.
+  date: 24/02/2025
+  likes: 1
+  stars: 5
+  title: Vallée du Dadès à couper le souffle
+  text: Le paysage de la vallée du Dadès juste avant les gorges du Todra était probablement mon moment préféré du circuit. Une nuit dans le campement du désert a suivi, avec un ciel étoilé incroyable.
+- name: Chiara V.
+  date: 11/03/2025
+  likes: 0
+  stars: 4
+  title: Belle immersion chez les nomades
+  text: La visite d'une famille nomade locale était sincère et pas du tout mise en scène, un vrai contraste avec le rythme des grandes villes. Cinq jours bien remplis, un peu fatigants mais ça vaut le coup.
+- name: Rania E.
+  date: 29/04/2025
+  likes: 0
+  stars: 5
+  title: Villages berbères du sud authentiques
+  text: On a traversé plusieurs villages berbères du sud que je n'aurais jamais visités seule, avec des explications passionnantes de notre chauffeur. La balade à dos de chameau au coucher du soleil sur l'Erg Chebbi était magique.
+- name: Tomás A.
+  date: 16/05/2025
+  likes: 2
+  stars: 5
+  title: Lever de soleil sur les dunes mémorable
+  text: Se lever tôt pour voir le soleil se lever sur les dunes de Merzouga a été un des grands moments de mon voyage au Maroc. Le campement était confortable et le dîner traditionnel savoureux.
+- name: Ines P.
+  date: 03/06/2025
+  likes: 0
+  stars: 4
+  title: Bonne organisation, journées longues
+  text: Le chauffeur était ponctuel et bien organisé, mais les trajets sont longs certains jours donc prévoir de bonnes pauses. Les gorges du Todra restent un souvenir fort de ce circuit.
+- name: Otto W.
+  date: 20/07/2025
+  likes: 0
+  stars: 5
+  title: Culture berbère bien mise en valeur
+  text: Le circuit met vraiment l'accent sur la culture berbère traditionnelle, entre les villages et le thé partagé avec les nomades. Le sandboard en option sur les dunes était un bonus très fun.
+- name: Giulia N.
+  date: 09/09/2025
+  likes: 1
+  stars: 5
+  title: Studios d'Ouarzazate, pause bienvenue
+  text: La visite des studios de cinéma d'Ouarzazate était une pause intéressante entre deux longues étapes de route. Le reste du temps libre pour prendre des photos et se détendre était appréciable.
+- name: Mateus C.
+  date: 27/10/2025
+  likes: 0
+  stars: 5
+  title: Panorama sur l'Atlas dès le départ
+  text: Le premier arrêt sur la route pour admirer le panorama sur les montagnes de l'Atlas donne tout de suite le ton du voyage. Cinq jours parfaits pour découvrir le sud marocain sans se presser.
+- name: Yara H.
+  date: 14/12/2025
+  likes: 0
+  stars: 5
+  title: Un des meilleurs voyages de ma vie
+  text: Entre la kasbah, les gorges, les nomades et le désert, ce circuit couvre vraiment le meilleur du sud marocain en cinq jours. Le chauffeur-guide connaissait chaque recoin et rendait chaque étape intéressante.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1748469.5183186634!2d-7.294922531969985!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sit!2sit!4v1753611183046!5m2!1sen!2sit

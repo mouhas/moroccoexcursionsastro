@@ -136,7 +136,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, layers for cool evenings in Chefchaouen and the desert, a hat and sunscreen, and a light jacket for winter nights in Merzouga and the Dades Valley are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Rabat, with pickup available from your hotel, riad, the airport, or the train station, making it convenient to combine with onward travel.</p>
-reviews: []
+- q: Do we need to tip the driver-guide?
+  aHtml: <p>Tipping is not required but is customary in Morocco. Many travelers set aside roughly 10-15 euros per day for the driver-guide across the full loop.</p>
+- q: Is there phone signal or Wi-Fi in Merzouga and the Dades Valley?
+  aHtml: <p>Wi-Fi is available at hotels in the cities, but the connection is weaker and sometimes unreliable at the desert camp in Merzouga and in parts of the Dades Valley, so plan for a quieter night or two off the grid.</p>
+- q: What's the best season to do this loop from Rabat?
+  aHtml: <p>Spring and autumn offer the most comfortable temperatures for both the Sahara and the Rif and Atlas mountain crossings. Summer heat in Merzouga can be intense, and winter nights in Chefchaouen and the desert get cold.</p>
+- q: Is this tour private, or will we be grouped with other travelers?
+  aHtml: <p>This is a private tour with your own vehicle and driver-guide, not a shared group tour, so the pace and stops are yours to adjust throughout the ten days.</p>
+reviews:
+- name: Colm T.
+  date: 12/02/2024
+  likes: 0
+  stars: 5
+  title: Rabat to Chefchaouen, a great opening
+  text: Starting at the Kasbah of the Udayas and the Hassan Tower gave us a calm introduction to Morocco before the blue lanes of Chefchaouen the next day. Good pacing for the first two days.
+- name: Owen R.
+  date: 30/03/2024
+  likes: 0
+  stars: 4
+  title: Volubilis and Meknes deserved more time
+  text: The mosaics at Volubilis were better preserved than I expected, and Bab Mansour in Meknes is an impressive gate, but both stops felt a little brief given how much there is to see. Would have happily spent another hour or two at each.
+- name: Yuki T.
+  date: 18/05/2024
+  likes: 0
+  stars: 5
+  title: Fes tanneries, worth the smell
+  text: Everyone warns you about the smell at the Chouara tanneries and they are right, but the view from the terraces over all those dye pits is worth holding your nose for.
+- name: Hassan V.
+  date: 04/07/2024
+  likes: 0
+  stars: 3
+  title: Good trip overall, a couple of rough edges
+  text: 'The drive from Fes down to Merzouga is a genuinely long day, so go in expecting that. Once we arrived, the camel trek into the dunes and the campfire dinner were great, though the tent at the desert camp was fairly basic and the Wi-Fi there barely worked. Said, our driver, was friendly and professional the whole way, and the rest of the loop from the Dades Valley to Marrakech more than made up for the rough night in the desert.'
+- name: Lotte J.
+  date: 21/08/2024
+  likes: 0
+  stars: 5
+  title: Barbary macaques right by the road in Azrou
+  text: 'Our guide stopped so we could watch the macaques near Azrou''s cedar forest, and Ifrane afterward looked nothing like the Morocco I''d pictured, more like an alpine village.'
+- name: Lotte M.
+  date: 09/10/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges and the Dades kasbahs
+  text: The rock formations in the Dades Valley and the sheer walls of the Todra Gorges made for two of the most scenic days of the whole loop, and the kasbah we stayed in overlooked the valley beautifully.
+- name: Oliver T.
+  date: 27/11/2024
+  likes: 1
+  stars: 5
+  title: 'Crossing the Tizi n''Tichka to Ait Ben Haddou'
+  text: The pass itself is dramatic enough, but arriving at Ait Ben Haddou afterward made the whole day worth it.
+- name: Katja P.
+  date: 15/01/2025
+  likes: 0
+  stars: 5
+  title: Marrakech's free day was well spent
+  text: We used our free day for the Majorelle Garden in daylight and Jemaa el-Fna after dark, a good split that avoided feeling rushed.
+- name: Callum E.
+  date: 02/03/2025
+  likes: 0
+  stars: 5
+  title: Essaouira's sea breeze after a long loop
+  text: 'By the time we reached Essaouira we''d crossed half the country, so the seafood lunch and the sea breeze along the ramparts felt very well earned.'
+- name: Rosa M.
+  date: 20/04/2025
+  likes: 0
+  stars: 5
+  title: Rabat to Rabat, a full introduction to Morocco
+  text: Mohammed drove us the entire loop and was patient through every mountain pass and desert stretch. The Valley of Roses near Mgouna smelled incredible even out of season, a nice surprise on an already excellent itinerary.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sRabat%2C%20Morocco!4m1!2sEssaouira%2C%20Morocco

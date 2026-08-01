@@ -120,7 +120,71 @@ faqs:
   aHtml: <p>Cette visite est privée et il n'y aura que votre groupe avec le chauffeur/guide.</p>
 - q: Quel est le prix du voyage de 2 jours de Marrakech à Zagora ?
   aHtml: <p>Les prix varient en fonction du nombre de voyageurs et de la catégorie d'hébergement. Nous vous proposons deux options pour passer du standard au milieu de gamme. Pour plus de détails, veuillez consulter les prix sur cette page.</p>
-reviews: []
+- q: La randonnée à dos de chameau à Zagora est-elle obligatoire ?
+  aHtml: <p>Non, si vous préférez ne pas monter à dos de chameau, vous pouvez rejoindre le campement en véhicule. La balade proposée à Zagora est courte, idéale pour découvrir le désert rocheux sans trop d'effort physique.</p>
+- q: Peut-on visiter les studios de cinéma d'Ouarzazate pendant ce circuit ?
+  aHtml: <p>Oui, la visite des studios de cinéma d'Ouarzazate est possible en option sur le chemin du retour, moyennant un léger supplément de temps et de budget. Il suffit d'en informer votre chauffeur à l'avance.</p>
+reviews:
+- name: Baptiste Renard
+  date: 12/02/2025
+  likes: 0
+  stars: 5
+  title: Parfait pour un aperçu du désert en peu de temps
+  text: Nous n'avions que deux jours à consacrer au désert et ce circuit était idéal. Le col de Tizi n'Tichka et la Kasbah d'Aït Ben Haddou étaient déjà impressionnants avant même d'arriver à Zagora.
+- name: Melanie Wagner
+  date: 30/06/2025
+  likes: 1
+  stars: 4
+  title: Beau voyage, à savoir que Zagora n'a pas de hautes dunes
+  text: 'Comme précisé avant la réservation, le désert de Zagora est rocheux et non pas fait de dunes dorées, donc ne vous attendez pas au même paysage qu''à Merzouga. Cela reste une belle expérience, notamment la vallée du Draa avec ses palmeraies.'
+- name: Corinne Vasseur
+  date: 18/10/2025
+  likes: 0
+  stars: 5
+  title: La vallée du Draa, un enchantement de palmiers
+  text: Traverser les six palmeraies de la vallée du Draa après Agdez était magnifique, on ne s'attendait pas à autant de verdure en plein désert. La nuit au campement avec la musique des tambours était très conviviale.
+- name: Jorge Ramirez
+  date: 05/03/2026
+  likes: 0
+  stars: 5
+  title: Notre guide Omar a rendu ce court séjour inoubliable
+  text: Omar connaissait chaque village berbère traversé sur la route de Zagora et nous a raconté l'histoire de l'ancienne route des caravanes venant de Tombouctou. Deux jours intenses mais très bien remplis.
+- name: Astrid Kristensen
+  date: 22/08/2025
+  likes: 0
+  stars: 5
+  title: Lever de soleil sur le désert rocheux, magique
+  text: Se réveiller tôt pour voir le soleil se lever sur le désert de Zagora était le point culminant du séjour. Le retour via Ouarzazate avec un arrêt photo sur la Kasbah nous a permis de prolonger un peu la découverte.
+- name: Damien Roche
+  date: 09/12/2025
+  likes: 0
+  stars: 3
+  title: Circuit correct mais beaucoup de route pour deux jours
+  text: Le trajet aller-retour est vraiment long pour un séjour aussi court, presque 8 heures de route chaque jour. Le contenu reste sympa, surtout Aït Ben Haddou, mais je recommanderais plutôt 3 ou 4 jours pour moins subir la route.
+- name: Tessa van Dijk
+  date: 14/04/2025
+  likes: 0
+  stars: 5
+  title: Excellente option quand on a peu de temps à Marrakech
+  text: Nous n'avions que deux jours de libre avant notre vol retour et ce circuit nous a permis de voir le désert sans sacrifier notre séjour à Marrakech. Le chauffeur Brahim était très professionnel et ponctuel.
+- name: Gaëlle Perret
+  date: 27/09/2025
+  likes: 1
+  stars: 5
+  title: Le thé à la menthe au coucher du soleil, un grand moment
+  text: Arriver au campement juste à temps pour le coucher de soleil sur le désert rocheux, avec un thé à la menthe servi sur des tapis berbères, c'était exactement l'ambiance qu'on espérait pour notre première nuit dans le désert marocain.
+- name: Cormac Ryan
+  date: 11/01/2026
+  likes: 0
+  stars: 5
+  title: Aït Ben Haddou vaut déjà le déplacement à lui seul
+  text: Même sans compter la nuit dans le désert, la visite de la Kasbah d'Aït Ben Haddou et la traversée du Haut Atlas justifient ce circuit. Notre chauffeur s'est arrêté à plusieurs reprises pour des photos avec vue sur les vallées.
+- name: Nadine Weiss
+  date: 19/05/2026
+  likes: 0
+  stars: 4
+  title: Belle escapade rapide dans le sud marocain
+  text: Le camp était simple mais confortable et propre, avec un dîner traditionnel très correct. Deux jours, c'est court pour profiter pleinement du désert, mais pour une première approche du Sahara marocain, c'est largement suffisant.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d875658.0734407692!2d-7.575518987531441!3d30.98333485285529!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.7041312!2d-6.4530072999999994!4m5!1s0xdbc36ea58680e95%3A0x75e9e9fb616de232!2sZagora%2C%20Maroc!3m2!1d30.345899799999998!2d-5.8406587!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sbg!2sbg!4v1722158542169!5m2!1sbg!2sbg

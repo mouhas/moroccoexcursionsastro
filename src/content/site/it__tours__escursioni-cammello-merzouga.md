@@ -77,7 +77,77 @@ faqs:
   aHtml: <p>I campi di lusso offrono tende private con letti comodi, bagni e docce. I campi standard sono più semplici, con bagni in comune e servizi essenziali.</p>
 - q: Offrite altre escursioni nel deserto a Merzouga?
   aHtml: <p>Sì, oltre alle escursioni in cammello, organizziamo anche <a href="/it/tours/escursioni-quad-merzouga" rel="noopener" target="_blank"><strong>tour in quad</strong></a>, avventure in buggy ed <a href="/it/tours/escursione-4x4-deserto" rel="noopener" target="_blank"><strong>escursioni fuoristrada in 4x4</strong></a> per esplorare il deserto. Questi tour possono includere visite a famiglie nomadi, villaggi berberi e luoghi nascosti nel deserto. Se preferisci non andare in cammello, puoi andare in 4x4 o in quad e trascorrere comunque la notte nel campo.</p>
-reviews: []
+- q: Qual è la politica di cancellazione?
+  aHtml: <p>Le cancellazioni sono accettate gratuitamente fino al giorno stesso della partenza, ma vi consigliamo di avvisarci il prima possibile in modo da poter riorganizzare il campo per voi.</p>
+- q: È un tour di gruppo o privato?
+  aHtml: <p>Si tratta di un tour di gruppo, quindi condividerete il giro in cammello e il campo nel deserto con altri viaggiatori, il che rende l'atmosfera serale attorno al fuoco ancora più conviviale.</p>
+- q: Il cavallo a dorso di cammello è faticoso o adatto a tutti?
+  aHtml: <p>Il tragitto di circa un'ora è generalmente comodo per la maggior parte delle persone, anche se può risultare un po' movimentato all'inizio. Come indicato nelle nostre note, sconsigliamo la cavalcata a donne in gravidanza, persone con seri problemi alla schiena e viaggiatori sopra i 70 anni.</p>
+- q: Cosa succede se non voglio cavalcare il cammello?
+  aHtml: <p>Nessun problema, potete raggiungere il campo nel deserto a bordo di un fuoristrada 4x4 invece che a dorso di cammello, mantenendo comunque la notte nel campo con cena, colazione e musica berbera.</p>
+- q: Il campo nel deserto ha elettricità o copertura telefonica?
+  aHtml: <p>Il campo dispone di generatore per l'illuminazione di base, ma la copertura telefonica può essere debole o assente in alcune zone dell'Erg Chebbi. È consigliabile avvisare i familiari prima di partire per la notte nel deserto.</p>
+reviews:
+- name: Emma Roberts
+  date: 20/01/2025
+  likes: 0
+  stars: 5
+  title: Tramonto indimenticabile sulle dune di Erg Chebbi
+  text: 'Salire in cima a una duna in groppa al cammello proprio mentre il sole tramontava è stato uno dei momenti più belli del nostro viaggio in Marocco. I colori arancioni sulla sabbia erano incredibili.'
+- name: Youssef Kadiri
+  date: 06/02/2025
+  likes: 1
+  stars: 5
+  title: Musica berbera attorno al fuoco, serata magica
+  text: 'Dopo la cena a base di tagine e couscous, le guide hanno suonato i tamburi attorno al fuoco e ci hanno coinvolto tutti a ballare. Una serata semplice ma davvero speciale nel cuore del Sahara.'
+- name: Anna Kowalski
+  date: 25/03/2025
+  likes: 0
+  stars: 5
+  title: Cielo stellato mozzafiato nel campo di lusso
+  text: 'Abbiamo scelto il campo di lusso con tenda privata e doccia calda, ed è stato molto comodo dopo una giornata di viaggio. Il cielo pieno di stelle sopra Erg Chebbi era qualcosa che non avevo mai visto prima.'
+- name: Brian Walsh
+  date: 12/04/2025
+  likes: 0
+  stars: 4
+  title: Bella esperienza, un po' scomodo il primo tratto
+  text: 'Non ero abituato a cavalcare i cammelli e i primi minuti sono stati un po'' movimentati, ma poi mi sono goduto il panorama delle dune più alte del Marocco. La colazione con vista all''alba il giorno dopo è stata fantastica.'
+- name: Leila Benhaddou
+  date: 30/05/2025
+  likes: 0
+  stars: 5
+  title: Sandboarding gratuito, un bel bonus
+  text: 'Non sapevo che le tavole da sandboard fossero incluse gratuitamente, e scivolare sulle dune dorate al tramonto è stato divertentissimo. Risalire era faticoso ma ne è valsa assolutamente la pena.'
+- name: Christopher Lee
+  date: 17/06/2025
+  likes: 2
+  stars: 5
+  title: Alba spettacolare il secondo giorno
+  text: 'Svegliarsi presto per salire su una duna vicina e vedere la prima luce illuminare la sabbia dorata è stato uno spettacolo che ricorderò a lungo. Il ritorno a Merzouga a dorso di cammello con quella luce del mattino era ancora più suggestivo della sera prima.'
+- name: Sofia Almeida
+  date: 22/07/2025
+  likes: 0
+  stars: 5
+  title: Tè alla menta di benvenuto e grande accoglienza
+  text: 'Arrivare al campo dopo il tramonto ed essere accolti subito con un bicchiere di tè alla menta caldo è stato un gesto semplice ma che ci ha fatto sentire davvero benvenuti. La cena marocchina servita dopo era ottima.'
+- name: Daniel Osei
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: Le dune più alte del Marocco, davvero impressionanti
+  text: 'Non mi aspettavo che le dune di Erg Chebbi fossero così alte e imponenti. Il giro in cammello tra queste montagne di sabbia dorata è stata una delle esperienze più belle fatte in Africa.'
+- name: Marta Silva
+  date: 21/11/2025
+  likes: 0
+  stars: 5
+  title: Campo standard semplice ma autentico
+  text: 'Abbiamo scelto il campo standard con bagni in comune e devo dire che l''esperienza è stata comunque molto autentica e confortevole. La cena a base di couscous e la musica dopo cena hanno reso la serata memorabile.'
+- name: Tom Bakker
+  date: 05/03/2026
+  likes: 1
+  stars: 4
+  title: Bella notte nel deserto, portate acqua extra
+  text: 'La cavalcata e il tramonto sono stati fantastici, ma consiglio di portare una bottiglia d''acqua extra nello zaino perché fa comunque caldo durante il tragitto. Il campo era pulito e la colazione all''alba il giorno dopo davvero piacevole.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1sit!2sit!4v1756312207723!5m2!1sit!2sit

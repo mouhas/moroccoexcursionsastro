@@ -140,12 +140,80 @@ faqs:
 - q: À quelle heure et d'où commence le circuit de 4 jours dans le désert ?
   aHtml: <p>L'excursion commence à 8h00 et vous serez pris en charge à votre hébergement à Marrakech. Si vous préférez être pris en charge ailleurs, comme à l'aéroport ou à la gare routière/ferroviaire, merci de nous en informer.</p>
 - q: Quelle est la meilleure période de l’année pour faire ce tour ?
-  aHtml: <p>Il s'agit d'un voyage privé, par conséquent les seules personnes présentes lors de la visite seront vous (votre groupe) et le chauffeur/guide.</p>
+  aHtml: <p>Le printemps (mars à mai) et l'automne (septembre à novembre) offrent les températures les plus agréables, aussi bien dans les gorges du Todra que dans le désert. L'été est très chaud à Merzouga, tandis que l'hiver apporte des nuits froides dans le désert, gérables avec de bons vêtements chauds.</p>
 - q: Quels sont les circuits alternatifs au 4 jours dans le désert de Marrakech à Fès ?
   aHtml: '<p>Voici deux circuits similaires au circuit de 4 jours de Marrakech à Fès :</p>
 
     <p><a href="/fr/tours/5-jours-marrakech-desert" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a><br/><a href="/fr/tours/5-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert de Marrakech à Fès</strong></a></p>'
-reviews: []
+- q: Que comprend le circuit et que dois-je payer sur place ?
+  aHtml: <p>Le transport privé climatisé, le chauffeur-guide, le carburant, l'hébergement en hôtel, les dîners et petits-déjeuners, la balade à dos de chameau et la nuit en campement dans le désert avec dîner et petit-déjeuner sont inclus. Les boissons, déjeuners, billets d'entrée aux attractions et l'hôtel à Marrakech et Fès restent à votre charge.</p>
+- q: Puis-je annuler ou modifier ma réservation ?
+  aHtml: <p>Oui, les réservations peuvent être annulées ou modifiées gratuitement jusqu'à 48 heures avant le départ. Contactez-nous simplement par WhatsApp ou email pour organiser un changement de date.</p>
+- q: Ce circuit convient-il aux enfants et aux personnes âgées ?
+  aHtml: <p>Oui, le rythme du véhicule et les activités comme la balade à dos de chameau conviennent à la plupart des âges. Signalez-nous simplement les besoins particuliers de votre groupe afin que nous puissions adapter les arrêts et le rythme.</p>
+- q: Y a-t-il du réseau téléphonique et du Wi-Fi pendant le circuit ?
+  aHtml: <p>La couverture réseau est généralement bonne dans les villes et sur la majorité du trajet, mais elle peut disparaître dans certaines zones reculées des montagnes ou en plein désert. Le campement dans le désert n'a généralement pas de Wi-Fi.</p>
+reviews:
+- name: Camille D.
+  date: 12/02/2025
+  likes: 0
+  stars: 5
+  title: Les gorges du Todra valaient le détour
+  text: Notre chauffeur nous a laissé une bonne heure pour marcher dans les gorges du Todra, un des meilleurs moments du voyage. La nuit au campement avec la musique berbère autour du feu était magique aussi.
+- name: Julien P.
+  date: 28/03/2025
+  likes: 1
+  stars: 5
+  title: Forêt de cèdres d'Azrou et ses singes
+  text: L'arrêt à la forêt de cèdres d'Azrou n'était pas prévu dans ma tête et pourtant c'était un vrai coup de cœur, on a vu des singes magots sauvages de très près. La vallée du Ziz ensuite était superbe au coucher du soleil.
+- name: Marta L.
+  date: 15/04/2025
+  likes: 0
+  stars: 4
+  title: Long mais magnifique
+  text: Les journées de route sont longues comme prévenu, mais chaque étape avait son charme, des kasbahs berbères jusqu'aux dunes de l'Erg Chebbi. La balade à dos de chameau au coucher du soleil restera un souvenir fort.
+- name: Hannah S.
+  date: 02/05/2025
+  likes: 0
+  stars: 5
+  title: Thé à la menthe chez les nomades
+  text: On s'est arrêtés chez une famille nomade pour un thé à la menthe, un moment simple et sincère que je recommande à tous. Le campement dans le désert était confortable et le petit-déjeuner généreux.
+- name: Diego R.
+  date: 19/06/2025
+  likes: 2
+  stars: 5
+  title: Sandboard dans les dunes, une expérience à part
+  text: Le sandboard proposé en option sur les dunes de Merzouga était un vrai plus, on ne s'y attendait pas et c'était super fun. Le chauffeur parlait bien anglais et connaissait plein d'anecdotes sur chaque région traversée.
+- name: Sofia B.
+  date: 07/08/2025
+  likes: 0
+  stars: 5
+  title: Moyen Atlas sous-estimé
+  text: Les paysages du Moyen Atlas entre Azrou et Ifrane sont vraiment sous-estimés par rapport au désert, mais tout aussi beaux à leur façon. Un circuit bien rythmé qui ne donne jamais l'impression de rouler pour rien.
+- name: Noah K.
+  date: 21/09/2025
+  likes: 0
+  stars: 4
+  title: Petit bémol sur les repas
+  text: Le circuit en lui-même est excellent, seul bémol les déjeuners ne sont pas inclus donc prévoir un budget en plus. Sinon la vue panoramique sur la vallée du Ziz restera un des meilleurs souvenirs du voyage.
+- name: Elena M.
+  date: 05/11/2025
+  likes: 1
+  stars: 5
+  title: Lever de soleil sur les dunes, inoubliable
+  text: Se réveiller avant l'aube pour voir le lever du soleil sur les dunes de l'Erg Chebbi, difficile de trouver les mots. Le chauffeur nous a très bien conseillés sur les affaires à emporter pour les nuits fraîches du désert.
+- name: Thibault G.
+  date: 18/12/2025
+  likes: 0
+  stars: 5
+  title: Personnalisable sans souci
+  text: On a demandé un arrêt supplémentaire à Ouarzazate et le chauffeur a adapté l'itinéraire sans problème. Un vrai voyage sur mesure plutôt qu'un circuit figé, avec un rythme de conduite raisonnable chaque jour.
+- name: Valeria T.
+  date: 09/02/2026
+  likes: 0
+  stars: 5
+  title: Kasbahs berbères traditionnelles superbes
+  text: La visite des kasbahs berbères traditionnelles en chemin était fascinante, notre chauffeur prenait le temps de nous expliquer l'histoire de chaque lieu. Quatre jours parfaitement dosés entre montagne et désert.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d871272.4980025856!2d-4.58951715198614!3d31.457955561287427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Marruecos!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sKsar%20de%20Ait%20Ben%20Hadu%2C%20Marruecos!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sUarzazate%2C%2045000%2C%20Marruecos!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGarganta%20del%20Dad%C3%A8s%2C%20Marruecos!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinerhir%2C%20Marruecos!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973d0051369e87%3A0xfbc7a872aec9f783!2sMerzouga%20(Marruecos)!3m2!1d31.081499299999997!2d-4.0142555!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzr%C3%BA%2C%20Marruecos!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfr%C3%A1n%2C%20Marruecos!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFez%2C%20Marruecos!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sfr!2sfr!4v1753543206443!5m2!1sfr!2sfr

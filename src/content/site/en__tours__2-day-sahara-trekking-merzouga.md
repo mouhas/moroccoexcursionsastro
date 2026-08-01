@@ -96,7 +96,77 @@ faqs:
   aHtml: <p>The ideal time for this trek is in spring (January–May) or autumn (September–November) when temperatures are moderate and comfortable. Summers can be extremely hot, making long walks exhausting, while winter nights can be very cold, so proper clothing is essential. Sunrise and sunset are the most beautiful times to experience the dunes, regardless of the season.</p>
 - q: Do you have other similar treks?
   aHtml: <p>Yes, we do have other trek tours for <strong>3 days</strong>, <strong>4 days</strong>, and <strong>5 days</strong>. Also, it is possible to do it in just one day. So don't hesitate to contact us if you are looking for a customized trek.</p>
-reviews: []
+- q: Is this a private tour or will I be trekking with other travelers?
+  aHtml: <p>This trek is organized privately for your group with your own Berber guide, so you won't be grouped with strangers, though you may pass other trekking groups or nomad families along the route.</p>
+- q: How is this different from the camel-riding desert tours?
+  aHtml: <p>Unlike the standard desert tours where you ride a camel to and from the camp, this tour has you walking on foot for most of both days, with only a short optional camel ride near sunset. It suits travelers who want a slower, more active way to experience the dunes.</p>
+- q: Should I tip my trekking guide?
+  aHtml: <p>Tipping is not required but is customary and appreciated. Around 5-10 euros per day for the guide is typical for a trek of this length.</p>
+- q: Is there phone or wifi signal during the trek?
+  aHtml: <p>Signal is very limited once you leave Merzouga village and walk into the Erg Chebbi dunes, and there is generally no signal at the desert camp itself, so plan to be offline for most of the two days.</p>
+- q: Can you accommodate vegetarian or special diets?
+  aHtml: <p>Yes, the Berber meals served during the trek and at the camp, including the lunches, dinner, and breakfast, can be adapted for vegetarian or other dietary requirements if you let us know in advance.</p>
+reviews:
+- name: Colin X.
+  date: 11/01/2024
+  likes: 0
+  stars: 5
+  title: Physically tough but worth every step
+  text: 'Climbing some of the 150-meter dunes in the afternoon of day one was harder than I expected, but reaching the desert camp and lying under the Milky Way that night made it all worth it. A completely different way to see Erg Chebbi.'
+- name: Farida H.
+  date: 24/01/2024
+  likes: 0
+  stars: 5
+  title: Walking beats a jeep tour any day
+  text: Loved actually walking into the dunes instead of just driving past them. The amlou at breakfast on day two was a delicious surprise.
+- name: Declan T.
+  date: 06/02/2024
+  likes: 0
+  stars: 4
+  title: More tiring than I expected, but rewarding
+  text: 'Youssef was a great guide and kept the pace comfortable, but walking on soft sand for 5-6 hours really does wear you out. Worth doing if you are reasonably fit, the sunset over the dunes made up for the tired legs.'
+- name: Callum Y.
+  date: 19/02/2024
+  likes: 0
+  stars: 5
+  title: Berber lunch under the shade tree
+  text: 'Stopping midday for salad, bread, fresh fruit, and mint tea under a tree in the middle of the dunes was such a peaceful break. Watching the sand turn orange and pink at sunset afterward was the perfect end to day one.'
+- name: Santiago Z.
+  date: 03/03/2024
+  likes: 0
+  stars: 5
+  title: Sunrise walk up the dune
+  text: Climbing the dune before sunrise on the second morning was completely worth the early wake-up call.
+- name: Alicia D.
+  date: 17/03/2024
+  likes: 0
+  stars: 5
+  title: A slower, more intimate desert experience
+  text: 'Ahmed met us in Merzouga and we walked for most of both days, only taking a short camel ride near the camp to watch the sunset. The dinner of tagine and the Berber drumming around the fire that night were fantastic, and the walk back the next day took a completely different route through the dunes.'
+- name: Grace I.
+  date: 30/03/2024
+  likes: 0
+  stars: 5
+  title: Met a nomad family along the way
+  text: On the walk back to Merzouga on day two we passed rocky plains and stopped to meet a nomad family, which added a nice cultural layer to all the walking.
+- name: Milan V.
+  date: 13/04/2024
+  likes: 0
+  stars: 5
+  title: Stars, drums, and silence
+  text: The campfire and drumming at night followed by absolute silence and a sky full of stars was unlike anything else on our Morocco trip.
+- name: Henrik V.
+  date: 27/04/2024
+  likes: 0
+  stars: 5
+  title: Glad I trained a bit beforehand
+  text: 'Omar warned us the trek would be more demanding than a normal desert tour, and he was right, but the ridge views over Erg Chebbi on day one made every step worth it.'
+- name: Carlos I.
+  date: 10/05/2024
+  likes: 0
+  stars: 5
+  title: New dunes on the way back
+  text: 'Our guide took us on a completely different path back to Merzouga on the second day, so we saw new dunes the whole way. Tired but happy by the time we arrived.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sen!2sen!4v1757162605013!5m2!1sen!2sen

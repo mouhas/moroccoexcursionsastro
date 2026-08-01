@@ -110,7 +110,77 @@ faqs:
   aHtml: <p>Des activités supplémentaires telles qu'une balade en buggy ou en motocross peuvent également être ajoutées. Une balade d'une heure en buggy coûte 75 euros par personne (pour deux personnes dans le buggy), et une balade d'une heure en motocross coûte 150 euros par personne. Ces activités vous permettent d'explorer davantage le désert et d'ajouter du piquant à votre voyage.</p>
 - q: Est-il possible de réserver une seule de ces excursions?
   aHtml: <p>Il est également possible de réserver une seule activité sans faire le circuit complet. Vous pouvez choisir uniquement une balade à dos de chameau, une <strong>excursion en quad</strong>, une <strong>excursion en buggy</strong>, une excursion en motocross ou une <strong>excursion dans le désert en 4x4</strong>. Ainsi, vous pouvez profiter du désert exactement comme vous le souhaitez, que ce soit pour une petite aventure ou une expérience complète.</p>
-reviews: []
+- q: À quelle heure dois-je arriver à Merzouga pour commencer l'excursion ?
+  aHtml: '<p>L''accueil à notre bureau à Merzouga se fait en fin d''après-midi, généralement vers 16h00 en hiver et 18h00 en été. Cela vous laisse le temps de garer votre voiture en toute sécurité, de déposer vos bagages supplémentaires et de préparer un petit sac avant la randonnée à dos de chameau dans les dunes.</p>'
+- q: La randonnée à dos de chameau ou la balade en quad sont-elles physiquement exigeantes ?
+  aHtml: '<p>La randonnée à dos de chameau est douce et convient à la plupart des niveaux de forme physique, bien qu''elle ne soit pas recommandée pour les femmes enceintes ou les personnes souffrant de problèmes de dos. La balade en quad demande un peu plus de coordination mais aucune expérience préalable, et notre équipe donne un bref briefing avant le départ dans les dunes.</p>'
+- q: Quelle est la meilleure période de l'année pour faire cette excursion ?
+  aHtml: '<p>Le printemps et l''automne offrent les températures les plus agréables pour la randonnée à dos de chameau et la balade en quad. Les journées d''été dans l''Erg Chebbi peuvent être très chaudes, tandis que les nuits d''hiver au campement peuvent approcher de zéro degré, il convient donc de prévoir des vêtements adaptés quelle que soit la saison de votre voyage.</p>'
+- q: Aurai-je du réseau téléphonique ou du wifi au campement dans le désert ?
+  aHtml: '<p>Le réseau mobile devient irrégulier dès que vous quittez le village de Merzouga et disparaît presque totalement une fois dans les dunes, ne vous attendez donc pas à une couverture fiable au campement. C''est en partie ce qui rend l''observation des étoiles et les soirées autour du feu de camp si dépaysantes.</p>'
+- q: Dois-je donner un pourboire aux chameliers et au personnel du campement ?
+  aHtml: '<p>Le pourboire n''est pas obligatoire mais il est apprécié pour les chameliers, les musiciens de Khamlia et le personnel du campement qui prépare les repas. Quelques euros ou dirhams par activité est un geste courant si vous avez apprécié l''expérience.</p>'
+reviews:
+- name: Elodie R.
+  date: 06/01/2025
+  likes: 0
+  stars: 5
+  title: 'La balade à dos de chameau était magique'
+  text: 'Nous sommes arrivés à Merzouga en fin d''après-midi et avons laissé la voiture au bureau avant de partir en randonnée à dos de chameau dans l''Erg Chebbi. Voir les dunes devenir orange au coucher du soleil valait à lui seul le déplacement, et le personnel du camp Mouhou nous attendait avec un thé à la menthe.'
+- name: Mathis P.
+  date: 24/02/2025
+  likes: 1
+  stars: 5
+  title: 'Khamlia et les mines de M''ifis, une belle surprise'
+  text: 'Je ne m''attendais pas à ce que le deuxième jour soit aussi intéressant que le premier. La performance gnawa à Khamlia débordait d''énergie, et les vues depuis le plateau des mines de M''ifis sur les dunes étaient incroyables. Notre guide nous a aussi montré des fossiles dans la roche.'
+- name: Aurore D.
+  date: 11/04/2025
+  likes: 0
+  stars: 4
+  title: 'Excellent séjour, le quad un peu trop court'
+  text: 'Le campement et la randonnée à dos de chameau étaient exactement ce que nous espérions, et la visite de la famille nomade a été un moment très touchant. Ma seule remarque est que l''heure de quad est passée bien trop vite.'
+- name: Farid B.
+  date: 29/05/2025
+  likes: 0
+  stars: 5
+  title: 'Said a rendu le désert si personnel'
+  text: 'Notre guide Said nous a expliqué comment sont montées les tentes berbères et pourquoi les dunes changent de couleur selon l''heure de la journée. Nous avons opté pour le camp de luxe et cela en valait la peine, de vrais lits et une salle de bain privée après une journée de sable et de soleil.'
+- name: Justine C.
+  date: 17/07/2025
+  likes: 2
+  stars: 5
+  title: 'Le sandboard a ravi nos enfants'
+  text: 'Passer deux nuits dans le désert avec de jeunes enfants semblait ambitieux, mais tout s''est très bien passé. Ils ont adoré le sandboard juste à côté du camp et parlent encore de la balade à dos de chameau dans les dunes.'
+- name: Karim T.
+  date: 03/09/2025
+  likes: 0
+  stars: 5
+  title: 'Les histoires de Youssef autour du feu'
+  text: 'Youssef nous a conduits pour la journée en 4x4 et a captivé tout le groupe avec ses histoires d''enfance près de l''Erg Chebbi. L''arrêt thé chez la famille nomade et les fossiles des mines de M''ifis étaient de vraies découvertes pour nous.'
+- name: Elise M.
+  date: 21/10/2025
+  likes: 0
+  stars: 5
+  title: 'Deux jours intenses et variés'
+  text: 'Entre la randonnée à dos de chameau, le sandboard, les musiciens gnawa de Khamlia, les mines, la visite d''une famille nomade et la balade en quad au coucher du soleil, il n''y a jamais eu un moment ennuyeux. Dormir sous autant d''étoiles au camp standard restait très confortable.'
+- name: Nadia F.
+  date: 08/12/2025
+  likes: 0
+  stars: 5
+  title: 'Simple, bien organisé, aucun regret'
+  text: 'Nous avons réservé l''option camp standard et c''était propre et confortable. Balade à dos de chameau au coucher du soleil, dîner près du feu, lever de soleil le lendemain matin, exactement ce que nous voulions pour une escale rapide dans le désert.'
+- name: Hamid L.
+  date: 25/01/2026
+  likes: 1
+  stars: 5
+  title: 'Hassan connaissait chaque recoin de l''Erg Chebbi'
+  text: 'Hassan a conduit notre groupe en 4x4 jusqu''aux mines et au camp nomade, et connaissait clairement la région bien au-delà des sentiers touristiques habituels. La chasse aux fossiles sur le plateau a été une surprise amusante pour mon fils adolescent.'
+- name: Camille V.
+  date: 14/06/2026
+  likes: 0
+  stars: 5
+  title: 'La balade en quad au coucher du soleil, inoubliable'
+  text: 'La dernière balade en quad jusqu''en haut des plus grandes dunes alors que le soleil se couchait restera l''un de mes plus beaux souvenirs de voyage. Avec l''arrêt musique à Khamlia plus tôt dans la journée, le deuxième jour est passé à toute vitesse.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sfr!2sfr!4v1756648805984!5m2!1sfr!2sfr

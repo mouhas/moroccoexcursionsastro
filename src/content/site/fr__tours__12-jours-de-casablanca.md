@@ -166,7 +166,77 @@ faqs:
   aHtml: <p>Oui, l'itinéraire peut être entièrement personnalisé. Vous pouvez ajouter des nuits supplémentaires à Marrakech, Fès ou Chefchaouen, ou raccourcir le circuit pour vous concentrer uniquement sur certaines régions.</p>
 - q: Quelles autres visites recommandez-vous?
   aHtml: <p>Si vous disposez de plus de temps au Maroc, nous vous recommandons un <a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 15 jours</strong></a>, <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>20 jours</strong></a>, ou bien <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
-reviews: []
+- q: Peut-on remplacer la balade à dos de chameau par un trajet en 4x4 jusqu'au campement?
+  aHtml: <p>Oui, si la randonnée à dos de chameau ne convient pas à tous les membres du groupe (jeunes enfants, problèmes de dos), un véhicule 4x4 peut vous conduire directement au campement dans le désert de Merzouga.</p>
+- q: Quelle est la meilleure période de l'année pour ce circuit de 12 jours?
+  aHtml: '<p>Le printemps et l''automne sont idéaux, avec des températures agréables à Chefchaouen comme à Merzouga. L''été peut être très chaud dans la vallée du Ziz et à Merzouga, tandis que l''hiver rend les nuits dans le désert et à Chefchaouen bien plus fraîches.</p>'
+- q: Le pourboire est-il attendu pour le chauffeur et les guides?
+  aHtml: <p>Le pourboire n'est pas obligatoire mais reste une pratique courante et appréciée. La plupart des voyageurs laissent entre 5 et 10 euros par jour pour le chauffeur, et un montant similaire pour les guides à Fès et à Marrakech.</p>
+- q: Que dois-je emporter pour un circuit qui va de la côte au désert?
+  aHtml: '<p>Prévoyez des vêtements légers pour Casablanca et Essaouira, une veste chaude pour les nuits à Chefchaouen et dans le désert, des chaussures de marche pour les gorges du Todra, et un maillot de bain si vous souhaitez vous baigner près des chutes d''Ouzoud.</p>'
+- q: Voyageons-nous seuls avec le chauffeur ou avec d'autres touristes?
+  aHtml: <p>Ce circuit de 12 jours est un tour privé. Vous voyagez uniquement avec votre groupe et votre chauffeur, sans autre touriste ajouté au véhicule, ce qui permet d'adapter le rythme des visites à Chefchaouen, Fès ou dans le désert selon vos envies.</p>
+reviews:
+- name: Sébastien Caron
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: Douze jours pour tout voir, ou presque
+  text: Entre la mosquée Hassan II à Casablanca, les ruelles bleues de Chefchaouen et la nuit à dos de chameau à Merzouga, ce circuit couvre vraiment l'essentiel du Maroc. Notre chauffeur Hassan était ponctuel et très sympathique du premier au dernier jour.
+- name: Verena Hartmann
+  date: 03/07/2025
+  likes: 1
+  stars: 5
+  title: Volubilis et Meknès, une belle surprise culturelle
+  text: On ne s'attendait pas à trouver les ruines de Volubilis aussi bien conservées. La porte Bab Mansour à Meknès juste après était impressionnante aussi. Un bon équilibre entre histoire, nature et désert sur l'ensemble du circuit.
+- name: Louise Fortin
+  date: 21/11/2025
+  likes: 0
+  stars: 4
+  title: Superbe itinéraire, journée Fès-Merzouga longue
+  text: 'Le trajet vers Merzouga en passant par Azrou et ses macaques puis la vallée du Ziz est magnifique mais long. Une fois arrivés, le coucher de soleil sur les dunes de l''Erg Chebbi et la musique gnawa à Khamlia ont largement compensé.'
+- name: Alessandro Ferrari
+  date: 09/04/2026
+  likes: 0
+  stars: 5
+  title: Le désert noir, un moment unique
+  text: Peu de gens parlent du désert noir près de Merzouga, avec ses plateaux de pierre volcanique. Notre guide nous y a emmenés avant de rejoindre une famille nomade pour un thé à la menthe. Une journée très riche en découvertes.
+- name: Amélie Blanchard
+  date: 27/05/2025
+  likes: 0
+  stars: 5
+  title: Todra, Dadès et la vallée des roses en une journée
+  text: La marche entre les falaises des gorges du Todra puis la route sinueuse de la vallée du Dadès et enfin les roseraies parfumées, tout s'enchaîne à la perfection. Ouarzazate avec ses studios de cinéma en fin de journée était un joli bonus.
+- name: Nils Andersen
+  date: 15/09/2025
+  likes: 0
+  stars: 5
+  title: Aït Benhaddou et Marrakech, apothéose du voyage
+  text: Le village fortifié d'Aït Benhaddou est encore plus impressionnant en vrai qu'en photo. Après le col de Tizi n'Tichka, l'arrivée à Marrakech et la place Jemaa el-Fnaa le soir ont clôturé cette partie du circuit en beauté.
+- name: Charlotte Reid
+  date: 06/01/2026
+  likes: 0
+  stars: 5
+  title: Ouzoud, une excursion parfaite depuis Marrakech
+  text: La journée aux chutes d'Ouzoud était un vrai bol d'air après plusieurs jours de désert. On a vu des singes magots près des cascades et déjeuné avec une vue superbe sur les bassins émeraude en contrebas.
+- name: Miguel Santos
+  date: 19/06/2025
+  likes: 1
+  stars: 4
+  title: Essaouira en clôture, très agréable
+  text: La médina d'Essaouira et la forteresse de Skala offrent une ambiance très différente du reste du circuit, plus paisible. Le trajet retour vers Casablanca est un peu long le dernier jour, mais rien de rédhibitoire.
+- name: Pauline Delacroix
+  date: 30/10/2025
+  likes: 0
+  stars: 3
+  title: Beau circuit, hôtel à Ouarzazate décevant
+  text: Le contenu du circuit est excellent, en particulier le désert et Aït Benhaddou, mais l'hôtel à Ouarzazate était en dessous de nos attentes pour la catégorie supérieure réservée. L'équipe a été réactive quand nous avons signalé le souci.
+- name: Henrik Johansson
+  date: 12/03/2026
+  likes: 0
+  stars: 5
+  title: Douze jours d'aventure du nord au sud
+  text: Chefchaouen, Fès, le désert de Merzouga, puis Marrakech et Essaouira, ce circuit couvre une diversité incroyable de paysages marocains. Le chauffeur Karim connaissait toujours le meilleur endroit pour s'arrêter et prendre des photos.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1sfr!2sfr!4v1755433740429!5m2!1sfr!2sfr

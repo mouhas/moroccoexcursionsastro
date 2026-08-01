@@ -1,14 +1,30 @@
 ---
-title: "13 Days in Morocco: Tour Itineraries And Prices"
-lang: "en"
-section: "pages"
-pslug: "morocco-13-day-trips"
-urlPath: "morocco-13-day-trips"
-price: 60
+title: '13 Days in Morocco: Tour Itineraries And Prices'
+lang: en
+section: pages
+pslug: morocco-13-day-trips
+urlPath: morocco-13-day-trips
+price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/morocco-13-day-trips/"
+source: https://morocco-excursion.com/morocco-13-day-trips/
+faqs:
+- q: How much money should I budget for 13 days in Morocco?
+  aHtml: <p>A mid-range budget is about €60–100 per day, but it depends on your travel style. <b>Luxury</b> trips cost more, while budget travelers can spend less.</p>
+- q: What is a good sample route for 13 days?
+  aHtml: '<p>A common route is: Casablanca → Rabat → Chefchaouen → <b>Fes</b> → Sahara Desert (Merzouga) → Dades Valley → <b>Marrakech</b> → Essaouira → Casablanca.</p>'
+- q: Can I travel by train during my 13 days in Morocco?
+  aHtml: <p>Yes, trains are available between Casablanca, Rabat, <b>Fes</b>, and <b>Marrakech</b>. For desert areas, you’ll need a car or a guided tour.</p>
+- q: How long is the Sahara Desert trip?
+  aHtml: <p>Most of the desert tours to Merzouga from <b>Marrakech</b> take 3–4 days (round trip), but with 13 days, you can easily include this.</p>
+- q: How many days should I spend in Fes?
+  aHtml: <p>For <b>Fes</b>, 2 full days are ideal to explore the old medina, tanneries, and historic sites.</p>
+- q: How many cities can I visit in 13 days?
+  aHtml: <p>On average, travelers visit 5–7 main destinations in 13 days, including imperial cities, the desert, and maybe a coastal town.</p>
+- q: What are the best things to do in Morocco in 13 days?
+  aHtml: <p>Here are the top 13 things you should do when visiting Morocco. a country full of colors, history, and amazing landscapes.</p>
 ---
+
 Discover the very best of Morocco through these 13 unforgettable experiences. Wander the lively streets of **Marrakech’s medina**, browse colorful markets, and soak up the energy at **Jemaa el-Fnaa** with its street performers and local flavors. Step into the serene blue alleys of **Chefchaouen** and enjoy tea from rooftop cafés. Explore **Fes**, a city rich in history, with its ancient mosques and traditional leather tanneries.
 
 Ride camels across the **Sahara Desert**, spend nights under starry skies, listen to Berber music, and witness breathtaking sunsets. Hike through the **Atlas Mountains** and visit authentic Berber villages. Step back in time at the **Kasbah of Ait Ben Haddou**, made famous by movies. Relax in **Essaouira**, a coastal town known for its beach, fresh seafood, and art scene.
@@ -32,36 +48,6 @@ Adventure through **Todra and Dades Gorges**, savor Moroccan dishes like tagine 
 Feel free to contact us if you would like a different plan than the ones shown on our website. We can create a 13-day Morocco tour designed just for you, based on your interests and travel style. Whether you prefer to spend more time in the lively cities, enjoy the peace of the Sahara Desert, or relax by the Atlantic coast, we can adjust the trip to match what you want.
 
 From hotels and transport to the pace of your journey, everything can be arranged to make your experience comfortable and enjoyable. With a personalized plan, your trip will be special, memorable, and focused on what you most want to see and do in Morocco.
-
-### Questions about 13-day tours in Morocco
-
-### How much money should I budget for 13 days in Morocco?
-
-A mid-range budget is about €60–100 per day, but it depends on your travel style. **Luxury** trips cost more, while budget travelers can spend less.
-
-### What is a good sample route for 13 days?
-
-A common route is: Casablanca → Rabat → Chefchaouen → **Fes** → Sahara Desert (Merzouga) → Dades Valley → **Marrakech** → Essaouira → Casablanca.
-
-### Can I travel by train during my 13 days in Morocco?
-
-Yes, trains are available between Casablanca, Rabat, **Fes**, and **Marrakech**. For desert areas, you’ll need a car or a guided tour.
-
-### How long is the Sahara Desert trip?
-
-Most of the desert tours to Merzouga from **Marrakech** take 3–4 days (round trip), but with 13 days, you can easily include this.
-
-### How many days should I spend in Fes?
-
-For **Fes**, 2 full days are ideal to explore the old medina, tanneries, and historic sites.
-
-### How many cities can I visit in 13 days?
-
-On average, travelers visit 5–7 main destinations in 13 days, including imperial cities, the desert, and maybe a coastal town.
-
-## What are the best things to do in Morocco in 13 days?
-
-Here are the top 13 things you should do when visiting Morocco. a country full of colors, history, and amazing landscapes.
 
 ## 1. Walk Through Marrakech Medina
 

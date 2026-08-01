@@ -92,7 +92,77 @@ faqs:
   aHtml: <p>È possibile aggiungere anche altre avventure, come un giro in buggy o in moto da cross. Un giro in buggy di un'ora costa 75 euro a persona (per due persone a bordo) e un giro in moto da cross di un'ora costa 150 euro a persona. Queste attività consentono di esplorare meglio il deserto e aggiungono emozioni al viaggio.</p>
 - q: È possibile prenotare solo una di queste escursioni?
   aHtml: <p>È anche possibile prenotare solo un'attività senza partecipare all'intero tour. È possibile scegliere solo un giro in cammello, un <strong>tour in ATV/quad</strong>, <strong>un'escursione in buggy</strong>, un tour in motocross o <strong>un'escursione nel deserto in 4x4</strong>. In questo modo, potrete godervi il deserto esattamente come desiderate, sia che si tratti di una breve avventura o di un'esperienza completa.</p>
-reviews: []
+- q: A che ora devo arrivare a Merzouga per iniziare il tour?
+  aHtml: <p>Il check-in presso il nostro ufficio a Merzouga avviene nel tardo pomeriggio, di solito intorno alle 16:00 in inverno e alle 18:00 in estate. Questo ti dà il tempo di parcheggiare in sicurezza, lasciare i bagagli extra e preparare una piccola borsa prima del trekking in cammello tra le dune.</p>
+- q: Il trekking in cammello o il giro in quad sono fisicamente impegnativi?
+  aHtml: '<p>Il trekking in cammello è tranquillo e adatto alla maggior parte dei livelli di forma fisica, anche se non è consigliato per donne in gravidanza o persone con problemi alla schiena. Il giro in quad richiede un po'' più di coordinazione ma nessuna esperienza pregressa, e il nostro team fornisce un breve briefing prima di partire tra le dune.</p>'
+- q: Qual è il periodo migliore dell'anno per fare questo tour?
+  aHtml: <p>Primavera e autunno offrono le temperature più piacevoli per il trekking in cammello e il giro in quad. Le giornate estive nell'Erg Chebbi possono essere molto calde, mentre le notti invernali al campo possono avvicinarsi al punto di congelamento, quindi preparate i bagagli di conseguenza indipendentemente dalla stagione in cui viaggiate.</p>
+- q: Avrò segnale telefonico o wifi al campo nel deserto?
+  aHtml: '<p>Il segnale telefonico è instabile una volta lasciato il villaggio di Merzouga e scompare quasi del tutto una volta raggiunte le dune, quindi non aspettatevi una copertura affidabile al campo. È proprio questo che rende le notti di osservazione delle stelle e attorno al fuoco così autentiche.</p>'
+- q: Devo dare la mancia ai conducenti dei cammelli e al personale del campo?
+  aHtml: '<p>La mancia non è obbligatoria ma è apprezzata per i conducenti dei cammelli, i musicisti di Khamlia e il personale del campo che prepara i pasti. Qualche euro o dirham per attività è un gesto comune se avete apprezzato l''esperienza.</p>'
+reviews:
+- name: Alessandro V.
+  date: 20/01/2025
+  likes: 1
+  stars: 5
+  title: Trekking in cammello e campo oltre le aspettative
+  text: Siamo arrivati a Merzouga nel tardo pomeriggio e abbiamo lasciato l'auto all'ufficio prima di partire per il trekking in cammello tra le dune dell'Erg Chebbi. Vedere le dune tingersi d'arancione al tramonto è valso da solo il viaggio, e lo staff del campo Mouhou ci aspettava con il tè alla menta. La cena e i tamburi berberi attorno al fuoco hanno reso perfetta la prima notte.
+- name: Cristina L.
+  date: 07/02/2025
+  likes: 0
+  stars: 5
+  title: La musica di Khamlia e le miniere di M'ifis sono state una sorpresa
+  text: Non mi aspettavo che il secondo giorno fosse interessante quanto il primo. L'esibizione Gnawa a Khamlia era piena di energia, e la vista dall'altopiano delle miniere di M'ifis sulle dune era incredibile. La nostra guida ci ha anche mostrato dei fossili nella roccia lungo il percorso, una specialità locale che nessuno di noi conosceva.
+- name: Federico A.
+  date: 25/02/2025
+  likes: 0
+  stars: 4
+  title: Bel viaggio, il giro in quad un po' breve
+  text: Il campo nel deserto e il trekking in cammello sono stati tutto quello che speravamo, e la visita alla famiglia nomade è stata una tappa molto toccante. L'unico neo è che l'ora sul quad è volata troppo in fretta, avrei pagato volentieri per un secondo giro tra le dune al tramonto.
+- name: Martina S.
+  date: 15/03/2025
+  likes: 1
+  stars: 5
+  title: La nostra guida ha reso il deserto speciale
+  text: La nostra guida Rachid ci ha spiegato tutto, da come vengono montate le tende berbere al motivo per cui le dune cambiano colore nelle diverse ore del giorno. Abbiamo scelto il campo di lusso e ne è valsa la pena, letti veri e bagno privato dopo una giornata di sabbia e sole.
+- name: Diego R.
+  date: 03/04/2025
+  likes: 0
+  stars: 5
+  title: Il sandboarding è stato il momento clou per i bambini
+  text: Due notti nel deserto con bambini piccoli sembrava un'impresa ambiziosa ma è andata benissimo. Hanno adorato il sandboarding subito accanto al campo e parlano ancora del giro in cammello tra le dune.
+- name: Veronica P.
+  date: 22/05/2025
+  likes: 0
+  stars: 5
+  title: I racconti attorno al fuoco della nostra guida
+  text: Il nostro autista ci ha portati per la giornata in 4x4 e ha intrattenuto tutto il gruppo con storie sulla sua infanzia vicino all'Erg Chebbi. La sosta per il tè con la famiglia nomade e i fossili alle miniere di M'ifis erano cose che non avevo letto prima di prenotare, quindi ci sono sembrate vere scoperte.
+- name: Simone B.
+  date: 11/06/2025
+  likes: 1
+  stars: 5
+  title: Due giorni pieni zeppi di attività diverse
+  text: Tra il trekking in cammello, il sandboarding, i musicisti Gnawa di Khamlia, le miniere, la visita alla famiglia nomade e il giro in quad al tramonto, non c'è mai stato un momento di noia. Dormire sotto così tante stelle nel campo standard è stato comunque comodo per noi.
+- name: Elisa N.
+  date: 29/07/2025
+  likes: 0
+  stars: 5
+  title: Semplice, ben organizzato, nessun problema
+  text: Abbiamo prenotato il campo standard ed era pulito e confortevole. Giro in cammello al tramonto, cena vicino al fuoco, alba la mattina dopo, esattamente quello che volevamo da una breve tappa nel deserto.
+- name: Patrizio C.
+  date: 14/09/2025
+  likes: 0
+  stars: 5
+  title: La nostra guida conosceva ogni angolo dell'Erg Chebbi
+  text: La nostra guida ha condotto il gruppo in 4x4 fino alle miniere e al campo nomade, e conosceva chiaramente la zona ben oltre le solite tappe turistiche. La caccia ai fossili sull'altopiano è stata un divertimento inaspettato per mio figlio adolescente.
+- name: Giorgia F.
+  date: 02/11/2025
+  likes: 0
+  stars: 5
+  title: Il giro in quad al tramonto è stato indimenticabile
+  text: L'ultimo giro in quad sulle dune più alte mentre il sole tramontava è uno dei ricordi di viaggio più belli che ho. Insieme alla tappa della musica di Khamlia dello stesso giorno, il secondo giorno è volato via.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m46!1m12!1m3!1d103921.43195433775!2d-4.074145619523457!3d31.093187295782357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m31!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973cb9175df3f1%3A0xf65090c1d64e40e2!2sKhamlia%2C%20Morocco!3m2!1d31.0260344!2d-4.005704199999999!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!5e1!3m2!1sit!2sit!4v1756648805984!5m2!1sit!2sit

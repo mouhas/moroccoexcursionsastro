@@ -96,7 +96,79 @@ faqs:
     <p>Parfait pour la culture, le shopping et les vues sur le bord de mer</p>
 
     <p>Ces deux excursions permettent de découvrir la nature et la culture locale, tout comme l''excursion aux cascades d''Ouzoud.</p>'
-reviews: []
+- q: Qu'est-ce qui est inclus dans l'excursion aux cascades d'Ouzoud ?
+  aHtml: '<p>Le prix comprend le transport aller-retour depuis votre hôtel à Marrakech dans un véhicule climatisé, un chauffeur expérimenté et multilingue, le carburant, ainsi que du temps libre pour explorer les cascades à votre rythme. Le déjeuner et les boissons ne sont pas inclus, mais il y a des restaurants locaux à Ouzoud avec de belles vues où vous pourrez acheter un repas.</p>'
+- q: À quelle heure commence l'excursion et combien de temps dure-t-elle ?
+  aHtml: '<p>La prise en charge à votre hôtel à Marrakech se fait vers 8h00 du matin, et le trajet jusqu''à Ouzoud dure environ 3 heures dans chaque sens. En comptant la randonnée jusqu''aux chutes, le temps libre et le trajet retour, il s''agit d''une excursion d''une journée complète, et vous devez vous attendre à rentrer à Marrakech en soirée.</p>'
+- q: Que dois-je apporter pour cette excursion ?
+  aHtml: '<p>Portez des chaussures de marche confortables, car le sentier jusqu''à la base de la cascade comporte des marches et des sections escarpées. Il est également conseillé d''apporter un maillot de bain si vous souhaitez vous rafraîchir dans l''eau, ainsi qu''un chapeau, de la crème solaire et un peu d''argent liquide pour le déjeuner ou une promenade en bateau près des chutes.</p>'
+- q: S'agit-il d'un tour privé ou en groupe ?
+  aHtml: '<p>Il s''agit d''une excursion privée d''une journée, vous voyagerez donc avec votre propre chauffeur dans un véhicule privé plutôt que de rejoindre un grand groupe. Cela permet d''ajuster légèrement le programme à votre rythme, notamment lors de la descente vers les chutes.</p>'
+- q: Quelle est la politique d'annulation ?
+  aHtml: '<p>Vous pouvez annuler cette excursion gratuitement jusqu''à 1 jour avant la date de départ prévue. Merci de nous contacter dès que possible si vos plans changent afin que nous puissions ajuster la réservation.</p>'
+- q: Peut-on se baigner aux cascades ?
+  aHtml: '<p>Oui, une fois arrivé au pied des chutes, vous pouvez nager et vous rafraîchir dans les bassins, faire une courte promenade en bateau plus près de l''eau qui tombe, ou simplement vous détendre et profiter de la brume et de la vue. De nombreux visiteurs combinent la baignade avec un déjeuner dans l''un des restaurants voisins.</p>'
+reviews:
+- name: Manon B.
+  date: 08/01/2025
+  likes: 0
+  stars: 5
+  title: 'Une échappée paisible loin de la ville'
+  text: 'Nous avons marché à travers les oliveraies et un petit village berbère en descendant vers les chutes, tout le chemin était calme et verdoyant. Voir les singes de Barbarie jouer près du sentier a été une belle surprise. La balade en bateau près de la cascade était une jolie façon de terminer la visite.'
+- name: Alexandre P.
+  date: 19/02/2025
+  likes: 1
+  stars: 5
+  title: 'Excellent rapport qualité-prix'
+  text: 'Notre chauffeur est venu nous chercher pile à 8h et la route à travers les contreforts de l''Atlas était déjà magnifique avant même d''arriver à Ouzoud. Nous avons déjeuné dans un restaurant surplombant les chutes, ce qui a été le meilleur moment de la journée.'
+- name: Emeline R.
+  date: 14/03/2025
+  likes: 0
+  stars: 4
+  title: 'Magnifiques chutes mais montée fatigante'
+  text: 'Les cascades elles-mêmes sont splendides et valent vraiment le déplacement, mais la descente vers la base est plus raide que je ne l''imaginais et la remontée nous a essoufflés. Prenez de bonnes chaussures et n''hésitez pas à prendre votre temps.'
+- name: Youssef D.
+  date: 02/05/2025
+  likes: 0
+  stars: 5
+  title: 'Des arcs-en-ciel au-dessus d''Ouzoud'
+  text: 'Nous y sommes allés un après-midi ensoleillé et avons pu voir un arc-en-ciel complet se former dans la brume au pied des chutes, c''était incroyable. Nager dans l''eau fraîche après la descente était exactement ce qu''il nous fallait.'
+- name: Chiara L.
+  date: 27/06/2025
+  likes: 0
+  stars: 5
+  title: 'Singes, cascades et oliveraies'
+  text: 'Ce fut l''une de mes journées préférées au Maroc. Observer les singes de Barbarie grimper dans les arbres le long du sentier avait des airs de safari, et la vue sur les chutes depuis le haut du sentier était à couper le souffle.'
+- name: Thibault M.
+  date: 15/08/2025
+  likes: 2
+  stars: 5
+  title: 'Une route agréable à travers la campagne'
+  text: 'Le trajet depuis Marrakech traverse des vergers de pêchers et d''abricotiers, ce qui a rendu le voyage lui-même agréable, pas seulement la destination. Les chutes d''Ouzoud sont bien plus imposantes que je ne l''imaginais.'
+- name: Nawal K.
+  date: 03/10/2025
+  likes: 1
+  stars: 5
+  title: 'Le clou de notre séjour au Maroc'
+  text: 'Nous avons réservé cette excursion en tour privé et cela s''est senti très personnel, notre chauffeur nous expliquant les villages berbères que nous traversions. Le déjeuner au bord du ruisseau près des chutes, avec le bruit de l''eau en fond sonore, était inoubliable.'
+- name: Damien F.
+  date: 21/11/2025
+  likes: 0
+  stars: 5
+  title: 'Guide adorable et attentionné'
+  text: 'Notre guide était très informatif et bienveillant tout au long de la journée. Il nous a bien prévenus que cette excursion n''est pas recommandée pour les personnes âgées ou ayant des problèmes de dos, ce qui montre leur sérieux.'
+- name: Solène V.
+  date: 09/01/2026
+  likes: 0
+  stars: 4
+  title: 'Marche difficile mais expérience mémorable'
+  text: 'Nous avons rejoint Morocco Excursions pour une excursion d''une journée à Ouzoud le mois dernier et l''expérience était vraiment excellente. Ma seule remarque est que la marche en descente puis en montée était éprouvante et pas si facile.'
+- name: Karima E.
+  date: 28/06/2026
+  likes: 0
+  stars: 5
+  title: 'Randonnée à travers le village berbère'
+  text: 'Cette excursion a été l''une des meilleures expériences de notre séjour au Maroc. La randonnée à travers le village berbère était charmante, et malgré la foule qui a empêché de voir les singes, les guides sont restés serviables et sympathiques, et le paysage était fabuleux.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1736558.4215714682!2d-8.678076534718182!3d31.778240115304797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Maroc!3m2!1d32.014226!2d-6.7189627!5e0!3m2!1sfr!2sbg!4v1753370928860!5m2!1sen!2sbg

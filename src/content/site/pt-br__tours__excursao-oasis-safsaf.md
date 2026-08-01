@@ -76,7 +76,75 @@ faqs:
   aHtml: <p>Não, não há instalações no oásis.</p>
 - q: Podemos fazer outras atividades durante este passeio?
   aHtml: <p>Esta é uma excursão de dia inteiro, mas pode adicionar atividades extras em Merzouga, como um passeio de camelo, quadriciclo, um passeio de buggy ao pôr do sol ou até mesmo um jantar romântico num acampamento no deserto.</p>
-reviews: []
+- q: A excursão é privada ou partilhada com outros viajantes?
+  aHtml: <p>Esta é uma excursão totalmente privada, feita apenas com o seu grupo e o motorista/guia. Isso significa que pode ajustar o ritmo do dia, passar mais tempo no oásis ou com as famílias nómadas, conforme preferir.</p>
+- q: Qual é a política de cancelamento?
+  aHtml: <p>É possível cancelar gratuitamente até 48 horas antes da data marcada para a excursão. Após esse prazo, entre em contacto connosco o quanto antes para que possamos tentar reorganizar o veículo e o guia.</p>
+- q: O trajeto é confortável para pessoas com problemas nas costas?
+  aHtml: <p>O percurso em 4x4 passa por trilhos rochosos e dunas, o que pode causar alguns solavancos ao longo do dia. Se tiver problemas nas costas, recomendamos avisar-nos antes da reserva para que o motorista possa adaptar o ritmo da condução.</p>
+- q: O oásis de Safsaf é muito visitado por turistas?
+  aHtml: <p>Não, o oásis de Safsaf fica bastante afastado das rotas turísticas mais comuns em Merzouga, o que o torna um local tranquilo e pouco movimentado. É exatamente essa sensação de isolamento que muitos viajantes mais apreciam nesta excursão.</p>
+reviews:
+- name: Patricia Gomes
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: Um oásis secreto no meio do nada
+  text: Chegar ao oásis de Safsaf depois de horas em trilhos off-road foi como encontrar um paraíso escondido, com palmeiras altas e um silêncio incrível. O piquenique à sombra foi o momento perfeito para descansar antes de voltar a Merzouga.
+- name: Antoine Lefebvre
+  date: 22/02/2025
+  likes: 1
+  stars: 5
+  title: Fósseis em Tissardmine, uma parada fascinante
+  text: A paragem no oásis de Tissardmine para ver os fósseis marinhos antigos foi surpreendente, nunca imaginei encontrar isso no meio do deserto. Visitar as famílias nómadas logo depois deu um lado humano muito bonito ao passeio.
+- name: Sara Lindqvist
+  date: 07/03/2025
+  likes: 0
+  stars: 4
+  title: Trajeto acidentado mas recompensador
+  text: O percurso em 4x4 até ao oásis é bastante acidentado, com muitas dunas e pedras pelo caminho, então não é para quem enjoa facilmente. Ainda assim, nadar nos pequenos lagos naturais de Safsaf no final valeu cada solavanco.
+- name: Miguel Santos
+  date: 18/04/2025
+  likes: 0
+  stars: 5
+  title: Chá com nómadas antes do oásis
+  text: Parar para tomar chá com uma família nómada que vive em tendas tradicionais foi um dos melhores momentos do dia, antes mesmo de chegarmos ao oásis. O guia falava muito bem sobre a vida no deserto e as tradições locais.
+- name: Julia Baumann
+  date: 01/05/2025
+  likes: 0
+  stars: 5
+  title: Longe das dunas turísticas de Erg Chebbi
+  text: Adorei que este passeio nos levou para norte, longe das dunas mais movimentadas de Erg Chebbi, até um lugar bem mais tranquilo. Passar horas debaixo das palmeiras do oásis de Safsaf sem ninguém por perto foi muito especial.
+- name: Carlos Ferreira
+  date: 13/06/2025
+  likes: 0
+  stars: 5
+  title: Piquenique à sombra das palmeiras
+  text: O piquenique preparado pelo guia à sombra das palmeiras de Safsaf foi simples mas delicioso, com uma vista linda sobre os lagos naturais. Recomendo levar sapatos leves porque caminhámos bastante pelo oásis.
+- name: Yasmin Al-Sayed
+  date: 25/07/2025
+  likes: 0
+  stars: 5
+  title: Nadar no meio do deserto foi surreal
+  text: Não esperávamos encontrar água suficiente para nadar, mas tivemos sorte e foi uma das experiências mais inesquecíveis da nossa viagem a Marrocos. Nadar rodeados de palmeiras no meio do Saara é algo que recomendo a todos.
+- name: Tomasz Kowalski
+  date: 14/09/2025
+  likes: 0
+  stars: 3
+  title: Dia longo mas interessante
+  text: A excursão dura o dia inteiro e, por volta da sétima hora, já estávamos um pouco cansados do calor e da estrada. Mesmo assim, os fósseis de Tissardmine e o oásis de Safsaf tornaram a experiência muito válida.
+- name: Beatriz Nunes
+  date: 30/10/2025
+  likes: 0
+  stars: 5
+  title: Guia atencioso durante todo o percurso
+  text: O nosso motorista/guia foi extremamente atencioso, sempre a explicar sobre os planaltos rochosos e os leitos de rios secos que atravessávamos. Chegar ao oásis de Safsaf ao fim da manhã e ter a tarde toda para relaxar foi perfeito.
+- name: Omar Cherkaoui
+  date: 11/12/2025
+  likes: 0
+  stars: 5
+  title: Recolha no hotel muito prática
+  text: A recolha no nosso acampamento em Merzouga foi pontual e o veículo 4x4 era confortável mesmo nos trilhos mais acidentados. O contraste entre as dunas douradas de Erg Chebbi e o verde do oásis de Safsaf foi impressionante.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d207640.7430245904!2d-4.198059513795864!3d31.185454445044723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!5e1!3m2!1spt-br!2spt-br!4v1757684506799!5m2!1spt-br!2spt-br

@@ -77,7 +77,77 @@ faqs:
   aHtml: <p>Os acampamentos de luxo oferecem tendas privadas com camas confortáveis, casas de banho e chuveiros. Os acampamentos padrão são mais simples, com casas de banho partilhadas e instalações básicas.</p>
 - q: Vocês oferecem outras excursões pelo deserto em Merzouga?
   aHtml: <p>Sim, além de passeios de camelo, também organizamos <a href="/pt-br/tours/excursoes-quad-atv" rel="noopener" target="_blank"><strong>passeios de quadriciclo</strong></a>, aventuras de buggy e <a href="/pt-br/tours/excursoes-4x4-merzouga" rel="noopener" target="_blank"><strong>excursões off-road 4x4 pelo deserto</strong></a> para explorá-lo. Esses passeios podem incluir visitas a famílias nómadas, aldeias berberes e locais escondidos no deserto. Se preferir não andar de camelo, pode ir de 4x4 ou quadriciclo e ainda passar a noite no acampamento.</p>
-reviews: []
+- q: A que horas devo chegar ao escritório em Merzouga?
+  aHtml: <p>Recomendamos chegar cerca de 20 a 30 minutos antes do horário combinado, que costuma ser por volta das 16h no inverno e das 18h no verão. Isso dá tempo suficiente para estacionar o carro, usar a casa de banho e preparar-se antes de montar no camelo.</p>
+- q: Os passeios de camelo são adequados para todas as idades?
+  aHtml: <p>O passeio é adequado para a maioria dos viajantes, mas por razões de segurança não é recomendado para grávidas, pessoas com problemas graves nas costas ou ancas, nem para viajantes com mais de 70 anos. Nesses casos, oferecemos transporte alternativo até ao acampamento.</p>
+- q: A tenda no acampamento é privada?
+  aHtml: <p>Sim, o passeio inclui uma tenda privada para si, tanto na opção de acampamento padrão como na de luxo. A diferença principal está nas instalações, com casas de banho partilhadas no acampamento padrão e casas de banho privadas com chuveiro no acampamento de luxo.</p>
+- q: Posso cancelar a reserva se os meus planos mudarem?
+  aHtml: <p>Devido à natureza desta excursão, que envolve a preparação do acampamento e do jantar com antecedência, não é possível cancelar gratuitamente no mesmo dia da excursão. Recomendamos confirmar os seus planos antes de reservar ou contactar-nos assim que souber de qualquer alteração.</p>
+- q: Há eletricidade ou forma de carregar o telemóvel no acampamento?
+  aHtml: <p>Os acampamentos no deserto têm eletricidade limitada, geralmente através de geradores ou painéis solares, por isso é uma boa ideia levar uma bateria portátil se precisar de carregar o telemóvel ou a câmara durante a noite.</p>
+reviews:
+- name: Marina Souza
+  date: 12/01/2025
+  likes: 0
+  stars: 5
+  title: Pôr do sol nas dunas de Erg Chebbi
+  text: Ver a areia mudar de amarela para laranja e vermelha durante o passeio de camelo ao pôr do sol foi absolutamente mágico. À noite, a música berbere ao redor da fogueira no acampamento tornou tudo ainda mais especial.
+- name: Thiago Almeida
+  date: 04/02/2025
+  likes: 1
+  stars: 5
+  title: Acampamento de luxo valeu cada euro
+  text: Escolhemos o acampamento de luxo e a tenda privada com chuveiro fez toda a diferença depois de um dia inteiro de viagem. O jantar com tagine e cuscuz foi delicioso, e dormir sob as estrelas em Erg Chebbi é algo que nunca vou esquecer.
+- name: Laura Jimenez
+  date: 19/03/2025
+  likes: 0
+  stars: 4
+  title: Sandboard divertido mas cansativo
+  text: Deslizar pelas dunas macias no sandboard foi muito divertido, embora subir de novo tenha sido mais cansativo do que esperávamos. Vestir calças compridas para o passeio de camelo foi um bom conselho que recebemos antes de reservar.
+- name: Peter Nguyen
+  date: 27/04/2025
+  likes: 0
+  stars: 5
+  title: Nascer do sol inesquecível no segundo dia
+  text: Acordar cedo para subir uma duna e ver o nascer do sol sobre a areia dourada foi tão bonito quanto o pôr do sol da noite anterior. O regresso de camelo pela manhã com luz suave foi o final perfeito para a aventura.
+- name: Aicha Benali
+  date: 15/05/2025
+  likes: 0
+  stars: 5
+  title: Chá de menta e música berbere ao redor da fogueira
+  text: Chegar ao acampamento e ser recebida com chá de menta depois do passeio de camelo foi um gesto muito acolhedor. Depois do jantar, os guias tocaram tambores e todos dançámos, uma noite verdadeiramente memorável no Saara.
+- name: Erik Johansson
+  date: 02/06/2025
+  likes: 0
+  stars: 5
+  title: Céu estrelado incrível longe da cidade
+  text: Nunca tinha visto tantas estrelas como naquela noite em Erg Chebbi, sem nenhuma luz artificial por perto. O acampamento padrão foi simples mas confortável, e o passeio de camelo até lá valeu totalmente a pena.
+- name: Sofia Ramirez
+  date: 21/07/2025
+  likes: 0
+  stars: 3
+  title: Bonito mas o passeio de camelo é um pouco desconfortável
+  text: A paisagem e o pôr do sol foram lindíssimos, mas confesso que a caminhada de camelo de uma hora ficou desconfortável perto do final. Ainda assim, o jantar e a música berbere no acampamento compensaram bastante a experiência.
+- name: Daniel Costa
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: Estacionamento gratuito facilitou tudo
+  text: Gostei muito de poder deixar o carro estacionado gratuitamente no escritório em Merzouga antes do passeio de camelo. As dunas de Erg Chebbi são realmente as mais altas que já vi em Marrocos, impressionantes ao pôr do sol.
+- name: Yara Haddad
+  date: 28/10/2025
+  likes: 0
+  stars: 5
+  title: Pequeno-almoço simples mas gostoso
+  text: O pequeno-almoço no acampamento antes do regresso de camelo foi simples mas muito saboroso, com pão fresco e chá quente. A caminhada até ao topo da duna para ver o nascer do sol antes disso foi um dos melhores momentos da viagem.
+- name: Matteo Bruno
+  date: 14/12/2025
+  likes: 0
+  stars: 5
+  title: Uma noite mágica no coração do Saara
+  text: Entre o passeio de camelo, o pôr do sol, o jantar tradicional e a música berbere junto à fogueira, esta excursão de uma noite resumiu tudo o que eu esperava do deserto de Merzouga. Recomendo muito o acampamento de luxo para quem quer mais conforto.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d51931.904417536134!2d-4.008977543785037!3d31.145826742932723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e0!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m0!5e1!3m2!1spt-pt!2spt-pt!4v1756312207723!5m2!1spt-pt!2spt-pt

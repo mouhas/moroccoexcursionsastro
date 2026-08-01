@@ -37,7 +37,7 @@ Indipendentemente da dove si trovino nel mondo, i viaggiatori possono ricevere a
 6. Le nostre migliori guide turistiche possono fornirti consigli di viaggio esperti.
 7. Organizzazione di tutti i pasti, bevande, alloggio e trasporti.
 
-## **Perché la nostra agenzia****?**
+## **Perché la nostra agenzia?**
 
 ---
 
@@ -127,6 +127,6 @@ Abbiamo fatto un'escursione di tre giorni da Fez a Marrakech passando per il des
 
 #### Francesca
 
-Lágenzia Morocco Excxursions Travel ha ospitato me e il mio coniuge per tre giorni. Siamo partiti da Fes e abbiamo viaggiato fino a Marrakech passando per molte destinazioni. L'escursione prevedeva un soggiorno in una lussuosa tenda nel deserto. Tutto è stato meraviglioso. Il nostro autista, Ahmed, era incredibilmente competente e ci ha descritto in dettaglio tutti i luoghi che abbiamo visto, nonché le usanze tradizionali. Aspiriamo tutti a vivere la stessa esperienza. Grazie mille, Hassan e Ahmed.
+L'agenzia Morocco Excursions Travel ha ospitato me e il mio coniuge per tre giorni. Siamo partiti da Fes e abbiamo viaggiato fino a Marrakech passando per molte destinazioni. L'escursione prevedeva un soggiorno in una lussuosa tenda nel deserto. Tutto è stato meraviglioso. Il nostro autista, Ahmed, era incredibilmente competente e ci ha descritto in dettaglio tutti i luoghi che abbiamo visto, nonché le usanze tradizionali. Aspiriamo tutti a vivere la stessa esperienza. Grazie mille, Hassan e Ahmed.
 
 PIU [**RECENSIONI**](/it/reviews)

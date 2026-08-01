@@ -133,7 +133,75 @@ faqs:
   aHtml: <p>The cost of the 4-day tour from Fes to the desert varies depending on factors like group size, accommodation category, and season. Prices are typically higher for smaller private groups, luxury accommodations, and during peak travel seasons. We'd be happy to provide you with an exact quote based on your specific travel preferences and dates.</p>
 - q: Do you offer a similar tour?
   aHtml: <p>Absolutely! We can suggest a <a href="https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/" rel="noopener" target="_blank"><strong>4-day tour from Fes to Marrakech</strong></a> or a <a href="https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/" rel="noopener" target="_blank"><strong>5-day desert tour from Fes</strong></a>.</p>
-reviews: []
+- q: What's the difference between the standard and superior desert camp?
+  aHtml: <p>The standard Mouhou camp has comfortable shared-style tents with dinner and breakfast included, while the superior Mouhou Luxury Camp option offers more private tents with better bedding and en-suite facilities. The same upgrade choice applies to the hotels in Todra Gorges.</p>
+- q: What should I pack for this trip?
+  aHtml: <p>Bring light clothing and sunscreen for the day, a warm layer and scarf for cool desert nights, comfortable closed shoes for the Todra Gorges walk, and a refillable water bottle. If you have dietary restrictions, let your driver-guide know in advance.</p>
+- q: Is this a private tour or shared with other travelers?
+  aHtml: '<p>This itinerary can be booked as a private tour with your own vehicle and driver-guide, or joined as part of a small group departure. Let us know your preference when booking and we''ll confirm availability.</p>'
+- q: 'What happens if there''s bad weather during the desert portion?'
+  aHtml: <p>Sandstorms and rain are rare in the Merzouga area but can occasionally affect the sunset or sunrise views and shorten the camel ride. Your driver-guide will adjust the timing or route where possible, and the desert camp itself remains a comfortable stay regardless of conditions.</p>
+reviews:
+- name: Lars T.
+  date: 03/09/2024
+  likes: 0
+  stars: 5
+  title: Khamlia's Gnaoua music was unforgettable
+  text: 'The stop in Khamlia on our 4WD day was something we didn''t expect - a village of Gnaoua musicians who welcomed us with tea and a drumming performance that felt completely genuine, not a tourist show. Combined with the camel ride into Erg Chebbi at sunset that evening, this was hands down the best day of our whole Morocco trip.'
+- name: Beatriz M.
+  date: 18/06/2024
+  likes: 0
+  stars: 5
+  title: Flamingos in the middle of the Sahara
+  text: Never expected to see pink flamingos in the desert but Dayet Srij had water when we passed and our guide stopped so we could watch them. The rest of the 4WD day through the black desert near Mifis, spotting fossils in the rock, was just as strange and wonderful.
+- name: Ingeborg O.
+  date: 25/11/2023
+  likes: 0
+  stars: 5
+  title: Ifrane really does look like Switzerland
+  text: 'Stopping in Ifrane on the drive south from Fes was a funny contrast, alpine chalets and pine trees before we even reached the desert. A few hours later we were watching monkeys in the cedar forest near Azrou, and by evening we''d crossed the Ziz Valley and were riding camels into the Merzouga dunes.'
+- name: Michelle F.
+  date: 07/02/2025
+  likes: 0
+  stars: 5
+  title: Nomad tea and a night in the luxury camp
+  text: 'Sharing mint tea with the nomad family our guide introduced us to was a quiet, humbling moment after a busy morning of off-roading around Erg Chebbi. We''d paid for the superior camp option and it was worth every extra euro, proper beds and a real shower after a day in the sand.'
+- name: Tom I.
+  date: 14/04/2024
+  likes: 0
+  stars: 5
+  title: Todra Gorges cliffs are no joke
+  text: '300 meters of rock on either side of a narrow road, it''s hard to describe how the Todra Gorges actually feel until you''re standing at the bottom of them. We hiked through in the morning of day three before continuing on to Fes. Ahmed, our driver, timed it perfectly to avoid the worst of the midday heat.'
+- name: Fatima K.
+  date: 30/08/2023
+  likes: 0
+  stars: 4
+  title: Great trip, long first and last days
+  text: 'The overview mentions the first and last days involve 7-8 hours of driving and that''s accurate, it''s a lot of time in the car through the Middle Atlas. That said, the stops in Ifrane and the villages along the way, plus everything in Merzouga and Todra in between, more than made up for it.'
+- name: Kenji Y.
+  date: 09/01/2024
+  likes: 0
+  stars: 5
+  title: Rissani market and the black desert
+  text: 'Loved that this wasn''t just dunes and camels. We wandered the old market in Rissani, once the seat of the Alawite dynasty, and later drove through the black desert near Mifis where our guide pointed out fossilized marine life in the rock. Strange to think that was once a sea.'
+- name: Rui N.
+  date: 21/05/2024
+  likes: 0
+  stars: 5
+  title: Sunrise over Erg Chebbi
+  text: Waking up before dawn to climb the dunes and watch the sunrise over Erg Chebbi was worth the early alarm. Our driver Rachid had breakfast and the camels ready to go right after, and we were in Rissani by mid-morning.
+- name: Farida U.
+  date: 12/10/2024
+  likes: 0
+  stars: 5
+  title: A trip full of small surprises
+  text: 'Wild monkeys in the cedar forest near Azrou, flamingos at Dayet Srij, Gnaoua drumming in Khamlia, mint tea with a nomad family, the Todra Gorges - every day of this tour had something we didn''t expect. Four days from Fes felt like a proper journey through southern Morocco, not just a dash to the desert and back.'
+- name: Natasha A.
+  date: 06/03/2025
+  likes: 0
+  stars: 5
+  title: Comfortable camp, great guide
+  text: 'Two nights in the desert camp near Merzouga were more comfortable than we expected, good food and real Berber music around the fire rather than a canned performance. Our guide made sure we didn''t miss the short hike through Todra Gorges either. Would book again.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d1722116.7729230525!2d-6.079640175008169!3d32.53924965676884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzrou%2C%20Morocco!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sen!2sen!4v1754141018069!5m2!1sen!2sen

@@ -96,7 +96,77 @@ faqs:
   aHtml: <p>Il periodo ideale per questo trekking è la primavera (gennaio-maggio) o l'autunno (settembre-novembre), quando le temperature sono moderate e piacevoli. Le estati possono essere estremamente calde, rendendo le lunghe camminate faticose, mentre le notti invernali possono essere molto fredde, quindi è essenziale indossare abiti adeguati. L'alba e il tramonto sono i momenti più belli per ammirare le dune, indipendentemente dalla stagione.</p>
 - q: Avete altri trekking simili?
   aHtml: <p>Sì, abbiamo altri tour di trekking di 3 giorni, 4 giorni e 5 giorni. Inoltre, è possibile farlo in un solo giorno. Quindi non esitate a contattarci se state cercando un trekking personalizzato.</p>
-reviews: []
+- q: Quante persone ci sono in genere in un gruppo di trekking?
+  aHtml: <p>Il trekking di 2 giorni è organizzato come tour privato, quindi il gruppo è composto solo da voi e dalla vostra guida berbera. Questo permette di adattare il ritmo della camminata alle esigenze di tutti i partecipanti.</p>
+- q: Cosa succede ai nostri bagagli durante il trekking?
+  aHtml: <p>Potete lasciare i bagagli pesanti nel vostro hotel a Merzouga o nel nostro ufficio prima di partire. Durante il trekking porterete solo uno zaino leggero con l'essenziale, mentre acqua e provviste vengono trasportate separatamente fino al campo.</p>
+- q: È possibile fare parte del percorso in cammello se siamo stanchi?
+  aHtml: <p>Sì, se durante il trekking qualcuno si stanca o preferisce riposare, è possibile organizzare un tratto a dorso di cammello invece di camminare. Basta comunicarlo alla guida durante il tour.</p>
+- q: Il campo nel deserto ha bagni privati?
+  aHtml: <p>Dipende dall'opzione scelta, il campo standard offre servizi in comune, mentre il campo di lusso include tende con bagno privato. Entrambe le opzioni offrono letti comodi e coperte per le notti fresche nel deserto.</p>
+- q: La guida parla italiano o solo inglese?
+  aHtml: <p>Le nostre guide berbere parlano generalmente inglese e francese, e molte conoscono anche un italiano di base. Se preferite una guida che parli italiano fluentemente, comunicatelo al momento della prenotazione così possiamo organizzarci in anticipo.</p>
+reviews:
+- name: Amelia F.
+  date: 16/03/2025
+  likes: 0
+  stars: 5
+  title: Camminare tra le dune è tutta un'altra esperienza
+  text: Avevamo già fatto un giro in cammello in un altro viaggio, ma camminare a piedi tra le dune di Erg Chebbi è completamente diverso, molto più lento e intimo. La nostra guida berbera Brahim ci ha fatto notare dettagli che in cammello non avremmo mai visto, come le tracce lasciate dal vento sulla sabbia.
+- name: Antoine F.
+  date: 29/06/2025
+  likes: 0
+  stars: 5
+  title: Il tramonto sulle dune, magico
+  text: Le gambe un po' stanche dopo cinque ore di cammino sulla sabbia, ma ne è valsa assolutamente la pena. Il campo tra le dune con la cena berbera e la musica intorno al fuoco è stato il momento più bello, insieme all'alba del giorno dopo vista dalla cima di una duna vicina.
+- name: Brandon K.
+  date: 05/10/2025
+  likes: 0
+  stars: 4
+  title: Fisicamente impegnativo ma ne vale la pena
+  text: Non sottovalutate la fatica di camminare sulla sabbia soffice per ore, è più faticoso di una normale escursione. Detto questo, il silenzio del deserto e il cielo stellato sopra il campo sono stati incredibili. Solo quattro stelle perché avremmo apprezzato una pausa in più durante il pomeriggio più caldo.
+- name: Petra G.
+  date: 13/01/2026
+  likes: 0
+  stars: 5
+  title: Due giorni che non si dimenticano
+  text: La camminata del primo giorno tra le dune sempre più alte è stata impegnativa ma gratificante, soprattutto quando siamo saliti su una cresta per vedere Erg Chebbi dall'alto. Il pranzo berbero all'ombra di una tenda e il tè alla menta hanno reso tutto ancora più speciale.
+- name: Davide S.
+  date: 21/08/2025
+  likes: 1
+  stars: 5
+  title: Il percorso di ritorno era completamente diverso
+  text: Una cosa che ho apprezzato molto è che il secondo giorno la guida ci ha fatto tornare a Merzouga da un percorso diverso rispetto all'andata, così abbiamo visto altre dune e un'altra prospettiva del deserto. La colazione al campo con amlou e pane fresco è stata ottima.
+- name: Harry S.
+  date: 02/04/2026
+  likes: 0
+  stars: 5
+  title: La camminata all'alba è stata indimenticabile
+  text: Svegliarsi presto per salire su una duna e vedere la prima luce colorare la sabbia è stato uno dei momenti più belli del nostro viaggio in Marocco. La nostra guida Said conosceva ogni angolo delle dune e ci ha fatto fare foto in punti che difficilmente si trovano da soli.
+- name: Léa G.
+  date: 09/11/2025
+  likes: 0
+  stars: 5
+  title: Un'esperienza più autentica di quanto pensassi
+  text: Pensavo che due giorni di trekking nel deserto fossero troppo pochi, invece il ritmo lento della camminata ci ha permesso di apprezzare davvero il paesaggio. La cena nel campo con musica berbera e tamburi intorno al fuoco ha chiuso la giornata alla perfezione.
+- name: Amanda W.
+  date: 18/05/2025
+  likes: 0
+  stars: 4
+  title: Ottimo ma portate più acqua del previsto
+  text: L'esperienza è stata bellissima, dune altissime, tramonto spettacolare e cena tradizionale al campo. L'unico consiglio che do è di portare più acqua di quanta si pensi, camminare sulla sabbia disidrata più del previsto anche in una giornata non troppo calda.
+- name: Alejandro H.
+  date: 27/02/2026
+  likes: 0
+  stars: 5
+  title: Le dune di Erg Chebbi a piedi, indimenticabile
+  text: Rispetto ad altri tour nel deserto che avevamo fatto in passato con il cammello, camminare tra le dune ci ha dato un ritmo completamente diverso e più rilassato. Il campo nel deserto era semplice ma molto confortevole, con un bagno pulito e letti comodi nella tenda.
+- name: Martina C.
+  date: 14/09/2025
+  likes: 0
+  stars: 5
+  title: Perfetto per chi ama camminare
+  text: Se amate camminare, questo trekking di due giorni è perfetto. Le dune di Erg Chebbi cambiano colore continuamente durante il giorno e la nostra guida ci ha spiegato tante cose sulla vita nomade lungo il percorso. Consigliato a chi cerca qualcosa di diverso dal solito giro in cammello.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sit!2sit!4v1757162605013!5m2!1sit!2sit

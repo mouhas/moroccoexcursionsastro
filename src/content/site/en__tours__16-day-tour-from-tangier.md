@@ -120,7 +120,75 @@ faqs:
   aHtml: <p>You'll stay in comfortable, well-located hotels or riads in each city, and in a proper desert camp in Merzouga with real beds and a shared dining tent. Standard and superior categories are both available.</p>
 - q: Where does the tour start and end?
   aHtml: <p>The tour starts and ends in Tangier, with pickup and drop-off available at your hotel, the airport, or the ferry port if you're arriving from Spain.</p>
-reviews: []
+- q: 'What''s the best season to do this 16-day loop?'
+  aHtml: <p>Spring and autumn work best for this route, since it mixes coastal towns, mountain passes, and the Sahara. Summer heat in Merzouga can be intense, while winter brings cold nights at the desert camp and in the Rif Mountains around Chefchaouen.</p>
+- q: Is there wifi or phone signal at the Merzouga desert camp?
+  aHtml: <p>Signal is usually available in Merzouga town but tends to drop off at the desert camp itself, since it sits out in the Erg Chebbi dunes. Most guests treat the two nights there as a break from being online.</p>
+- q: How much should we tip our driver-guide over 16 days?
+  aHtml: '<p>There''s no fixed rule, but for a private tour of this length many travelers set aside around 10-15 euros per day for the driver-guide, adjusting up or down based on group size and how the trip went.</p>'
+- q: With hotels changing almost every night, how do we manage luggage and laundry?
+  aHtml: '<p>Your driver handles loading and unloading bags at each stop, and most hotels along the route, including in Essaouira, Marrakech, and Fes where you have free days, can arrange laundry for a small fee so you''re not carrying dirty clothes for all 16 days.</p>'
+reviews:
+- name: Elena E.
+  date: 05/01/2024
+  likes: 0
+  stars: 5
+  title: Taroudant, a quieter stop before Marrakech
+  text: 'Taroudant''s ramparts and souks gave us a calmer preview of Marrakech without the crowds. Our driver said it''s sometimes called a smaller Marrakech, and it fit well. Glad this route includes it instead of going straight from Agadir.'
+- name: Carlos Z.
+  date: 19/01/2024
+  likes: 0
+  stars: 5
+  title: Two full nights in Essaouira
+  text: 'The free day in Essaouira let us actually watch the fishing boats come into the harbor in the morning and browse the woodwork stalls in the medina without rushing. Sixteen days gave this trip room to breathe that shorter tours don''t have.'
+- name: Sofia Y.
+  date: 06/02/2024
+  likes: 0
+  stars: 5
+  title: Second night in the desert camp made all the difference
+  text: Having a full free day in Merzouga between the camel trek and the drive north meant we could do the optional 4x4 excursion into the Erg Chebbi dunes without feeling rushed the next morning. Our guide Said arranged the nomad family visit too, which was a nice addition.
+- name: Ravin Z.
+  date: 21/02/2024
+  likes: 0
+  stars: 5
+  title: 'Todra Gorges after Skoura''s palm groves'
+  text: 'The drive through Skoura''s palm groves and the Valley of Roses at Mgouna into the Dades Valley was stunning on its own, and then walking through Todra Gorges the next day with the canyon walls closing in overhead was even better.'
+- name: Grace R.
+  date: 08/03/2024
+  likes: 0
+  stars: 5
+  title: Ait Ben Haddou over the Tizi-n-Tichka pass
+  text: Crossing the High Atlas via the Tizi-n-Tichka pass to reach Ait Ben Haddou was a highlight - the kasbah itself is stunning, and our driver Youssef timed the visit for late afternoon light which made a real difference for photos.
+- name: Meera F.
+  date: 24/03/2024
+  likes: 0
+  stars: 5
+  title: Fes free day with the tanneries
+  text: Sixteen days meant we got a proper free day in Fes to explore the tanneries and madrasas at our own pace instead of a rushed half-day stop. Well worth the extra time built into this longer itinerary.
+- name: Marion N.
+  date: 10/04/2024
+  likes: 1
+  stars: 4
+  title: Comprehensive trip, a few long driving days
+  text: This is genuinely the most complete Morocco itinerary we could find, hitting the coast, the desert, and the imperial cities in one loop, but a few of the transfer days (especially Agadir to Marrakech) run long. Our guide Rachid made the drives more bearable with good stories, and the four free days built in do help.
+- name: Paula I.
+  date: 27/04/2024
+  likes: 0
+  stars: 5
+  title: Volubilis and Chefchaouen back to back
+  text: 'Walking the Roman ruins at Volubilis in the morning and then arriving in Chefchaouen''s blue streets by evening was a great way to close out the trip. Meknes in between was a nice bonus stop too.'
+- name: Ben P.
+  date: 14/05/2024
+  likes: 0
+  stars: 5
+  title: 'Casablanca''s Hassan II Mosque up close'
+  text: The mosque is even more impressive in person than in photos, right on the Corniche with the Atlantic behind it. Good early stop before heading down the coast toward Essaouira and Agadir.
+- name: Aisha Z.
+  date: 30/05/2024
+  likes: 0
+  stars: 5
+  title: Sixteen days, never felt like too much
+  text: We were worried sixteen days would drag, but between the four free days, the two nights in the desert camp, and a driver who kept things relaxed, it never felt like a slog. Ait Ben Haddou, the Todra Gorges, and the Merzouga dunes were the standouts for us.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

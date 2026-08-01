@@ -189,7 +189,110 @@ collections:
         required: false
         field: { label: "Feature", name: "feature", widget: "string" }
 
+      - label: "Icon Grid (feature cards — About page, etc.)"
+        name: "iconGrid"
+        widget: "list"
+        required: false
+        summary: "{{fields.title}}"
+        fields:
+          - { label: "Icon (see Icon.astro for names, e.g. globe, star, shield)", name: "icon", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+
+      - label: "Car Listings (fleet grid — Car Rental page)"
+        name: "carListings"
+        widget: "list"
+        required: false
+        summary: "{{fields.title}}"
+        fields:
+          - { label: "Icon (car, van, or bus)", name: "icon", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Text", name: "text", widget: "text" }
+          - label: "Specs"
+            name: "specs"
+            widget: "list"
+            required: false
+            field: { label: "Spec", name: "spec", widget: "string" }
+          - { label: "Price (e.g. 130€/Day)", name: "price", widget: "string", required: false }
+          - { label: "Link to this car's own page (optional)", name: "href", widget: "string", required: false }
+          - { label: "Book link", name: "bookHref", widget: "string", required: false }
+
+      - label: "SEO Title Override"
+        name: "metaTitle"
+        widget: "string"
+        required: false
+        hint: "Leave blank to use the auto-generated title (page title + \" | Morocco Excursions\")."
+      - label: "SEO Description Override"
+        name: "metaDescription"
+        widget: "text"
+        required: false
+        hint: "Leave blank to use the auto-generated description built from the page's own content."
+
       - label: "Page Body (markdown — info pages only)"
         name: "body"
         widget: "markdown"
         required: false
+
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "general"
+        label: "General Settings"
+        file: "src/content/settings/general.yml"
+        fields:
+          - { label: "PayPal Mode", name: "paypalMode", widget: "select", options: [{ label: "Sandbox (test — never charges real money)", value: "sandbox" }, { label: "Live (real payments)", value: "live" }], hint: "Sandbox always uses PayPal's public test id regardless of the Client ID below — safe to leave as-is until you're ready to accept real payments." }
+          - { label: "PayPal Live Client ID (from developer.paypal.com → Apps & Credentials)", name: "paypalClientId", widget: "string", hint: "Only used when Mode above is set to Live." }
+          - { label: "Phone (display)", name: "phone", widget: "string" }
+          - { label: "Phone link (tel:...)", name: "phoneHref", widget: "string" }
+          - { label: "WhatsApp link (https://wa.me/...)", name: "whatsappHref", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Default SEO Description (used when a page has no override and no auto-generated text)", name: "defaultMetaDescription", widget: "text", required: false }
+          - { label: "Bookings/Messages Endpoint (Worker URL, see BOOKINGS-SETUP.md)", name: "submitEndpoint", widget: "string", required: false, hint: "Leave blank until you've deployed worker/ — the site works fine without it." }
+
+  - name: "bookings"
+    label: "Bookings"
+    folder: "src/content/bookings"
+    create: false
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "name"
+    summary: "{{fields.subject}} — {{fields.name}} ({{fields.status}})"
+    sortable_fields: ["submittedAt", "status", "name"]
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "string", required: false }
+      - { label: "Tour / subject", name: "subject", widget: "string", required: false }
+      - { label: "Message", name: "message", widget: "text", required: false }
+      - { label: "Submitted at", name: "submittedAt", widget: "datetime" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        default: "new"
+        options: ["new", "contacted", "booked", "archived"]
+      - { label: "Full raw submission", name: "raw", widget: "text", required: false }
+
+  - name: "messages"
+    label: "Contact Messages"
+    folder: "src/content/messages"
+    create: false
+    delete: true
+    extension: "json"
+    format: "json"
+    identifier_field: "name"
+    summary: "{{fields.name}} — {{fields.status}}"
+    sortable_fields: ["submittedAt", "status", "name"]
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - { label: "Phone", name: "phone", widget: "string", required: false }
+      - { label: "Subject", name: "subject", widget: "string", required: false }
+      - { label: "Message", name: "message", widget: "text", required: false }
+      - { label: "Submitted at", name: "submittedAt", widget: "datetime" }
+      - label: "Status"
+        name: "status"
+        widget: "select"
+        default: "new"
+        options: ["new", "contacted", "booked", "archived"]
+      - { label: "Full raw submission", name: "raw", widget: "text", required: false }

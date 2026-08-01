@@ -127,7 +127,75 @@ faqs:
   aHtml: <p>Comfortable walking shoes, sunscreen, a hat, and a warm layer for cool evenings in Chefchaouen, Ifrane, and the desert are all recommended.</p>
 - q: Where does the tour start and finish?
   aHtml: <p>The tour starts and ends in Tangier, with pickup available from the airport, the ferry port, or your hotel.</p>
-reviews: []
+- q: What is the cancellation policy?
+  aHtml: <p>You can cancel this tour free of charge up to 1 day before the departure date. Please contact us as soon as possible if your travel plans change.</p>
+- q: What is not included in the price?
+  aHtml: <p>Drinks, lunches, entrance fees to monuments and museums, flights, and tips or personal expenses are not included. Everything else, including transportation, driver, hotels with breakfast, and the desert camp night, is covered in the price.</p>
+- q: Is sandboarding included during the desert camp night?
+  aHtml: <p>Yes, sandboarding on the dunes near the camp is available as an optional activity after you arrive in Merzouga. It is a fun way to spend the free time before dinner while you wait for the sun to set over Erg Chebbi.</p>
+- q: Does the price change depending on the size of the group?
+  aHtml: <p>Yes, this is a private tour and the price per person decreases as more travelers join, from a solo traveler rate down to a lower rate for groups of six or more. Contact us directly for a quote if you are traveling with a larger group.</p>
+reviews:
+- name: Thomas
+  date: 06/01/2025
+  likes: 0
+  stars: 5
+  title: Incredible variety in just 8 days
+  text: We saw so much on this trip, from the Kasbah overlooking the Strait of Gibraltar in Tangier to the blue streets of Chefchaouen at the end. Ait Ben Haddou and the camel trek into the Merzouga dunes were the highlights for us. Our driver was flexible with our pace throughout the whole journey.
+- name: Isabelle
+  date: 18/02/2025
+  likes: 1
+  stars: 5
+  title: Assilah's murals were a lovely surprise
+  text: Stopping in Assilah on the second day to see the whitewashed walls and colorful murals was not something we expected to enjoy so much. Rabat's Hassan Tower and the Kasbah of the Udayas were also worth the visit. The whole trip felt well paced given how much ground we covered.
+- name: Rachel
+  date: 04/03/2025
+  likes: 0
+  stars: 4
+  title: Long driving days but worth it
+  text: This tour covers a lot of distance, so some days in the car were longer than we expected, especially between Ouarzazate and Merzouga. That said, the Todra Gorges and the night in the desert camp made up for it completely. Fes and Chefchaouen at the end were a great way to close out the trip.
+- name: Klaus
+  date: 21/04/2025
+  likes: 0
+  stars: 5
+  title: Casablanca and Marrakech in one trip
+  text: Seeing the Hassan II Mosque in Casablanca before heading to Marrakech gave us a great sense of Morocco's variety early in the trip. The High Atlas crossing to Ait Ben Haddou was stunning. Sleeping under the stars in the Merzouga desert camp was the highlight of the whole week.
+- name: Noor
+  date: 09/06/2025
+  likes: 2
+  stars: 5
+  title: Chefchaouen was the perfect finale
+  text: After the desert and the imperial city of Fes, ending the tour in the blue-washed streets of Chefchaouen felt like the perfect way to wind down. The Rif Mountains scenery on the drive there was beautiful. Our driver-guide was knowledgeable about every stop along the route.
+- name: Santiago
+  date: 27/07/2025
+  likes: 0
+  stars: 5
+  title: Azrou's monkeys were a highlight
+  text: Driving through the cedar forest near Azrou and spotting wild Barbary macaques right by the road was a fun surprise on day six. The alpine village of Ifrane right after felt like a totally different country. This tour really does connect the north and south of Morocco well.
+- name: Freya
+  date: 15/09/2025
+  likes: 0
+  stars: 5
+  title: Camel trek at sunset was magical
+  text: Arriving in Merzouga in time for the camel trek into the Erg Chebbi dunes at sunset was one of the best travel moments I have had. The desert camp dinner and the quiet night under the stars were unforgettable. Fes el Bali's medina the next day was a fascinating contrast to the desert.
+- name: Kenji
+  date: 02/11/2025
+  likes: 1
+  stars: 5
+  title: Well organized private tour
+  text: Having our own driver-guide for the full 8 days made the trip feel relaxed even with so much distance to cover. The stop at Ait Ben Haddou and the walk through Fes el Bali's tanneries and souks stood out the most. Pickup at the Tangier ferry port on arrival was smooth and easy.
+- name: Aoife
+  date: 20/12/2025
+  likes: 0
+  stars: 4
+  title: Great route, pack for cold desert nights
+  text: The desert camp night in Merzouga got surprisingly cold, so bring a warm layer even if the days are hot. Aside from that, every stop from Rabat to Chefchaouen felt worthwhile and well chosen. The Todra Gorges walk on day five was a highlight none of us expected.
+- name: Matteo
+  date: 08/02/2026
+  likes: 0
+  stars: 5
+  title: Connected the north and south perfectly
+  text: This was exactly what we wanted, a single trip covering Tangier, Marrakech, the Sahara, and Fes without having to book separate tours. The camel ride and desert camp in Merzouga were unforgettable, and Chefchaouen's blue medina on the last day was a beautiful way to end the journey. Highly recommend for anyone with about a week and a half in Morocco.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sTangier%2C%20Morocco!4m1!2sChefchaouen%2C%20Morocco

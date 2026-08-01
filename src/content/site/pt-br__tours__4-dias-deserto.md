@@ -121,7 +121,75 @@ faqs:
   aHtml: <p>Sim, água, pequenos-almoços, almoços e jantares estão incluídos no passeio.</p>
 - q: Posso adicionar outras atividades no deserto?
   aHtml: <p>Sim, passeios de camelo fazem parte do passeio em Merzouga, e pode adicionar uma excursão extra pelo deserto de ATV/Quad, Buggy ou Motocross.</p>
-reviews: []
+- q: O que torna esta excursão de 4 dias diferente de outras rotas no deserto?
+  aHtml: <p>Ao contrário dos passeios mais curtos que ficam perto de Merzouga, esta rota segue a antiga pista do Rali Paris-Dakar até aldeias remotas como Ramlia, Jdaid e Oubahlou, além de locais menos visitados como o Oásis de Safsaf e as minas de Mifis. É uma imersão bem mais profunda no deserto.</p>
+- q: O que é a «Cidade Perdida» de Oubahlou?
+  aHtml: <p>Oubahlou, também conhecida como a Cidade Portuguesa, são as ruínas de um antigo povoado atribuído a colonos portugueses. Fica junto ao leito seco do rio Oued Ghris e é uma das paragens mais curiosas do terceiro dia da excursão.</p>
+- q: É preciso experiência anterior em veículos 4x4 para fazer esta excursão?
+  aHtml: <p>Não, o motorista profissional conduz o 4x4 durante toda a rota. Os viajantes vão apenas como passageiros, por isso não é necessária qualquer experiência de condução em terrenos arenosos ou rochosos.</p>
+- q: Onde vemos gravuras rupestres durante a excursão?
+  aHtml: <p>No segundo dia, perto do Restaurante Itrane Sahara, ao longo da antiga rota do Rali Paris-Dakar, fazemos uma curta caminhada até um conjunto de gravuras rupestres pré-históricas gravadas nas rochas do deserto.</p>
+reviews:
+- name: Camille D.
+  date: 18/02/2025
+  likes: 0
+  stars: 5
+  title: Oásis de Safsaf, um paraíso escondido
+  text: Não esperava encontrar um oásis tão verde e tranquilo no meio do deserto negro. O piquenique no Oásis de Safsaf, à sombra das palmeiras, foi um dos melhores momentos dos quatro dias.
+- name: Julien R.
+  date: 04/03/2025
+  likes: 0
+  stars: 5
+  title: Aldeia de Mifis e as minas abandonadas
+  text: Visitar as minas abandonadas de Mifis, com aqueles poços de mais de 50 metros, foi impressionante e um pouco assustador ao mesmo tempo. O guia insistiu bastante na segurança, o que nos deixou tranquilos.
+- name: Marion T.
+  date: 22/04/2025
+  likes: 0
+  stars: 5
+  title: Khamlia e a música Gnawa emocionaram o grupo
+  text: Parar em Khamlia para ouvir os músicos Gnawa a tocar tambores foi um momento especial, diferente de tudo o que já tinha visto em Marrocos. O chá de menta que nos ofereceram lá foi um toque a mais de hospitalidade.
+- name: Nicolas B.
+  date: 10/05/2025
+  likes: 1
+  stars: 4
+  title: Rota fora do comum, mas muitas horas de 4x4
+  text: É uma viagem incrível para quem quer fugir do roteiro turístico comum, seguindo a antiga pista do Rali Dakar. Só aviso que se passam muitas horas dentro do carro entre uma paragem e outra, por isso não é para quem se cansa facilmente de estrada.
+- name: Léa F.
+  date: 28/06/2025
+  likes: 0
+  stars: 5
+  title: Ouzina, uma noite tranquila no meio do nada
+  text: Dormir no hotel do deserto em Ouzina depois de um dia inteiro de exploração foi ótimo, bem mais calmo do que Merzouga. As estrelas ali pareciam ainda mais próximas.
+- name: Antoine M.
+  date: 15/07/2025
+  likes: 0
+  stars: 5
+  title: Oubahlou, a cidade perdida portuguesa
+  text: Nunca imaginei encontrar ruínas atribuídas a colonos portugueses no meio do deserto marroquino. Explorar as ruínas de Oubahlou foi uma das partes mais curiosas de toda a excursão de 4 dias.
+- name: Chloé V.
+  date: 02/08/2025
+  likes: 0
+  stars: 5
+  title: Garganta de Mharech, um oásis escondido entre rochas
+  text: A Garganta de Mharech, com as suas palmeiras entre as rochas, lembrou-nos mesmo um presépio, como o guia tinha explicado. Foi uma paragem curta, mas muito bonita no terceiro dia.
+- name: Mathieu L.
+  date: 19/09/2025
+  likes: 0
+  stars: 3
+  title: Bom roteiro, mas comida podia variar mais
+  text: A excursão em si é ótima e cheia de lugares que não são turísticos, mas notámos que o almoço berbere se repetia bastante ao longo dos quatro dias. Fora isso, o motorista Omar foi um excelente guia e muito atencioso.
+- name: Émilie C.
+  date: 05/11/2025
+  likes: 0
+  stars: 5
+  title: Fósseis de Tissardmine encantaram as crianças
+  text: Viajámos com os nossos filhos e eles adoraram procurar fósseis no Oásis de Tissardmine logo no primeiro dia. Uma boa forma de começar a excursão pelo deserto de forma leve e divertida.
+- name: Pierre G.
+  date: 22/01/2026
+  likes: 0
+  stars: 5
+  title: Erg Znaigui no último dia foi um final perfeito
+  text: Voltar a Merzouga atravessando as dunas de Erg Znaigui no quarto dia foi um belo fecho para a viagem. Quatro dias que mostraram um lado do deserto que a maioria dos turistas nunca vê.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d494797.17510549095!2d-4.553736308826858!3d30.99880074926592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973b22738783b1%3A0x27ae30c7acdde390!2sMfis%2C%20Morocco!3m2!1d31.040521!2d-3.953413!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1spt-br!2spt-br!4v1757232785170!5m2!1spt-br!2spt-br

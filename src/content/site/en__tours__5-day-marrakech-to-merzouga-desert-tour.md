@@ -148,6 +148,12 @@ faqs:
   aHtml: <p>The 5-day desert tour cost varies according to the number of travelers and the category of the accommodations. Please check the pricing section or contact us for additional information.</p>
 - q: What are the similar tours to the 5-day desert tour from Marrakech?
   aHtml: <p>Yes, here are some similar tours to the 5-day desert tour from Marrakech:<br/><a href="/tours/5-day-marrakech-to-fes-desert-tour" rel="noopener" target="_blank">5-Day Marrakech to Fes Desert Tour</a><br/><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></p>
+- q: Is there phone signal or electricity at the Merzouga desert camp?
+  aHtml: <p>Signal is weak but usually workable near Merzouga village and sometimes at the camp itself; once you're deep in the Erg Chebbi dunes it can disappear. The tents don't have power outlets, so bring a power bank if you need to charge your phone or camera overnight.</p>
+- q: How much should I tip the driver and the camel/camp staff?
+  aHtml: <p>Tipping isn't mandatory but is appreciated. As a rough guide, many travelers leave around 10-15 euros per day for the driver, and a smaller amount split between the camel handler and camp staff. It's entirely at your discretion.</p>
+- q: What's the best time of year for the Marrakech to Merzouga route?
+  aHtml: <p>Spring (March-May) and autumn (September-November) are ideal, with warm days and cool nights. Summer can be very hot in the Dades and Merzouga sections, while winter nights in the desert camp are cold, so pack layers.</p>
 reviews:
 - name: Shirley
   date: 26/08/2021
@@ -167,6 +173,48 @@ reviews:
   stars: 5
   title: 5-day luxury desert tour from Marrakech
   text: Our trip to the Sahara desert was a lifetime experience. We enjoyed so much driving on the Mountains, the off-roading, and of course, the nights we spent in the desert. Our guide/guide Said, Hassan the owner, Rachid, our camel guide, and all the team were fabulous. We booked the 5-day luxury desert tour from Marrakech to the south, all the hotels and the desert camp we stayed in were above our expectations.
+- name: Tom H.
+  date: 14/03/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges and a sunset camel ride I won't forget
+  text: Our driver Youssef timed the Todra Gorges walk perfectly, right before the light went golden on the canyon walls. Then the drive down to Merzouga and the camel trek into Erg Chebbi at sunset - genuinely one of the best evenings of my life. The Gnaoua musicians in Khamlia the next day were a nice surprise too, not something I expected on a desert tour.
+- name: Klaus B.
+  date: 02/11/2025
+  likes: 0
+  stars: 4
+  title: Long drives but worth it
+  text: Be prepared, the Tizi n'Tichka pass day is a lot of hairpin turns. My back needed a break by Ouarzazate. That said, the Dades Valley scenery and the desert camp more than made up for it. Only reason it's 4 not 5 stars is I wish the itinerary had one more stop to stretch legs on day one.
+- name: Priya R.
+  date: 22/01/2026
+  likes: 1
+  stars: 5
+  title: Ait Ben Haddou and the nomad family visit were highlights
+  text: Walking through Ait Ben Haddou early in the morning before the crowds arrived felt special, and on day three visiting a nomad family in the desert and seeing the fossil area nearby gave real context to how people actually live out there. It's not just dunes and photos, there's substance to this itinerary.
+- name: Marco D.
+  date: 10/06/2025
+  likes: 0
+  stars: 5
+  title: Sahara sunrise, no notes
+  text: Woke up in the tent, walked up a dune, watched the sun come up over Erg Chebbi. That's it, that's the review. Book this tour.
+- name: Elena V.
+  date: 30/09/2025
+  likes: 0
+  stars: 5
+  title: Rose Valley detour was a lovely surprise
+  text: I didn't expect the Valley of Roses and Skoura's palm groves to be as pretty as the desert itself, but our driver Omar made a point of slowing down through there and explaining the rose harvest season. Two nights in Merzouga gave us proper time to explore instead of rushing, which I appreciated after reading other 3-day tour reviews.
+- name: Nadia K.
+  date: 05/12/2025
+  likes: 0
+  stars: 3
+  title: Good trip, lunch stops felt a bit touristy
+  text: The mountains, gorges, and desert camp were all excellent and our guide was patient with our endless photo stops. My one complaint is a couple of the lunch restaurants felt geared toward tour groups with inflated prices. Would still recommend, just ask your driver for alternatives like the FAQ suggests, I wish I'd known beforehand.
+- name: Ben O.
+  date: 18/04/2026
+  likes: 0
+  stars: 4
+  title: Ouarzazate film studios were a fun last stop
+  text: Didn't think much of the film studio detour going in but it turned out to be a highlight, our driver Brahim had good stories about which movies were shot where. Draa Valley on the drive back to Ouarzazate was stunning too. Solid 5 days overall, just wish we'd had a bit more free time in Marrakech itself before starting.
 rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1748469.5183186634!2d-7.294922531969985!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sbg!4v1753611183046!5m2!1sen!2sbg

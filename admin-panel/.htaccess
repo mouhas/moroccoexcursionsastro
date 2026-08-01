@@ -1,0 +1,12 @@
+Options -Indexes
+
+# Defense in depth: config.php execute normally (PHP always runs server-side,
+# never leaks source) but block direct access anyway, and block the vendored
+# library's internals from being requested directly.
+<FilesMatch "^config\.example\.php$">
+  Require all denied
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+</IfModule>

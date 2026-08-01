@@ -1,52 +1,92 @@
 ---
+// Shared footer, used on every page including individual tour detail
+// pages — always the design reference's footer structure (5-column
+// layout, trust row, bottom bar). Rendered by Base.astro inside a
+// .newtheme wrapper so the real Organic classes/tokens apply.
 import Icon from './Icon.astro';
-import { getNav, base, CONTACT, type Lang } from '../site';
+import { getNav, base, type Lang } from '../site';
+import { getSettings } from '../lib/settings';
 interface Props { lang: Lang; }
 const { lang } = Astro.props;
 const b = base(lang);
 const nav = getNav(lang);
+const settings = await getSettings();
+
+const FCOPY: Record<Lang, {
+  tagline: string; destinations: string; destList: string[];
+  travel: string; travelList: [string, string][];
+  company: string; booking: string; accept: string;
+  rights: string; terms: string; privacy: string; payment: string;
+}> = {
+  en: { tagline: 'A 100% local, Berber-owned tour company sharing authentic Sahara desert tours, camel treks and tailor-made journeys across Morocco.',
+    destinations: 'Destinations', destList: ['Merzouga & the Sahara', 'Marrakech', 'Fes & Meknes', 'High Atlas Mountains', 'Essaouira & the Coast', 'Chefchaouen'],
+    travel: 'Travel', travelList: [['All Tours', '/tours'], ['Desert & Camps', '/morocco-desert-tours'], ['Car Rental', '/morocco-rental-cars'], ['Reviews', '/reviews'], ['Travel Agency', '/travel-agency'], ['FAQs', '/faqs']],
+    company: 'Company', booking: 'Get in Touch', accept: 'We accept',
+    rights: 'All rights reserved.', terms: 'Terms & Conditions', privacy: 'Privacy Policy', payment: 'Payment Policy' },
+  fr: { tagline: 'Une agence 100 % locale, détenue par des Berbères, proposant des circuits authentiques dans le Sahara, des randonnées à dos de chameau et des voyages sur mesure au Maroc.',
+    destinations: 'Destinations', destList: ['Merzouga & le Sahara', 'Marrakech', 'Fès & Meknès', 'Haut Atlas', 'Essaouira & la Côte', 'Chefchaouen'],
+    travel: 'Voyager', travelList: [['Tous les Circuits', '/fr/tours'], ['Désert & Camps', '/fr/circuit-desert-maroc'], ['Location de Voitures', '/fr/location-de-voitures'], ['Avis', '/fr/reviews'], ['Agence de Voyage', '/fr/agence'], ['FAQ', '/fr/faqs']],
+    company: 'Entreprise', booking: 'Nous Contacter', accept: 'Nous acceptons',
+    rights: 'Tous droits réservés.', terms: 'Conditions Générales', privacy: 'Politique de Confidentialité', payment: 'Politique de Paiement' },
+  es: { tagline: 'Una agencia 100% local, de propiedad bereber, que ofrece tours auténticos por el Sahara, paseos en camello y viajes a medida por Marruecos.',
+    destinations: 'Destinos', destList: ['Merzouga y el Sáhara', 'Marrakech', 'Fez y Mequinez', 'Alto Atlas', 'Essaouira y la Costa', 'Chefchaouen'],
+    travel: 'Viajar', travelList: [['Todos los Tours', '/es/tours'], ['Desierto y Campamentos', '/es/viaje-desierto-marruecos'], ['Reseñas', '/es/reviews'], ['Agencia de Viajes', '/es/agencia'], ['FAQs', '/es/faqs']],
+    company: 'Empresa', booking: 'Contáctanos', accept: 'Aceptamos',
+    rights: 'Todos los derechos reservados.', terms: 'Términos y Condiciones', privacy: 'Política de Privacidad', payment: 'Política de Pago' },
+  it: { tagline: "Un'agenzia 100% locale, di proprietà berbera, che offre tour autentici nel Sahara, trekking in cammello e viaggi su misura in Marocco.",
+    destinations: 'Destinazioni', destList: ['Merzouga e il Sahara', 'Marrakech', 'Fes e Meknes', 'Alto Atlante', 'Essaouira e la Costa', 'Chefchaouen'],
+    travel: 'Viaggiare', travelList: [['Tutti i Tour', '/it/tours'], ['Deserto e Campi', '/it/tour-deserto-marocco'], ['Noleggio Auto', '/it/noleggio-auto'], ['Recensioni', '/it/reviews'], ['Agenzia di Viaggi', '/it/agenzia'], ['FAQ', '/it/faqs']],
+    company: 'Azienda', booking: 'Contattaci', accept: 'Accettiamo',
+    rights: 'Tutti i diritti riservati.', terms: 'Termini e Condizioni', privacy: 'Informativa sulla Privacy', payment: 'Politica di Pagamento' },
+  'pt-br': { tagline: 'Uma agência 100% local, de propriedade berbere, oferecendo tours autênticos pelo Saara, passeios de camelo e viagens sob medida por Marrocos.',
+    destinations: 'Destinos', destList: ['Merzouga e o Saara', 'Marrakech', 'Fez e Meknes', 'Alto Atlas', 'Essaouira e o Litoral', 'Chefchaouen'],
+    travel: 'Viajar', travelList: [['Todos os Tours', '/pt-br/tours'], ['Deserto e Acampamentos', '/pt-br/excursoes-deserto-marrocos'], ['Aluguel de Carro', '/pt-br/aluguel-de-carro'], ['Avaliações', '/pt-br/reviews'], ['Agência de Viagens', '/pt-br/agencia'], ['FAQ', '/pt-br/faqs']],
+    company: 'Empresa', booking: 'Fale Conosco', accept: 'Aceitamos',
+    rights: 'Todos os direitos reservados.', terms: 'Termos e Condições', privacy: 'Política de Privacidade', payment: 'Política de Pagamento' },
+};
+const fc = FCOPY[lang];
 ---
-<footer class="site">
-  <div class="wrap">
-    <div class="fgrid">
-      <div class="fbrand">
-        <a class="logo" href={b + '/'} style="color:#fff">
-          <span class="mark"><Icon name="star" class="ico" /></span>
-          <span style="color:#fff">Morocco Excursions</span>
-        </a>
-        <p>A 100% local, Berber-owned tour company sharing authentic Sahara desert tours, camel treks and tailor-made journeys across Morocco.</p>
-        <div class="social">
-          <a href="https://www.facebook.com/MoroccoExcursionsCompany/" target="_blank" rel="noopener" aria-label="Facebook"><Icon name="facebook" class="ico" /></a>
-          <a href="https://www.instagram.com/moroccoexcursions/" target="_blank" rel="noopener" aria-label="Instagram"><Icon name="instagram" class="ico" /></a>
-          <a href="https://twitter.com/Morocco_Touring" target="_blank" rel="noopener" aria-label="X"><Icon name="x" class="ico" /></a>
-          <a href={b + '/reviews'} aria-label="TripAdvisor"><Icon name="tripadvisor" class="ico" /></a>
+<footer class="newtheme" style="background:var(--color-accent-2-900);color:var(--color-neutral-200)">
+  <div style="padding:64px max(40px, calc((100% - 1180px) / 2)) 28px">
+    <div style="display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:36px;padding-bottom:36px;border-bottom:1px solid rgba(255,255,255,0.14)">
+      <div>
+        <p style="font-family:var(--font-heading);font-weight:700;letter-spacing:-0.02em;font-size:24px;margin:0 0 12px;color:#fff">Morocco Excursions</p>
+        <p style="font-size:14px;line-height:1.65;color:var(--color-neutral-400);margin:0 0 16px;max-width:290px">{fc.tagline}</p>
+        <div style="display:flex;gap:10px;margin-top:8px">
+          <a href="https://www.facebook.com/MoroccoExcursionsCompany/" target="_blank" rel="noopener" aria-label="Facebook" style="width:34px;height:34px;border-radius:9px;background:rgba(255,255,255,.08);display:grid;place-items:center;color:#fff"><Icon name="facebook" class="ico sm" /></a>
+          <a href="https://www.instagram.com/moroccoexcursions/" target="_blank" rel="noopener" aria-label="Instagram" style="width:34px;height:34px;border-radius:9px;background:rgba(255,255,255,.08);display:grid;place-items:center;color:#fff"><Icon name="instagram" class="ico sm" /></a>
+          <a href="https://twitter.com/Morocco_Touring" target="_blank" rel="noopener" aria-label="X" style="width:34px;height:34px;border-radius:9px;background:rgba(255,255,255,.08);display:grid;place-items:center;color:#fff"><Icon name="x" class="ico sm" /></a>
+          <a href={b + '/reviews'} aria-label="Reviews" style="width:34px;height:34px;border-radius:9px;background:rgba(255,255,255,.08);display:grid;place-items:center;color:#fff"><Icon name="tripadvisor" class="ico sm" /></a>
         </div>
       </div>
-      <div>
-        <h4>Explore</h4>
-        {nav.slice(1).map((n) => <a href={n.href}>{n.label}</a>)}
+      <div style="display:grid;gap:9px;align-content:start">
+        <p class="mono" style="color:var(--color-neutral-500);margin:0 0 4px">{fc.destinations}</p>
+        {fc.destList.map((d) => <a href={b + '/tours'} style="font-size:14px;color:var(--color-neutral-200)">{d}</a>)}
       </div>
-      <div>
-        <h4>Company</h4>
-        <a href={b + '/reviews'}>Reviews</a>
-        <a href={b + '/'}>About Us</a>
-        <a href={b + '/tours'}>All Tours</a>
+      <div style="display:grid;gap:9px;align-content:start">
+        <p class="mono" style="color:var(--color-neutral-500);margin:0 0 4px">{fc.travel}</p>
+        {fc.travelList.map(([label, href]) => <a href={href} style="font-size:14px;color:var(--color-neutral-200)">{label}</a>)}
       </div>
-      <div>
-        <h4>Get in Touch</h4>
-        <a href={CONTACT.phoneHref}><Icon name="phone" class="ico sm" /> {CONTACT.phone}</a>
-        <a href="mailto:MoroccoExcursions@Gmail.com"><Icon name="mail" class="ico sm" /> MoroccoExcursions@Gmail.com</a>
-        <a href={b + '/tours'}><Icon name="map" class="ico sm" /> Customise Your Trip</a>
-        <div style="margin-top:14px">
-          <span style="background:rgba(255,255,255,.08);padding:6px 12px;border-radius:20px;font-size:12.5px;display:inline-flex;align-items:center;gap:7px">
-            <Icon name="globe" class="ico sm" /> EN · FR · ES · IT · PT
-          </span>
-        </div>
+      <div style="display:grid;gap:9px;align-content:start">
+        <p class="mono" style="color:var(--color-neutral-500);margin:0 0 4px">{fc.booking}</p>
+        <a href={settings.phoneHref} style="font-size:14px;color:var(--color-neutral-200);display:flex;align-items:center;gap:8px"><Icon name="phone" class="ico sm" />{settings.phone}</a>
+        <a href={`mailto:${settings.email}`} style="font-size:14px;color:var(--color-neutral-200);display:flex;align-items:center;gap:8px"><Icon name="mail" class="ico sm" />{settings.email}</a>
+        <a href={settings.whatsappHref} target="_blank" rel="noopener" style="font-size:14px;color:var(--color-neutral-200);display:flex;align-items:center;gap:8px"><Icon name="whatsapp" class="ico sm" />WhatsApp</a>
       </div>
     </div>
-    <div class="fbot">
-      <span>© Morocco Excursions 2026. All rights reserved.</span>
-      <span>Terms &amp; Conditions · Privacy Policy · Payment Policy</span>
+    <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px;padding:26px 0;border-bottom:1px solid rgba(255,255,255,0.14)">
+      <div style="display:flex;align-items:center;gap:20px;font-size:13.5px;color:var(--color-neutral-300)">
+        <span style="display:inline-flex;align-items:center;gap:6px"><Icon name="shield" class="ico sm" />100% Local &amp; Berber-Owned</span>
+        <span style="display:inline-flex;align-items:center;gap:6px"><Icon name="star" class="ico sm" style="color:var(--color-accent-400)" />Rated 5.0 · 820+ Travellers</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:10px">
+        <span style="font-size:13px;color:var(--color-neutral-400)">{fc.accept}</span>
+        <span style="font-size:12px;color:var(--color-neutral-300);border:1px solid rgba(255,255,255,0.24);border-radius:4px;padding:4px 10px">PayPal</span>
+      </div>
+    </div>
+    <div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;padding-top:20px;font-size:13px;color:var(--color-neutral-500)">
+      <span>© Morocco Excursions 2026. {fc.rights}</span>
+      <span>{fc.terms} · {fc.privacy} · {fc.payment}</span>
     </div>
   </div>
 </footer>

@@ -72,7 +72,79 @@ faqs:
   aHtml: '<p>Sí, un guía no solo es recomendable, sino esencial para la seguridad, la navegación y una experiencia más enriquecedora. Los guías proporcionan conocimientos locales sobre pueblos bereberes, oasis ocultos y puntos de referencia del desierto que no aparecen en los mapas.</p>
 
     <p>Los guías también garantizan que la conducción fuera de carretera sea segura, aconsejan sobre los ajustes de la presión de los neumáticos y ayudan en las secciones difíciles de dunas o rocas, lo que hace que tu aventura sin conductor sea segura y envolvente.</p>'
-reviews: []
+- q: ¿Necesito un permiso de conducir internacional?
+  aHtml: '<p>Se recomienda llevar tanto tu carné de conducir habitual como un permiso de conducir internacional, sobre todo si tu licencia no está en un alfabeto latino. En la práctica, para esta excursión guiada por pistas del desierto basta con el carné de conducir válido de tu país de origen, pero es buena idea confirmarlo al reservar.</p>'
+- q: ¿Puedo conducir directamente sobre las dunas de arena?
+  aHtml: '<p>No, esta excursión se centra en la conducción todoterreno por las pistas rocosas y arenosas que rodean las dunas de Erg Chebbi, no en subir y bajar por las propias dunas. Conducir sobre dunas requiere una técnica muy especializada, por lo que esa parte queda reservada a los conductores expertos del equipo y no forma parte del recorrido sin conductor.</p>'
+- q: ¿Cuánto dura la excursión y qué ritmo sigue?
+  aHtml: '<p>La excursión dura un día completo, comenzando en Merzouga y regresando al mismo punto tras recorrer las pistas del antiguo Rally Dakar, los pueblos de Hassi Labied y Khamlia, las minas de Mifis y el oasis de Tissardmine. El ritmo es tranquilo, con paradas frecuentes para fotos, la música gnawa en Khamlia y el picnic a la sombra de las palmeras.</p>'
+- q: ¿Cuál es la política de cancelación?
+  aHtml: '<p>Puedes cancelar de forma gratuita hasta 48 horas antes del inicio de la excursión. Si necesitas cancelar con menos antelación, ponte en contacto con nosotros lo antes posible y haremos lo posible por encontrar una solución.</p>'
+- q: ¿Qué debo llevar el día de la excursión?
+  aHtml: '<p>Te recomendamos ropa cómoda y ligera, gafas de sol, un pañuelo o gorra para protegerte del polvo, protector solar y calzado cerrado. Como el equipo de rescate (pala, cuerda de remolque, compresor y escaleras de arena) ya va incluido en el vehículo, tú solo necesitas preocuparte por tu propio confort.</p>'
+- q: ¿Cuál es la mejor época del año para conducir por el desierto de Merzouga?
+  aHtml: '<p>La primavera y el otoño ofrecen temperaturas más suaves, ideales para pasar horas al volante bajo el sol del Sáhara. En pleno verano el calor del mediodía es muy intenso, así que si viajas en esa temporada conviene salir temprano y llevar suficiente agua.</p>'
+reviews:
+- name: Laura Fernández
+  date: 14/01/2025
+  likes: 0
+  stars: 5
+  title: Conducir mi propio 4x4 fue una pasada
+  text: Llevar el volante entre las dunas por las pistas del Rally Dakar fue una experiencia distinta a cualquier tour guiado que había hecho antes. La parada en Khamlia con la música gnawa en directo fue el mejor momento del día.
+- name: Markus Weber
+  date: 02/03/2025
+  likes: 2
+  stars: 5
+  title: El cambio manual me costó al principio
+  text: No conducía un coche manual desde hacía años y en terreno arenoso al principio me costó, pero el guía fue muy paciente explicando cuándo reducir la presión de los neumáticos. Al final del día ya me sentía con mucha más confianza.
+- name: Priya Nair
+  date: 19/04/2025
+  likes: 0
+  stars: 4
+  title: Pistas rocosas más duras de lo que esperaba
+  text: Las instrucciones antes de salir fueron útiles pero el tramo cerca de las minas de Mifis fue más exigente de lo que pensaba con tanta piedra suelta. Aun así, ver a las familias nómadas y comer junto a las palmeras de Tissardmine valió cada minuto.
+- name: Thabo Nkosi
+  date: 11/06/2025
+  likes: 0
+  stars: 5
+  title: Las minas de Mifis, un lugar que no esperaba
+  text: No sabía que había minas francesas abandonadas en medio del desierto y la parada allí con el guía contando su historia fue fascinante. Después seguimos hacia el oasis para el picnic con vistas increíbles.
+- name: Camille Dubois
+  date: 27/07/2025
+  likes: 1
+  stars: 5
+  title: Té con una familia nómada, un momento muy auténtico
+  text: Detenernos en las pistas cerca de Hassi Labied para saludar a una familia nómada bereber y compartir unos minutos con ellos fue mucho más emotivo de lo que imaginaba. El resto del recorrido por el desierto negro también fue espectacular.
+- name: Diego Santos
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: El oasis de Hassi Labied, una sorpresa verde
+  text: Empezar el día viendo a las familias locales cultivar la tierra junto al oasis de Hassi Labied fue un contraste precioso con las dunas doradas que vendrían después. Todo el recorrido estuvo muy bien organizado.
+- name: Aisha Rahman
+  date: 22/10/2025
+  likes: 0
+  stars: 3
+  title: Se nos atascó el coche pero el equipo funcionó
+  text: En un tramo de arena blanda cerca de las dunas el coche se quedó atascado y tuvimos que usar las escaleras de arena y el compresor que llevaba el vehículo. Se solucionó rápido gracias al guía, aunque perdimos tiempo que hubiera preferido pasar en el oasis.
+- name: Jonas Lindqvist
+  date: 05/12/2025
+  likes: 0
+  stars: 5
+  title: Cruzar el desierto negro fue surrealista
+  text: El tramo de vuelta a Merzouga atravesando el desierto negro, con esas piedras oscuras cubriendo el suelo, parecía otro planeta comparado con las dunas doradas de la mañana. Una excursión muy completa de principio a fin.
+- name: Isabela Costa
+  date: 18/02/2026
+  likes: 3
+  stars: 5
+  title: El picnic bajo las palmeras de Tissardmine
+  text: Parar a comer en el pequeño oasis de Tissardmine, rodeados de palmeras después de tantas horas de pistas polvorientas, fue el descanso perfecto. La comida tipo picnic estuvo mejor de lo que esperaba para estar en medio del desierto.
+- name: Ryan Connelly
+  date: 15/06/2026
+  likes: 0
+  stars: 5
+  title: Libertad total para parar donde quisiera
+  text: Lo mejor de conducir tu propio 4x4 en vez de ir en un tour normal es poder parar cuando quieres para hacer fotos sin molestar a nadie. Entre las minas de Mifis, los nómadas y la música de Khamlia, el día se quedó corto.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d207685.50890543303!2d-4.1827306675038!3d31.165040234232738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973b2144e90bb1%3A0x96ef63503b80e425!2sMifis%20Mine%2C%20Merzouga%2C%20Morocco!3m2!1d31.037187499999998!2d-3.9514375!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!5e1!3m2!1ses!2ses!4v1757764222994!5m2!1ses!2ses

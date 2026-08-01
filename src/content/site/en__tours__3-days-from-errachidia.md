@@ -94,7 +94,75 @@ faqs:
   aHtml: <p>The camel trek is not recommended for people with back problems, pregnant women, or travelers over 70, though a direct vehicle transfer to the camp can be arranged instead.</p>
 - q: Where does the tour start and end?
   aHtml: <p>The tour starts and ends in Errachidia, with pickup and drop-off available at your hotel or the train station.</p>
-reviews: []
+- q: Is this a private tour, and how many people travel together?
+  aHtml: '<p>Yes, this is a private round trip with your own vehicle and driver-guide, so it''s just your group traveling together, no combining with other travelers.</p>'
+- q: How much do the optional 4x4 or quad excursions cost on the free day?
+  aHtml: '<p>Optional activities on the full free day in Merzouga, such as a 4x4 desert excursion or a quad bike ride into the dunes, can be added for an extra cost and arranged directly with your driver-guide once you''re in Merzouga.</p>'
+- q: 'What''s the best time of year for two nights in the Merzouga dunes?'
+  aHtml: <p>Spring and autumn offer the mildest days and nights for spending two full days around Erg Chebbi. Summer afternoons can be very hot, and winter nights at the camp can get quite cold, so pack layers either way.</p>
+- q: Will we have phone signal during the two nights in the desert?
+  aHtml: <p>Signal is limited once you leave Errachidia and largely disappears at the desert camp, so treat the two nights as a good excuse to properly disconnect.</p>
+reviews:
+- name: Whitney R.
+  date: 15/01/2025
+  likes: 1
+  stars: 5
+  title: Picked up right from our Errachidia hotel
+  text: Easy start to the trip, our driver collected us straight from the hotel in Errachidia and we were on camels heading into Erg Chebbi by late afternoon. First night at the standard camp with Berber music around the fire was a great introduction to the desert.
+- name: Yara R.
+  date: 27/02/2025
+  likes: 0
+  stars: 5
+  title: The free day made all the difference
+  text: Having a full second day in Merzouga instead of just passing through meant we could actually relax, visit a nomad village, and enjoy the dunes without rushing. This is a much better pace than a quick one-night stop.
+- name: Ravi X.
+  date: 03/03/2025
+  likes: 0
+  stars: 4
+  title: Great trip, pickup time could be clearer
+  text: The desert days themselves were excellent, especially the nomad village visit, but we waited longer than expected at our Errachidia hotel before the driver arrived. Once we were moving everything went smoothly.
+- name: Anna K.
+  date: 19/04/2025
+  likes: 2
+  stars: 5
+  title: Worth upgrading the second night
+  text: We paid extra to upgrade our second night to the luxury camp and it made a real difference after a full day in the sun, proper bed, private bathroom, still the same campfire atmosphere as the standard camp the first night.
+- name: Franz J.
+  date: 08/05/2025
+  likes: 0
+  stars: 5
+  title: Added the 4x4 excursion on the free day
+  text: We paid a bit extra for the optional 4x4 tour during our free day in Merzouga and it was worth every euro, views over Erg Chebbi from spots we never would have reached on foot or by camel.
+- name: Yusuf L.
+  date: 21/06/2025
+  likes: 1
+  stars: 5
+  title: Hassan kept the whole trip relaxed
+  text: Our driver Hassan never made us feel rushed, whether it was the drive from Errachidia or the two nights in Merzouga. Nice change from tours that try to pack too much into three days.
+- name: Mei Q.
+  date: 30/07/2024
+  likes: 0
+  stars: 4
+  title: Good round trip, wish the add-ons were explained upfront
+  text: The camel trek and the nomad village stop were both great, but we only found out about the optional quad and 4x4 excursions once we were already in Merzouga. Would have liked that information before booking so we could plan the extra cost in advance.
+- name: David E.
+  date: 12/08/2024
+  likes: 0
+  stars: 5
+  title: Final sunrise was worth the early start
+  text: Waking up before dawn on the last morning to watch the sunrise over the dunes one more time before the drive back to Errachidia was a fitting way to end the trip. Quiet, peaceful, no crowds.
+- name: Alicia C.
+  date: 24/09/2024
+  likes: 1
+  stars: 5
+  title: Quad ride and sandboarding both delivered
+  text: We added the quad excursion on our free day and also tried sandboarding near the camp, both were great fun and gave the middle day a lot more variety than we expected from a simple round trip.
+- name: Ola Y.
+  date: 05/11/2024
+  likes: 0
+  stars: 5
+  title: Exactly as described, no surprises
+  text: Straightforward round trip from Errachidia with our driver Omar, camel trek, two nights in the dunes, a nomad village stop, and back home. Did exactly what it promised.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sErrachidia%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco

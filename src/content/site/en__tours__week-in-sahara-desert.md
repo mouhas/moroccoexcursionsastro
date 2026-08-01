@@ -120,7 +120,79 @@ faqs:
   aHtml: <p>Yes, all rides are supervised by experienced guides, and safety instructions are given before starting. Always follow the guide’s instructions.</p>
 - q: This tour can be personalized?
   aHtml: <p>Yes, the tour can be customized. We can change the itinerary, add or exclude some activities according to your needs and preferences.</p>
-reviews: []
+- q: What is the difference between the desert camps used on this tour?
+  aHtml: <p>During the seven days, you will sleep in different types of desert camps and guesthouses depending on the location, including camps near Erg Chebbi and simple accommodation in villages such as Ouzina and El Mharech. All accommodation, dinners, and breakfasts are included in the price for every night of the tour.</p>
+- q: Is this tour physically demanding?
+  aHtml: <p>This tour includes activities such as camel riding, climbing sand dunes, and walking in soft sand, which can be tiring over several days. Travelers should be in reasonably good physical condition and should take breaks and drink water often to avoid becoming too tired.</p>
+- q: What should I pack for a week in the desert?
+  aHtml: <p>Pack light clothing and sun protection for hot daytime temperatures, as well as warm layers for cold desert nights. A hat, sunglasses, sunscreen, comfortable closed shoes, and a reusable water bottle are also recommended for the camel rides, ATV and buggy tours, and walks to the oases.</p>
+- q: What is the best time of year for this desert tour?
+  aHtml: <p>The most comfortable months for this tour are from October to April, when daytime temperatures are milder. Summer months from June to August can be very hot during the day, so travelers who visit in summer should plan outdoor activities for the morning or late afternoon.</p>
+- q: Is this a private tour, and can it be done by solo travelers?
+  aHtml: <p>Yes, this is a private tour with your own driver and vehicle, and it can be booked by solo travelers as well as groups. The price per person is lower when more people share the same vehicle, but the itinerary and activities stay the same no matter the group size.</p>
+- q: What is the cancellation policy?
+  aHtml: <p>You can cancel this tour free of charge up to 1 day before the start date. Please contact us as soon as possible if your plans change so that we can update your booking.</p>
+reviews:
+- name: Nadia
+  date: 05/01/2025
+  likes: 0
+  stars: 5
+  title: A full week of desert adventure
+  text: Seven days felt like the perfect amount of time to really experience the Sahara instead of just passing through. The camel ride into the dunes on the first evening and the Gnawa music in Khamlia on day two were both unforgettable. Visiting the nomad families gave us a real sense of desert life.
+- name: Erik
+  date: 19/02/2025
+  likes: 1
+  stars: 5
+  title: ATV and buggy day was so much fun
+  text: Day three with the ATV ride in the morning and the buggy tour in the afternoon was the most exciting part of the whole trip. Lunch at the desert oasis afterward was a peaceful contrast to the speed of the morning. Sandboarding back at camp that evening was a nice bonus.
+- name: Paulina
+  date: 08/03/2025
+  likes: 0
+  stars: 4
+  title: Loved the fossils at Tissardmine
+  text: I did not expect the fossil site at Tissardmine on day four to be so interesting, our guide explained a lot about the region's history. The picnic at Safsaf Oasis afterward was a relaxing way to spend the afternoon. The trip covers a lot of ground, so be ready for some long drives between stops.
+- name: Kwame
+  date: 27/04/2025
+  likes: 0
+  stars: 5
+  title: Red dunes of Erg Znaigui were stunning
+  text: Reaching Erg Znaigui on day five and seeing the red sand dunes was completely different from the golden dunes of Erg Chebbi at the start of the trip. The drive along the old Dakar Rally track to Ouzina was memorable too. Our overnight stay in Ouzina was quiet and full of stars.
+- name: Sanne
+  date: 14/06/2025
+  likes: 2
+  stars: 5
+  title: Ramlia and Sidi Ali felt untouched
+  text: Day six took us to small villages like Ramlia and Sidi Ali that felt far from any tourist crowds. Riding camels again near Oasis El Mharech in the evening was a lovely way to end the day. This whole week gave us a much deeper look at the desert than a short two or three day trip would have.
+- name: Renata
+  date: 02/08/2025
+  likes: 0
+  stars: 5
+  title: Sunsets every single night
+  text: Every evening of this week-long tour brought a different desert sunset, from Erg Chebbi on day one to the quiet dunes near El Mharech on day six. The nomad family visit on day two was one of the most memorable parts of the whole trip. Our driver was flexible when we wanted extra time at certain stops.
+- name: Jonas
+  date: 21/09/2025
+  likes: 0
+  stars: 5
+  title: Well organized week in the Sahara
+  text: With so many stops over seven days, from Khamlia's Gnawa music to the fossils at Tissardmine, I expected the trip to feel rushed, but the pace was actually very relaxed. The desert camps and guesthouses along the way were comfortable enough after a long day of activities. The final camel ride back near Merzouga was a nice way to close the loop.
+- name: Aya
+  date: 09/11/2025
+  likes: 0
+  stars: 4
+  title: Buggy tour was a highlight, bring layers
+  text: The buggy tour on day three was thrilling and one of the best parts of the trip for my husband and me. Desert nights got colder than we expected, even outside of winter, so pack warm layers. Visiting Khamlia village and hearing the Gnawa music was a cultural highlight we still talk about.
+- name: Robert
+  date: 30/12/2025
+  likes: 1
+  stars: 5
+  title: A true off the beaten path desert trip
+  text: This tour goes far beyond the usual one or two night Merzouga trips, reaching places like Ouzina and Ramlia that most visitors never see. The picnic at Safsaf Oasis on day four was one of the calmest moments of the whole week. Our driver knew every village and family we stopped to visit.
+- name: Ines
+  date: 17/02/2026
+  likes: 0
+  stars: 5
+  title: Perfect for anyone who loves the desert
+  text: If you love the desert, a full week here is worth it, with the ATV and buggy adventures on day three and the red dunes of Erg Znaigui on day five standing out the most. Sleeping under the stars in different camps each night never got old. We left with a much better understanding of nomadic life in the Sahara.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d416135.0278035823!2d-4.587651101860743!3d30.99034575091771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd96e1667b3b4885%3A0xc2c090147d80cd7d!2sOuzina%2C%20Morocco!3m2!1d30.7652318!2d-4.1449788!4m5!1s0xd965635b5b92b29%3A0xa3a8e707020388bb!2sRamlia%2C%20Morocco!3m2!1d30.685573899999998!2d-4.4153049!4m5!1s0xd96527367f91c3b%3A0xea3aee22208ef49f!2sEl%20Mharch%2C%20Morocco!3m2!1d30.748611099999998!2d-4.5566667!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!5e1!3m2!1sen!2sus!4v1757243889444!5m2!1sen!2sus

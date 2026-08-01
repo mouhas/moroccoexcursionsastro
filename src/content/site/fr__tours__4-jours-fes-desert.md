@@ -133,7 +133,75 @@ faqs:
   aHtml: <p>Le coût du circuit de 4 jours entre Fès et le désert varie en fonction de plusieurs facteurs, tels que la taille du groupe, la catégorie d'hébergement et la saison. Les prix sont généralement plus élevés pour les petits groupes privés, les hébergements de luxe et pendant les périodes de forte affluence touristique. Nous serons ravis de vous fournir un devis précis en fonction de vos préférences et de vos dates de voyage.</p>
 - q: Proposez-vous des circuits similaire?
   aHtml: <p>Bien sûr ! Nous pouvons vous proposer un <a href="https://morocco-excursion.com/fr/tours/4-jours-fes-marrakech/" rel="noopener" target="_blank"><strong>circuit de 4 jours de Fès à Marrakech</strong></a> ou un <a href="https://morocco-excursion.com/fr/tours/5-jours-fes-desert/" rel="noopener" target="_blank"><strong>circuit de 5 jours dans le désert au départ de Fès</strong></a>.</p>
-reviews: []
+- q: Quelle est la différence entre le camp standard et le camp supérieur dans le désert?
+  aHtml: <p>Le camp standard Mouhou propose des tentes confortables de style partagé avec le dîner et le petit-déjeuner inclus, tandis que l'option Mouhou Luxury Camp offre des tentes plus privées avec une meilleure literie et des installations privatives. Le même choix de surclassement s'applique aux hôtels des gorges du Todra.</p>
+- q: Que dois-je emporter pour ce voyage?
+  aHtml: <p>Prévoyez des vêtements légers et de la crème solaire pour la journée, une couche chaude et une écharpe pour les nuits fraîches dans le désert, des chaussures fermées confortables pour la marche dans les gorges du Todra, ainsi qu'une bouteille d'eau réutilisable. Si vous avez des restrictions alimentaires, informez-en votre chauffeur-guide à l'avance.</p>
+- q: 'Ce circuit est-il privé ou partagé avec d''autres voyageurs?'
+  aHtml: '<p>Cet itinéraire peut être réservé en circuit privé avec votre propre véhicule et chauffeur-guide, ou rejoint dans le cadre d''un départ en petit groupe. Faites-nous part de votre préférence lors de la réservation et nous confirmerons la disponibilité.</p>'
+- q: Que se passe-t-il en cas de mauvais temps pendant la partie désertique du voyage?
+  aHtml: <p>Les tempêtes de sable et la pluie sont rares dans la région de Merzouga, mais elles peuvent parfois affecter les vues du coucher ou du lever de soleil et raccourcir la balade à dos de chameau. Votre chauffeur-guide ajustera les horaires ou l'itinéraire dans la mesure du possible, et le campement dans le désert reste confortable quelles que soient les conditions.</p>
+reviews:
+- name: Sarah Delattre
+  date: 15/01/2025
+  likes: 0
+  stars: 5
+  title: La musique gnaoua de Khamlia, un moment inoubliable
+  text: L'arrêt à Khamlia pendant notre journée en 4x4 a été une vraie surprise, un village de musiciens gnaoua qui nous ont accueillis avec du thé et une performance de percussions qui semblait totalement authentique, loin d'un spectacle pour touristes. Associé à la balade à dos de chameau vers l'Erg Chebbi au coucher du soleil ce même soir, ce fut sans conteste la meilleure journée de tout notre voyage au Maroc.
+- name: Damien Roche
+  date: 03/02/2025
+  likes: 0
+  stars: 5
+  title: Des flamants roses en plein Sahara
+  text: Je ne m'attendais vraiment pas à voir des flamants roses dans le désert, mais le lac de Dayet Srij avait de l'eau lors de notre passage et notre guide s'est arrêté pour que nous puissions les observer. Le reste de la journée en 4x4 à travers le désert noir près de Mifis, à la recherche de fossiles dans la roche, était tout aussi étrange et merveilleux.
+- name: Isabelle Marchand
+  date: 22/03/2025
+  likes: 0
+  stars: 5
+  title: Ifrane ressemble vraiment à la Suisse
+  text: S'arrêter à Ifrane pendant la descente depuis Fès était un contraste amusant, des chalets alpins et des pins avant même d'atteindre le désert. Quelques heures plus tard, nous observions des singes dans la forêt de cèdres près d'Azrou, et le soir venu, nous avions traversé la vallée du Ziz pour monter à dos de chameau dans les dunes de Merzouga.
+- name: Charlotte Perrin
+  date: 10/04/2025
+  likes: 0
+  stars: 5
+  title: Thé chez les nomades et nuit dans le camp de luxe
+  text: Partager un thé à la menthe avec la famille nomade que notre guide nous a présentée a été un moment simple et touchant après une matinée bien remplie en 4x4 autour de l'Erg Chebbi. Nous avions choisi l'option camp supérieur et cela valait vraiment chaque euro, de vrais lits et une douche digne de ce nom après une journée dans le sable.
+- name: Julien Faure
+  date: 28/05/2025
+  likes: 1
+  stars: 5
+  title: Les falaises des gorges du Todra impressionnent
+  text: 300 mètres de roche de chaque côté d'une route étroite, difficile de décrire ce que l'on ressent au fond des gorges du Todra avant d'y être vraiment. Nous avons marché là le matin du troisième jour avant de continuer vers Fès. Ahmed, notre chauffeur, avait parfaitement calculé son timing pour éviter la pire chaleur de la journée.
+- name: Marion Guillot
+  date: 19/06/2025
+  likes: 0
+  stars: 4
+  title: Beau voyage, premier et dernier jours très longs
+  text: La description mentionne que le premier et le dernier jour impliquent 7 à 8 heures de route, et c'est bien le cas, on passe beaucoup de temps en voiture à travers le Moyen Atlas. Cela dit, les arrêts à Ifrane et dans les villages en chemin, ainsi que tout ce que nous avons vécu à Merzouga et Todra entre les deux, ont largement compensé.
+- name: Vincent Chevalier
+  date: 07/08/2025
+  likes: 0
+  stars: 5
+  title: Le marché de Rissani et le désert noir
+  text: J'ai adoré que ce circuit ne se limite pas aux dunes et aux chameaux. Nous avons parcouru le vieux marché de Rissani, ancien siège de la dynastie alaouite, puis traversé le désert noir près de Mifis où notre guide nous a montré des fossiles marins dans la roche. Étrange de penser que cet endroit était autrefois une mer.
+- name: Anaïs Lemoine
+  date: 25/09/2025
+  likes: 0
+  stars: 5
+  title: Lever de soleil sur l'Erg Chebbi
+  text: Se réveiller avant l'aube pour grimper sur les dunes et admirer le lever de soleil sur l'Erg Chebbi valait largement le réveil matinal. Notre chauffeur Rachid avait le petit-déjeuner et les chameaux prêts juste après, et nous étions à Rissani en fin de matinée.
+- name: Théo Bertrand
+  date: 13/11/2025
+  likes: 0
+  stars: 5
+  title: Un voyage plein de petites surprises
+  text: Des singes sauvages dans la forêt de cèdres près d'Azrou, des flamants roses à Dayet Srij, la musique gnaoua à Khamlia, le thé avec une famille nomade, les gorges du Todra, chaque jour de ce circuit apportait quelque chose d'inattendu. Ces quatre jours au départ de Fès ressemblaient à un vrai voyage à travers le sud marocain, pas juste un aller-retour express vers le désert.
+- name: Clémence Girard
+  date: 04/01/2026
+  likes: 0
+  stars: 5
+  title: Camp confortable, guide formidable
+  text: Les deux nuits dans le camp du désert près de Merzouga étaient plus confortables que prévu, avec une bonne cuisine et une vraie musique berbère autour du feu plutôt qu'un spectacle préfabriqué. Notre guide a aussi veillé à ce qu'on ne manque pas la petite randonnée dans les gorges du Todra. On réserverait de nouveau sans hésiter.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m52!1m12!1m3!1d1722116.7729230525!2d-6.079640175008169!3d32.53924965676884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m37!3e0!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xda1db356fb826b3%3A0xb4f27cf230f6e50b!2sAzrou%2C%20Morocco!3m2!1d33.4347305!2d-5.231887899999999!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sfr!2sfr!4v1754141018069!5m2!1sfr!2sfr

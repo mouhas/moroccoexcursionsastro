@@ -166,7 +166,77 @@ faqs:
   aHtml: <p>Sim, o itinerário pode ser totalmente personalizado. Pode adicionar noites extra em Marraquexe, Fez ou Chefchaouen, ou encurtar o passeio para se concentrar apenas em regiões específicas.</p>
 - q: Que outros passeios recomendam?
   aHtml: <p>Se tiver mais tempo em Marrocos, recomendamos uma <a href="/pt-br/tours/15-dias-de-casablanca" rel="noopener" target="_blank"><strong>excursão de 15 dias</strong></a>, <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> ou até mesmo a <a href="https://morocco-excursion.com/pt-br/tours/30-dias-de-casablanca/" rel="noopener" target="_blank"><strong>excursão de 30 dias por Marrocos</strong></a>.</p>
-reviews: []
+- q: Como funciona a excursão de um dia às Cataratas de Ouzoud dentro deste roteiro?
+  aHtml: <p>No 10.º dia, saímos de Marraquexe de manhã cedo rumo às Cataratas de Ouzoud, a cerca de duas horas e meia de distância. Após uma caminhada até à base das quedas de água e tempo livre para fotos, regressamos a Marraquexe ao final da tarde para pernoitar novamente na cidade.</p>
+- q: Vale a pena a paragem em Essaouira no final da viagem?
+  aHtml: <p>Sim, Essaouira é um contraste refrescante depois do deserto e das montanhas. A medina classificada pela UNESCO, o porto de pescadores e os ventos que atraem praticantes de windsurf e kitesurf tornam esta paragem costeira um final tranquilo e diferente da viagem.</p>
+- q: Preciso de levar dinheiro em euros ou é melhor trocar por dirhams?
+  aHtml: <p>É recomendável trocar uma parte em dirhams marroquinos assim que chegar, especialmente para pequenas despesas em mercados e cidades como Essaouira ou Chefchaouen, onde nem todos os estabelecimentos aceitam cartão. Há casas de câmbio e caixas eletrónicos nas principais cidades do roteiro.</p>
+- q: Existe a opção de refeições vegetarianas durante a viagem?
+  aHtml: <p>Sim, os pequenos-almoços e jantares incluídos podem ser adaptados para vegetarianos, veganos ou outras restrições alimentares, desde que nos avise com antecedência, principalmente para a noite no acampamento no deserto.</p>
+- q: A minha bagagem viaja comigo durante todo o percurso?
+  aHtml: <p>Sim, a sua bagagem viaja sempre consigo no mesmo veículo privado, do início ao fim da excursão, incluindo a noite no acampamento no deserto em Merzouga, onde pode deixar a mala maior guardada e levar apenas uma pequena mochila para o acampamento.</p>
+reviews:
+- name: Amanda V.
+  date: 08/02/2025
+  likes: 0
+  stars: 5
+  title: Kasbah dos Udayas ao pôr do sol
+  text: Rabat foi uma surpresa maravilhosa logo no segundo dia, a Kasbah dos Udayas com as casas azuis e brancas sobre o mar ficou entre as minhas fotos favoritas. Chefchaouen à noite, vista do miradouro da Mesquita Espanhola, foi ainda melhor.
+- name: Diego L.
+  date: 19/03/2025
+  likes: 0
+  stars: 5
+  title: Doze dias, nenhum momento perdido
+  text: Volubilis, com os mosaicos romanos quase intactos, e o portão Bab Mansour em Meknes mostraram uma história de Marrocos que eu não conhecia. O motorista Omar explicava sempre um pouco antes de cada paragem, o que ajudou muito.
+- name: Patrícia G.
+  date: 02/04/2025
+  likes: 1
+  stars: 4
+  title: Fez incrível, mas leve calçado confortável
+  text: A medina de Fez é enorme e labiríntica, e caminhámos muito mais do que imaginávamos entre a universidade Al Quaraouiyine e os curtumes. Vale muito a pena, só recomendo mesmo calçado confortável para aguentar o dia inteiro.
+- name: Rodrigo B.
+  date: 27/05/2025
+  likes: 0
+  stars: 5
+  title: Macacos em Azrou e dunas em Merzouga no mesmo dia
+  text: Saímos de Fez de manhã, vimos os macacos-de-gibraltar na floresta de cedros de Azrou e, à noite, já estávamos a subir em camelos rumo ao acampamento em Erg Chebbi. Contraste incrível de paisagens num único dia de viagem.
+- name: Mariana K.
+  date: 14/07/2025
+  likes: 0
+  stars: 5
+  title: Khamlia e a música Gnawa emocionaram
+  text: Visitar as famílias nómadas no deserto e depois ouvir os músicos Gnawa em Khamlia foi um dos momentos mais autênticos da viagem. O acampamento Mouhou Luxury Camp tinha tendas confortáveis e o jantar foi delicioso.
+- name: Felipe D.
+  date: 30/08/2025
+  likes: 0
+  stars: 5
+  title: Gargantas do Todra impressionam de verdade
+  text: As paredes do desfiladeiro parecem ainda maiores de perto do que nas fotos. Depois seguimos pelo Vale do Dades e pelo Vale das Rosas até Ouarzazate, com paisagens que mudavam a cada curva da estrada.
+- name: Renata H.
+  date: 16/09/2025
+  likes: 0
+  stars: 3
+  title: Passeio ótimo, mas Tizi n'Tichka mexe com quem enjoa
+  text: A travessia das montanhas do Alto Atlas pela passagem de Tizi n'Tichka tem curvas sem fim, por isso quem tem enjoo de estrada deve preparar-se. Fora isso, Ait Benhaddou logo a seguir compensa qualquer desconforto, é impressionante ver aquela kasbah de barro.
+- name: Vinícius Q.
+  date: 21/10/2025
+  likes: 0
+  stars: 5
+  title: Cataratas de Ouzoud, dia extra que vale muito
+  text: Não sabia que o passeio incluía uma excursão às Cataratas de Ouzoud saindo de Marraquexe, e foi uma das melhores surpresas. Os macacos-de-gibraltar a brincar perto da trilha e a água esverdeada a cair em cascata deixaram o dia inesquecível.
+- name: Carolina Z.
+  date: 09/12/2025
+  likes: 0
+  stars: 5
+  title: Essaouira fechou a viagem com chave de ouro
+  text: Depois de tanto deserto e montanha, terminar em Essaouira com frutos do mar frescos no porto e a brisa do Atlântico foi perfeito. A medina murada é tranquila e bem diferente de Marraquexe.
+- name: Eduardo J.
+  date: 25/01/2026
+  likes: 1
+  stars: 5
+  title: Motorista Brahim fez toda a diferença
+  text: Doze dias é tempo suficiente para sentir o Marrocos de verdade, das cidades imperiais ao deserto e à costa. O nosso motorista Brahim foi atencioso do início ao fim, sempre disposto a parar para fotos e a indicar bons lugares para comer.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d3425698.279391555!2d-9.525919202583333!3d33.01936734327096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!4m5!1s0xda76b871f50c5c1%3A0x7ac946ed7408076b!2sRabat%2C%20Morocco!3m2!1d34.0083637!2d-6.8538748!4m5!1s0xd0b265e6402d907%3A0x91548980ce97ea0c!2sChefchaouen%2C%20Morocco!3m2!1d35.168796!2d-5.268364099999999!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xda48d6dd9100741%3A0xe36199ee69282f01!2sOuzoud%2C%20Morocco!3m2!1d32.014226!2d-6.7189627!4m5!1s0xdad9a4e9f588ccf%3A0x57421a176d5d7d30!2sEssaouira%2C%20Morocco!3m2!1d31.5084926!2d-9.7595041!4m5!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!3m2!1d33.5731104!2d-7.5898433999999995!5e0!3m2!1spt-pt!2spt-pt!4v1755433740429!5m2!1spt-pt!2spt-pt

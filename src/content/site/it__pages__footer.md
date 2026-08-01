@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/it/footer/
 ---
 **Morocco Excursions**
 
-Non esitate a chiamarci in qualsiasi momento per richiedere informazioni sui vostri [tour in Marocco](https://www.morocco-excursion.com/it). Puoi chiamare da San Marino, Svizzera dall’Italia e dal resto del mondo al numero 00 212 673 55 5408.
+Non esitate a chiamarci in qualsiasi momento per richiedere informazioni sui vostri [tour in Marocco](https://www.morocco-excursion.com/it). Puoi chiamare da San Marino, Svizzera, Italia e dal resto del mondo al numero 00 212 673 55 5408.
 
 [Informazioni su Marocco](https://morocco-excursion.com/it/#)
 

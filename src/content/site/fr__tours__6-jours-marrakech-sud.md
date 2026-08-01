@@ -159,7 +159,75 @@ faqs:
   aHtml: <p>Le prix de ce voyage de 6 jours peut varier en fonction du nombre de personnes qui voyagent et du type d'hébergement que vous choisissez. Vous avez la possibilité de passer d'un hébergement standard à un hébergement de luxe dans les hôtels et les camps dans le désert. Pour plus de détails, veuillez vous reporter à la section Informations sur les prix.</p>
 - q: Quels circuits sont similaires au circuit de 6 jours au départ de Marrakech?
   aHtml: <p>Les deux circuits alternatifs au circuit de 6 jours au départ de Marrakech sont :<br/><a href="/fr/tours/10-jours-de-marrakech" rel="noopener" target="_blank"><strong>Circuit de 10 jours au départ de Marrakech</strong></a><br/><a href="https://morocco-excursion.com/fr/tours/8-jours-de-arrakech/" rel="noopener" target="_blank"><strong>Circuit de 8 jours au départ de Marrakech</strong></a></p>
-reviews: []
+- q: Quelle est la politique d'annulation pour ce circuit ?
+  aHtml: '<p>Les réservations peuvent être annulées ou reprogrammées gratuitement jusqu''à 1 jour avant le départ. Cela permet d''ajuster facilement vos plans si quelque chose change à l''approche de la date de départ.</p>'
+- q: Ce circuit convient-il aux enfants ou aux personnes âgées ?
+  aHtml: '<p>Oui, le rythme de ce circuit est confortable, avec des arrêts réguliers et du temps libre prévu chaque jour. La balade à dos de chameau jusqu''au campement peut être remplacée par un transfert en 4x4 pour ceux qui préfèrent ne pas monter à dos de chameau.</p>'
+- q: Quelle est la meilleure période de l'année pour faire ce circuit de 6 jours ?
+  aHtml: '<p>Le printemps (mars à mai) et l''automne (septembre à novembre) offrent les températures les plus agréables, aussi bien pour les cols de montagne que pour le désert. Les journées d''été à Merzouga peuvent être très chaudes, tandis que les nuits d''hiver dans le désert et dans le Haut Atlas peuvent être froides.</p>'
+- q: Où commence et se termine le circuit ?
+  aHtml: '<p>Le circuit commence par une prise en charge à votre hébergement à Marrakech et se termine par une dépose à Marrakech après avoir traversé les montagnes du Haut Atlas le dernier jour. Des transferts aéroport peuvent être organisés sur demande.</p>'
+reviews:
+- name: Camille R.
+  date: 15/01/2025
+  likes: 0
+  stars: 5
+  title: 'Notre guide Omar était exceptionnel'
+  text: 'Nous avons fait le circuit de 6 jours à travers les montagnes de l''Atlas, le campement dans le désert et les oasis, tout simplement fabuleux. Notre guide Omar connaissait chaque recoin de la route et rendait chaque étape passionnante.'
+- name: Nicolas D.
+  date: 03/03/2025
+  likes: 1
+  stars: 5
+  title: 'Une aventure inoubliable dans le Sahara'
+  text: 'Mon épouse et moi avons pris ce circuit de 6 jours vers le désert du Sahara et nous avons passé un moment formidable. Notre chauffeur Mohamed connaissait très bien la culture marocaine et conduisait avec beaucoup de prudence sur les routes du col de Tizi N''Tichka.'
+- name: Isabelle F.
+  date: 22/04/2025
+  likes: 0
+  stars: 5
+  title: 'Aït Ben Haddou nous a marqués'
+  text: 'Se tenir devant la kasbah d''Aït Ben Haddou le premier jour, en sachant qu''elle avait servi de décor à Gladiator et à Game of Thrones, était un début de voyage magnifique. Les deux nuits dans le désert nous ont laissé largement le temps de nous détendre.'
+- name: Grégory M.
+  date: 10/05/2025
+  likes: 0
+  stars: 4
+  title: 'Le campement de luxe a dépassé nos attentes'
+  text: 'Nous avons réservé l''option luxe du circuit de 6 jours au départ de Marrakech et nous avons été bluffés par les hébergements haut de gamme. Nos guides Mustafa et Hamid étaient serviables et très gentils, nous avons appris énormément grâce à eux.'
+- name: Valérie S.
+  date: 29/06/2025
+  likes: 1
+  stars: 5
+  title: 'Khamlia et la musique Gnawa'
+  text: 'La visite du village de Khamlia le troisième jour, avec le thé à la menthe et la musique de tambours Gnawa jouée en direct, a été un vrai moment fort des journées dans le désert. Nous ne nous attendions pas à une étape culturelle aussi personnelle sur un circuit privé.'
+- name: Fabrice L.
+  date: 14/08/2025
+  likes: 0
+  stars: 5
+  title: 'Les gorges du Todra à couper le souffle'
+  text: 'La marche dans les gorges du Todra le deuxième jour, avec les parois du canyon qui s''élevaient au-dessus de nous, a été l''une des étapes les plus photogéniques du voyage. Nous sommes arrivés à Merzouga juste à temps pour la balade à dos de chameau au coucher du soleil.'
+- name: Delphine N.
+  date: 02/10/2025
+  likes: 0
+  stars: 4
+  title: 'Une oasis cachée incroyable au jour 4'
+  text: 'Rouler jusqu''à cette oasis cachée de Safsaf le quatrième jour était totalement inattendu et reste l''un de nos meilleurs souvenirs. Le barbecue déjeuner à l''ombre des palmiers a rendu le moment encore plus spécial.'
+- name: Aurélien P.
+  date: 19/11/2025
+  likes: 0
+  stars: 5
+  title: 'Rencontre avec une famille nomade'
+  text: 'Rendre visite à une famille nomade dans le désert le troisième jour et entendre parler de leur vie quotidienne avec les chèvres et les chameaux nous a beaucoup touchés. Notre guide traduisait patiemment pour que la conversation soit possible.'
+- name: Marion T.
+  date: 05/01/2026
+  likes: 2
+  stars: 5
+  title: 'La vallée du Draa et les studios de cinéma'
+  text: 'Le trajet à travers la vallée du Draa le cinquième jour, en passant par Alnif et Agdz, nous a montré un visage du Maroc que peu de touristes voient. Terminer à Ouarzazate avec la visite des studios de cinéma le dernier jour a parfaitement conclu le voyage.'
+- name: Julien C.
+  date: 20/06/2026
+  likes: 0
+  stars: 5
+  title: 'Six jours parfaits entre montagnes et désert'
+  text: 'Le rythme du circuit était très confortable, avec de nombreux arrêts photo dans le Haut Atlas et du temps libre chaque jour. La balade à dos de chameau au coucher du soleil vers le campement restera un souvenir inoubliable.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m72!1m8!1m3!1d3496691.0525293327!2d-5.983509!3d31.144808!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd97441b6340f571%3A0x9cdc08902fffe2e9!2s72WF%2B3W%2C%20Tisserdmine%2C%20Morocco!3m2!1d31.295187499999997!2d-3.9751874999999997!4m5!1s0xdbc7f04e51fff23%3A0x79b4b748288512bd!2zTUpDMisyOE3YjCDZhdiy2YPZiti32KksIE1vcm9jY2_igK0!3m2!1d30.670087499999998!2d-6.399203099999999!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sbg!4v1753702975299!5m2!1sfr!2sbg

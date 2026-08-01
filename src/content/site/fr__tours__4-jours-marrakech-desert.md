@@ -129,7 +129,77 @@ faqs:
   aHtml: '<p>Voici deux circuits similaires au circuit de 4 jours dans le désert du Sahara au départ de Marrakech :</p>
 
     <p><a href="/fr/tours/4-jours-marrakech-fes" rel="noopener" target="_blank"><strong>Circuit de 4 jours de Marrakech à Fès via le Sahara</strong></a><br/><a href="/fr/tours/5-jours-marrakech-desert" rel="noopener" target="_blank"><strong>Circuit de 5 jours dans le désert du Sahara au départ de Marrakech</strong></a></p>'
-reviews: []
+- q: Quelle est la différence entre les options standard, supérieure et luxe?
+  aHtml: <p>Les trois niveaux suivent le même itinéraire et la même route, mais l'option standard propose des hôtels confortables et un campement dans le désert de style partagé, l'option supérieure offre de plus beaux riads et des campements avec salles de bain privées, et l'option luxe comprend des hôtels-kasbahs haut de gamme et une expérience de campement dans le désert encore plus raffinée près de Merzouga.</p>
+- q: La balade à dos de chameau convient-elle à tout le monde?
+  aHtml: '<p>La balade à dos de chameau dans les dunes de l''Erg Chebbi est généralement confortable, mais elle n''est pas recommandée aux femmes enceintes, aux personnes souffrant de problèmes de dos ou aux voyageurs de plus de 70 ans. Si vous préférez ne pas la faire, nous pouvons organiser un transfert direct en 4x4 jusqu''au campement dans le désert.</p>'
+- q: Que dois-je emporter pour ce circuit?
+  aHtml: <p>Prévoyez des vêtements superposables, car les températures varient fortement entre le soleil brûlant de la mi-journée et les nuits fraîches du désert, ainsi que des chaussures confortables pour la marche dans les gorges du Todra et à la kasbah d'Aït Ben Haddou, une écharpe, des lunettes de soleil et de la crème solaire.</p>
+- q: Ce circuit est-il privé ou serons-nous regroupés avec des inconnus?
+  aHtml: <p>Il s'agit d'un circuit privé au départ de Marrakech, ce qui signifie que votre véhicule, votre chauffeur et votre programme sont exclusivement réservés à votre groupe pendant les 4 jours, y compris lors des arrêts à Aït Ben Haddou et dans le désert.</p>
+- q: Devons-nous donner un pourboire à notre chauffeur à la fin du voyage?
+  aHtml: <p>Le pourboire n'est pas obligatoire, mais il est de coutume et apprécié pour un bon service tout au long des 4 jours. La plupart des voyageurs laissent un montant qui reflète la taille de leur groupe et leur expérience globale avec leur chauffeur-guide.</p>
+reviews:
+- name: Élise Fabre
+  date: 20/01/2025
+  likes: 0
+  stars: 5
+  title: Un circuit privé de 4 jours vraiment inoubliable
+  text: Nous avons réservé le circuit de 4 jours dans le désert au départ de Marrakech vers le sud, et ce fut une expérience incroyable du début à la fin. Notre chauffeur, Omar, a rendu le voyage encore plus agréable grâce à sa gentillesse et sa connaissance approfondie de la région. Les paysages étaient à couper le souffle, en particulier le désert du Sahara, où nous avons passé une nuit inoubliable sous les étoiles.
+- name: Grégory Simon
+  date: 11/02/2025
+  likes: 0
+  stars: 5
+  title: Un voyage en solo qui restera gravé
+  text: Je voyage seul depuis plus de vingt ans, d'abord en sac à dos, aujourd'hui en voiture privée. J'avais déjà vu le désert, mais jamais des dunes de plus de cent mètres de haut. J'ai donc décidé de visiter les dunes de l'Erg Chebbi pour ressentir un peu le Sahara. Le contact avec l'agence pour organiser ce circuit s'est fait sans le moindre accroc, et mon chauffeur était toujours ponctuel, un conducteur prudent qui n'a jamais dépassé les limitations de vitesse.
+- name: Ines Roussel
+  date: 05/03/2025
+  likes: 0
+  stars: 5
+  title: Ismail nous a fait découvrir des endroits secrets
+  text: Nous avons vécu une expérience inoubliable avec Ismail. Il était serviable, passionnant et patient. Il nous a emmenés dans des endroits que peu de touristes découvrent, ce qui était formidable. Pendant notre séjour à Dadès, Ouarzazate et dans le désert de Merzouga, les hébergements proposaient une cuisine délicieuse avec de la musique jouée par des habitants. La nuit dans le désert, les performances musicales et la danse autour du feu de camp sous la pleine lune resteront des moments uniques.
+- name: Corentin Blin
+  date: 28/04/2025
+  likes: 1
+  stars: 5
+  title: Un circuit de luxe dans le Sahara vraiment somptueux
+  text: Mes amis ont réservé le circuit de luxe de 4 jours au départ de Marrakech vers les montagnes de l'Atlas, le désert du Sahara puis retour à Marrakech. Les hôtels de luxe et le camp de luxe dans le Sahara étaient incroyables. Notre chauffeur Ali était un homme adorable et très sympathique, nous nous sommes toujours sentis en sécurité tellement il conduisait avec douceur et prudence.
+- name: Océane Prévost
+  date: 16/05/2025
+  likes: 0
+  stars: 5
+  title: Aït Ben Haddou, le clou du spectacle
+  text: Nous avons vu beaucoup de kasbahs pendant nos voyages au Maroc, mais Aït Ben Haddou le dernier jour, avec son histoire de décor de cinéma et la montée jusqu'en haut pour la vue sur la vallée, était à un tout autre niveau. Toute la boucle par Ouarzazate, les palmeraies de la vallée du Draa et les gorges du Todra donnait l'impression que le col du Tizi n'Tichka du premier jour était un vrai avant-goût.
+- name: Mathis Perrot
+  date: 09/06/2025
+  likes: 0
+  stars: 5
+  title: La marche dans les gorges du Todra, une pause parfaite
+  text: Quatre jours, ça fait beaucoup de route à travers l'Atlas, mais les arrêts en valaient la peine, la kasbah de Taourirt à Ouarzazate, une courte marche dans les gorges du Todra avant Merzouga, et la balade à dos de chameau vers les dunes au coucher du soleil. Notre chauffeur Brahim savait quand avancer et quand ralentir pour les photos.
+- name: Juliette Masson
+  date: 02/07/2025
+  likes: 0
+  stars: 5
+  title: La vallée des Roses en pleine floraison
+  text: Nous avons eu la chance de traverser la vallée des Roses près d'El Kelaa M'Gouna alors que les fleurs étaient épanouies, ce que notre chauffeur nous a dit n'être pas garanti selon la saison. Les palmeraies et les vieilles kasbahs de Skoura juste avant étaient tout aussi mémorables, et la nuit dans le camp du désert près de Merzouga a parfaitement conclu la journée.
+- name: Adrien Noël
+  date: 21/08/2025
+  likes: 0
+  stars: 4
+  title: Bon circuit, troisième jour assez long
+  text: Le trajet de Merzouga à Ouarzazate en passant par Alnif, Agdz et la vallée du Draa le troisième jour est long, mais les palmeraies le long du Draa rendaient la route plus belle qu'ennuyeuse. Tout le reste, de la balade à dos de chameau à la visite d'Aït Ben Haddou le dernier matin, était excellent.
+- name: Pauline Rousseau
+  date: 15/09/2025
+  likes: 0
+  stars: 5
+  title: Studios de cinéma et forteresse en une seule après-midi
+  text: Je ne pensais pas apprécier autant la visite des studios de cinéma d'Ouarzazate, mais la promenade dans la vieille kasbah de Taourirt juste après nous a offert une ambiance totalement différente et bien plus authentique. Rachid nous a ramenés en toute sécurité jusqu'à Marrakech en traversant les montagnes de l'Atlas.
+- name: Lucas Fontaine
+  date: 03/11/2025
+  likes: 0
+  stars: 5
+  title: Hassan et son équipe, un service irréprochable
+  text: Nous étions trois amies pour ce circuit privé de quatre jours vers le désert de Merzouga, et nous avons passé un moment formidable. Un grand merci à notre chauffeur-guide Hassan, toujours patient et prévenant. Tout l'itinéraire était très bien organisé, et du premier au dernier jour, nous nous sommes senties en sécurité tout en profitant pleinement de ce que le Maroc a à offrir.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d3497684.3150255904!2d-8.642006129471948!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sfr!2sfr!4v1753530877704!5m2!1sfr!2sfr

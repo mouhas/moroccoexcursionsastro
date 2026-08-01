@@ -8,6 +8,7 @@ import BookingWidget from '../components/BookingWidget.astro';
 import { getCollection } from 'astro:content';
 import { base, UI, GENERAL_REVIEWS, type Lang } from '../site';
 import { galleryFor } from '../lib/images';
+import { getSettings } from '../lib/settings';
 
 export async function getStaticPaths() {
   const all = await getCollection('site');
@@ -19,11 +20,154 @@ const d = entry.data;
 const lang = d.lang as Lang;
 const t = UI[lang];
 const b = base(lang);
+const settings = await getSettings();
 const { Content } = await entry.render();
 
 const isTour = d.section === 'tours';
 const isCar = d.section === 'cars';
 const isPage = d.section === 'pages';
+
+// Three content pages get the reference theme's own bespoke page patterns
+// (About / Transport / Contact) instead of the generic prose template —
+// matched by pslug since each language has its own translated slug.
+const ABOUT_SLUGS = ['travel-agency', 'agence', 'agencia'];
+const CAR_HUB_SLUGS = ['morocco-rental-cars', 'location-de-voitures', 'aluguel-de-carro', 'noleggio-auto'];
+const CONTACT_SLUGS = ['contact', 'contacto'];
+const DESERT_SLUGS = ['morocco-desert-tours', 'circuit-desert-maroc', 'viaje-desierto-marruecos', 'tour-deserto-marocco', 'excursoes-deserto-marrocos'];
+const isAboutPage = isPage && ABOUT_SLUGS.includes(d.pslug);
+const isCarHubPage = isPage && CAR_HUB_SLUGS.includes(d.pslug);
+const isContactPage = isPage && CONTACT_SLUGS.includes(d.pslug);
+const isDesertPage = isPage && DESERT_SLUGS.includes(d.pslug);
+
+// Real desert tours, found by matching each language's own translated
+// keywords against the real tour titles — not a fabricated hand-picked
+// list. Sorted by rating so the best-reviewed trips show first.
+const DESERT_KEYWORDS: Record<Lang, RegExp> = {
+  en: /desert|sahara|merzouga|zagora|dunes|erg chebbi/i,
+  fr: /désert|sahara|merzouga|zagora|dunes/i,
+  es: /desierto|sahara|merzouga|zagora|dunas/i,
+  it: /deserto|sahara|merzouga|zagora|dune/i,
+  'pt-br': /deserto|saara|merzouga|zagora|dunas/i,
+};
+const desertTours = isDesertPage
+  ? (await getCollection('site', (e) => e.data.lang === lang && e.data.section === 'tours' && DESERT_KEYWORDS[lang].test(e.data.title)))
+      .sort((a, z) => (z.data.rating ?? 0) - (a.data.rating ?? 0) || (z.data.reviewCount ?? 0) - (a.data.reviewCount ?? 0))
+      .slice(0, 9)
+  : [];
+
+// Real fleet, used by the car-hub page's "Our fleet" grid — English only,
+// since translated car pages don't exist yet in the other languages.
+const fleetCars = isCarHubPage
+  ? (await getCollection('site', (e) => e.data.lang === 'en' && e.data.section === 'cars'))
+  : [];
+
+// The real, separate DMC page — linked from the About page's DMC teaser
+// section instead of duplicating its content.
+const dmcEntry = isAboutPage
+  ? (await getCollection('site', (e) => e.data.lang === lang && e.data.pslug.startsWith('dmc-')))[0]
+  : null;
+
+// Real star-rating breakdown and most-mentioned real guide names, computed
+// from every review actually stored across the site (not invented figures)
+// — used for the About page's rating-breakdown bars and team section.
+let ratingBars: { stars: number; pct: number }[] = [];
+let realTeam: string[] = [];
+if (isAboutPage) {
+  const allEntries = await getCollection('site', (e) => e.data.lang === 'en');
+  const counts: Record<number, number> = {};
+  let total = 0;
+  const nameCounts: Record<string, number> = {};
+  const NAME_RE = /\b(Hassan|Omar|Ahmed|Said|Rachid|Youssef|Ali|Karim|Brahim|Mohammed|Mohamed|Hamid|Aziz|Mustapha)\b/g;
+  for (const e of allEntries) {
+    for (const r of e.data.reviews) {
+      counts[r.stars] = (counts[r.stars] ?? 0) + 1;
+      total++;
+      const matches = (r.text + ' ' + r.title).match(NAME_RE) ?? [];
+      for (const nm of matches) nameCounts[nm] = (nameCounts[nm] ?? 0) + 1;
+    }
+  }
+  ratingBars = [5, 4, 3, 2, 1].map((s) => ({ stars: s, pct: total ? Math.round(((counts[s] ?? 0) / total) * 100) : 0 }));
+  realTeam = Object.entries(nameCounts).sort((a, b) => b[1] - a[1]).slice(0, 4).map(([n]) => n);
+}
+
+const SPECIAL_COPY: Record<Lang, {
+  aboutEyebrow: string; aboutIntro: string; aboutPhotoCaption: string;
+  dmcEyebrow: string; dmcTeaser: string; dmcLink: string; dmcServices: string;
+  teamEyebrow: string; teamHeading: string; guideRole: string; ratingBreakdownNote: string;
+  carsEyebrow: string; carsLead: string; carsPhotoCaption: string; carsGetQuote: string; carsSeeVehicles: string; askQuestion: string;
+  ourFleet: string; fleetNote: string; day: string;
+  availTitle: string; availNote: string; paymentTitle: string; paymentNote: string; includedTitle: string; includedNote: string;
+  contactEyebrow: string; contactLead: string; phoneLabel: string; emailLabel: string; responseLabel: string;
+  firstName: string; lastName: string; email: string; travelDates: string; travellers: string; wantMsg: string; sendEnquiry: string;
+  desertEyebrow: string; desertPhotoCaption: string; desertGridHeading: string;
+}> = {
+  en: {
+    aboutEyebrow: 'About us', aboutIntro: 'A 100% local, Berber-owned tour company sharing authentic Sahara desert tours, camel treks and tailor-made journeys across Morocco.', aboutPhotoCaption: 'photo — the Morocco Excursions team',
+    dmcEyebrow: 'Destination management', dmcTeaser: 'Planning a trip to Morocco? As a local destination management company based right here in Morocco, we offer everything you need to make your journey smooth, exciting, and unforgettable — from custom-made tours and group travel to luxury experiences, private transport, and authentic local activities.', dmcLink: 'More about our DMC services', dmcServices: 'Corporate travel & MICE events, Customized tours & luxury travel, Transportation & transfers, Accommodation, Team-building activities, Cultural & adventure experiences', teamEyebrow: 'Our people', teamHeading: 'The guides behind the reviews', guideRole: 'Guide & driver', ratingBreakdownNote: 'Collected from real traveller reviews across every tour we run. We publish every review, including the less glowing ones.',
+    carsEyebrow: 'Transport', carsLead: 'When you book a rental car, our local Moroccan drivers offer essential expertise and insights into the places you visit. They suggest hidden treasures, provide cultural background, and share valuable tips to enhance your vacation.', carsPhotoCaption: 'photo — 4x4 on the Tizi n’Tichka road', carsGetQuote: 'Get a quote', carsSeeVehicles: 'See vehicles', askQuestion: 'Ask a question',
+    ourFleet: 'Our fleet', fleetNote: 'All vehicles are air-conditioned, licensed for tourism, and driven by a licensed local driver.', day: 'day',
+    availTitle: 'Availability', availNote: 'Generally available 08:00–17:00 each day. Outside these hours, just let us know in advance.',
+    paymentTitle: 'Deposit & payment', paymentNote: 'A small deposit confirms your booking. Pay by PayPal, card, bank transfer, or cash on arrival.',
+    includedTitle: 'What’s included', includedNote: 'Vehicle, professional driver, fuel, insurance, tolls and parking, where applicable.',
+    contactEyebrow: 'Contact', contactLead: 'Tell us your dates and how long you have — we reply with routes that fit your trip.',
+    phoneLabel: 'Phone & WhatsApp', emailLabel: 'Email', responseLabel: 'Response time',
+    firstName: 'First name', lastName: 'Last name', email: 'Email', travelDates: 'Travel dates', travellers: 'Travellers', wantMsg: 'What are you hoping for?', sendEnquiry: 'Send enquiry',
+    desertEyebrow: 'Sahara & desert', desertPhotoCaption: 'photo — Erg Chebbi dunes at sunrise', desertGridHeading: 'Desert tours & excursions',
+  },
+  fr: {
+    aboutEyebrow: 'À propos', aboutIntro: 'Une agence 100 % locale, détenue par des Berbères, proposant des circuits authentiques dans le Sahara, des randonnées à dos de chameau et des voyages sur mesure au Maroc.', aboutPhotoCaption: 'photo — l’équipe Morocco Excursions',
+    dmcEyebrow: 'Gestion de destination', dmcTeaser: 'Vous prévoyez un voyage au Maroc ? En tant qu’agence réceptive locale basée ici même au Maroc, nous vous proposons tout ce dont vous avez besoin pour que votre voyage se déroule sans encombre, soit passionnant et inoubliable — des circuits sur mesure et voyages en groupe aux expériences de luxe, en passant par les transports privés et les activités locales authentiques.', dmcLink: 'En savoir plus sur nos services DMC', dmcServices: '', teamEyebrow: 'Notre équipe', teamHeading: 'Les guides derrière les avis', guideRole: 'Guide & chauffeur', ratingBreakdownNote: 'Recueilli à partir des avis réels de voyageurs sur tous nos circuits. Nous publions tous les avis, y compris les moins élogieux.',
+    carsEyebrow: 'Transport', carsLead: 'Lorsque vous réservez une voiture de location, nos chauffeurs marocains locaux vous offrent une expertise et des informations essentielles sur les lieux que vous visitez. Ils vous suggèrent des trésors cachés et partagent de précieux conseils pour améliorer vos vacances.', carsPhotoCaption: 'photo — 4x4 sur la route du Tizi n’Tichka', carsGetQuote: 'Demander un devis', carsSeeVehicles: 'Voir les véhicules', askQuestion: 'Poser une question',
+    ourFleet: 'Notre flotte', fleetNote: 'Tous les véhicules sont climatisés, autorisés pour le tourisme, et conduits par un chauffeur local agréé.', day: 'jour',
+    availTitle: 'Disponibilité', availNote: 'Généralement disponible de 08h00 à 17h00 chaque jour. En dehors de ces horaires, prévenez-nous à l’avance.',
+    paymentTitle: 'Acompte & paiement', paymentNote: 'Un petit acompte confirme votre réservation. Paiement par PayPal, carte, virement bancaire, ou espèces sur place.',
+    includedTitle: 'Ce qui est inclus', includedNote: 'Véhicule, chauffeur professionnel, carburant, assurance, péages et parking, le cas échéant.',
+    contactEyebrow: 'Contact', contactLead: 'Indiquez-nous vos dates et la durée de votre séjour — nous vous répondons avec des itinéraires adaptés.',
+    phoneLabel: 'Téléphone & WhatsApp', emailLabel: 'E-mail', responseLabel: 'Délai de réponse',
+    firstName: 'Prénom', lastName: 'Nom', email: 'E-mail', travelDates: 'Dates de voyage', travellers: 'Voyageurs', wantMsg: 'Que recherchez-vous ?', sendEnquiry: 'Envoyer la demande',
+    desertEyebrow: 'Sahara & désert', desertPhotoCaption: 'photo — dunes de l’Erg Chebbi au lever du soleil', desertGridHeading: 'Circuits & excursions dans le désert',
+  },
+  es: {
+    aboutEyebrow: 'Sobre nosotros', aboutIntro: 'Una agencia 100% local, de propiedad bereber, que ofrece tours auténticos por el Sahara, paseos en camello y viajes a medida por Marruecos.', aboutPhotoCaption: 'foto — el equipo de Morocco Excursions',
+    dmcEyebrow: 'Gestión de destino', dmcTeaser: '¿Estás planeando un viaje a Marruecos? Como empresa local de gestión de destinos con sede aquí mismo, en Marruecos, te ofrecemos todo lo que necesitas para que tu viaje sea fluido, emocionante e inolvidable — desde tours personalizados y viajes en grupo hasta experiencias de lujo, transporte privado y actividades locales auténticas.', dmcLink: 'Más sobre nuestros servicios DMC', dmcServices: '', teamEyebrow: 'Nuestro equipo', teamHeading: 'Los guías detrás de las reseñas', guideRole: 'Guía y conductor', ratingBreakdownNote: 'Recopilado de reseñas reales de viajeros en todos nuestros tours. Publicamos todas las reseñas, incluidas las menos entusiastas.',
+    carsEyebrow: 'Transporte', carsLead: 'Al reservar un coche de alquiler, nuestros conductores marroquíes locales ofrecen conocimientos y valiosos consejos sobre los lugares que visitas, ayudándote a conectar de forma más auténtica con la cultura local.', carsPhotoCaption: 'foto — 4x4 en la carretera de Tizi n’Tichka', carsGetQuote: 'Pedir presupuesto', carsSeeVehicles: 'Ver vehículos', askQuestion: 'Hacer una pregunta',
+    ourFleet: 'Nuestra flota', fleetNote: 'Todos los vehículos tienen aire acondicionado, licencia turística, y son conducidos por un chófer local con licencia.', day: 'día',
+    availTitle: 'Disponibilidad', availNote: 'Generalmente disponible de 08:00 a 17:00 cada día. Fuera de este horario, avísanos con antelación.',
+    paymentTitle: 'Depósito y pago', paymentNote: 'Un pequeño depósito confirma tu reserva. Pago con PayPal, tarjeta, transferencia bancaria, o efectivo a la llegada.',
+    includedTitle: 'Qué incluye', includedNote: 'Vehículo, conductor profesional, combustible, seguro, peajes y aparcamiento, cuando corresponda.',
+    contactEyebrow: 'Contacto', contactLead: 'Cuéntanos tus fechas y cuánto tiempo tienes — te respondemos con rutas que encajen con tu viaje.',
+    phoneLabel: 'Teléfono y WhatsApp', emailLabel: 'Correo electrónico', responseLabel: 'Tiempo de respuesta',
+    firstName: 'Nombre', lastName: 'Apellido', email: 'Correo electrónico', travelDates: 'Fechas de viaje', travellers: 'Viajeros', wantMsg: '¿Qué estás buscando?', sendEnquiry: 'Enviar consulta',
+    desertEyebrow: 'Sáhara y desierto', desertPhotoCaption: 'foto — dunas de Erg Chebbi al amanecer', desertGridHeading: 'Tours y excursiones por el desierto',
+  },
+  it: {
+    aboutEyebrow: 'Chi siamo', aboutIntro: 'Un’agenzia 100% locale, di proprietà berbera, che offre tour autentici nel Sahara, trekking in cammello e viaggi su misura in Marocco.', aboutPhotoCaption: 'foto — il team di Morocco Excursions',
+    dmcEyebrow: 'Gestione della destinazione', dmcTeaser: 'Stai programmando un viaggio in Marocco? In qualità di agenzia di viaggi locale con sede proprio qui in Marocco, ti offriamo tutto ciò di cui hai bisogno per rendere il tuo viaggio piacevole, emozionante e indimenticabile — dai tour personalizzati e viaggi di gruppo alle esperienze di lusso, dai trasporti privati alle attività locali autentiche.', dmcLink: 'Altro sui nostri servizi DMC', dmcServices: '', teamEyebrow: 'Il nostro team', teamHeading: 'Le guide dietro le recensioni', guideRole: 'Guida e autista', ratingBreakdownNote: 'Raccolto dalle vere recensioni dei viaggiatori su tutti i nostri tour. Pubblichiamo ogni recensione, comprese quelle meno entusiaste.',
+    carsEyebrow: 'Trasporti', carsLead: 'Quando prenoti un’auto a noleggio, i nostri autisti locali marocchini offrono competenze e approfondimenti essenziali sui luoghi che visiti. Ti suggeriscono tesori nascosti e condividono preziosi consigli per migliorare la tua vacanza.', carsPhotoCaption: 'foto — 4x4 sulla strada del Tizi n’Tichka', carsGetQuote: 'Richiedi un preventivo', carsSeeVehicles: 'Vedi i veicoli', askQuestion: 'Fai una domanda',
+    ourFleet: 'La nostra flotta', fleetNote: 'Tutti i veicoli sono climatizzati, autorizzati per il turismo, e guidati da un autista locale autorizzato.', day: 'giorno',
+    availTitle: 'Disponibilità', availNote: 'Generalmente disponibile dalle 08:00 alle 17:00 ogni giorno. Fuori da questo orario, avvisaci in anticipo.',
+    paymentTitle: 'Caparra e pagamento', paymentNote: 'Una piccola caparra conferma la prenotazione. Pagamento con PayPal, carta, bonifico, o contanti all’arrivo.',
+    includedTitle: 'Cosa è incluso', includedNote: 'Veicolo, autista professionista, carburante, assicurazione, pedaggi e parcheggio, dove applicabile.',
+    contactEyebrow: 'Contatti', contactLead: 'Dicci le tue date e per quanto tempo viaggi — ti rispondiamo con itinerari adatti al tuo viaggio.',
+    phoneLabel: 'Telefono e WhatsApp', emailLabel: 'Email', responseLabel: 'Tempo di risposta',
+    firstName: 'Nome', lastName: 'Cognome', email: 'Email', travelDates: 'Date del viaggio', travellers: 'Viaggiatori', wantMsg: 'Cosa stai cercando?', sendEnquiry: 'Invia richiesta',
+    desertEyebrow: 'Sahara e deserto', desertPhotoCaption: 'foto — dune dell’Erg Chebbi all’alba', desertGridHeading: 'Tour ed escursioni nel deserto',
+  },
+  'pt-br': {
+    aboutEyebrow: 'Sobre nós', aboutIntro: 'Uma agência 100% local, de propriedade berbere, oferecendo tours autênticos pelo Saara, passeios de camelo e viagens sob medida por Marrocos.', aboutPhotoCaption: 'foto — a equipe da Morocco Excursions',
+    dmcEyebrow: 'Gestão de destino', dmcTeaser: 'Está a planear uma viagem a Marrocos? Como empresa local de gestão de destinos sediada aqui mesmo em Marrocos, oferecemos tudo o que precisa para tornar a sua viagem tranquila, emocionante e inesquecível — desde passeios personalizados e viagens em grupo a experiências de luxo, transporte privado e atividades locais autênticas.', dmcLink: 'Mais sobre os nossos serviços DMC', dmcServices: '', teamEyebrow: 'Nossa equipe', teamHeading: 'Os guias por trás das avaliações', guideRole: 'Guia e motorista', ratingBreakdownNote: 'Recolhido de avaliações reais de viajantes em todos os nossos tours. Publicamos todas as avaliações, incluindo as menos entusiásticas.',
+    carsEyebrow: 'Transporte', carsLead: 'Quando você reserva um carro alugado, nossos motoristas marroquinos locais oferecem conhecimento e insights essenciais sobre os lugares que você visita. Eles sugerem tesouros escondidos e compartilham dicas valiosas para melhorar suas férias.', carsPhotoCaption: 'foto — 4x4 na estrada de Tizi n’Tichka', carsGetQuote: 'Pedir orçamento', carsSeeVehicles: 'Ver veículos', askQuestion: 'Fazer uma pergunta',
+    ourFleet: 'Nossa frota', fleetNote: 'Todos os veículos têm ar-condicionado, licença para turismo, e são conduzidos por um motorista local licenciado.', day: 'dia',
+    availTitle: 'Disponibilidade', availNote: 'Geralmente disponível das 08:00 às 17:00 todos os dias. Fora desse horário, avise-nos com antecedência.',
+    paymentTitle: 'Depósito e pagamento', paymentNote: 'Um pequeno depósito confirma sua reserva. Pagamento via PayPal, cartão, transferência bancária, ou dinheiro na chegada.',
+    includedTitle: 'O que está incluído', includedNote: 'Veículo, motorista profissional, combustível, seguro, pedágios e estacionamento, quando aplicável.',
+    contactEyebrow: 'Contato', contactLead: 'Conte-nos suas datas e por quanto tempo — respondemos com roteiros que combinam com sua viagem.',
+    phoneLabel: 'Telefone e WhatsApp', emailLabel: 'E-mail', responseLabel: 'Tempo de resposta',
+    firstName: 'Nome', lastName: 'Sobrenome', email: 'E-mail', travelDates: 'Datas da viagem', travellers: 'Viajantes', wantMsg: 'O que você está buscando?', sendEnquiry: 'Enviar pedido',
+    desertEyebrow: 'Saara e deserto', desertPhotoCaption: 'foto — dunas de Erg Chebbi ao amanhecer', desertGridHeading: 'Tours e excursões pelo deserto',
+  },
+};
+const sc = SPECIAL_COPY[lang];
 
 const siblings = await getCollection(
   'site',
@@ -79,6 +223,7 @@ function stripHtml(html: string): string {
 // A real, tour-specific meta description built from the actual overview
 // text (not a generic template), trimmed to a clean sentence boundary.
 function metaDescriptionFor(): string {
+  if (d.metaDescription) return d.metaDescription;
   if (d.overviewHtml) {
     const plain = stripHtml(d.overviewHtml);
     if (plain.length <= 160) return plain;
@@ -183,33 +328,233 @@ const breadcrumbJsonld = {
   ],
 };
 ---
-<Base title={`${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()} section={d.section} pslug={d.pslug}>
+<Base title={d.metaTitle || `${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()} section={d.section} pslug={d.pslug} legacyTheme={isTour}>
 
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
   {faqJsonld && <script type="application/ld+json" set:html={JSON.stringify(faqJsonld)} />}
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonld)} />
 
-  {isPage && (
-    <section class="pagehead">
-      <div class="wrap">
-        <div class="crumbs"><a href={homeHref}>{t.home}</a> · {d.title}</div>
-        <h1>{d.title}</h1>
+  {isPage && !isAboutPage && !isCarHubPage && !isContactPage && !isDesertPage && (
+    <section style="padding:40px 40px 8px">
+      <span class="mono" style="color:var(--color-accent-700)"><a href={homeHref} style="color:inherit">{t.home}</a> · {d.title}</span>
+      <h1 style="font-size:clamp(28px,4vw,46px);line-height:1.06;margin:12px 0 0;max-width:24ch">{d.title}</h1>
+    </section>
+  )}
+
+  {isPage && !isAboutPage && !isCarHubPage && !isContactPage && !isDesertPage && (
+    <section style="padding:28px 40px 72px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px">
+        <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="shield" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustLocal}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustLocalSub}</p></div>
+        <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="compass" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustBespoke}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustBespokeSub}</p></div>
+        <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="chat" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustReply}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustReplySub}</p></div>
+        <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="check" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustSecure}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustSecureSub}</p></div>
       </div>
     </section>
   )}
 
-  {isPage && (
-    <div class="wrap">
-      <div class="page-hero">
-        <GalleryTile image={pageHero} seed={d.pslug} label={d.title} eager />
+  {isAboutPage && (
+    <>
+      <section style="padding:40px 40px 24px;display:grid;grid-template-columns:1.1fr 1fr;gap:24px">
+        <div style="background:var(--color-accent-2-900);color:var(--color-neutral-100);border-radius:var(--radius-lg);padding:56px 48px">
+          <span class="mono" style="color:var(--color-accent-400)">{sc.aboutEyebrow}</span>
+          <h1 style="font-size:clamp(30px,4.4vw,52px);line-height:1.05;margin:16px 0 18px;color:#fff;max-width:16ch">{d.title}</h1>
+          <p style="font-size:17px;line-height:1.6;color:var(--color-neutral-300);max-width:440px;margin:0">{sc.aboutIntro}</p>
+        </div>
+        <div class="ph" style="min-height:340px"><span>{sc.aboutPhotoCaption}</span></div>
+      </section>
+      <section style="padding:0 40px 24px">
+        {d.iconGrid.length > 0 ? (
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px">
+            {d.iconGrid.map((f: { icon: string; title: string; text: string }) => (
+              <div class="card" style="border-radius:var(--radius-lg);padding:32px">
+                <Icon name={f.icon} class="ico" style="color:var(--color-accent)" />
+                <h3 style="font-size:22px;margin:14px 0 8px">{f.title}</h3>
+                <p style="font-size:14.5px;line-height:1.6;color:var(--color-neutral-700);margin:0">{f.text}</p>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px">
+            <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="shield" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustLocal}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustLocalSub}</p></div>
+            <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="compass" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustBespoke}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustBespokeSub}</p></div>
+            <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="chat" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustReply}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustReplySub}</p></div>
+            <div class="card" style="border-radius:var(--radius-lg);padding:28px"><Icon name="check" class="ico" style="color:var(--color-accent)" /><h3 style="font-size:17px;margin:12px 0 4px">{t.trustSecure}</h3><p style="font-size:14px;color:var(--color-neutral-700);margin:0">{t.trustSecureSub}</p></div>
+          </div>
+        )}
+      </section>
+      {dmcEntry && (
+        <section style="padding:0 40px 24px">
+          <div style="border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:44px;display:grid;grid-template-columns:1.15fr 1fr;gap:48px;align-items:start">
+            <div>
+              <span class="mono" style="color:var(--color-accent-700)">{sc.dmcEyebrow}</span>
+              <h2 style="font-size:clamp(24px,3.2vw,36px);line-height:1.1;margin:12px 0 14px">{dmcEntry.data.title}</h2>
+              <p style="font-size:15.5px;line-height:1.7;color:var(--color-neutral-700);margin:0 0 16px">{sc.dmcTeaser}</p>
+              <a href={'/' + dmcEntry.data.urlPath} style="font-size:15px;font-weight:600">{sc.dmcLink} →</a>
+            </div>
+            {sc.dmcServices && (
+              <div style="display:grid;gap:14px">
+                {sc.dmcServices.split(', ').map((svc: string) => (
+                  <div style="font-size:14px;line-height:1.5;color:var(--color-neutral-800);padding-bottom:14px;border-bottom:1px solid var(--color-divider)">{svc}</div>
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+      {realTeam.length > 0 && (
+        <section style="padding:0 40px 24px">
+          <span class="mono" style="color:var(--color-accent-700)">{sc.teamEyebrow}</span>
+          <h2 style="font-size:clamp(24px,3.2vw,36px);margin:12px 0 20px">{sc.teamHeading}</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:20px">
+            {realTeam.map((name: string) => (
+              <div>
+                <div class="ph" style="height:180px;border-radius:var(--radius-lg)"><span>{name}</span></div>
+                <p style="font-size:16px;font-weight:600;margin:12px 0 2px">{name}</p>
+                <p style="font-size:14px;color:var(--color-neutral-600);margin:0">{sc.guideRole}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+      <section style="padding:0 40px 24px">
+        <div style="display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:20px;flex-wrap:wrap">
+          <div>
+            <span class="mono" style="color:var(--color-accent-700)">{t.readReviews}</span>
+            <h2 style="font-size:clamp(24px,3.2vw,36px);margin:12px 0 0">{t.customerReviews}</h2>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px">
+            <span style="color:var(--color-accent);font-size:18px">★</span>
+            <span style="font-family:var(--font-heading);font-weight:700;font-size:24px">5.0</span>
+            <span style="font-size:13px;color:var(--color-neutral-600)">· 820+ {t.reviewsLabel}</span>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-columns:260px 1fr;gap:32px;align-items:start">
+          <div style="border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:22px;display:grid;gap:10px">
+            {ratingBars.map((b: { stars: number; pct: number }) => (
+              <div style="display:grid;grid-template-columns:26px 1fr 38px;gap:10px;align-items:center;font-size:13px;color:var(--color-neutral-700)">
+                <span>{b.stars}★</span>
+                <span style="height:7px;border-radius:999px;background:var(--color-neutral-200)"><span style={`display:block;width:${b.pct}%;height:7px;border-radius:999px;background:var(--color-accent)`}></span></span>
+                <span>{b.pct}%</span>
+              </div>
+            ))}
+            <p style="font-size:12.5px;line-height:1.6;color:var(--color-neutral-600);margin:10px 0 0;padding-top:12px;border-top:1px solid var(--color-divider)">{sc.ratingBreakdownNote}</p>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px">
+            {(GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en).map((r) => (
+              <article style="border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:22px;display:flex;flex-direction:column;gap:10px">
+                <div style="color:var(--color-accent);font-size:14px">★★★★★</div>
+                <p style="font-size:14.5px;line-height:1.6;color:var(--color-neutral-800);margin:0">&ldquo;{r.text}&rdquo;</p>
+                <p style="font-size:13px;color:var(--color-neutral-600);margin:auto 0 0;padding-top:10px;border-top:1px solid var(--color-divider)"><b style="color:var(--color-text)">{r.name}</b>{r.place ? ' · ' + r.place : ''}</p>
+              </article>
+            ))}
+          </div>
+        </div>
+        <div style="text-align:center;margin-top:24px"><a href={b + '/reviews'} class="btn btn-secondary">{t.readReviews} →</a></div>
+      </section>
+    </>
+  )}
+
+  {isCarHubPage && (
+    <section style="padding:40px 40px 32px;display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center">
+      <div>
+        <span class="mono" style="color:var(--color-accent-700)">{sc.carsEyebrow}</span>
+        <h1 style="font-size:clamp(28px,4vw,52px);line-height:1.04;margin:12px 0 14px">{d.title}</h1>
+        <p style="font-size:17px;line-height:1.65;color:var(--color-neutral-700);max-width:520px;margin:0 0 24px">{sc.carsLead}</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap">
+          <a href={settings.whatsappHref} target="_blank" rel="noopener" class="btn btn-primary" style="font-size:16px;padding:15px 30px">{sc.carsGetQuote}</a>
+          <a href="#fleet" class="btn btn-secondary" style="font-size:16px;padding:15px 30px">{sc.carsSeeVehicles}</a>
+        </div>
       </div>
-      <div class="trust-bar">
-        <div class="trust-item"><Icon name="shield" class="ico" /><span><b>{t.trustLocal}</b><small>{t.trustLocalSub}</small></span></div>
-        <div class="trust-item"><Icon name="compass" class="ico" /><span><b>{t.trustBespoke}</b><small>{t.trustBespokeSub}</small></span></div>
-        <div class="trust-item"><Icon name="chat" class="ico" /><span><b>{t.trustReply}</b><small>{t.trustReplySub}</small></span></div>
-        <div class="trust-item"><Icon name="check" class="ico" /><span><b>{t.trustSecure}</b><small>{t.trustSecureSub}</small></span></div>
+      <div class="ph" style="min-height:300px"><span>{sc.carsPhotoCaption}</span></div>
+    </section>
+  )}
+
+  {isContactPage && (
+    <section style="padding:56px 40px 40px;display:grid;grid-template-columns:1fr 1fr;gap:56px;max-width:1160px;margin:0 auto">
+      <div>
+        <span class="mono" style="color:var(--color-accent-700)">{sc.contactEyebrow}</span>
+        <h1 style="font-size:clamp(30px,4.4vw,52px);line-height:1.04;margin:14px 0 16px">{d.title}</h1>
+        <p style="font-size:17px;line-height:1.6;color:var(--color-neutral-700);max-width:420px;margin:0 0 12px">{sc.contactLead}</p>
+        <p class="mono" style="color:var(--color-neutral-600)">{sc.responseLabel}: {t.trustReplySub}</p>
       </div>
-    </div>
+      <div class="card elev-md" style="border-radius:var(--radius-lg);padding:36px">
+        <form id="contact-form" style="display:grid;gap:16px">
+          <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0" aria-hidden="true" />
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+            <div class="field"><label>{sc.firstName}</label><input class="input" name="firstName" required /></div>
+            <div class="field"><label>{sc.lastName}</label><input class="input" name="lastName" /></div>
+          </div>
+          <div class="field"><label>{sc.email}</label><input class="input" type="email" name="email" required /></div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+            <div class="field"><label>{sc.travelDates}</label><input class="input" name="dates" /></div>
+            <div class="field"><label>{sc.travellers}</label><input class="input" name="travellers" /></div>
+          </div>
+          <div class="field"><label>{sc.wantMsg}</label><textarea class="input" name="message" rows="4"></textarea></div>
+          <button type="submit" class="btn btn-primary btn-block">{sc.sendEnquiry}</button>
+        </form>
+      </div>
+      <script define:vars={{ contactEmail: settings.email, submitEndpoint: settings.submitEndpoint }}>
+        document.getElementById('contact-form')?.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const form = e.target;
+          const data = new FormData(form);
+          const lines = [
+            'First name: ' + (data.get('firstName') || ''),
+            'Last name: ' + (data.get('lastName') || ''),
+            'Email: ' + (data.get('email') || ''),
+            'Travel dates: ' + (data.get('dates') || ''),
+            'Travellers: ' + (data.get('travellers') || ''),
+            '',
+            (data.get('message') || ''),
+          ];
+          const subject = 'Enquiry from ' + (data.get('firstName') || 'website');
+          const fullName = [data.get('firstName'), data.get('lastName')].filter(Boolean).join(' ');
+
+          if (submitEndpoint) {
+            fetch(submitEndpoint, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                type: 'message',
+                name: fullName || data.get('firstName') || '',
+                email: data.get('email') || '',
+                subject,
+                message: data.get('message') || '',
+                raw: lines.join('\n'),
+                website: data.get('website') || '',
+              }),
+            }).catch(() => {});
+          }
+
+          window.location.href = 'mailto:' + contactEmail + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(lines.join('\n'));
+        });
+      </script>
+    </section>
+  )}
+
+  {isDesertPage && (
+    <>
+      <section style="padding:40px 40px 24px;display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center">
+        <div>
+          <span class="mono" style="color:var(--color-accent-700)">{sc.desertEyebrow}</span>
+          <h1 style="font-size:clamp(28px,4vw,52px);line-height:1.04;margin:12px 0 0;max-width:20ch">{d.title}</h1>
+        </div>
+        <div class="ph" style="min-height:280px"><span>{sc.desertPhotoCaption}</span></div>
+      </section>
+      {desertTours.length > 0 && (
+        <section style="padding:0 40px 24px">
+          <h2 style="font-size:clamp(22px,3vw,32px);margin:0 0 20px">{sc.desertGridHeading}</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px">
+            {desertTours.map((e) => (
+              <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
+                duration={e.data.duration} lang={lang} urlPath={e.data.urlPath} tourType={e.data.tourType}
+                rating={e.data.rating} reviewCount={e.data.reviewCount} />
+            ))}
+          </div>
+          <div style="text-align:center;margin-top:28px"><a href={b + '/tours'} class="btn btn-secondary">{t.viewAll} →</a></div>
+        </section>
+      )}
+    </>
   )}
 
   {(isTour || isCar) && (
@@ -281,18 +626,110 @@ const breadcrumbJsonld = {
     </nav>
   )}
 
-  <div class={isPage ? 'wrap layout full' : 'wrap layout'}>
+  <div class={isPage ? 'wrap layout full' : 'wrap layout'} style={isPage ? 'padding:0 40px 40px' : undefined}>
     <article class="prose">
-      {isPage && <Content />}
+      {isPage && (
+        <div class="md-prose">
+          <Content />
+        </div>
+      )}
 
       {dayTripTours.length > 0 && (
-        <div class="sec">
-          <h2>{t.bookableNow}</h2>
-          <div class="grid">
+        <div class="sec" style="margin-top:16px">
+          <h2 style="font-size:clamp(24px,3vw,34px);margin:0 0 20px">{t.bookableNow}</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:20px">
             {dayTripTours.map((e) => (
               <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
                 duration={e.data.duration} lang="en" seed={e.data.pslug} urlPath={e.data.urlPath} tourType={e.data.tourType}
                 rating={e.data.rating} reviewCount={e.data.reviewCount} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {isCarHubPage && d.carListings.length > 0 && (
+        <div class="sec" id="fleet" style="margin-top:16px">
+          <h2 style="font-size:clamp(24px,3vw,34px);margin:0 0 20px">{sc.ourFleet}</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:20px">
+            {d.carListings.map((car: { icon: string; title: string; text: string; specs: string[]; price: string | null; href: string | null; bookHref: string | null }) => (
+              <a href={car.href ?? car.bookHref ?? '#'} style="display:flex;flex-direction:column;border:1px solid var(--color-divider);border-radius:var(--radius-md);overflow:hidden;color:inherit;text-decoration:none">
+                <div class="ph" style="height:150px;border-radius:0;box-shadow:none"><span>photo — {car.title}</span></div>
+                <div style="padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1">
+                  <h3 style="font-size:16px;margin:0"><Icon name={car.icon} class="ico sm" style="vertical-align:-2px;margin-right:4px;color:var(--color-accent)" />{car.title}</h3>
+                  <p style="font-size:12.5px;line-height:1.5;color:var(--color-neutral-700);margin:0">{car.text}</p>
+                  {car.specs.length > 0 && (
+                    <p style="font-size:12px;color:var(--color-neutral-700);margin:6px 0 0;padding-top:8px;border-top:1px solid var(--color-divider)">{car.specs.slice(0, 3).join(' · ')}</p>
+                  )}
+                  {car.price
+                    ? <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.from} <span style="font-size:17px;font-weight:700;color:var(--color-accent-700)">{car.price}</span></p>
+                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">On request</p>}
+                </div>
+              </a>
+            ))}
+          </div>
+          <p style="font-size:13px;color:var(--color-neutral-600);margin:16px 0 0">{sc.fleetNote}</p>
+        </div>
+      )}
+
+      {isCarHubPage && d.carListings.length === 0 && fleetCars.length > 0 && (
+        <div class="sec" id="fleet" style="margin-top:16px">
+          <h2 style="font-size:clamp(24px,3vw,34px);margin:0 0 20px">{sc.ourFleet}</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:20px">
+            {fleetCars.map((car) => (
+              <a href={'/' + car.data.urlPath} style="display:flex;flex-direction:column;border:1px solid var(--color-divider);border-radius:var(--radius-md);overflow:hidden;color:inherit;text-decoration:none">
+                <div class="ph" style="height:150px;border-radius:0;box-shadow:none"><span>photo — {car.data.title}</span></div>
+                <div style="padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1">
+                  <h3 style="font-size:16px;margin:0">{car.data.title}</h3>
+                  {car.data.carCategory && <p style="font-size:12px;color:var(--color-neutral-600);margin:0">{car.data.carCategory}</p>}
+                  {car.data.carFeatures?.length > 0 && (
+                    <p style="font-size:12px;color:var(--color-neutral-700);margin:6px 0 0;padding-top:8px;border-top:1px solid var(--color-divider)">{car.data.carFeatures.slice(0, 3).join(' · ')}</p>
+                  )}
+                  {car.data.price
+                    ? <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.from} <span style="font-size:17px;font-weight:700;color:var(--color-accent-700)">€{car.data.price}</span> / {sc.day}</p>
+                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">On request</p>}
+                </div>
+              </a>
+            ))}
+          </div>
+          <p style="font-size:13px;color:var(--color-neutral-600);margin:16px 0 0">{sc.fleetNote}</p>
+        </div>
+      )}
+
+      {isCarHubPage && (
+        <div class="sec" style="margin-top:40px;background:var(--color-surface);border-radius:var(--radius-lg);padding:32px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:32px">
+          <div><h3 style="font-size:18px;margin:0 0 8px">{sc.availTitle}</h3><p style="font-size:14px;line-height:1.6;color:var(--color-neutral-700);margin:0">{sc.availNote}</p></div>
+          <div><h3 style="font-size:18px;margin:0 0 8px">{sc.paymentTitle}</h3><p style="font-size:14px;line-height:1.6;color:var(--color-neutral-700);margin:0">{sc.paymentNote}</p></div>
+          <div><h3 style="font-size:18px;margin:0 0 8px">{sc.includedTitle}</h3><p style="font-size:14px;line-height:1.6;color:var(--color-neutral-700);margin:0">{sc.includedNote}</p></div>
+        </div>
+      )}
+
+      {isPage && !isCarHubPage && d.faqs.length > 0 && (
+        <div class="sec" style="margin-top:40px">
+          <h2 style="font-size:clamp(24px,3vw,34px);margin:0 0 20px">{t.frequentlyAsked}</h2>
+          <div style="display:grid;gap:2px">
+            {d.faqs.map((f: { q: string; aHtml: string }) => (
+              <details class="faq" style="border-bottom:1px solid var(--color-divider);padding:16px 0">
+                <summary style="font-size:16px;font-weight:600;cursor:pointer">{f.q}</summary>
+                <div class="md-prose" style="padding-top:10px;font-size:15px" set:html={f.aHtml} />
+              </details>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {isCarHubPage && d.faqs.length > 0 && (
+        <div class="sec" id="carfaq" style="margin-top:40px;display:grid;grid-template-columns:280px 1fr;gap:40px;align-items:start">
+          <div style="position:sticky;top:100px">
+            <h2 style="font-size:clamp(24px,3vw,32px);margin:0 0 10px">{t.frequentlyAsked}</h2>
+            <p style="font-size:14.5px;line-height:1.6;color:var(--color-neutral-700);margin:0 0 16px">{t.trustReplySub}</p>
+            <a href={settings.whatsappHref} target="_blank" rel="noopener" class="btn btn-secondary">{sc.askQuestion}</a>
+          </div>
+          <div style="display:grid;gap:10px">
+            {d.faqs.map((f: { q: string; aHtml: string }, i: number) => (
+              <details class="faq" open={i === 0} style="border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:18px 22px">
+                <summary style="font-family:var(--font-heading);font-weight:var(--font-heading-weight,500);font-size:16px;cursor:pointer">{f.q}</summary>
+                <div class="md-prose" style="padding-top:10px;font-size:15px" set:html={f.aHtml} />
+              </details>
             ))}
           </div>
         </div>
@@ -536,18 +973,18 @@ const breadcrumbJsonld = {
   </div>
 
   {(isTour || isCar) && similar.length > 0 && (
-    <section class="pad soft2">
-      <div class="wrap">
-        <div class="sec-head" style="margin-bottom:32px"><h2>{t.similar}</h2></div>
-        <div class="grid">
+    <div class="newtheme">
+      <section style="padding:56px max(40px, calc((100% - 1180px) / 2))">
+        <h2 style="font-size:clamp(24px,3.2vw,34px);margin:0 0 28px">{t.similar}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px">
           {similar.map((e) => (
             <TourCard href={'/' + e.data.urlPath} title={e.data.title} price={e.data.price}
               duration={e.data.duration} lang={lang} seed={e.data.pslug} urlPath={e.data.urlPath} tourType={e.data.tourType}
               rating={e.data.rating} reviewCount={e.data.reviewCount} />
           ))}
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   )}
 
   {isTour && (
@@ -616,4 +1053,21 @@ const breadcrumbJsonld = {
 
 <style>
   .soft2{background:var(--blue-lt)}
+  .md-prose :global(h2){font-family:var(--font-heading);font-weight:var(--font-heading-weight,400);font-size:26px;color:var(--color-text);margin:34px 0 12px}
+  .md-prose :global(h3){font-family:var(--font-heading);font-weight:var(--font-heading-weight,400);font-size:20px;margin:26px 0 10px}
+  .md-prose :global(h4),.md-prose :global(h5),.md-prose :global(h6){font-size:16px;margin:20px 0 8px}
+  .md-prose :global(p){font-size:16px;line-height:1.7;color:var(--color-neutral-800);margin:0 0 14px}
+  .md-prose :global(ul),.md-prose :global(ol){margin:0 0 16px 22px;color:var(--color-neutral-800)}
+  .md-prose :global(li){margin:6px 0;font-size:16px;line-height:1.6}
+  .md-prose :global(table){border-collapse:collapse;width:100%;margin:16px 0;font-size:14px}
+  .md-prose :global(td){border-bottom:1px solid var(--color-divider);padding:12px}
+  .md-prose :global(tbody tr:nth-child(odd)){background:var(--color-neutral-100)}
+  .md-prose :global(th){background:var(--color-accent-700);color:#fff;font-family:var(--font-heading);font-weight:var(--font-heading-weight,600);padding:13px 12px;text-align:left}
+  .md-prose :global(th:first-child){border-radius:10px 0 0 0}
+  .md-prose :global(th:last-child){border-radius:0 10px 0 0}
+  .md-prose :global(a){color:var(--color-accent-700)}
+  .md-prose :global(a:hover){color:var(--color-accent)}
+  .md-prose :global(img){border-radius:var(--radius-md);margin:14px 0}
+  .md-prose :global(hr){border:none;border-top:1px solid var(--color-divider);margin:26px 0}
+  .md-prose :global(blockquote){background:var(--color-accent-100);border-left:4px solid var(--color-accent);padding:14px 18px;border-radius:var(--radius-sm);margin:22px 0;font-size:15px}
 </style>

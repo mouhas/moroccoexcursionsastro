@@ -100,7 +100,77 @@ faqs:
     <p>El amanecer y el atardecer son los momentos más bonitos para disfrutar de las dunas, independientemente de la estación del año.</p>'
 - q: ¿Tienes otras programas similares?
   aHtml: <p>Sí, tenemos otras rutas de senderismo de 3 días, 4 días y de 5 días. También es posible hacerla en solo un día. Así que no dude en ponerse en contacto con nosotros si busca una ruta personalizada.</p>
-reviews: []
+- q: ¿Dónde empieza y termina la ruta de senderismo?
+  aHtml: <p>El trekking comienza y termina en el pueblo de Merzouga, donde te reunirás con tu guía bereber. Si necesitas dejar equipaje que no vayas a llevar durante la caminata, normalmente se puede guardar en el hotel o en la oficina local antes de salir.</p>
+- q: ¿El paseo en camello está incluido en el precio?
+  aHtml: <p>No, el precio base incluye únicamente el senderismo con guía, las comidas y la noche en el campamento. El paseo en camello, el sandboard o la visita a una familia nómada son actividades opcionales que se pueden añadir con un coste adicional.</p>
+- q: ¿Cómo son las tiendas de campaña del campamento?
+  aHtml: <p>Las tiendas son cómodas, con camas y mantas, y cuentan con baños compartidos o privados según la categoría reservada. No es una acampada libre, así que dormirás con más comodidad de la que imaginas en pleno desierto.</p>
+- q: ¿Hay cobertura de móvil durante la excursión?
+  aHtml: <p>No, una vez que te adentras en las dunas de Erg Chebbi la señal desaparece casi por completo. Aprovecha para desconectar durante las 24 horas que dura el trekking, ya que es parte de la experiencia.</p>
+- q: ¿Es necesario dar propina al guía bereber?
+  aHtml: <p>No es obligatorio, pero es habitual y muy apreciado. Muchos viajeros dejan entre 5 y 10 euros por persona al final del trekking como agradecimiento por el guía.</p>
+reviews:
+- name: Tyler H.
+  date: 11/03/2025
+  likes: 0
+  stars: 5
+  title: Subir dunas de 150 metros cansa, pero merece la pena
+  text: Nadie me avisó de lo duro que es caminar sobre arena blanda cuesta arriba, pero cuando llegamos a la cresta y vimos Erg Chebbi entero desde arriba se me olvidó el cansancio. Dos días fueron justos y precisos para sentir el desierto de verdad.
+- name: Julieta R.
+  date: 28/04/2025
+  likes: 1
+  stars: 5
+  title: El amanecer del segundo día lo cambia todo
+  text: Levantarnos antes del sol para subir a una duna cercana fue lo mejor de todo el trekking, ver cómo la luz cambia de color sobre la arena en pocos minutos es algo que no había visto nunca. Nuestro guía conocía cada rincón para llegar al mejor punto.
+- name: Amelia R.
+  date: 09/06/2025
+  likes: 0
+  stars: 4
+  title: Más duro de lo que esperaba, pero inolvidable
+  text: Las cinco o seis horas de caminata por arena blanda cada día pesan más de lo que crees si no estás en forma. Aun así, la puesta de sol sobre las dunas y la cena bereber en el campamento hicieron que valiera totalmente la pena el esfuerzo.
+- name: Markus F.
+  date: 20/07/2025
+  likes: 0
+  stars: 5
+  title: El cielo estrellado del Sáhara, algo que no se olvida
+  text: Sin ninguna luz de ciudad cerca, la Vía Láctea se veía como nunca antes. Los tambores bereberes junto al fuego después de la cena crearon un ambiente perfecto para cerrar el primer día de trekking.
+- name: Antoine V.
+  date: 02/09/2025
+  likes: 0
+  stars: 5
+  title: El almuerzo bajo la sombra de las palmeras
+  text: Parar a mediodía para comer una ensalada sencilla, pan recién hecho y té a la menta a la sombra de un árbol en medio de las dunas fue un momento de calma total. El guía bereber nos explicó cómo cambia la arena de color según la hora del día.
+- name: Kayla W.
+  date: 15/10/2025
+  likes: 0
+  stars: 5
+  title: Añadimos el paseo en camello al atardecer y no me arrepiento
+  text: El trekking a pie ya es precioso, pero decidimos sumar el paseo en camello justo antes de llegar al campamento para ver la puesta de sol y fue mágico. Recomiendo reservar esa actividad extra si tenéis oportunidad.
+- name: Esteban L.
+  date: 27/11/2025
+  likes: 0
+  stars: 5
+  title: Un guía que sabe mucho más que solo el camino
+  text: Nuestro guía nos iba explicando las formas que deja el viento en la arena, qué plantas sobreviven ahí y cómo se orientan sin ningún punto de referencia visible. El segundo día, con una ruta distinta de vuelta, se sintió como una excursión completamente nueva.
+- name: Beatriz S.
+  date: 14/01/2026
+  likes: 0
+  stars: 4
+  title: Dos días se quedan cortos
+  text: Lo disfrutamos tantísimo que al final del segundo día ya queríamos quedarnos una noche más en el campamento. La experiencia en sí, desde el amanecer hasta la cena bereber, está muy bien organizada.
+- name: Jack S.
+  date: 03/03/2026
+  likes: 0
+  stars: 5
+  title: Nos cruzamos con una familia nómada en el camino de vuelta
+  text: En la ruta de regreso a Merzouga pasamos cerca de una familia nómada con sus tiendas y sus rebaños, algo que no esperábamos ver y que le dio otra dimensión al segundo día. El desayuno con pan recién hecho y amlou tampoco lo olvido.
+- name: Nicole T.
+  date: 22/05/2026
+  likes: 0
+  stars: 3
+  title: Buena experiencia, comida algo repetitiva
+  text: El trekking en sí y el guía fueron excelentes, sobre todo el amanecer del segundo día. La comida en el campamento era rica pero bastante parecida en las dos comidas, así que si vas a hacer rutas más largas quizás pidas variar un poco el menú con antelación.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d51959.414558739576!2d-4.031443894329774!3d31.095566748984368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sen!2sen!4v1757162605013!5m2!1sen!2sen

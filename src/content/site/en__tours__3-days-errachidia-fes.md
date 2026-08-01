@@ -96,7 +96,75 @@ faqs:
   aHtml: <p>The camel trek is not recommended for people with back problems, pregnant women, or travelers over 70, though a direct vehicle transfer to the camp can be arranged instead.</p>
 - q: Can this itinerary be customized?
   aHtml: <p>Yes, we can adjust the pace, add extra stops, or upgrade the desert camp to a more comfortable or luxury category depending on your preferences.</p>
-reviews: []
+- q: How much walking is involved in the Fes city tour on day three?
+  aHtml: <p>The Medina and the walk to the Bou Inania Madrasa and the tanneries cover uneven, sometimes crowded lanes, but the pace is relaxed and your guide adjusts it to the group. Comfortable, closed shoes are recommended rather than sandals.</p>
+- q: Is this tour private or shared with other travelers?
+  aHtml: '<p>The vehicle, driver-guide, and the city guide in Fes are all private to your group. You won''t be grouped with other travelers at any point of the three days.</p>'
+- q: When is the best time of year for this desert-to-Fes route?
+  aHtml: <p>Spring and autumn are ideal, with comfortable temperatures for the camel trek and for walking through the Fes Medina. Summer is hot around Merzouga and Rissani, while winter brings cold nights at the desert camp and cool air in the cedar forests around Ifrane.</p>
+- q: Should we tip the driver-guide and the Fes city guide separately?
+  aHtml: '<p>Yes, it''s customary to tip the driver-guide for the road days and give a separate, smaller tip to the local guide who leads the walking tour of the Fes Medina on the last day.</p>'
+reviews:
+- name: Hiro L.
+  date: 06/01/2025
+  likes: 1
+  stars: 5
+  title: Smooth pickup right from the train station
+  text: We arrived into Errachidia by train and our driver was waiting outside, ready to head straight to Merzouga. By late afternoon we were already on camels heading into the Erg Chebbi dunes, which made the connection feel effortless.
+- name: Piotr R.
+  date: 19/02/2025
+  likes: 0
+  stars: 5
+  title: Rissani and the tanneries were unexpected favorites
+  text: The stop in Rissani on the drive to Fes gave a real sense of the old caravan trade routes, and the tanneries on our last day in Fes were just as memorable, even with the strong smell. Good mix of desert and city in a short trip.
+- name: Rosa R.
+  date: 25/03/2025
+  likes: 0
+  stars: 4
+  title: Loved the camp, wish we had a second night
+  text: The camel trek and the desert camp were both excellent, but with only one night before the long drive north through Midelt and Ifrane, it felt rushed. Still a great way to combine Errachidia with a first look at Fes.
+- name: Maya V.
+  date: 02/04/2025
+  likes: 1
+  stars: 5
+  title: 'Karim''s explanation of the Bou Inania Madrasa'
+  text: Our guide Karim walked us through the Bou Inania Madrasa on the last day and explained the Marinid carvings in a way that made the whole Medina visit click. Combined with the camel trek two days earlier, it felt like two completely different trips in one.
+- name: Otto O.
+  date: 11/05/2025
+  likes: 0
+  stars: 5
+  title: Train, camel, medina, all in three days
+  text: Efficient trip from the Errachidia train station straight into the desert, then on to the Fes Medina by the third day. Exactly what we needed for a short stopover.
+- name: Aline T.
+  date: 28/06/2025
+  likes: 0
+  stars: 5
+  title: 'Ifrane''s cedar forest was a nice contrast'
+  text: After two days of desert heat, driving through the cedar forests near Ifrane felt like a different country entirely. Nice change of scenery before arriving in Fes for the final day.
+- name: Michelle R.
+  date: 14/07/2025
+  likes: 1
+  stars: 5
+  title: Rachid knew the desert roads well
+  text: Our driver Rachid handled the long stretch from Merzouga through Rissani and Erfoud without it ever feeling tedious, pointing out things along the way. The tanneries the next day in Fes were a completely different kind of interesting.
+- name: Rajesh R.
+  date: 09/08/2024
+  likes: 0
+  stars: 5
+  title: Desert sunset then city tanneries two days later
+  text: Hard to believe the camel trek at sunset and the traditional leather tanneries in Fes happened on the same trip. This route packs in a real contrast between the Sahara and the imperial city.
+- name: Yara Y.
+  date: 22/09/2024
+  likes: 0
+  stars: 5
+  title: Great connection from Errachidia to Fes
+  text: This was the perfect way to get from Errachidia to Fes without just sitting in a car all day. The camel trek, the desert camp, and then a proper guided walk through the Medina and the Bou Inania Madrasa made it feel like three real experiences packed into three days.
+- name: Tom T.
+  date: 30/10/2024
+  likes: 1
+  stars: 5
+  title: Medina lanes were a maze in the best way
+  text: Getting a bit lost in the narrow lanes of Fes el-Bali with our guide on the last day was a highlight, right after two days that started at a train station and ended on a camel. Great value for a short trip.
 rating: null
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sErrachidia%2C%20Morocco!4m1!2sFes%2C%20Morocco

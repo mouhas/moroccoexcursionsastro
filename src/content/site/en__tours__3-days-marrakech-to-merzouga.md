@@ -129,6 +129,14 @@ faqs:
     <p>The <strong><a href="/tours/4-day-marrakech-to-merzouga-desert-tour" rel="noopener" target="_blank">4-Days tour from Marrakech to Merzouga Desert</a>. </strong>This longer tour allows more time to explore the beauty of southern Morocco. You’ll enjoy a slower pace with extra stops in the Dades Valley, Todra Gorges, and Berber villages. You’ll spend a night in the desert camp, ride camels, and have more time to enjoy the scenery along the way before returning to Marrakech on the fourth day.</p>
 
     <p><strong><a href="/tours/4-day-trip-from-marrakech-to-fes" rel="noopener" target="_blank">4 Days desert tour from Marrakech to Fes</a> </strong>via Merzouga Desert. This tour is ideal if you plan to continue your journey to Fes. Over four days, you’ll travel through the High Atlas Mountains, visit Ait Ben Haddou, Dades Gorges, and spend a night under the stars in Merzouga. On the last day, you’ll travel north through the Ziz Valley and Middle Atlas, stopping in places like Midelt, Azrou (to see the cedar forest and wild monkeys), and Ifrane before arriving in Fes.</p>'
+- q: Is this tour private, or will we be grouped with other travelers?
+  aHtml: '<p>This is a fully private tour with your own driver and vehicle from Marrakech to Merzouga and back, so you won''t be joined with other travelers at any point.</p>'
+- q: Will we have phone or internet signal during the trip, especially at the desert camp?
+  aHtml: <p>Signal is generally fine in Marrakech, Ouarzazate, and the Dades Valley, but it becomes unreliable through the Todra Gorges and mostly disappears at the desert camp near Merzouga.</p>
+- q: Is the Tizi-n-Tichka pass or the camel trek difficult for someone with limited mobility?
+  aHtml: '<p>The Tizi-n-Tichka pass involves a lot of winding mountain road but no walking is required, since you stay in the vehicle. The camel trek itself is gentle but isn''t recommended for pregnant travelers, people with back problems, or those over 70, and a direct car transfer to the camp can be arranged instead.</p>'
+- q: Is it customary to tip the driver at the end of the trip?
+  aHtml: <p>Tipping is not required but is common practice for a multi-day private driver who handles the driving, route, and stops for three days. Many travelers tip a small amount per day per person, based on how the trip went.</p>
 reviews:
 - name: Margarita
   date: 23/10/2024
@@ -166,6 +174,30 @@ reviews:
   stars: 5
   title: 3-day Sahara luxury tour
   text: We hired this company for our 3-day sahara luxury tour from Marrakech to the great south. The entire experience from the company staff, the chosen hotels, and the desert camp were great. I recommend it.
+- name: Elena D.
+  date: 04/01/2025
+  likes: 1
+  stars: 5
+  title: Ait Ben Haddou lived up to the hype
+  text: Walking through Ait Ben Haddou after seeing it in Game of Thrones was surreal, and the Tizi-n-Tichka pass on the way there gave some of the best mountain views of the whole trip. Our guide Karim knew which spots to stop at for photos without turning the day into a photo shoot.
+- name: Kenji A.
+  date: 16/02/2025
+  likes: 0
+  stars: 5
+  title: Todra Gorges walk was better than expected
+  text: The narrow canyon at Todra Gorges genuinely felt like walking through a stone corridor, and it was a nice contrast to the open dunes at Merzouga the same evening. Good pacing between mountains, valleys, and desert over the three days.
+- name: Ahmed A.
+  date: 29/03/2025
+  likes: 0
+  stars: 4
+  title: Great highlights, long final day
+  text: 'Ait Ben Haddou and the night in the desert camp were both memorable, but the return route through Alnif and N''Kob on the third day is a lot of driving in one go. Worth it for the scenery along the way, just be ready for a long last stretch back to Marrakech.'
+- name: Bjorn R.
+  date: 10/04/2025
+  likes: 0
+  stars: 5
+  title: Stars over the camp, still thinking about it
+  text: The camel ride into the dunes and the night sky at the desert camp made the whole three days worth it on their own.
 rating: 5.0
 reviewCount: 600
 mapUrl: https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d1748469.5183186634!2d-7.320579031970023!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2z0KPQsNGA0LfQsNC30LDRgtC1LCBPdWFyemF6YXRlIFByb3ZpbmNlLCDQnNCw0YDQvtC60L4!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Maroc!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2z0JzQsNGA0LDQutC10YgsINCc0LDRgNGA0LDQutC10YgsINCc0LDRgNC-0LrQvg!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sus!2sus!4v1722355654232!5m2!1sus!2sus

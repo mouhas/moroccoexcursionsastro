@@ -1,6 +1,11 @@
 ---
+// Shared header, used on every page including individual tour detail
+// pages — always the design reference's header structure (topbar +
+// solid-color nav bar) verbatim. Rendered by Base.astro inside a
+// .newtheme wrapper so the real Organic classes/tokens apply.
 import Icon from './Icon.astro';
 import { getNav, homeHref, langSwitchHref, LANGS, LANG_LABELS, UI, type Lang } from '../site';
+import { getSettings } from '../lib/settings';
 interface Props {
   lang: Lang;
   section?: 'home' | 'pages' | 'tours' | 'cars';
@@ -9,37 +14,57 @@ interface Props {
 const { lang, section = 'home', pslug } = Astro.props;
 const nav = getNav(lang);
 const t = UI[lang];
+const settings = await getSettings();
+const TOPBAR: Record<Lang, string> = {
+  en: 'Local experts in Marrakech',
+  fr: 'Experts locaux à Marrakech',
+  es: 'Expertos locales en Marrakech',
+  it: 'Esperti locali a Marrakech',
+  'pt-br': 'Especialistas locais em Marrakech',
+};
 ---
-<header class="site">
-  <div class="wrap nav">
-    <a class="logo" href={homeHref(lang)}>
-      <span class="mark"><Icon name="star" class="ico" /></span>
-      <span>Morocco Excursions<small>100% Local · Berber Owned</small></span>
-    </a>
-    <nav class="menu">
-      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
-    </nav>
-    <div class="nav-right">
-      <div class="lang">
-        <button><Icon name="globe" class="ico sm" /> {lang.toUpperCase()}</button>
-        <div class="lang-menu">
-          {LANGS.map((l) => <a href={langSwitchHref(l, { section, pslug, lang })}>{LANG_LABELS[l]}</a>)}
-        </div>
+<div class="newtheme" style="display:flex;align-items:center;justify-content:space-between;gap:24px;padding:8px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-900);color:#f7e7dd;font-size:13px">
+  <span style="display:inline-flex;align-items:center;gap:7px"><Icon name="pin" class="ico sm" />{TOPBAR[lang]}</span>
+  <div style="display:flex;align-items:center;gap:20px">
+    <div class="lang" style="position:relative">
+      <button style="display:inline-flex;align-items:center;gap:7px;background:transparent;border:none;color:inherit;font:inherit;cursor:pointer;padding:2px 0">
+        <Icon name="globe" class="ico sm" />{LANG_LABELS[lang]}
+      </button>
+      <div class="lang-menu">
+        {LANGS.map((l) => <a href={langSwitchHref(l, { section, pslug, lang })}>{LANG_LABELS[l]}</a>)}
       </div>
-      <a href={nav[1]?.href ?? homeHref(lang)} class="btn sm">{t.book}</a>
-      <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
     </div>
+    <a href={settings.whatsappHref} target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;color:inherit">
+      <Icon name="whatsapp" class="ico sm" />{t.chatWhatsapp}
+    </a>
+    <a href={settings.phoneHref} style="display:inline-flex;align-items:center;gap:7px;color:inherit">
+      <Icon name="phone" class="ico sm" />{settings.phone}
+    </a>
+  </div>
+</div>
+
+<header class="newtheme" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:32px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
+  <a href={homeHref(lang)} class="btn btn-ghost" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff">
+    <span style="width:26px;height:26px;border-radius:10px;background:#fff;display:inline-block"></span>
+    Morocco Excursions
+  </a>
+  <nav id="mainNav" style="display:flex;align-items:center;gap:4px;flex:1;justify-content:center">
+    {nav.map((n) => <a href={n.href} class="btn btn-ghost" style="color:#fff">{n.label}</a>)}
+  </nav>
+  <div style="display:flex;align-items:center;gap:10px">
+    <a href={nav[1]?.href ?? homeHref(lang)} class="btn" style="border-radius:10px;padding:11px 22px;background:#fff;color:var(--color-accent-800);font-weight:600">{t.book}</a>
+    <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
   </div>
 </header>
 <script>
   const b = document.getElementById('burger');
   b?.addEventListener('click', () => {
-    const m = document.querySelector('.menu');
+    const m = document.getElementById('mainNav');
     if (!m) return;
     const open = m.style.display === 'flex';
     m.style.display = open ? '' : 'flex';
     if (!open) {
-      Object.assign(m.style, { position: 'absolute', flexDirection: 'column', top: '72px', left: '0', right: '0', background: '#fff', padding: '18px 22px', borderBottom: '1px solid var(--line)', gap: '6px', zIndex: '40' });
+      Object.assign(m.style, { position: 'absolute', flexDirection: 'column', top: '96px', left: '0', right: '0', background: 'var(--color-accent-700)', padding: '18px 22px', gap: '6px', zIndex: '40' });
     }
   });
 </script>

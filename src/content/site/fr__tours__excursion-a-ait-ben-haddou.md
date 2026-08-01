@@ -71,7 +71,79 @@ faqs:
     <p><a href="/fr/tours/excursion-a-imlil" rel="noopener" target="_blank"><strong>Excursion d''une journée à Imlil</strong></a> - Cette excursion vous emmène de Marrakech au magnifique village d''Imlil, dans les montagnes de l''Atlas. Vous verrez des villages berbères traditionnels, des rivières et des cascades.</p>
 
     <p><a href="/fr/tours/excursion-ouzoud" rel="noopener" target="_blank"><strong>Excursion d''une journée aux cascades d''Ouzoud</strong></a> - Cette excursion vous permet de visiter les superbes cascades d''Ouzoud, où vous pourrez profiter de la nature, marcher le long des cascades et peut-être apercevoir des singes. C''est un excellent moyen de découvrir la beauté naturelle du Maroc.</p>'
-reviews: []
+- q: N'est-ce pas beaucoup de conduite (plus de 7 heures) pour une seule journée d'excursion?
+  aHtml: <p>C'est effectivement une longue journée, environ 3 heures 40 minutes dans chaque sens, mais le col du Tizi n'Tichka et les arrêts dans les villages berbères rythment le trajet grâce aux paysages traversés. Si vous préférez ne pas le faire en une seule journée, une version avec une nuit à Ouarzazate ou dans la vallée du Dadès peut être organisée à la place.</p>
+- q: À quelle heure serons-nous de retour à Marrakech?
+  aHtml: <p>Avec une prise en charge à 8h00, la plupart des voyageurs sont de retour à leur hôtel à Marrakech entre 19h00 et 20h00, selon le temps passé à la Kasbah et le nombre d'arrêts photo effectués au col.</p>
+- q: Le billet d'entrée à la Kasbah est-il inclus dans le prix?
+  aHtml: <p>Non, le billet d'entrée à Ait Ben Haddou n'est pas inclus et se paie sur place, tout comme une éventuelle visite guidée optionnelle de la Kasbah elle-même.</p>
+- q: Cette excursion d'une journée peut-elle être combinée avec un arrêt à Ouarzazate?
+  aHtml: <p>Oui, Ouarzazate se trouve seulement à environ 30 minutes de plus et peut être ajoutée sur demande pour visiter les studios de cinéma ou la kasbah de Taourirt, bien que cela rallonge la journée. Faites-le-nous savoir lors de la réservation si vous souhaitez cet ajout.</p>
+- q: Combien de marche faut-il prévoir une fois arrivés à la Kasbah?
+  aHtml: <p>Vous traverserez une passerelle au-dessus de la rivière pour rejoindre la Kasbah, puis vous marcherez sur des chemins et des marches en pierre étroits à travers le vieux village, avec la possibilité de grimper jusqu'à l'ancien grenier au sommet pour profiter de la vue sur la vallée. Des chaussures confortables sont recommandées.</p>
+- q: Le déjeuner est-il inclus, et où mange-t-on?
+  aHtml: <p>Le déjeuner n'est pas inclus dans le prix, mais il y a des restaurants juste à côté de la Kasbah avec des terrasses donnant sur la rivière et la forteresse, un endroit prisé pour manger avant de reprendre la route.</p>
+reviews:
+- name: Hélène Caron
+  date: 25/01/2025
+  likes: 0
+  stars: 5
+  title: Les vues du Tizi n'Tichka valaient le réveil matinal
+  text: Notre chauffeur Saïd s'est arrêté à un magnifique point de vue sur le col avant même que nous atteignions Aït Ben Haddou, des sommets enneigés d'un côté et la vallée qui s'étend en contrebas de l'autre. Une belle mise en bouche pour une excellente journée.
+- name: Marc Delorme
+  date: 14/02/2025
+  likes: 0
+  stars: 4
+  title: Une longue journée, mais la Kasbah en vaut la peine
+  text: Il faut être honnête sur le temps de trajet, presque 4 heures dans chaque sens, ça représente une bonne partie de la journée. Cela dit, traverser le pont jusqu'à la Kasbah et voir les lieux de tournage de Gladiator a rendu tout cela vraiment gratifiant à la fin.
+- name: Tamara Lecomte
+  date: 09/03/2025
+  likes: 1
+  stars: 5
+  title: La traversée du pont vers la Kasbah, une excellente première impression
+  text: Traverser la passerelle avec la rivière et les palmiers en contrebas, puis grimper dans la forteresse du XIe siècle, plante vraiment le décor. Notre guide nous a montré où plusieurs scènes de films avaient été tournées, dont Gladiator et La Momie.
+- name: Loïc Vaillant
+  date: 30/04/2025
+  likes: 0
+  stars: 5
+  title: Les villages berbères en chemin ont rendu le trajet passionnant
+  text: Plutôt qu'une simple ligne droite sur l'autoroute, nous avons traversé plusieurs petits villages berbères dans les montagnes avant d'atteindre le col. Le déjeuner face à la Kasbah ensuite a été une manière agréable et détendue de terminer la visite avant de reprendre la route.
+- name: Solène Aubert
+  date: 21/05/2025
+  likes: 0
+  stars: 3
+  title: Magnifique, mais beaucoup de route pour le temps passé sur place
+  text: La Kasbah en elle-même est vraiment particulière et les paysages de montagne sont superbes, mais en faisant le calcul, nous avons passé près de 8 heures en voiture pour environ 2 heures sur place. La prochaine fois, j'envisagerais la version avec nuitée.
+- name: Bruno Chevallier
+  date: 12/06/2025
+  likes: 0
+  stars: 5
+  title: L'un des endroits les plus photogéniques du Maroc
+  text: Chaque angle d'Aït Ben Haddou ressemble à une carte postale. Le trajet en valait vraiment la peine.
+- name: Ayaka Simon
+  date: 28/07/2025
+  likes: 0
+  stars: 4
+  title: La neige sur les sommets rendait le col encore plus spectaculaire
+  text: Nous y sommes allés en hiver et le col du Tizi n'Tichka était entouré de sommets enneigés, plutôt froid en altitude, donc pensez à emporter une couche chaude. La Kasbah elle-même était bien plus douce et ensoleillée à notre arrivée.
+- name: François Guérin
+  date: 09/09/2025
+  likes: 0
+  stars: 5
+  title: Notre guide connaissait chaque scène tournée à Aït Ben Haddou
+  text: Youssef a énuméré toute la liste, Le joyau du Nil, Le ciel qui nous protège, Gladiator, Queen of the Desert, tout en nous montrant les emplacements exacts des tournages. Cela a rendu l'histoire du site beaucoup plus vivante.
+- name: Marion Salvat
+  date: 25/10/2025
+  likes: 0
+  stars: 5
+  title: Grimper jusqu'à l'ancien grenier a été le point fort
+  text: La montée facultative jusqu'au grenier situé au sommet de la Kasbah offre la plus belle vue sur la vallée et les palmeraies en contrebas. Ne la manquez pas si vous êtes prêt à grimper un peu plus après le pont.
+- name: Adrien Gosselin
+  date: 15/12/2025
+  likes: 0
+  stars: 5
+  title: Voiture confortable, une logistique d'excursion très simple
+  text: Voiture climatisée, prise en charge ponctuelle, rien à redire côté organisation. Aït Ben Haddou a lui aussi été à la hauteur de sa réputation.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d872761.191245463!2d-8.206380235165845!3d31.297569946819493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!5e0!3m2!1sfr!2sbg!4v1753359734810!5m2!1sfr!2sbg

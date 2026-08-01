@@ -141,6 +141,16 @@ faqs:
   aHtml: '<p>The two similar tours to the 5-day desert tour from Marrakech to Fes are:</p>
 
     <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>'
+- q: What is the difference between the standard and luxury accommodation options?
+  aHtml: <p>Standard accommodation includes comfortable hotels like Hotel Kasbah Didis in Dades and the Mouhou Standard Desert Camp in Merzouga, while the luxury option upgrades you to places like Hotel Ksar Sultan and the Mouhou Luxury Desert Camp, both with dinner and breakfast included either way.</p>
+- q: Is this a private tour or will we be grouped with other travelers?
+  aHtml: <p>This is a fully private 5-day tour. You'll travel with your own driver in a private vehicle from Marrakech to Fes, with no other travelers joining your group.</p>
+- q: What time does pickup happen in Marrakech?
+  aHtml: <p>Pickup is typically early morning from your riad or hotel in Marrakech, so you have enough daylight to cross the Tizi-n-Tichka pass and reach Ait Benhaddou and Dades Valley comfortably on day one.</p>
+- q: Will we have phone or wifi signal during the desert days?
+  aHtml: <p>Reception is generally fine in Ouarzazate, Dades, and Midelt, but it becomes unreliable once you're out among the dunes near Merzouga and in the Black Desert on day three, so expect a couple of quieter days for signal.</p>
+- q: Should we tip our driver over the 5 days?
+  aHtml: <p>A tip is not required but is customary for good service across the five days, and many guests also leave something small for the camp staff or the nomadic family they visit in the desert.</p>
 reviews:
 - name: Andrea
   date: 28/08/2021
@@ -160,6 +170,48 @@ reviews:
   stars: 5
   title: 5-day Sahara adventure
   text: My wife and I went on this 5-day Sahara adventure. The tour included pick up from Marrakech, night in a hotel in Dades, two in the desert camp, and the last one in Medilt. Mustapha was a friendly and knowledgeable driver/guide. It was a pleasure to have him during these five days. He made sure that the scheduled stops match what we desired, and his easygoing and calm drive made a long journey go quickly. I highly recommend Mustapha and this company.
+- name: Cassandra A.
+  date: 05/01/2025
+  likes: 0
+  stars: 5
+  title: Ait Benhaddou and the studios in Ouarzazate
+  text: Day one alone was worth the trip - Ait Benhaddou's kasbah walls, then the film studios in Ouarzazate where our guide pointed out sets from movies we'd actually seen. Kasbah Amredil in Skoura later that day was a nice bonus before we reached Dades.
+- name: Lars D.
+  date: 22/01/2025
+  likes: 0
+  stars: 5
+  title: Tineghir's oasis and the Todra walls
+  text: The palm oasis stretching through Tineghir was gorgeous, and walking under the 300-meter cliffs of Todra Gorges right after was a great contrast. By the time we reached Merzouga for sunset over Erg Chebbi we were thoroughly won over by this route.
+- name: Maya S.
+  date: 08/02/2025
+  likes: 0
+  stars: 4
+  title: Black Desert and the nomad visit were unexpected favorites
+  text: Day three off-roading through the volcanic Black Desert past abandoned villages was more interesting than I expected, and the tea with the nomadic family under the acacia tree felt genuine rather than staged. Five days is a lot of driving overall, but this day in particular stood out.
+- name: Miles V.
+  date: 24/02/2025
+  likes: 0
+  stars: 5
+  title: Gnaoua music in Khamlia and flamingos on the lake
+  text: We got the seasonal lake with water, so flamingos against the golden dunes was a genuine surprise. Khamlia afterward for Gnaoua drumming sealed day three as our favorite of the whole tour.
+- name: Cassandra X.
+  date: 12/03/2025
+  likes: 1
+  stars: 5
+  title: Rissani's souk and the Ziz Valley
+  text: Rissani's market on day four was busy and colorful, a nice change of pace from the quiet dunes. The drive up through Ziz Valley's palm groves toward Tizi Ntalghamt afterward had some of the best views of the entire trip before we settled in Midelt for the night.
+- name: Renata D.
+  date: 29/03/2025
+  likes: 0
+  stars: 5
+  title: Monkeys at Azrou and Ifrane's alpine charm
+  text: Watching the Barbary monkeys climb around the cedar forest near Azrou was a fun way to start the last day, and Ifrane really does look like a slice of the Alps dropped into Morocco. A relaxing way to end before arriving in Fes.
+- name: Lotte P.
+  date: 15/04/2025
+  likes: 0
+  stars: 5
+  title: Five days, no regrets
+  text: Our guide Rachid handled everything from the Tizi-n-Tichka pass to the sunrise camel ride on day four with real care for our comfort. Ait Benhaddou, the desert camp, Rissani's souk, the cedar forest monkeys - this route hits all the highlights without feeling rushed.
 rating: 5.0
 reviewCount: 300
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1723547.140043255!2d-7.320556939730211!3d32.46458625769901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd99ad0ff58d7e67%3A0xf5cd04ffe907ee71!2sZiz%20Valley%2C%20N13%2C%20Morocco!3m2!1d32.133578299999996!2d-4.3657376999999995!4m5!1s0xd98bf42e8441e9f%3A0x88269ca6a8dbb536!2sMidelt%2C%20Morocco!3m2!1d32.6799423!2d-4.7329267999999995!4m5!1s0xda1d772f32d140b%3A0x7253cf1d404c7ca3!2sIfrane%2C%20Morocco!3m2!1d33.527174599999995!2d-5.1171821!4m5!1s0xd9f8b484d445777%3A0x10e6aaaeedd802ef!2sFes%2C%20Morocco!3m2!1d34.0181246!2d-5.0078451!5e0!3m2!1sen!2snl!4v1753630621321!5m2!1sen!2snl

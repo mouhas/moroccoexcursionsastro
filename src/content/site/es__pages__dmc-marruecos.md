@@ -1,14 +1,40 @@
 ---
-title: "Destination Management Company (DMC) in Morocco"
-lang: "es"
-section: "pages"
-pslug: "dmc-marruecos"
-urlPath: "es/dmc-marruecos"
+title: Destination Management Company (DMC) in Morocco
+lang: es
+section: pages
+pslug: dmc-marruecos
+urlPath: es/dmc-marruecos
 price: null
 duration: null
 tag: null
-source: "https://morocco-excursion.com/es/dmc-marruecos/"
+source: https://morocco-excursion.com/es/dmc-marruecos/
+faqs:
+- q: ¿Quiénes somos?
+  aHtml: <p>Somos una empresa de gestión de destinos (DMC) en Marruecos. Una empresa especializada en la organización y gestión de servicios turísticos, incluyendo logística, alojamiento, excursiones, transporte y eventos para grupos corporativos, MICE (reuniones, incentivos, convenciones y exposiciones) y viajeros de ocio.</p>
+- q: ¿Por qué debería utilizar un DMC en Marruecos?
+  aHtml: <p>Contamos con un profundo conocimiento local, sólidas relaciones con los proveedores y experiencia en la gestión de itinerarios complejos por Marruecos para grupos pequeños y grandes.</p>
+- q: ¿Qué servicios puede ofrecer una DMC en Marruecos?
+  aHtml: '<p>Estos son los servicios que ofrecemos:</p>
+
+    <p>Viajes corporativos y eventos MICE. Viajes personalizados y viajes de lujo. Transporte y traslados. Alojamiento. Actividades de team building. Experiencias culturales y de aventura. Gestión logística y operativa.</p>'
+- q: ¿Puedes encargarte de grandes eventos corporativos?
+  aHtml: <p>Sí, nos especializamos en eventos corporativos a gran escala, incluyendo conferencias, viajes de incentivo y lanzamientos de productos, con experiencia en lugares como Marrakech, Casablanca y Agadir.</p>
+- q: ¿Trabajáis con clientes internacionales?
+  aHtml: <p>Por supuesto, hemos prestado servicios a clientes de todo el mundo, incluyendo organizadores de eventos, agencias de viajes y empresas, ofreciendo asistencia multilingüe.</p>
+- q: ¿Cuáles son los principales destinos en Marruecos para los servicios de DMC?
+  aHtml: '<p>Estos son nuestros principales destinos:</p>
+
+    <p>Marrakech (lujo y eventos) Casablanca (viajes corporativos) Fez (visitas culturales) Desierto del Sáhara (viajes de aventura) Agadir y Tánger (costa y ocio)</p>'
+- q: ¿Cuál es la diferencia entre un DMC y un operador turístico en Marruecos?
+  aHtml: '<p>DMC: Especializado en la gestión integral de destinos (logística, eventos, viajes corporativos).</p>
+
+    <p>Operador turístico: Se centra en paquetes turísticos para viajeros individuales.</p>'
+- q: ¿Cómo pago?
+  aHtml: '<p>Ofrecemos opciones de pago seguras y cómodas para sus reservas y servicios:</p>
+
+    <p><b>Tarjetas:</b> Visa, Mastercard, Maestro (procesadas a través de pasarelas de pago seguras). <b>PayPal, Revolut, Wise</b>: pagos en línea rápidos y seguros (para clientes internacionales). <b>Transferencia bancaria</b>: pagos bancarios directos (locales e internacionales).</p>'
 ---
+
 ¿Estás planeando un viaje a Marruecos? Como empresa local de gestión de destinos con sede aquí mismo, en Marruecos, te ofrecemos todo lo que necesitas para que tu viaje sea fluido, emocionante e inolvidable. Desde tours personalizados y viajes en grupo hasta experiencias de lujo, transporte privado y actividades locales auténticas, cubrimos todo el país, desde las montañas del Alto Atlas hasta las dunas doradas del Sáhara.
 
 Nuestro equipo vive y trabaja en Marruecos, por lo que conocemos la cultura, la historia y los tesoros ocultos que la mayoría de los viajeros se pierden. Vamos más allá de las rutas turísticas habituales para ofrecerte experiencias auténticas y significativas, como compartir una comida casera con una familia local, pasear por antiguas medinas con guías expertos o aprender artesanía tradicional de la mano de hábiles artesanos. Tanto si buscas aventura, descubrimiento cultural o relajación total, diseñamos cada viaje para que se adapte a tus intereses, ritmo y presupuesto.
@@ -68,58 +94,6 @@ Si busca algo más activo, también ofrecemos tours de aventura que incluyen sen
 Con nuestro conocimiento local y nuestro equipo profesional, disfrutará de un viaje seguro, cómodo e inolvidable por Marruecos.
 
 ### Preguntas frecuentes
-
-#### ¿Quiénes somos?
-
-Somos una empresa de gestión de destinos (DMC) en Marruecos. Una empresa especializada en la organización y gestión de servicios turísticos, incluyendo logística, alojamiento, excursiones, transporte y eventos para grupos corporativos, MICE (reuniones, incentivos, convenciones y exposiciones) y viajeros de ocio.
-
-#### ¿Por qué debería utilizar un DMC en Marruecos?
-
-Contamos con un profundo conocimiento local, sólidas relaciones con los proveedores y experiencia en la gestión de itinerarios complejos por Marruecos para grupos pequeños y grandes.
-
-#### ¿Qué servicios puede ofrecer una DMC en Marruecos?
-
-Estos son los servicios que ofrecemos:
-
-- Viajes corporativos y eventos MICE.
-- Viajes personalizados y viajes de lujo.
-- Transporte y traslados.
-- Alojamiento.
-- Actividades de team building.
-- Experiencias culturales y de aventura.
-- Gestión logística y operativa.
-
-#### ¿Puedes encargarte de grandes eventos corporativos?
-
-Sí, nos especializamos en eventos corporativos a gran escala, incluyendo conferencias, viajes de incentivo y lanzamientos de productos, con experiencia en lugares como Marrakech, Casablanca y Agadir.
-
-#### ¿Trabajáis con clientes internacionales?
-
-Por supuesto, hemos prestado servicios a clientes de todo el mundo, incluyendo organizadores de eventos, agencias de viajes y empresas, ofreciendo asistencia multilingüe.
-
-#### ¿Cuáles son los principales destinos en Marruecos para los servicios de DMC?
-
-Estos son nuestros principales destinos:
-
-1. Marrakech (lujo y eventos)
-2. Casablanca (viajes corporativos)
-3. Fez (visitas culturales)
-4. Desierto del Sáhara (viajes de aventura)
-5. Agadir y Tánger (costa y ocio)
-
-#### ¿Cuál es la diferencia entre un DMC y un operador turístico en Marruecos?
-
-DMC: Especializado en la gestión integral de destinos (logística, eventos, viajes corporativos).
-
-Operador turístico: Se centra en paquetes turísticos para viajeros individuales.
-
-#### ¿Cómo pago?
-
-Ofrecemos opciones de pago seguras y cómodas para sus reservas y servicios:
-
-**Tarjetas:** Visa, Mastercard, Maestro (procesadas a través de pasarelas de pago seguras).
-**PayPal, Revolut, Wise**: pagos en línea rápidos y seguros (para clientes internacionales).
-**Transferencia bancaria**: pagos bancarios directos (locales e internacionales).
 
 ### Reseñas
 

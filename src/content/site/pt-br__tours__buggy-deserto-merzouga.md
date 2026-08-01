@@ -77,7 +77,75 @@ faqs:
   aHtml: <p>Temos buggies com lugares para duas pessoas e buggies maiores para 4 pessoas.</p>
 - q: Por que escolher um buggy em vez de um quadriciclo?
   aHtml: <p>Os buggies são maiores do que os quadriciclos, mais estáveis e confortáveis, tornando-os ótimos para famílias, casais ou qualquer pessoa que deseje segurança extra enquanto desfruta da aventura no deserto. Para explorar o deserto de Merzouga, recomendamos vivamente passeios de buggy e excursões 4x4 pelo deserto.</p>
-reviews: []
+- q: Qual é a duração mínima de um passeio de buggy?
+  aHtml: <p>O passeio mais curto tem a duração de 1 hora, ideal para quem quer sentir a emoção das dunas de Erg Chebbi num período mais curto de tempo. Também há opções de meio-dia e de dia inteiro para quem procura uma aventura mais completa.</p>
+- q: É melhor fazer o passeio de buggy ao pôr do sol?
+  aHtml: <p>O final da tarde é o horário mais procurado, porque a luz suave deixa as dunas com tons dourados e alaranjados, além de o calor ser bem mais ameno do que ao meio-dia. Podemos organizar o passeio no horário que preferir.</p>
+- q: Existe idade mínima para conduzir um buggy?
+  aHtml: <p>Sim, recomendamos que apenas maiores de 16 anos conduzam o buggy, sempre com autorização e acompanhamento do guia. Crianças mais novas podem participar como passageiras ao lado de um adulto.</p>
+- q: O passeio de buggy pode ser combinado com outra atividade no mesmo dia?
+  aHtml: <p>Sim, muitos viajantes combinam o passeio de buggy com um passeio de camelo ao pôr do sol ou uma visita a famílias nómadas, aproveitando melhor o dia inteiro em Merzouga.</p>
+reviews:
+- name: Carlos M.
+  date: 06/02/2025
+  likes: 0
+  stars: 5
+  title: Uma hora de buggy que valeu o dia todo
+  text: Fizemos apenas o passeio de 1 hora e já foi suficiente para sentir a emoção de subir e descer as dunas de Erg Chebbi. O guia levou-nos aos pontos mais altos para fotos incríveis.
+- name: Elena R.
+  date: 21/03/2025
+  likes: 0
+  stars: 5
+  title: Passeio de meio-dia, encontro com nómadas incluído
+  text: Optámos pelo passeio de 3 a 4 horas e adorámos parar para conhecer uma família nómada no meio do caminho. Beber chá com eles depois de tanta adrenalina nas dunas foi um contraste bonito.
+- name: Pablo S.
+  date: 09/05/2025
+  likes: 1
+  stars: 4
+  title: Divertido, mas fica cansativo depois de um tempo
+  text: O buggy é ótimo, mas depois de umas duas horas a segurar o volante em terreno irregular, comecei a sentir o braço cansado. Ainda assim recomendo, principalmente para quem gosta de adrenalina.
+- name: Marta G.
+  date: 17/06/2025
+  likes: 0
+  stars: 5
+  title: Oásis escondido no passeio mais longo
+  text: Escolhemos o passeio de 5 a 6 horas e chegámos a um pequeno oásis no meio do deserto, onde almoçámos à sombra das palmeiras. Foi muito mais completo do que eu esperava para um simples passeio de buggy.
+- name: Javier L.
+  date: 04/08/2025
+  likes: 0
+  stars: 5
+  title: Buggy duplo, diversão em casal
+  text: Alugámos um buggy para dois e foi uma das atividades mais divertidas da nossa lua de mel em Marrocos. As dunas de Erg Chebbi ao entardecer ficaram ainda mais bonitas vistas do topo do buggy.
+- name: Lucía F.
+  date: 22/09/2025
+  likes: 0
+  stars: 5
+  title: Guia atencioso do início ao fim
+  text: O nosso guia explicou tudo antes de começarmos e sempre nos avisava quando havia uma duna mais íngreme à frente. Sentimo-nos seguros o tempo todo, mesmo sendo a primeira vez a conduzir um buggy.
+- name: Diego A.
+  date: 10/10/2025
+  likes: 0
+  stars: 3
+  title: Bom passeio, mas fiquei cheio de areia
+  text: A experiência de conduzir nas dunas é ótima, só um aviso, leve mesmo um lenço para o rosto porque a areia levanta bastante atrás dos outros buggies. Fora isso, foi uma das atividades mais divertidas que fiz em Merzouga.
+- name: Sara P.
+  date: 27/11/2025
+  likes: 0
+  stars: 5
+  title: Vistas do topo de Erg Chebbi de tirar o fôlego
+  text: Parar no alto de uma duna e ver o deserto a estender-se até ao horizonte foi incrível. O passeio de buggy dá uma perspetiva diferente do Saara, bem mais emocionante do que apenas andar de camelo.
+- name: Alejandro V.
+  date: 14/01/2026
+  likes: 0
+  stars: 5
+  title: Recomendo o passeio mais longo
+  text: Vale muito a pena pagar um pouco mais e fazer o passeio de várias horas em vez do curto. Chegámos a áreas do deserto que praticamente não têm outros turistas por perto.
+- name: Isabel T.
+  date: 02/03/2026
+  likes: 1
+  stars: 5
+  title: Crepes e chá de menta com família berbere
+  text: Além da adrenalina nas dunas, o momento em que paramos numa casa berbere para comer crepes caseiros e tomar chá de menta foi um dos mais bonitos da viagem. Recomendo muito esta experiência em Merzouga.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m8!1m3!1d103881.42767109134!2d-4.001314!3d31.129742999999998!3m2!1i1024!2i768!4f13.1!4m31!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!5e1!3m2!1spt-pt!2spt-pt!4v1757418298032!5m2!1spt-pt!2spt-pt

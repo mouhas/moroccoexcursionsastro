@@ -129,7 +129,77 @@ faqs:
   aHtml: '<p>Aquí tienes dos tours alternativos similares al tour de 4 días por el desierto del Sahara desde Marrakech:</p>
 
     <p><strong><a href="https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/" rel="noopener" target="_blank">Tour de 4 días de Marrakech a Fez vía el Sahara</a></strong><br/><strong><a href="https://morocco-excursion.com/es/tours/5-dias-marrakech-al-desierto/" rel="noopener" target="_blank">Tour de 5 días por el desierto del Sahara desde Marrakech</a></strong></p>'
-reviews: []
+- q: ¿Qué diferencia hay entre las opciones estándar, superior y de lujo?
+  aHtml: <p>Las tres categorías cambian principalmente la comodidad de los hoteles y del campamento en el desierto. La opción estándar es sencilla y cómoda, la superior añade habitaciones y tiendas más cuidadas, y la de lujo ofrece los alojamientos con más encanto de cada parada del recorrido.</p>
+- q: ¿El paseo en camello es apto para todo el mundo?
+  aHtml: <p>En general sí, pero no se recomienda para mujeres embarazadas, personas mayores de 70 años o con dolor de espalda importante. Si prefieres no montar, siempre puedes llegar al campamento directamente en 4x4.</p>
+- q: ¿Cuál es la mejor época para hacer este tour de 4 días desde Marrakech?
+  aHtml: <p>La primavera y el otoño ofrecen el mejor equilibrio de temperaturas entre las montañas del Atlas y el desierto de Merzouga. En pleno verano el calor en Merzouga es muy intenso, y en invierno las noches en el campamento pueden bajar a temperaturas bastante frías.</p>
+- q: ¿Las comidas están incluidas durante los 4 días?
+  aHtml: <p>El desayuno y la cena están incluidos cada día en los hoteles y en el campamento del desierto. El almuerzo no está incluido, lo que te permite elegir dónde comer en cada parada, como Ouarzazate o Rissani.</p>
+- q: ¿Es un tour privado o compartido con otros viajeros?
+  aHtml: <p>Es un tour totalmente privado, con tu propio vehículo y conductor. Esto significa que puedes ajustar horarios y paradas según tus preferencias, sin depender de otros pasajeros del grupo.</p>
+reviews:
+- name: Connor S.
+  date: 06/03/2025
+  likes: 0
+  stars: 5
+  title: El puerto de Tizi n'Tichka ya vale el viaje
+  text: Cruzar las montañas del Alto Atlas por la carretera más alta de Marruecos con paradas para hacer fotos fue impresionante. Nuestro conductor hablaba varios idiomas y nos explicaba cada pueblo bereber que veíamos por el camino.
+- name: Constanza R.
+  date: 21/04/2025
+  likes: 1
+  stars: 5
+  title: Ait Ben Haddou al atardecer, como en las películas
+  text: Ver la kasbah de Ait Ben Haddou con la luz dorada de la tarde y saber que ahí rodaron Gladiator fue un momento muy especial. En cuatro días vimos muchísimo sin sentir que íbamos con prisa.
+- name: Gabriela H.
+  date: 03/06/2025
+  likes: 0
+  stars: 5
+  title: Las gargantas del Todra, un paseo que no me esperaba disfrutar tanto
+  text: El sonido del río entre los altos acantilados del Todra fue relajante después de tantas horas de coche. Fue una parada corta pero de las que más recuerdo del viaje entero.
+- name: Aoife M.
+  date: 17/07/2025
+  likes: 0
+  stars: 4
+  title: Primer día largo, pero con paisajes que compensan
+  text: El trayecto del primer día, desde Marrakech hasta el valle del Dades pasando por Ouarzazate y Skoura, se hace bastante largo. Aun así, cada parada por el camino, sobre todo el Valle de las Rosas, hizo que mereciera la pena el cansancio.
+- name: Ethan R.
+  date: 30/08/2025
+  likes: 0
+  stars: 5
+  title: El campamento en el desierto fue el punto álgido
+  text: Llegar a Merzouga en camello justo para la puesta de sol y luego cenar con música de tambores bereberes alrededor del fuego fue exactamente lo que esperaba de un viaje al Sáhara. Dormir bajo tantas estrellas no tiene precio.
+- name: Sebastián M.
+  date: 12/10/2025
+  likes: 0
+  stars: 5
+  title: El valle del Draa con sus miles de palmeras
+  text: De camino a Ouarzazate el tercer día, el valle del Draa nos sorprendió con esa cantidad enorme de palmeras a ambos lados de la carretera. Una parada en Rissani para ver su mercado tradicional completó muy bien la jornada.
+- name: Noa B.
+  date: 25/11/2025
+  likes: 0
+  stars: 5
+  title: Los estudios de cine de Ouarzazate, un extra que agradecimos
+  text: Visitar un estudio de cine y la kasbah de Taourirt en Ouarzazate el primer día nos dio contexto para entender por qué la llaman el Hollywood de África. El resto del recorrido hacia el desierto fue igual de bueno.
+- name: Yossi R.
+  date: 08/01/2026
+  likes: 0
+  stars: 3
+  title: Buen recorrido, hotel del valle del Dades muy sencillo
+  text: El itinerario en general nos gustó mucho, sobre todo el desierto, pero el hotel de la primera noche en el valle del Dades era bastante básico para lo que pagamos. El resto de los alojamientos estuvo bien.
+- name: Marek W.
+  date: 20/02/2026
+  likes: 0
+  stars: 5
+  title: Amanecer en las dunas y ducha rápida antes de seguir ruta
+  text: Levantarnos temprano para ver el amanecer sobre las dunas de Erg Chebbi fue mágico, aunque después hubo que darse prisa con la ducha para volver en camello y seguir el viaje hacia Ouarzazate. Un ritmo intenso pero que merece la pena.
+- name: Bianca S.
+  date: 05/04/2026
+  likes: 1
+  stars: 5
+  title: Cuatro días muy bien aprovechados
+  text: Entre el Atlas, Ait Ben Haddou, el desierto y el valle del Draa, sentimos que vimos una parte enorme del sur de Marruecos en muy poco tiempo. Omar, nuestro conductor, hizo que todo fluyera sin ningún problema.
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m70!1m12!1m3!1d3497684.3150255904!2d-8.642006129471948!3d31.117865261412263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m55!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Ben%20Haddou%2C%20Maroc!3m2!1d31.047043!2d-7.1318996!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Maroc!3m2!1d30.9335436!2d-6.937016!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sGorges%20du%20Dad%C3%A8s%2C%20Maroc!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd332a576e9eb1%3A0x14e34a1d12e39647!2sTinghir%2C%20Maroc!3m2!1d31.5204633!2d-5.5302337!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Maroc!3m2!1d31.0801676!2d-4.013361!4m5!1s0xdbd671cc53a40eb%3A0x573dd4bbcfc7bd03!2sAlnif%2C%20Maroc!3m2!1d31.1164073!2d-5.1666678!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Maroc!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakech%2C%20Maroc!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1ses!2ses!4v1753530877704!5m2!1ses!2ses

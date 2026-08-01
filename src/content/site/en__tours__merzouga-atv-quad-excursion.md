@@ -72,6 +72,16 @@ faqs:
   aHtml: <p>On a short quad tour, you’ll enjoy the dunes and stop for photos at the highest points. Medium tours often include visits to nomad families or the far side of Erg Chebbi. Longer tours may take you to hidden oases, include a traditional lunch, and even give you the chance to try sandboarding.</p>
 - q: Can I add the 4x4 and buggy tours as well?
   aHtml: <p>Yes, it is possible to do both ATV tours and then another <strong>desert excursion by 4x4</strong> or a <strong>tour by Buggy in the dunes</strong>.</p>
+- q: Is this a private quad tour or will I join other travelers?
+  aHtml: '<p>This is a private quad biking experience, so your guide’s attention is focused only on you and the people you booked with. You will not be grouped with strangers, and the guide can adjust the route and pace to match your group’s confidence level.</p>'
+- q: What is the cancellation policy for the quad tour?
+  aHtml: '<p>You can cancel or change your booking free of charge up to 1 day before the tour starts. If your plans change on shorter notice, please contact us directly and we will try to help.</p>'
+- q: Is there a minimum age to ride a quad bike?
+  aHtml: '<p>Riders should generally be teenagers or adults who are tall enough to reach the controls comfortably. Younger children can still enjoy the desert by riding as a passenger behind an adult on a double quad, so let us know the ages in your group when booking.</p>'
+- q: What should I wear on the quad excursion?
+  aHtml: '<p>Wear closed shoes for grip and protection, and light clothing that covers your arms and legs. A scarf and sunglasses are very useful for keeping sand out of your eyes and mouth, and a helmet and goggles are provided for every rider.</p>'
+- q: Should I book a single quad or a double quad?
+  aHtml: '<p>A single quad gives you full independent control, which is great if you want to drive yourself. A double quad is a good choice for couples, friends, or families who prefer to ride together or have one confident driver share the ride with someone less experienced.</p>'
 reviews:
 - name: Maria J
   date: 13/08/2024
@@ -79,6 +89,60 @@ reviews:
   stars: 5
   title: Recommended Quad Biking Tour in Merzouga
   text: I highly recommend doing this quad biking tour in Merzouga desert. We had so much fun driving the ATVs into the highest sand dunes. For sure we will do this tour again.
+- name: Lukas F.
+  date: 22/01/2025
+  likes: 0
+  stars: 5
+  title: Two hours of pure adrenaline
+  text: We booked the 1-2 hour single quad ride and it was the perfect taste of the desert before dinner. Our guide led us straight to the tallest dunes for photos and made sure everyone felt confident on the controls.
+- name: Camille D.
+  date: 10/03/2025
+  likes: 1
+  stars: 5
+  title: Loved the double quad option
+  text: My partner and I shared a double quad for the 3-4 hour tour and it was a fun way to explore together without needing two licenses. We stopped to visit a nomad family along the way, which was a lovely surprise.
+- name: Peter O.
+  date: 05/05/2025
+  likes: 0
+  stars: 4
+  title: Bumpy but exciting ride
+  text: The long tour was more physical than I expected, my arms were tired after five hours of steering through soft sand. Still, reaching the oasis for a traditional lunch under the palm trees made it completely worth it.
+- name: Sara N.
+  date: 19/06/2025
+  likes: 0
+  stars: 5
+  title: Sandboarding was the best surprise
+  text: We did not know sandboarding was included in the long tour and it turned out to be the highlight of the day. Sliding down the dunes after hours on the quad was such a fun way to cool off.
+- name: Youssef B.
+  date: 02/08/2025
+  likes: 0
+  stars: 5
+  title: Guide made it feel completely safe
+  text: I had never ridden a quad before but our guide explained everything clearly before we set off into Erg Chebbi. He kept a close eye on us the whole time and adjusted the speed whenever we felt unsure.
+- name: Hannah G.
+  date: 14/09/2025
+  likes: 2
+  stars: 5
+  title: Panoramic views from the dunes
+  text: Climbing the small hills on the quad gave us incredible panoramic views over the whole Sahara. It was well worth choosing the medium length tour instead of the shortest option.
+- name: Victor M.
+  date: 28/10/2025
+  likes: 0
+  stars: 5
+  title: Mint tea with a Berber family
+  text: Stopping at a Berber house for mint tea and homemade crepes in the middle of the desert was such a warm welcome. The quad ride itself was thrilling, but that stop is what I remember most.
+- name: Ines A.
+  date: 11/12/2025
+  likes: 0
+  stars: 4
+  title: Great for first timers
+  text: This was my first time on a quad bike and the short one hour ride was the perfect introduction. The guide kept the pace gentle at first and let us go faster once we felt more comfortable.
+- name: Tobias R.
+  date: 24/01/2026
+  likes: 0
+  stars: 5
+  title: Hidden oasis was worth the ride
+  text: The long tour took us far from the busy areas near the village to a quiet oasis where we rested under the palm trees. Riding back over the dunes as the light softened in the late afternoon was magical.
 rating: 5.0
 reviewCount: 100
 mapUrl: https://www.google.com/maps/embed?pb=!1m42!1m12!1m3!1d103881.45294918932!2d-4.083736117916103!3d31.129717128177443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m27!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd973b006e110011%3A0x6f92bd86ca8a6b72!2sErg%20Chebbi%20dunes%2C%20Merzouga%2C%20Morocco!3m2!1d31.160392599999998!2d-3.9769227999999996!4m3!3m2!1d31.1817626!2d-3.9954132999999996!4m3!3m2!1d31.1273149!2d-3.967736!5e1!3m2!1sen!2sus!4v1757252086435!5m2!1sen!2sus

@@ -8,6 +8,23 @@ price: null
 duration: null
 tag: null
 source: https://morocco-excursion.com/es/agencia/
+faqs:
+- q: ¿Por qué elegir Morocco Excursions en vez de una agencia internacional?
+  aHtml: <p>Somos una agencia 100% local, de propiedad bereber y con base en Marruecos, no una revendedora extranjera que trabaja a través de intermediarios. Eso significa relaciones directas con nuestros conductores y guías, precios transparentes sin recargos ocultos, y un conocimiento local de rincones escondidos y del estado actual de las carreteras que una agencia internacional simplemente no puede ofrecer.</p>
+- q: ¿Con qué rapidez recibiré respuesta tras enviar una solicitud de reserva?
+  aHtml: <p>Nuestro equipo suele responder en pocas horas gracias a nuestra línea de atención al cliente disponible las 24 horas. Si sus fechas están cerca o necesita ayuda mientras ya está viajando por Marruecos, también puede escribirnos directamente por WhatsApp para una respuesta más rápida.</p>
+- q: ¿Pueden personalizar un tour en lugar de ofrecer solo paquetes fijos?
+  aHtml: <p>Sí, los itinerarios a medida son una de nuestras especialidades. Cuéntenos sus intereses, su tiempo disponible y su presupuesto, y nuestro equipo diseñará una ruta privada en torno a ellos, ya sea añadiendo días en el Sáhara, cambiando la ciudad de inicio o fin, o mejorando el alojamiento.</p>
+- q: ¿Debo pagar el importe completo al reservar?
+  aHtml: <p>No, la mayoría de los viajeros aseguran su viaje con un depósito del 10% y liquidan el resto con su conductor-guía al inicio del tour. También ofrecemos el pago completo en línea si lo prefiere.</p>
+- q: ¿Qué idiomas hablan sus guías y conductores?
+  aHtml: <p>Nuestros conductores-guía son multilingües, principalmente en inglés y francés, y varios también hablan español, italiano o alemán. Indíquenos su idioma preferido al reservar y le asignaremos un guía adecuado.</p>
+- q: ¿Sus conductores están licenciados, asegurados y capacitados?
+  aHtml: <p>Sí, todos los conductores con los que trabajamos están debidamente licenciados, asegurados y tienen experiencia en las carreteras de Marruecos, incluidas las rutas de montaña del Atlas y las pistas del Sáhara. La seguridad y la comodidad no son un extra opcional, son innegociables.</p>
+- q: ¿Viajaré con desconocidos en un tour privado?
+  aHtml: <p>No, los tours privados son exclusivamente para su propio grupo, con su propio vehículo y conductor-guía. Si prefiere compartir gastos con otros viajeros, también ofrecemos tours en grupo con itinerario fijo a un precio más económico por persona.</p>
+- q: ¿Qué pasa si necesito cambiar mis planes de viaje después de reservar?
+  aHtml: <p>Simplemente escriba a nuestro equipo en cuanto lo sepa, ya sea para cambiar fechas, ajustar el itinerario o gestionar una solicitud de última hora. Nuestra línea de atención al cliente 24 horas existe precisamente para ayudar en situaciones así, incluso cuando ya está de viaje.</p>
 ---
 ## **¿Quiénes Somos?**
 
@@ -113,4 +130,4 @@ Hicimos una excursión de tres días desde Fez a Marrakech pasando por el desier
 
 Hemos viajado con Morocco Excursions durante tres días desde Marrakech al desierto. Empezamos en Fez y viajamos hasta Marrakech pasando por muchos destinos. La excursión incluyó una estadía en una lujosa tienda de campaña en el desierto. Todo fue maravilloso. Nuestro conductor, Ahmed, estaba increíblemente bien informado y nos explicó detalladamente todos los lugares de interés que vimos, así como las costumbres tradicionales. Todos aspiramos a tener la misma experiencia. Muchas gracias, Hassan y Ahmed.
 
-MORE [**REVIEWS**](/es/reviews)
+MÁS [**RESEÑAS**](/es/reviews)

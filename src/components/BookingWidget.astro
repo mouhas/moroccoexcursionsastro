@@ -1,6 +1,7 @@
 ---
 import Icon from './Icon.astro';
 import { UI, type Lang } from '../site';
+import { getSettings, paypalClientIdFor } from '../lib/settings';
 
 interface PriceTier { people: number; perPerson: number; }
 interface AutoPricing { days: number; nights: number; hotelPerNight: number; superiorSurcharge: number; transportPerDay: number; }
@@ -27,7 +28,8 @@ const {
 } = Astro.props;
 const t = UI[lang];
 const priceStr = price && price > 0 ? '€' + price.toLocaleString('en-US') : null;
-const waNumber = '212673555408';
+const settings = await getSettings();
+const waHref = settings.whatsappHref;
 const wid = 'bk-' + Math.random().toString(36).slice(2, 9);
 
 const canPay = !isCar && (
@@ -140,6 +142,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
 
   <p class="assure sep">{t.orRequestInstead}</p>
   <form class="bk-form" id={wid + '-form'} data-title={title}>
+    <input type="text" name="website" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0" aria-hidden="true" />
     <div class="bk-field">
       <label>{t.fullName}</label>
       <input type="text" name="name" required />
@@ -159,7 +162,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
 
     <button type="submit" class="btn" style="width:100%;justify-content:center;margin-top:6px">{t.sendEmail}</button>
     <div class="bk-alt">
-      <a class="btn wa" target="_blank" rel="noopener" data-wa-link href={`https://wa.me/${waNumber}`}>
+      <a class="btn wa" target="_blank" rel="noopener" data-wa-link href={waHref}>
         <Icon name="whatsapp" class="ico sm" style="fill:#fff;stroke:none" /> {t.chatWhatsapp}
       </a>
     </div>
@@ -168,9 +171,9 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
   <p class="assure">Our team replies within a few hours and is happy to help you plan the perfect trip.</p>
 </aside>
 
-{canPay && <script src="https://www.paypal.com/sdk/js?client-id=sb&currency=EUR" data-pp-sdk></script>}
+{canPay && <script src={`https://www.paypal.com/sdk/js?client-id=${paypalClientIdFor(settings)}&currency=EUR`} data-pp-sdk></script>}
 
-<script define:vars={{ wid, waNumber, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople, activityOptions }}>
+<script define:vars={{ wid, waHref, contactEmail: settings.email, submitEndpoint: settings.submitEndpoint, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople, activityOptions }}>
   (function () {
     const root = document.getElementById(wid);
     if (!root) return;
@@ -290,7 +293,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
     const waLink = root.querySelector('[data-wa-link]');
     root.addEventListener('input', () => {
       if (!waLink) return;
-      waLink.href = `https://wa.me/${waNumber}?text=${encodeURIComponent(buildMessage())}`;
+      waLink.href = `${waHref}?text=${encodeURIComponent(buildMessage())}`;
     });
 
     form.addEventListener('submit', (e) => {
@@ -298,7 +301,26 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
       if (!form.checkValidity()) { form.reportValidity(); return; }
       const body = buildMessage();
       const subject = `Booking request: ${title}`;
-      window.location.href = `mailto:MoroccoExcursions@Gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+      if (submitEndpoint) {
+        const data = new FormData(form);
+        fetch(submitEndpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            type: 'booking',
+            name: data.get('name') || '',
+            email: data.get('email') || '',
+            phone: data.get('phone') || '',
+            subject: title,
+            message: data.get('message') || '',
+            raw: body,
+            website: data.get('website') || '', // honeypot — real visitors never fill this in
+          }),
+        }).catch(() => {}); // best-effort: mailto: below is still the primary path
+      }
+
+      window.location.href = `mailto:${contactEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
       const ok = root.querySelector('[data-ok]');
       if (ok) ok.style.display = 'block';
     });

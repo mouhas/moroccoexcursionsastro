@@ -102,7 +102,77 @@ faqs:
   aHtml: <p>Yes, they are real families who really live in the desert. Your guide knows them. You are visiting their real home. This is not a performance. It is a look at their true life. Please always ask them if it is okay before you take a picture.</p>
 - q: What other fun things can I do?
   aHtml: <p>There are other fun activities in the desert. You can also ride a camel, drive an ATV (Quad), or rent a buggy in the Merzouga desert.</p>
-reviews: []
+- q: Is this a private tour, or will I be sharing the vehicle with strangers?
+  aHtml: '<p>This is a private 4×4 tour, so the car, driver, and schedule are just for you and your group. Because it is private, the driver can adjust stops, slow down at a nomad family, or skip an activity you are not interested in.</p>'
+- q: What is the cancellation policy?
+  aHtml: '<p>You can cancel or reschedule free of charge up to 1 day before the tour starts. If your plans change closer to the date, contact us directly and we will do our best to help.</p>'
+- q: Will the driver pick me up from my riad or desert camp?
+  aHtml: '<p>Yes. The driver will collect you from your hotel, riad, or desert camp in Merzouga and bring you back to the same place at the end of the tour. Just share your accommodation details when you book.</p>'
+- q: What is the difference between the shorter and longer tour options?
+  aHtml: '<p>The shortest option is a quick ride to the highest dunes for photos, while the longer options add a nomad family visit, Gnawa music in Khamlia, fossil hunting, the Black Desert, and the remote Safsaf Oasis. The full-day option covers most of these highlights and includes a picnic lunch under the palm trees.</p>'
+- q: Is this tour suitable for children or older travelers?
+  aHtml: '<p>Yes. Because the tour is private, the driver can adapt the pace, choose a smoother route over the dunes, and shorten the time in the car for children, elderly travelers, or anyone with limited mobility. A shorter tour option is often the most comfortable choice for families.</p>'
+reviews:
+- name: Marta L.
+  date: 14/02/2025
+  likes: 0
+  stars: 5
+  title: Golden dunes at sunset
+  text: 'Our driver took us straight to the highest dunes of Erg Chebbi and the ride over the sand felt like a rollercoaster. We got out to take photos as the light turned gold, and it was one of the best moments of our whole trip.'
+- name: Julien P.
+  date: 03/04/2025
+  likes: 1
+  stars: 5
+  title: Tea with a nomad family
+  text: 'The stop at the nomad tent was so special, they invited us in for sweet mint tea and showed us how they live in the desert. Our driver clearly knew the family well and translated everything for us.'
+- name: Sofia R.
+  date: 22/05/2025
+  likes: 0
+  stars: 4
+  title: Khamlia music was unforgettable
+  text: 'We chose the longer option and stopped in Khamlia to hear Gnawa drums and singing, which gave me chills. The only downside was the heat in the middle of the day, so I would recommend an earlier start.'
+- name: Tom H.
+  date: 09/07/2025
+  likes: 0
+  stars: 5
+  title: Fossils and the Black Desert
+  text: 'Seeing the Black Desert covered in dark stones after hours of golden sand was surreal, it really did feel like another planet. Our guide also showed us ancient sea fossils and explained how they were formed.'
+- name: Anna K.
+  date: 18/09/2025
+  likes: 0
+  stars: 5
+  title: Safsaf Oasis picnic
+  text: 'We booked the full day trip to the remote Safsaf Oasis and had a picnic lunch under the palm trees in complete silence. It felt like a hidden paradise after the long drive through the stony desert.'
+- name: David M.
+  date: 30/10/2025
+  likes: 2
+  stars: 5
+  title: Dakar Rally tracks were wild
+  text: 'Driving over the old Dakar Rally tracks with a local driver who knew every dune was thrilling. He kept us safe the whole time but still made it feel like a real adventure.'
+- name: Elena P.
+  date: 12/12/2025
+  likes: 0
+  stars: 5
+  title: Perfect private tour
+  text: 'Having the car to ourselves meant we could linger at the nomad tent as long as we wanted and skip the fossil shop we were not interested in. The flexibility made the day feel completely personal.'
+- name: Rick B.
+  date: 21/01/2026
+  likes: 0
+  stars: 4
+  title: Great driver, flexible schedule
+  text: 'Our driver rearranged the stops so we could catch the light at the dunes before sunset, which made a big difference for photos. The car was comfortable even on the bumpy off road sections.'
+- name: Nadia S.
+  date: 15/03/2026
+  likes: 0
+  stars: 5
+  title: Kem Kem Gorges surprise
+  text: 'I did not expect the deep rocky valleys of the Kem Kem Gorges to be so dramatic after all that flat sand. Combined with the oasis and the dunes at the end, it felt like three different deserts in one day.'
+- name: Chris W.
+  date: 08/06/2026
+  likes: 1
+  stars: 5
+  title: Berber village stop
+  text: 'Driving through the traditional Berber village with its mud brick houses gave us a real sense of desert life beyond just the dunes. The final ride back over the sand dunes at sunset was the perfect ending.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m58!1m12!1m3!1d207989.26901849997!2d-4.016495704350869!3d31.134824578958135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m43!3e2!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd973c279834dfe5%3A0x29461c028a31c4db!2s423P%2BF6%2C%20Merzouga%2C%20Morocco!3m2!1d31.1036875!2d-3.9644375!4m5!1s0xd97394a71864973%3A0x149a2c7236fde53d!2sDunes%20d'Erg%20Chebbi%2C%20Morocco!3m2!1d31.1330714!2d-3.9674370999999997!4m5!1s0xd97441b6340f571%3A0xe3ba94d23cd1de7a!2sTisserdmine%2C%20Morocco!3m2!1d31.2957322!2d-3.9750883!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!5e1!3m2!1sen!2sus!4v1757427880845!5m2!1sen!2sus

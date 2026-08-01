@@ -165,6 +165,14 @@ faqs:
   aHtml: <p>The price of this 6-day trip can vary based on how many people are traveling and the type of accommodation you choose. You have the option to upgrade your hotels and desert camps from standard to luxury. For more details, please refer to the <strong>Price Information</strong> section.</p>
 - q: Which tours are similar to the 6-day tour from Marrakech?
   aHtml: <p>The two alternative tours to the 6-day tour from Marrakech are:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">10-Day Tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>Bookings can be cancelled or rescheduled free of charge up to 1 day before departure. This makes it easy to adjust your plans if something changes close to the start date.</p>'
+- q: Is this tour suitable for children or elderly travelers?
+  aHtml: '<p>Yes, the pace of this tour is comfortable, with regular stops and free time built into each day. The camel ride to the desert camp can be replaced with a 4x4 transfer for anyone who prefers not to ride.</p>'
+- q: What is the best time of year to do this 6-day tour?
+  aHtml: '<p>Spring (March to May) and autumn (September to November) offer the most comfortable temperatures for both the mountain crossings and the desert. Summer days in Merzouga can be very hot, while winter nights in the desert and the High Atlas can be cold.</p>'
+- q: Where does the tour start and end?
+  aHtml: '<p>The tour starts with a pickup from your accommodation in Marrakech and ends with a drop-off in Marrakech after crossing the High Atlas Mountains on the final day. Airport transfers can be arranged on request.</p>'
 reviews:
 - name: Cornelia
   date: 29/10/2024
@@ -190,6 +198,42 @@ reviews:
   stars: 5
   title: A great Sahara experience
   text: The six-day tour was fantastic. We saw so much of Morocco in such a short time. The overnight stay in the desert camp was our favorite part. Mohammed, our driver/guide, was helpful and informative. We had said as our guide the camel trek, and he was also a nice guy. He shot some great photos of us. All in all, it was a great Sahara experience.
+- name: Beatrix H.
+  date: 09/01/2025
+  likes: 0
+  stars: 5
+  title: 'Ait Ben Haddou blew us away'
+  text: 'Standing in front of the kasbah at Ait Ben Haddou on day one, knowing it had been the backdrop for Gladiator and Game of Thrones, was such a great start to the trip. Two nights in the desert gave us plenty of time to relax too.'
+- name: Santiago V.
+  date: 21/02/2025
+  likes: 1
+  stars: 5
+  title: 'Khamlia village and Gnawa music'
+  text: 'The visit to Khamlia village on day three, with mint tea and live Gnawa drum music, was a real highlight of the desert days. We hadn''t expected such a personal cultural stop on a private tour.'
+- name: Josefine A.
+  date: 06/04/2025
+  likes: 0
+  stars: 5
+  title: 'Todra Gorges walk was gorgeous'
+  text: 'Walking through the Todra Gorges on day two, with the canyon walls towering above us, was one of the most photogenic stops of the whole trip. We reached Merzouga in perfect time for the camel trek at sunset.'
+- name: Ravi P.
+  date: 18/06/2025
+  likes: 0
+  stars: 4
+  title: 'Hidden oasis on day four'
+  text: 'Driving deep into the desert to that hidden oasis at Safsaf on day four was completely unexpected and one of our favorite memories. The barbecue lunch under the palm trees made it even better.'
+- name: Corinne L.
+  date: 02/08/2025
+  likes: 0
+  stars: 5
+  title: 'Meeting a nomad family'
+  text: 'Visiting a nomad family in the desert on day three and hearing about their daily life with the goats and camels was really moving. Our guide translated everything patiently so we could actually have a conversation.'
+- name: Diederik O.
+  date: 15/09/2025
+  likes: 2
+  stars: 5
+  title: 'Draa Valley and film studios'
+  text: 'The drive through the Draa Valley on day five, passing Alnif and Agdz, showed us a side of Morocco most tourists never see. Ending in Ouarzazate with a stop at the film studios on the last day tied the whole trip together.'
 rating: 5.0
 reviewCount: 400
 mapUrl: https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d1748469.5183186634!2d-7.3029302819699495!3d31.138083272265355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e0!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!4m5!1s0xdbae06120411439%3A0x4d090f64a0ec123a!2sA%C3%AFt%20Benhaddou%2C%20Morocco!3m2!1d31.047043!2d-7.1318996!4m5!1s0xda3328c8a8c64bf%3A0x257d57d5120009c0!2sDad%C3%A8s%20Gorges%2C%20Morocco!3m2!1d31.4532146!2d-5.9675869!4m5!1s0xdbd331a6d3914af%3A0xcdb9c0416d74335c!2sTodrha%2C%20Tinghir%2C%20Morocco!3m2!1d31.479999999999997!2d-5.51!4m5!1s0xd973c279834dfe5%3A0x5639fab2b5de4a44!2sMerzouga%2C%20Morocco!3m2!1d31.0801676!2d-4.013361!4m5!1s0xd974519f1562e3f%3A0x8fd020361d14debb!2stissardmine%2C%20Tisserdmine%2C%20Morocco!3m2!1d31.295187499999997!2d-3.9751874999999997!4m5!1s0xdbc7f0025c02c8d%3A0x67ac93d734312f29!2sDraa%20Valley!3m2!1d30.6700922!2d-6.3991938!4m5!1s0xdbb80538b38a023%3A0x5668a92d056600dd!2sAgdz%2C%20Morocco!3m2!1d30.693834!2d-6.4481166!4m5!1s0xdbb104077422057%3A0x26b3cb529b37ab00!2sOuarzazate%2C%2045000%2C%20Morocco!3m2!1d30.9335436!2d-6.937016!4m5!1s0xdafee8d96179e51%3A0x5950b6534f87adb8!2sMarrakesh%2C%20Morocco!3m2!1d31.622522399999998!2d-7.989825799999999!5e0!3m2!1sen!2sen!4v1753693279725!5m2!1sen!2sen

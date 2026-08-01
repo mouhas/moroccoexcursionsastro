@@ -123,7 +123,73 @@ faqs:
     <p>Personal toiletries (some camps provide basic amenities)</p>'
 - q: Is this trek suitable for children or older adults?
   aHtml: <p>This itinerary is generally suitable for teenagers and adults in good health. Children under 10 or travelers with limited mobility may find walking over sand for extended periods challenging. Camel rides and flexible pacing help accommodate most travelers, but consult the tour operator for specific concerns.</p>
-reviews: []
+- q: Is this a private trek or a group trek?
+  aHtml: '<p>This is a private trek. Your group travels with its own camel caravan, guide, and camp staff, and the itinerary is not shared with other travelers. This allows the guides to adjust the daily walking pace to match your group.</p>'
+- q: What is the cancellation policy for this trek?
+  aHtml: '<p>You can cancel or change your booking free of charge up to 1 day before the trek starts. If you need to cancel closer to the start date, please contact us directly to discuss your options.</p>'
+- q: Is transportation to Merzouga included in the price?
+  aHtml: '<p>Transportation to and from Merzouga is not included in this trek. You will need to arrange your own transport to Merzouga, where the 5-day trek begins and ends, and we can help you organize a transfer or a separate driving tour if you contact us before your trip.</p>'
+reviews:
+- name: Helena B.
+  date: 05/01/2025
+  likes: 0
+  stars: 5
+  title: Camel caravan into golden silence
+  text: 'On day one we set off with the camel caravan into the dunes and watched an incredible sunset before dinner under the stars. Sleeping in a traditional tent in the middle of the Sahara was something I will never forget.'
+- name: Marco T.
+  date: 19/02/2025
+  likes: 1
+  stars: 5
+  title: Crossing Erg Chebbi was the highlight
+  text: 'The long crossing of the Erg Chebbi dunes on day two was harder than I expected but completely worth it. Arriving at Hassi Mardani village as the sky turned deep purple felt like a reward after a full day of walking.'
+- name: Fatima Z.
+  date: 08/03/2025
+  likes: 0
+  stars: 4
+  title: Rocky plateau was a nice change
+  text: 'I liked that day three took us across the Hamada du Guir, a rocky black desert that looked totally different from the dunes. My legs were tired by the time we reached Erg Znaigui, but the stargazing that night made up for it.'
+- name: Robert K.
+  date: 27/04/2025
+  likes: 0
+  stars: 5
+  title: Meeting the family at Begaa Village
+  text: 'The picnic lunch in the shade at Begaa Village on day four was one of my favorite parts of the trek. We learned about the irrigation system the villagers use to grow their palm groves in the middle of the desert.'
+- name: Ingrid S.
+  date: 11/06/2025
+  likes: 0
+  stars: 5
+  title: Gnawa music in Khamlia
+  text: 'On our last morning we watched the sunrise over Erg Znaigui and then walked to Khamlia to hear a live Gnawa music performance with drums and castanets. It was a moving way to end five days in the Sahara.'
+- name: Paulo D.
+  date: 30/07/2025
+  likes: 2
+  stars: 5
+  title: Five days of pure desert silence
+  text: 'Every night in the desert camp felt more peaceful than the last, especially the final bivouac at Erg Znaigui under the Milky Way. Our guides cooked delicious tagine every evening even though we were far from any village.'
+- name: Chloe M.
+  date: 14/09/2025
+  likes: 0
+  stars: 4
+  title: Good trek but bring sturdy shoes
+  text: 'Walking across the sand for hours between Hassi Mardani and Erg Znaigui was tougher on my feet than I planned for, so good shoes really matter. The camels carried our bags the whole way, which helped a lot.'
+- name: Ahmed R.
+  date: 02/11/2025
+  likes: 0
+  stars: 5
+  title: A private trek that felt personal
+  text: 'Because the trek was private, our guide let us stop longer at Begaa Village to talk with the local families about their traditions. The pace never felt rushed even though we covered a lot of ground each day.'
+- name: Karin W.
+  date: 20/12/2025
+  likes: 1
+  stars: 5
+  title: Unforgettable sunrise at Erg Znaigui
+  text: 'The sunrise on the final morning over the Erg Znaigui dunes was the most beautiful moment of the whole trip. We had already had four nights of incredible stargazing, but that last sunrise topped everything.'
+- name: Diego L.
+  date: 15/05/2026
+  likes: 0
+  stars: 5
+  title: Best way to see the real Sahara
+  text: 'Trekking from Merzouga through the Hamada du Guir to Begaa Village showed us a side of the desert that a short day trip never could. Five days felt like exactly the right amount of time to slow down and enjoy the silence.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d174595.92988092368!2d-4.12650867851336!3d31.06254035522887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e2!4m5!1s0xd97250a4b0575a7%3A0xc5d94bac9e486d88!2sErg%20Znaigui%2C%20Morocco!3m2!1d30.9766667!2d-3.9302778!4m5!1s0xd973ba52d7b51d9%3A0x69e5bd4df035815e!2sMerdane%2C%20Morocco!3m2!1d31.075979!2d-3.9591719999999997!4m5!1s0xd972eea9ecb9c99%3A0x578d831d58b687c1!2sJebel%20Beg%C3%A2a%2C%20Morocco!3m2!1d30.9538889!2d-3.8466666999999997!4m5!1s0xd973922a2222373%3A0x7308c7325d345344!2sErg%20Chebbi%2C%20Morocco!3m2!1d31.1458333!2d-3.9677778!5e1!3m2!1sen!2sus!4v1756995114878!5m2!1sen!2sus

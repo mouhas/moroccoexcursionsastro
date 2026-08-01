@@ -1,5 +1,5 @@
 ---
-title: Footer Portugaise
+title: Footer Portuguese
 lang: pt-br
 section: pages
 pslug: footer
@@ -29,7 +29,7 @@ Não hesite em nos ligar a qualquer momento para solicitar informações sobre s
 
 [Alugar um carro](/pt-br/aluguel-de-carro)
 
-[Excursaõ deserto Marrocos](/pt-br/excursoes-deserto-marrocos)
+[Excursão deserto Marrocos](/pt-br/excursoes-deserto-marrocos)
 
 [Planeje suas viagens](https://morocco-excursion.com/pt-br/#)
 

@@ -93,7 +93,75 @@ faqs:
   aHtml: <p>Merzouga is roughly a full day's drive from Ouarzazate with stops, which is why this tour splits the outbound journey with an overnight stay in the Dades Valley rather than driving straight through.</p>
 - q: Where does pickup happen in Ouarzazate?
   aHtml: <p>Your driver-guide will meet you at your hotel, riad, or the bus station in Ouarzazate at the start of the tour. Let us know your exact pickup location and preferred time when booking.</p>
-reviews: []
+- q: Is this a private tour or a group tour?
+  aHtml: '<p>This is a private tour, with your own vehicle and driver-guide for the full three days. The stops in Skoura, the Dades Valley, and the Todra Gorges can be adjusted to match your interests and pace.</p>'
+- q: What is the cancellation policy for this tour?
+  aHtml: '<p>You can cancel or reschedule free of charge up to 48 hours before the tour starts. For cancellations closer to the departure date, please contact us directly so we can help find a solution.</p>'
+- q: Can we upgrade the hotel or desert camp accommodation?
+  aHtml: '<p>Yes, both the hotel in the Dades Valley and the desert camp near Merzouga can be upgraded to superior or luxury options for an additional cost. Let us know your preference when booking so we can adjust the itinerary.</p>'
+- q: Is this tour a good option if we only have a few days in Ouarzazate?
+  aHtml: '<p>Yes, this round trip is designed for travelers with limited time who still want a genuine night in the Sahara. Since it starts and ends in Ouarzazate, there is no need to plan onward transport from Merzouga.</p>'
+reviews:
+- name: Freya L.
+  date: 08/01/2025
+  likes: 0
+  stars: 5
+  title: Perfect round trip from Ouarzazate
+  text: 'Starting and ending in Ouarzazate made the logistics really simple, and we still got a full night in the Sahara. The kasbahs and palm groves in Skoura on the first day were a great introduction to the region.'
+- name: Antoine G.
+  date: 25/02/2025
+  likes: 1
+  stars: 5
+  title: Todra Gorges then straight to the dunes
+  text: 'Walking through the Todra Gorges in the morning and watching the camel trek sunset over Erg Chebbi that same evening felt like two completely different worlds in one day. Our driver-guide timed everything perfectly.'
+- name: Valentina P.
+  date: 14/04/2025
+  likes: 0
+  stars: 4
+  title: Great trip, return drive is long
+  text: 'The return drive from Merzouga back to Ouarzazate took most of the day, so I would recommend resting well the night before. The stop for lunch along the way in the Dades Valley was a welcome break.'
+- name: Hugo M.
+  date: 02/06/2025
+  likes: 0
+  stars: 5
+  title: Desert camp under the stars
+  text: 'Dinner around the campfire with Berber music at the desert camp near Erg Chebbi was unforgettable, and the stars that night were incredibly bright. Waking up for sunrise over the dunes the next morning was just as special.'
+- name: Ines T.
+  date: 21/07/2025
+  likes: 0
+  stars: 5
+  title: Red rock formations in the Dades Valley
+  text: 'The striking red rock formations around our hotel in the Dades Valley were a beautiful surprise before we even reached the desert. It made the first night of the trip feel like an adventure on its own.'
+- name: Caspar W.
+  date: 07/09/2025
+  likes: 2
+  stars: 5
+  title: Efficient taste of the Sahara
+  text: 'We only had three days available in Ouarzazate, and this tour packed in the Todra Gorges, a desert camp, and a sunrise over the dunes without feeling rushed. It was exactly the efficient introduction to the Sahara we needed.'
+- name: Renata S.
+  date: 24/10/2025
+  likes: 0
+  stars: 4
+  title: Good value round trip
+  text: 'Considering it covers Skoura, the Dades Valley, the Todra Gorges, and a night in the desert, this felt like great value for a three day round trip. The only downside was the long drive back on the last day.'
+- name: Milo B.
+  date: 11/12/2025
+  likes: 0
+  stars: 5
+  title: Camel trek was better than expected
+  text: 'I was nervous about riding a camel for the first time, but the trek into the Erg Chebbi dunes at sunset was smooth and completely worth it. Our guide made sure everyone in the group felt comfortable.'
+- name: Zoe F.
+  date: 29/01/2026
+  likes: 0
+  stars: 5
+  title: Loved the Valley of Roses detour
+  text: 'Passing through the Valley of Roses near El Kelaa M’Gouna on the way to the Dades Valley added a lovely bit of color to the drive. It was a nice surprise that was not the main focus of the tour but still memorable.'
+- name: Adam K.
+  date: 17/03/2026
+  likes: 1
+  stars: 5
+  title: Great driver-guide throughout
+  text: 'Our driver-guide knew all the best photo stops between Ouarzazate and Merzouga, from the kasbahs in Skoura to the canyon walls of the Todra Gorges. Having the same guide for the entire round trip made the experience feel consistent and personal.'
 rating: 5.0
 reviewCount: 820
 mapUrl: https://www.google.com/maps/embed?origin=mfe&pb=!1m5!4m4!4m1!2sOuarzazate%2C%20Morocco!4m1!2sMerzouga%2C%20Morocco
