@@ -1,15 +1,13 @@
-# Site-wide settings, editable from /admin (Settings entry). The Astro build
-# reads this instead of the old hardcoded values in src/site.ts and
-# BookingWidget.astro. paypalMode "sandbox" keeps client-id=sb (no real
-# charges) regardless of what's in paypalClientId — switch to "live" once
-# paypalClientId is a real PayPal Client ID from developer.paypal.com.
-paypalClientId: "sb"
-paypalMode: "sandbox"
-phone: "+212 673 55 5408"
-phoneHref: "tel:+212673555408"
-whatsappHref: "https://wa.me/212673555408"
-email: "MoroccoExcursions@Gmail.com"
-defaultMetaDescription: "Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers."
-# Fill in after deploying worker/ (see BOOKINGS-SETUP.md) — leave blank
-# until then, the site works fine without it, submissions just aren't logged.
-submitEndpoint: ""
+paypalClientId: sb
+paypalMode: sandbox
+phone: '+212 673 55 5408'
+phoneHref: 'tel:+212673555408'
+whatsappHref: 'https://wa.me/212673555408'
+email: MoroccoExcursions@Gmail.com
+defaultMetaDescription: 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.'
+submitEndpoint: ''
+accentColor: '#123456'
+accentColor2: '#2f83b5'
+headingFont: Montserrat
+bodyFont: 'Open Sans'
+baseFontSize: 18
