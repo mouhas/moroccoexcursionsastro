@@ -8,6 +8,11 @@
 
 function h($v) { return htmlspecialchars($v === null ? '' : (string) $v, ENT_QUOTES); }
 
+// Browsers submit <textarea> content with CRLF line endings per the HTML
+// spec, regardless of how the original file was line-ended — normalize
+// back to \n so saved files don't pick up mixed line endings.
+function norm_nl($v) { return is_string($v) ? str_replace("\r\n", "\n", $v) : $v; }
+
 function field_text($name, $value, $label, $hint = null, $type = 'text') {
     echo '<div class="field"><label for="' . h($name) . '">' . h($label) . '</label>';
     echo '<input type="' . h($type) . '" id="' . h($name) . '" name="' . h($name) . '" value="' . h($value) . '">';
@@ -20,6 +25,44 @@ function field_textarea($name, $value, $label, $hint = null, $rows = 5) {
     echo '<textarea id="' . h($name) . '" name="' . h($name) . '" rows="' . (int) $rows . '">' . h($value) . '</textarea>';
     if ($hint) echo '<div class="hint">' . h($hint) . '</div>';
     echo '</div>';
+}
+
+// Same as field_textarea, but for fields that hold real HTML (overviewHtml,
+// itinerary day descriptions, FAQ answers) — renders a rich-text editor
+// instead of showing raw tags. The underlying textarea is still what
+// actually submits; a small shared script (rich_editor_script()) keeps it
+// in sync with the editor and is what makes this work without a page
+// reload or any server-side change to how the value is parsed/saved.
+$GLOBALS['__rich_editor_used'] = false;
+function field_richtext($name, $value, $label, $hint = null) {
+    $GLOBALS['__rich_editor_used'] = true;
+    echo '<div class="field"><label>' . h($label) . '</label>';
+    echo '<textarea class="rich-html" name="' . h($name) . '" style="display:none">' . h($value) . '</textarea>';
+    echo '<div class="rich-html-editor"></div>';
+    if ($hint) echo '<div class="hint">' . h($hint) . '</div>';
+    echo '</div>';
+}
+
+// Include once, after all fields on the page have been rendered (so every
+// .rich-html textarea already exists in the DOM), and only if at least one
+// field_richtext() was actually used.
+function rich_editor_assets($basePath) {
+    if (empty($GLOBALS['__rich_editor_used'])) return;
+    echo '<link rel="stylesheet" href="' . h($basePath) . '/assets/quill/quill.snow.css">';
+    echo '<script src="' . h($basePath) . '/assets/quill/quill.min.js"></script>';
+    ?>
+    <style>.ql-editor{min-height:160px;font-size:14px}.ql-container{border-radius:0 0 6px 6px}.ql-toolbar{border-radius:6px 6px 0 0;background:#fafafa}</style>
+    <script>
+      document.querySelectorAll('textarea.rich-html').forEach(function (ta) {
+        var mount = ta.nextElementSibling;
+        var quill = new Quill(mount, { theme: 'snow' });
+        quill.clipboard.dangerouslyPasteHTML(ta.value || '');
+        quill.on('text-change', function () { ta.value = quill.root.innerHTML; });
+        var form = ta.closest('form');
+        if (form) form.addEventListener('submit', function () { ta.value = quill.root.innerHTML; });
+      });
+    </script>
+    <?php
 }
 
 function field_select($name, $value, $options, $label) {
@@ -63,6 +106,8 @@ function field_object_list($name, $items, $fieldDefs, $label, $extraSlots = 2) {
             $fval = isset($item[$fd['name']]) ? $item[$fd['name']] : '';
             if (isset($fd['type']) && $fd['type'] === 'number') {
                 field_text($fname, $fval, $fd['label'], null, 'number');
+            } elseif (isset($fd['type']) && $fd['type'] === 'richtext') {
+                field_richtext($fname, $fval, $fd['label']);
             } elseif (isset($fd['type']) && $fd['type'] === 'textarea') {
                 field_textarea($fname, $fval, $fd['label'], null, 4);
             } else {
@@ -89,7 +134,7 @@ function parse_object_list($raw, $fieldDefs, $requiredField = null) {
         if ($requiredField !== null && (!isset($row[$requiredField]) || trim((string) $row[$requiredField]) === '')) continue;
         $entry = [];
         foreach ($fieldDefs as $fd) {
-            $v = isset($row[$fd['name']]) ? trim((string) $row[$fd['name']]) : '';
+            $v = isset($row[$fd['name']]) ? trim(norm_nl((string) $row[$fd['name']])) : '';
             if (isset($fd['type']) && $fd['type'] === 'number') {
                 $entry[$fd['name']] = $v === '' ? 0 : (float) $v;
                 if ($entry[$fd['name']] == (int) $entry[$fd['name']]) $entry[$fd['name']] = (int) $entry[$fd['name']];

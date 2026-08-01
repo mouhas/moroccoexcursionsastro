@@ -1,0 +1,40 @@
+name: Build and deploy to GoDaddy
+
+on:
+  push:
+    branches: [main]
+    # New bookings/messages land as commits too (see worker/) but aren't
+    # rendered on the public site — skip the rebuild+FTP deploy for those so
+    # routine submissions don't trigger it.
+    paths-ignore:
+      - 'src/content/bookings/**'
+      - 'src/content/messages/**'
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Deploy dist/ to GoDaddy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.GODADDY_FTP_SERVER }}
+          username: ${{ secrets.GODADDY_FTP_USERNAME }}
+          password: ${{ secrets.GODADDY_FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: ${{ secrets.GODADDY_FTP_SERVER_DIR }}   # e.g. /public_html/

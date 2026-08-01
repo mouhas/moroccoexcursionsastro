@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             'tourCode' => trim($p['tourCode']) !== '' ? trim($p['tourCode']) : null,
             'mapUrl' => trim($p['mapUrl']) !== '' ? trim($p['mapUrl']) : null,
 
-            'overviewHtml' => $p['overviewHtml'],
+            'overviewHtml' => norm_nl($p['overviewHtml']),
             'priceHeading' => trim($p['priceHeading']) !== '' ? trim($p['priceHeading']) : null,
             'priceRows' => parse_price_rows($p['priceRows']),
             'notesHeading' => trim($p['notesHeading']) !== '' ? trim($p['notesHeading']) : null,
@@ -102,7 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         $data['activityOptions'] = []; // edited as raw JSON below, see note in the form
 
-        $newBody = isset($p['body']) ? $p['body'] : '';
+        $newBody = isset($p['body']) ? norm_nl($p['body']) : '';
         $fileContent = dump_frontmatter($data, $newBody);
         gh_put_file($path, $fileContent, 'Edit ' . $data['title'] . ' via admin panel', $sha);
 
@@ -203,7 +203,7 @@ render_header('Edit — ' . g($data, 'title', $file), 'content');
   </fieldset>
 
   <fieldset><legend>Overview & Pricing Table</legend>
-    <?php field_textarea('overviewHtml', g($data, 'overviewHtml'), 'Overview (HTML — wrap paragraphs in <p>...</p>)', null, 10); ?>
+    <?php field_richtext('overviewHtml', g($data, 'overviewHtml'), 'Overview'); ?>
     <?php field_text('priceHeading', g($data, 'priceHeading'), 'Price Table Heading'); ?>
     <?php field_price_rows('priceRows', g($data, 'priceRows', []), 'Price Table Rows'); ?>
     <?php field_text('notesHeading', g($data, 'notesHeading'), 'Notes Heading'); ?>
@@ -213,7 +213,7 @@ render_header('Edit — ' . g($data, 'title', $file), 'content');
 
   <?php field_object_list('itinerary', g($data, 'itinerary', []), [
     ['name' => 'title', 'label' => 'Day Title'],
-    ['name' => 'html', 'label' => 'Day Description (HTML)', 'type' => 'textarea'],
+    ['name' => 'html', 'label' => 'Day Description', 'type' => 'richtext'],
   ], 'Day-by-Day Itinerary', 2); ?>
 
   <fieldset><legend>What's Included</legend>
@@ -223,7 +223,7 @@ render_header('Edit — ' . g($data, 'title', $file), 'content');
 
   <?php field_object_list('faqs', g($data, 'faqs', []), [
     ['name' => 'q', 'label' => 'Question'],
-    ['name' => 'aHtml', 'label' => 'Answer (HTML)', 'type' => 'textarea'],
+    ['name' => 'aHtml', 'label' => 'Answer', 'type' => 'richtext'],
   ], 'FAQs', 2); ?>
 
   <?php field_object_list('reviews', g($data, 'reviews', []), [
@@ -308,4 +308,5 @@ render_header('Edit — ' . g($data, 'title', $file), 'content');
   <button type="submit" class="btn">Save</button>
   <a href="list.php" class="btn secondary">Cancel</a>
 </form>
+<?php rich_editor_assets(base_path()); ?>
 <?php render_footer(); ?>
