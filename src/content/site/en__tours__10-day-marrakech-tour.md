@@ -236,13 +236,8 @@ priceTiers:
   -
     people: 6
     perPerson: 860
-campTiers: {  }
 hasDesertExtras: true
-carBadges: {  }
 carCategory: null
-carFeatures: {  }
-iconGrid: {  }
-carListings: {  }
 metaTitle: null
 metaDescription: null
 autoPricing:
@@ -256,5 +251,4 @@ ratingBreakdown:
   guides: 5.0
   transport: 5.0
   activities: 5.0
-activityOptions: {  }
 ---

@@ -17,8 +17,23 @@ function parse_frontmatter($fileContent) {
     return ['data' => $data, 'body' => $m[2]];
 }
 
+// PHP can't distinguish an empty list from an empty map, so
+// Yaml::dump([]) always produces "{  }" (empty object) — which then fails
+// Astro's `z.array()` schema validation ("Expected array, received
+// object"). Every array field in the schema defaults to [] when the key is
+// missing entirely, so the safe fix is to just omit empty-array keys rather
+// than try to force a specific YAML flow style.
+function strip_empty_arrays($data) {
+    foreach ($data as $k => $v) {
+        if (is_array($v) && count($v) === 0) {
+            unset($data[$k]);
+        }
+    }
+    return $data;
+}
+
 function dump_frontmatter($data, $body = '') {
-    $yaml = Yaml::dump($data, 10, 2, Yaml::DUMP_MULTI_LINE_LITERAL_BLOCK);
+    $yaml = Yaml::dump(strip_empty_arrays($data), 10, 2, Yaml::DUMP_MULTI_LINE_LITERAL_BLOCK);
     $out = "---\n" . $yaml . "---\n";
     if (trim($body) !== '') $out .= $body;
     return $out;
