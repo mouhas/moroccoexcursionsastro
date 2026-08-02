@@ -186,48 +186,38 @@ export const CAR_RENTAL_LABEL: Record<Lang, string> = {
 };
 
 // Primary navigation per language, using slugs that exist in the content.
-export function getNav(lang: Lang): { label: string; href: string }[] {
+export function getNav(lang: Lang): { label: string; href: string; icon: string }[] {
   const b = base(lang);
-  const map: Record<Lang, { label: string; href: string }[]> = {
+  const map: Record<Lang, { label: string; href: string; icon: string }[]> = {
     en: [
-      { label: 'Home', href: '/' },
-      { label: 'Tours', href: '/tours' },
-      { label: 'Prices', href: '/prices' },
-      { label: 'FAQs', href: '/faqs' },
-      { label: 'Reviews', href: '/reviews' },
-      { label: 'About', href: '/travel-agency' },
+      { label: 'Tours', href: '/tours', icon: 'compass' },
+      { label: 'Prices', href: '/prices', icon: 'tag' },
+      { label: 'FAQs', href: '/faqs', icon: 'question' },
+      { label: 'Reviews', href: '/reviews', icon: 'star' },
     ],
     fr: [
-      { label: 'Accueil', href: '/fr/' },
-      { label: 'Circuits', href: '/fr/tours' },
-      { label: 'Prix', href: '/fr/prix' },
-      { label: 'FAQ', href: '/fr/faqs' },
-      { label: 'Avis', href: '/fr/reviews' },
-      { label: 'À propos', href: '/fr/agence' },
+      { label: 'Circuits', href: '/fr/tours', icon: 'compass' },
+      { label: 'Prix', href: '/fr/prix', icon: 'tag' },
+      { label: 'FAQ', href: '/fr/faqs', icon: 'question' },
+      { label: 'Avis', href: '/fr/reviews', icon: 'star' },
     ],
     es: [
-      { label: 'Inicio', href: '/es/' },
-      { label: 'Tours', href: '/es/tours' },
-      { label: 'Precios', href: '/es/precios' },
-      { label: 'FAQs', href: '/es/faqs' },
-      { label: 'Reseñas', href: '/es/reviews' },
-      { label: 'Sobre nosotros', href: '/es/agencia' },
+      { label: 'Tours', href: '/es/tours', icon: 'compass' },
+      { label: 'Precios', href: '/es/precios', icon: 'tag' },
+      { label: 'FAQs', href: '/es/faqs', icon: 'question' },
+      { label: 'Reseñas', href: '/es/reviews', icon: 'star' },
     ],
     it: [
-      { label: 'Home', href: '/it/' },
-      { label: 'Tour', href: '/it/tours' },
-      { label: 'Prezzi', href: '/it/prezzi' },
-      { label: 'FAQ', href: '/it/faqs' },
-      { label: 'Recensioni', href: '/it/reviews' },
-      { label: 'Chi siamo', href: '/it/agenzia' },
+      { label: 'Tour', href: '/it/tours', icon: 'compass' },
+      { label: 'Prezzi', href: '/it/prezzi', icon: 'tag' },
+      { label: 'FAQ', href: '/it/faqs', icon: 'question' },
+      { label: 'Recensioni', href: '/it/reviews', icon: 'star' },
     ],
     'pt-br': [
-      { label: 'Início', href: '/pt-br/' },
-      { label: 'Tours', href: '/pt-br/tours' },
-      { label: 'Preços', href: '/pt-br/precos' },
-      { label: 'FAQ', href: '/pt-br/faqs' },
-      { label: 'Avaliações', href: '/pt-br/reviews' },
-      { label: 'Sobre nós', href: '/pt-br/agencia' },
+      { label: 'Tours', href: '/pt-br/tours', icon: 'compass' },
+      { label: 'Preços', href: '/pt-br/precos', icon: 'tag' },
+      { label: 'FAQ', href: '/pt-br/faqs', icon: 'question' },
+      { label: 'Avaliações', href: '/pt-br/reviews', icon: 'star' },
     ],
   };
   return map[lang] ?? map.en;
