@@ -5,7 +5,7 @@ section: tours
 pslug: 19-dias-de-tanger
 urlPath: pt-br/tours/19-dias-de-tanger
 price: 3570.0
-duration: 19 Days
+duration: 19 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/19-dias-de-tanger/
 tourType: Tour Privado

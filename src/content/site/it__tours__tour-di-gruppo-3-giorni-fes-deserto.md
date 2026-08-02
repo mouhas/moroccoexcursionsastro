@@ -5,7 +5,7 @@ section: tours
 pslug: tour-di-gruppo-3-giorni-fes-deserto
 urlPath: it/tours/tour-di-gruppo-3-giorni-fes-deserto
 price: null
-duration: 3 Days
+duration: 3 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/tour-di-gruppo-3-giorni-fes-deserto/
 tourType: Tour di Gruppo

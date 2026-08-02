@@ -5,7 +5,7 @@ section: tours
 pslug: tour-compartilhado-3-dias-deserto-marrakech
 urlPath: pt-br/tours/tour-compartilhado-3-dias-deserto-marrakech
 price: null
-duration: 3 Days
+duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/tour-compartilhado-3-dias-deserto-marrakech/
 tourType: Tour Em Grupo

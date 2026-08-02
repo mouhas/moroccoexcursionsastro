@@ -9,7 +9,7 @@ duration: 12 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/12-jours-de-marrakech/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Si vous recherchez une expérience marocaine complète, ce circuit de 12 jours au départ de Marrakech est un excellent choix. Il comprend tout, de la ville animée de Marrakech et ses trésors cachés aux magnifiques montagnes de l’Atlas, en passant par le vaste désert du Sahara au sud et les villes colorées du nord.</p>
 

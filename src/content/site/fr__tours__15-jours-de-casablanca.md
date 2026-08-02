@@ -9,7 +9,7 @@ duration: 15 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/15-jours-de-casablanca/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Ce circuit de 15 jours au Maroc commence à Casablanca, où la mosquée Hassan II et la Corniche en bord de mer vous accueillent dans la vie marocaine. De là, vous vous dirigerez vers le nord, à Rabat, pour explorer le palais royal, la tour Hassan et la kasbah des Oudayas, avant d’atteindre Tanger, une ville animée située au carrefour de l’Atlantique et de la Méditerranée.</p>
 

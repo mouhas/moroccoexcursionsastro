@@ -5,7 +5,7 @@ section: tours
 pslug: fes-marrakech-3-dias-tour-grupo
 urlPath: es/tours/fes-marrakech-3-dias-tour-grupo
 price: null
-duration: 3 Days
+duration: 3 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/fes-marrakech-3-dias-tour-grupo/
 tourType: 'Tour en Grupo'

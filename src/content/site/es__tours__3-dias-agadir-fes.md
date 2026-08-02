@@ -5,7 +5,7 @@ section: tours
 pslug: 3-dias-agadir-fes
 urlPath: es/tours/3-dias-agadir-fes
 price: 530
-duration: 3 Days
+duration: 3 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/3-dias-agadir-fes/
 tourType: Tour Privado

@@ -5,7 +5,7 @@ section: tours
 pslug: tour-condiviso-3-giorni-deserto-marrakech
 urlPath: it/tours/tour-condiviso-3-giorni-deserto-marrakech
 price: null
-duration: 3 Days
+duration: 3 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/tour-condiviso-3-giorni-deserto-marrakech/
 tourType: Tour Di Gruppo

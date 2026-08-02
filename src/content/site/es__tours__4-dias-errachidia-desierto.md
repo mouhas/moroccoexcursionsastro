@@ -5,7 +5,7 @@ section: tours
 pslug: 4-dias-errachidia-desierto
 urlPath: es/tours/4-dias-errachidia-desierto
 price: 720.0
-duration: 4 Days
+duration: 4 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/4-dias-errachidia-desierto/
 tourType: Tour Privado

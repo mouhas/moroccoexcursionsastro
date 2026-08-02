@@ -9,7 +9,7 @@ duration: 20 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/20-jours-de-casablanca/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Anglais, Multilingue
 overviewHtml: '<p>Le voyage commence à votre arrivée à Casablanca, où vous pourrez vous reposer après le vol ou faire une petite promenade pour découvrir la ville. Le lendemain, vous vous rendrez à Rabat, la capitale du Maroc, pour visiter la Kasbah des Oudaïas, la tour Hassan et le palais royal. De là, le voyage se poursuivra vers le nord avec une halte dans la petite ville balnéaire d’Asilah avant d’atteindre Tanger, une ville animée qui relie l’Afrique et l’Europe. Après avoir exploré Tanger, vous vous rendrez dans les montagnes du Rif à Chefchaouen, également connue sous le nom de « Perle bleue ». Vous passerez une journée entière ici à vous promener dans ses rues bleues, à faire du shopping dans les marchés et à profiter de la vue apaisante sur les montagnes.</p>
 

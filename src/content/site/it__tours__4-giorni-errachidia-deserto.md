@@ -5,7 +5,7 @@ section: tours
 pslug: 4-giorni-errachidia-deserto
 urlPath: it/tours/4-giorni-errachidia-deserto
 price: 720.0
-duration: 4 Days
+duration: 4 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/4-giorni-errachidia-deserto/
 tourType: Tour Privato

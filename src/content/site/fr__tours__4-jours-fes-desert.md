@@ -9,7 +9,7 @@ duration: 4 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/4-jours-fes-desert/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Embarquez pour un voyage inoubliable à travers le Maroc, de Fès aux magnifiques gorges du Todra. Traversez les montagnes de l’Atlas et le désert du Sahara pour un voyage riche en paysages à couper le souffle et en découvertes culturelles.</p>
 

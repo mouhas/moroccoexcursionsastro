@@ -9,7 +9,7 @@ duration: 20 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/20-dias-desde-casablanca/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Hasta 0 días
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>El viaje comienza con tu llegada a Casablanca, donde podrás descansar tras el vuelo o dar un breve paseo para conocer la ciudad. Al día siguiente, viajarás a Rabat, la capital de Marruecos, para visitar la Kasbah de los Udayas, la Torre de Hassan y el Palacio Real. Desde allí, el viaje continúa hacia el norte con una parada en la pequeña ciudad costera de Asilah antes de llegar a Tánger, una animada ciudad que conecta África y Europa. Después de explorar Tánger, se adentrará en las montañas del Rif hasta Chefchaouen, también conocida como la «Perla Azul». Pasarás un día completo aquí paseando por sus calles azules, comprando en los mercados y disfrutando de las tranquilas vistas de las montañas.</p>
 

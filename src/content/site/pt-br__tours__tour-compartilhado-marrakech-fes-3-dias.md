@@ -5,7 +5,7 @@ section: tours
 pslug: tour-compartilhado-marrakech-fes-3-dias
 urlPath: pt-br/tours/tour-compartilhado-marrakech-fes-3-dias
 price: null
-duration: 3 Days
+duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/tour-compartilhado-marrakech-fes-3-dias/
 tourType: Tour Privado

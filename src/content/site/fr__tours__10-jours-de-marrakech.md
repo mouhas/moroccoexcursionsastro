@@ -9,7 +9,7 @@ duration: 10 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/10-jours-de-marrakech/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Vous rêvez de passer 10 jours mystérieux et aventureux au Maroc ? Si oui, ce circuit de 10 jours au départ de Marrakech est peut-être exactement ce que vous recherchez.</p>
 

@@ -5,7 +5,7 @@ section: tours
 pslug: 19-giorni-da-tangeri
 urlPath: it/tours/19-giorni-da-tangeri
 price: 3570.0
-duration: 19 Days
+duration: 19 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/19-giorni-da-tangeri/
 tourType: Tour Privato

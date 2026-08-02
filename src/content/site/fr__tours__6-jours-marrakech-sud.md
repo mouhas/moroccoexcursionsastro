@@ -9,7 +9,7 @@ duration: 6 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/6-jours-marrakech-sud/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Si vous souhaitez explorer le sud du Maroc et découvrir ses trésors cachés, ce circuit de 6 jours au départ de Marrakech est fait pour vous. Le circuit comprend une nuit à Dadès, trois nuits dans la région désertique de Merzouga et une nuit à Ouarzazate.</p>
 

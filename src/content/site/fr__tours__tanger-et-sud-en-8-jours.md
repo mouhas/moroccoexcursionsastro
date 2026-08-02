@@ -5,7 +5,7 @@ section: tours
 pslug: tanger-et-sud-en-8-jours
 urlPath: fr/tours/tanger-et-sud-en-8-jours
 price: 1480.0
-duration: 8 Days
+duration: 8 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/tanger-et-sud-en-8-jours/
 tourType: Circuit Privé

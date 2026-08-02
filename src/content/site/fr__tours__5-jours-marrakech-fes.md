@@ -9,7 +9,7 @@ duration: 5 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/5-jours-marrakech-fes/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Ce circuit privé de 5 jours dans le désert jusqu’à Fès est une merveilleuse façon de découvrir la beauté naturelle, la culture et l’histoire du Maroc. Le voyage commence à Marrakech et se termine à Fès, en passant par les montagnes du Haut Atlas, les villages berbères, les anciennes kasbahs et le vaste désert du Sahara. En chemin, les voyageurs profitent d’une variété de paysages et d’activités, avec des nuitées dans la vallée du Dadès, le désert et la ville montagneuse de Midelt.</p>
 

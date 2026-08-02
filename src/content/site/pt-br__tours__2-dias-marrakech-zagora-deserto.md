@@ -5,7 +5,7 @@ section: tours
 pslug: 2-dias-marrakech-zagora-deserto
 urlPath: pt-br/tours/2-dias-marrakech-zagora-deserto
 price: 340.0
-duration: 2 Days
+duration: 2 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/2-dias-marrakech-zagora-deserto/
 tourType: Tour Privado

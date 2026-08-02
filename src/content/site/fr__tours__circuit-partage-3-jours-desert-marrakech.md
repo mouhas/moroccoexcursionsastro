@@ -5,7 +5,7 @@ section: tours
 pslug: circuit-partage-3-jours-desert-marrakech
 urlPath: fr/tours/circuit-partage-3-jours-desert-marrakech
 price: null
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/circuit-partage-3-jours-desert-marrakech/
 tourType: Circuit En Groupe

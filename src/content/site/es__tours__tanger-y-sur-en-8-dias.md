@@ -5,7 +5,7 @@ section: tours
 pslug: tanger-y-sur-en-8-dias
 urlPath: es/tours/tanger-y-sur-en-8-dias
 price: 1480.0
-duration: 8 Days
+duration: 8 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/tanger-y-sur-en-8-dias/
 tourType: Tour Privado

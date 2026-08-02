@@ -5,7 +5,7 @@ section: tours
 pslug: trekking-2-dias-deserto-merzouga
 urlPath: pt-br/tours/trekking-2-dias-deserto-merzouga
 price: 340
-duration: 2 Days
+duration: 2 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/trekking-2-dias-deserto-merzouga/
 tourType: Tour Privado

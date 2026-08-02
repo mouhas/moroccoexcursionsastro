@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/escursione-4x4-deserto/
 tourType: Tour Privato
-cancellation: Up to 1 day
+cancellation: Fino a 1 giorno
 languagesSpoken: ___
 overviewHtml: '<p>Il modo migliore per esplorare questa zona è a bordo di un fuoristrada 4×4 con un autista locale. Potrete fare un breve ed emozionante giro sulle colline sabbiose. Per un viaggio più lungo, potrete visitare una famiglia nomade. Vi inviteranno nella loro tenda per una tazza di tè alla menta dolce. Potrete anche ascoltare musica speciale in un villaggio chiamato Khamlia.</p>
 

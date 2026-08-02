@@ -5,7 +5,7 @@ section: tours
 pslug: 2-dias-ouarzazate-desierto
 urlPath: es/tours/2-dias-ouarzazate-desierto
 price: 340.0
-duration: 2 Days
+duration: 2 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/2-dias-ouarzazate-desierto/
 tourType: Tour Privado

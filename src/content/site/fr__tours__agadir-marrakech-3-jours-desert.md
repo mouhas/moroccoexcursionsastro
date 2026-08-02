@@ -5,7 +5,7 @@ section: tours
 pslug: agadir-marrakech-3-jours-desert
 urlPath: fr/tours/agadir-marrakech-3-jours-desert
 price: 530.0
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/agadir-marrakech-3-jours-desert/
 tourType: 'Circuit Privé'

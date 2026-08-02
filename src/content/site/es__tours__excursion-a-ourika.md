@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-a-ourika
 urlPath: es/tours/excursion-a-ourika
 price: null
-duration: 1 Day
+duration: 1 Día
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-a-ourika/
 tourType: 'Tour Privado'

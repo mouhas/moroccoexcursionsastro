@@ -5,7 +5,7 @@ section: tours
 pslug: circuit-groupe-3-jours-fes-desert
 urlPath: fr/tours/circuit-groupe-3-jours-fes-desert
 price: null
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/circuit-groupe-3-jours-fes-desert/
 tourType: Circuit en Groupe

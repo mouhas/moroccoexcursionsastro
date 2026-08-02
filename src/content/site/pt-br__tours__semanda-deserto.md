@@ -9,7 +9,7 @@ duration: 7 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/semanda-deserto/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Até 0 dias
 languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Passe sete dias no deserto de Merzouga e desfrute de aventura, cultura e belas vistas do deserto. No primeiro dia, chegue a Merzouga e faça um passeio de camelo pelas dunas douradas. Passe a noite num acampamento no deserto sob as estrelas. No segundo dia, visite famílias nómadas, pequenas aldeias berberes e Khamlia, uma aldeia conhecida pela música tradicional Gnawa.</p>
 

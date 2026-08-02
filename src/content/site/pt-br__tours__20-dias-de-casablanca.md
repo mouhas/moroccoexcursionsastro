@@ -9,7 +9,7 @@ duration: 20 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/20-dias-de-casablanca/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Até 0 dias
 languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>A viagem começa com a sua chegada a Casablanca, onde pode descansar após o voo ou dar um pequeno passeio para conhecer a cidade. No dia seguinte, viaja para Rabat, capital de Marrocos, para visitar a Kasbah dos Udayas, a Torre Hassan e o Palácio Real. A partir daí, a viagem continua para norte, com uma paragem na pequena cidade costeira de Asilah, antes de chegar a Tânger, uma cidade animada que liga África e a Europa. Depois de explorar Tânger, seguirá para as montanhas Rif até Chefchaouen, também conhecida como a «Pérola Azul». Passará um dia inteiro aqui a caminhar pelas suas ruas azuis, a fazer compras nos mercados e a apreciar a vista tranquila das montanhas.</p>
 

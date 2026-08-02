@@ -5,7 +5,7 @@ section: tours
 pslug: tour-condiviso-marrakech-fes-3-giorni
 urlPath: it/tours/tour-condiviso-marrakech-fes-3-giorni
 price: null
-duration: 3 Days
+duration: 3 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/tour-condiviso-marrakech-fes-3-giorni/
 tourType: Tour Privato

@@ -5,7 +5,7 @@ section: tours
 pslug: excursao-ouzoud-saida-de-marrakech
 urlPath: pt-br/tours/excursao-ouzoud-saida-de-marrakech
 price: null
-duration: 1 Day
+duration: 1 Dia
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-ouzoud-saida-de-marrakech/
 tourType: Tour Privado

@@ -5,7 +5,7 @@ section: tours
 pslug: 3-dias-errachidia-fes
 urlPath: pt-br/tours/3-dias-errachidia-fes
 price: 530
-duration: 3 Days
+duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/3-dias-errachidia-fes/
 tourType: Tour Privado

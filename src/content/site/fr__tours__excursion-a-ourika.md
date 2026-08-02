@@ -9,7 +9,7 @@ duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-a-ourika/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: <p>Ce voyage est parfait pour les personnes qui veulent la paix, des vues magnifiques et découvrir la culture <strong><a href="https://fr.wikipedia.org/wiki/Berb%C3%A8res" rel="noopener" target="_blank">berbère</a></strong>. Que vous marchiez jusqu’aux cascades, que vous visitiez les villages ou que vous profitiez simplement du calme de la nature, une excursion dans la vallée de l’Ourika rendra votre séjour à Marrakech encore plus agréable.</p>
 priceHeading: Que faut-il savoir avant de réserver une excursion d’une journée la vallée de l’Ourika ?

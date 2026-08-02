@@ -5,7 +5,7 @@ section: tours
 pslug: 3-giorni-marrakech-merzouga
 urlPath: it/tours/3-giorni-marrakech-merzouga
 price: 530.0
-duration: 3 Days
+duration: 3 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/
 tourType: Tour Privato

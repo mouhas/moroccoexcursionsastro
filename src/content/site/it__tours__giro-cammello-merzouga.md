@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/giro-cammello-merzouga/
 tourType: Tour Privato
-cancellation: Up to 0 days
+cancellation: Fino a 0 giorni
 languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Un giro in cammello a Merzouga è una delle cose migliori da fare in Marocco. Attraversare le dune dell''Erg Chebbi in groppa a un cammello è un''esperienza tranquilla e bellissima. Queste dune sono le più alte del Marocco e tra le più alte del Nord Africa. La loro sabbia dorata dà al deserto l''aspetto di un mare di onde.</p>
 

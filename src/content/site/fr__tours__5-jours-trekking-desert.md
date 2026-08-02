@@ -9,7 +9,7 @@ duration: 5 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/5-jours-trekking-desert/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Le trek de 5 jours dans le Sahara commence à Merzouga, où vous partez avec une caravane de chameaux dans les dunes de Bouird. Après un coucher de soleil magique, vous passez la nuit dans un campement dans le désert, sous les étoiles. Le lendemain, une longue traversée des dunes de l’Erg Chebbi vous mène à Hassi Mardani, un ancien village au pied des dunes, où les couleurs du soir sont tout simplement inoubliables.</p>
 

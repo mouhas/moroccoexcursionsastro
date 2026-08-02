@@ -5,7 +5,7 @@ section: tours
 pslug: tour-grupal-3-dias-fes-desierto
 urlPath: es/tours/tour-grupal-3-dias-fes-desierto
 price: null
-duration: 3 Days
+duration: 3 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/tour-grupal-3-dias-fes-desierto/
 tourType: Tour en Grupo

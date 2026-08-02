@@ -5,7 +5,7 @@ section: tours
 pslug: 19-jours-depuis-tanger
 urlPath: fr/tours/19-jours-depuis-tanger
 price: 3570.0
-duration: 19 Days
+duration: 19 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/19-jours-depuis-tanger/
 tourType: Circuit Privé

@@ -5,7 +5,7 @@ section: tours
 pslug: 17-jours-depuis-rabat
 urlPath: fr/tours/17-jours-depuis-rabat
 price: 3190.0
-duration: 17 Days
+duration: 17 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/17-jours-depuis-rabat/
 tourType: Circuit Privé

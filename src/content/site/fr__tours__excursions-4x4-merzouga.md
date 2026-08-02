@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursions-4x4-merzouga/
 tourType: Tour Privé
-cancellation: Up to 1 day
+cancellation: Jusqu'à 1 jour
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>La meilleure façon d’explorer cette région est de faire un tour en 4×4 avec un chauffeur local. Vous pourrez faire une petite balade passionnante à travers les dunes de sable. Pour un voyage plus long, vous pouvez rendre visite à une famille nomade. Ils vous inviteront dans leur tente pour boire une tasse de thé à la menthe sucré. Vous pourrez également écouter une musique particulière dans un village appelé Khamlia.</p>
 

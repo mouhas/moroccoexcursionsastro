@@ -5,7 +5,7 @@ section: tours
 pslug: agadir-marrakech-3-dias-desierto
 urlPath: es/tours/agadir-marrakech-3-dias-desierto
 price: 530.0
-duration: 3 Days
+duration: 3 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/agadir-marrakech-3-dias-desierto/
 tourType: Tour Privado

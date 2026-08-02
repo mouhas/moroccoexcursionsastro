@@ -9,7 +9,7 @@ duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-a-ait-ben-haddou/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Cette excursion d’une journée au départ de Marrakech vous emmène à la découverte de paysages magnifiques et d’une histoire riche. Vous traverserez les magnifiques montagnes de l’Atlas et atteindrez le point le plus élevé au col du Tizi n’Tichka (2 160 mètres), d’où vous pourrez admirer des vues époustouflantes.</p>
 

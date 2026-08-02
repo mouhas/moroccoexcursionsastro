@@ -9,7 +9,7 @@ duration: 7 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/semana-desierto-marruecos/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Hasta 0 días
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Pase siete días en el desierto de Merzouga y disfrute de la aventura, la cultura y las hermosas vistas del desierto. El primer día, llegue a Merzouga y dé un paseo en camello por las dunas doradas. Pase la noche en un campamento en el desierto bajo las estrellas. El segundo día, visite familias nómadas, pequeños pueblos bereberes y Khamlia, un pueblo conocido por la música tradicional gnawa.</p>
 

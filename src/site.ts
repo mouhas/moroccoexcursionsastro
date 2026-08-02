@@ -165,6 +165,29 @@ export function langAlternates(
   return result;
 }
 
+// The car-rental hub page's real translated slug per language (matches the
+// morocco-rental-cars group in PAGE_TRANSLATIONS) — shared by getNav() and
+// the car-detail breadcrumb so the two can't silently drift apart the way
+// they did before (breadcrumb was hardcoded to the English slug/label
+// regardless of page language).
+const CAR_RENTAL_SLUG: Record<Lang, string> = {
+  en: 'morocco-rental-cars',
+  fr: 'location-de-voitures',
+  es: 'alquiler-de-coches',
+  it: 'noleggio-auto',
+  'pt-br': 'aluguel-de-carro',
+};
+export function carRentalHref(lang: Lang): string {
+  return base(lang) + '/' + CAR_RENTAL_SLUG[lang];
+}
+export const CAR_RENTAL_LABEL: Record<Lang, string> = {
+  en: 'Car Rental',
+  fr: 'Location Voiture',
+  es: 'Alquiler de Coches',
+  it: 'Noleggio Auto',
+  'pt-br': 'Aluguel de Carro',
+};
+
 // Primary navigation per language, using slugs that exist in the content.
 export function getNav(lang: Lang): { label: string; href: string }[] {
   const b = base(lang);
@@ -173,7 +196,7 @@ export function getNav(lang: Lang): { label: string; href: string }[] {
       { label: 'Home', href: '/' },
       { label: 'Tours', href: '/tours' },
       { label: 'Desert Tours', href: '/morocco-desert-tours' },
-      { label: 'Car Rental', href: '/morocco-rental-cars' },
+      { label: CAR_RENTAL_LABEL.en, href: carRentalHref('en') },
       { label: 'Reviews', href: '/reviews' },
       { label: 'Travel Agency', href: '/travel-agency' },
     ],
@@ -181,7 +204,7 @@ export function getNav(lang: Lang): { label: string; href: string }[] {
       { label: 'Accueil', href: '/fr/' },
       { label: 'Circuits', href: '/fr/tours' },
       { label: 'Désert', href: '/fr/circuit-desert-maroc' },
-      { label: 'Location Voiture', href: '/fr/location-de-voitures' },
+      { label: CAR_RENTAL_LABEL.fr, href: carRentalHref('fr') },
       { label: 'Avis', href: '/fr/reviews' },
       { label: 'Agence', href: '/fr/agence' },
     ],
@@ -189,6 +212,7 @@ export function getNav(lang: Lang): { label: string; href: string }[] {
       { label: 'Inicio', href: '/es/' },
       { label: 'Tours', href: '/es/tours' },
       { label: 'Desierto', href: '/es/viaje-desierto-marruecos' },
+      { label: CAR_RENTAL_LABEL.es, href: carRentalHref('es') },
       { label: 'Reseñas', href: '/es/reviews' },
       { label: 'Agencia', href: '/es/agencia' },
     ],
@@ -196,7 +220,7 @@ export function getNav(lang: Lang): { label: string; href: string }[] {
       { label: 'Home', href: '/it/' },
       { label: 'Tour', href: '/it/tours' },
       { label: 'Deserto', href: '/it/tour-deserto-marocco' },
-      { label: 'Noleggio Auto', href: '/it/noleggio-auto' },
+      { label: CAR_RENTAL_LABEL.it, href: carRentalHref('it') },
       { label: 'Recensioni', href: '/it/reviews' },
       { label: 'Agenzia', href: '/it/agenzia' },
     ],
@@ -204,7 +228,7 @@ export function getNav(lang: Lang): { label: string; href: string }[] {
       { label: 'Início', href: '/pt-br/' },
       { label: 'Tours', href: '/pt-br/tours' },
       { label: 'Deserto', href: '/pt-br/excursoes-deserto-marrocos' },
-      { label: 'Aluguel de Carro', href: '/pt-br/aluguel-de-carro' },
+      { label: CAR_RENTAL_LABEL['pt-br'], href: carRentalHref('pt-br') },
       { label: 'Avaliações', href: '/pt-br/reviews' },
       { label: 'Agência', href: '/pt-br/agencia' },
     ],

@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-a-ait-ben-haddou-desde-marrakech
 urlPath: es/tours/excursion-a-ait-ben-haddou-desde-marrakech
 price: null
-duration: 1 Day
+duration: 1 Día
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-a-ait-ben-haddou-desde-marrakech/
 tourType: 'Tour Privado'

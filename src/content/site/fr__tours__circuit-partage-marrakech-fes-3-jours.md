@@ -5,7 +5,7 @@ section: tours
 pslug: circuit-partage-marrakech-fes-3-jours
 urlPath: fr/tours/circuit-partage-marrakech-fes-3-jours
 price: null
-duration: 3 Days
+duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/circuit-partage-marrakech-fes-3-jours/
 tourType: Circuit Privé

@@ -9,7 +9,7 @@ duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-3-dias-merzouga/
 tourType: Tour em Grupo
-cancellation: Up to 0 days
+cancellation: Até 0 dias
 languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Está à procura de um passeio completo pelo deserto em Merzouga que inclua um passeio de camelo, um acampamento no deserto, sandboard, um passeio de 4×4 e uma aventura de ATV/Quad? Esta experiência tem tudo isso!</p>
 

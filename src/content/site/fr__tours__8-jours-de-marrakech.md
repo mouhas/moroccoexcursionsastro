@@ -9,7 +9,7 @@ duration: 8 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/8-jours-de-marrakech/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Ce circuit de 8 jours au Maroc commence à Marrakech et vous emmène à travers les montagnes du Haut Atlas, les villages berbères et le désert du Sahara. À votre arrivée à l’aéroport de Marrakech, un chauffeur viendra vous chercher et vous conduira à votre hôtel. Si vous arrivez tôt, vous pourrez faire une petite promenade pour explorer la ville.</p>
 

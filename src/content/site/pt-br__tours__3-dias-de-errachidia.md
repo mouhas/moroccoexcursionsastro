@@ -5,7 +5,7 @@ section: tours
 pslug: 3-dias-de-errachidia
 urlPath: pt-br/tours/3-dias-de-errachidia
 price: 530.0
-duration: 3 Days
+duration: 3 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/3-dias-de-errachidia/
 tourType: Tour Privado

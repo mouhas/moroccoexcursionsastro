@@ -9,7 +9,7 @@ duration: 10 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/10-giorni-da-casablanca/
 tourType: Tour Privato
-cancellation: Up to 0 days
+cancellation: Fino a 0 giorni
 languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Questo tour di 10 giorni in Marocco con partenza da Casablanca è un viaggio attraverso le città più iconiche del Paese, i monumenti storici e i paesaggi mozzafiato. Con inizio a Casablanca e termine a Marrakech, il viaggio unisce cultura, storia e avventura per un’esperienza marocchina completa.</p>
 

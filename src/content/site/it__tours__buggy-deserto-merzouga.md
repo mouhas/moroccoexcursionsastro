@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: https://morocco-excursion.com/it/tours/buggy-deserto-merzouga/
 tourType: Tour Privato
-cancellation: Up to 1 day
+cancellation: Fino a 1 giorno
 languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Scoprite il deserto del Sahara in modo divertente ed emozionante con i nostri tour in buggy a Merzouga. Potete scegliere tra un breve giro di un’ora, un’escursione di mezza giornata o un’avventura completa della durata di diversi giorni. Guidare un buggy è facile e sicuro, e le nostre guide locali vi condurranno attraverso paesaggi mozzafiato che la maggior parte dei visitatori non vede mai.</p>
 

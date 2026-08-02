@@ -9,7 +9,7 @@ duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-ouzoud/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Au départ de Marrakech, une excursion d’une journée permet de découvrir les étonnantes cascades d’Ouzoud, l’un des plus beaux sites naturels du Maroc. Situées dans les montagnes de l’Atlas, les cascades tombent de 110 mètres dans une vallée verdoyante, créant souvent des arcs-en-ciel colorés. C’est un voyage parfait pour les personnes qui aiment la nature et les endroits calmes.</p>
 

@@ -9,7 +9,7 @@ duration: 3 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-merzouga-3-jours/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Vous recherchez une excursion complète dans le désert à Merzouga qui comprend une balade à dos de chameau, un campement dans le désert, du sandboard, une excursion en 4×4 et une aventure en quad ? Cette expérience vous offre tout cela !</p>
 

@@ -5,7 +5,7 @@ section: tours
 pslug: excursao-a-essaouira-de-marrakech
 urlPath: pt-br/tours/excursao-a-essaouira-de-marrakech
 price: null
-duration: 1 Day
+duration: 1 Dia
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/excursao-a-essaouira-de-marrakech/
 tourType: 'Tour Privado'

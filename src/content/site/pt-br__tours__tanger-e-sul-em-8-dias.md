@@ -5,7 +5,7 @@ section: tours
 pslug: tanger-e-sul-em-8-dias
 urlPath: pt-br/tours/tanger-e-sul-em-8-dias
 price: 1480.0
-duration: 8 Days
+duration: 8 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/tanger-e-sul-em-8-dias/
 tourType: Tour Privado

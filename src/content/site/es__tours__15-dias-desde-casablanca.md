@@ -9,7 +9,7 @@ duration: 15 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/15-dias-desde-casablanca/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Hasta 0 días
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Este tour de 15 días por Marruecos comienza en Casablanca, donde la mezquita Hassan II y la Corniche, junto al mar, te dan la bienvenida a la vida marroquí. Desde allí, viaje hacia el norte hasta Rabat para explorar el Palacio Real, la Torre Hassan y la Kasbah de los Udayas, antes de llegar a Tánger, una ciudad vibrante situada en el punto de encuentro entre el Atlántico y el Mediterráneo.</p>
 

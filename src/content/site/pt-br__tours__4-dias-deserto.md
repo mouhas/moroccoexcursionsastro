@@ -9,7 +9,7 @@ duration: 4 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/4-dias-deserto/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Até 0 dias
 languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>Esta viagem de 4 dias pelo deserto selvagem começa em Merzouga, onde visitará o Oásis de Tissardmine, rico em fósseis, e o tranquilo Oásis de Safsaf. Mais tarde, regressará às dunas para assistir a um belo pôr do sol e passar a noite num acampamento no deserto sob as estrelas.</p>
 

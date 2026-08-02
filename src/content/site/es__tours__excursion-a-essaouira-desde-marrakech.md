@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-a-essaouira-desde-marrakech
 urlPath: es/tours/excursion-a-essaouira-desde-marrakech
 price: null
-duration: 1 Day
+duration: 1 Día
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-a-essaouira-desde-marrakech/
 tourType: 'Tour Privado'

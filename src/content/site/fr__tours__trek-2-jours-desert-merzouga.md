@@ -5,7 +5,7 @@ section: tours
 pslug: trek-2-jours-desert-merzouga
 urlPath: fr/tours/trek-2-jours-desert-merzouga
 price: 340
-duration: 2 Days
+duration: 2 Jours
 tag: null
 source: https://morocco-excursion.com/fr/tours/trek-2-jours-desert-merzouga/
 tourType: Circuit Privé

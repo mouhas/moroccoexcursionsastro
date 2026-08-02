@@ -9,7 +9,7 @@ duration: 12 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/12-giorni-da-casablanca/
 tourType: Tour Privato
-cancellation: Up to 0 days
+cancellation: Fino a 0 giorni
 languagesSpoken: Inglese, Italiano, Multilingue
 overviewHtml: '<p>Il viaggio inizia a Casablanca, la moderna città marocchina affacciata sull’Atlantico, e prosegue verso Rabat, la capitale del Paese, dove potrete ammirare l’imponente Torre Hassan e la tranquilla Kasbah degli Udayas. Da lì, la strada conduce a nord verso Chefchaouen, la famosa città blu nascosta tra le montagne del Rif, un luogo che sembra quasi magico. Proseguendo verso sud, ci si ferma alle rovine romane di Volubilis, si esplora la città imperiale di Meknes e si arriva a Fes, dove stradine strette rivelano antiche moschee, scuole e mercati colorati.</p>
 

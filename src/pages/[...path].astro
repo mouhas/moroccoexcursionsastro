@@ -6,7 +6,7 @@ import Thumb from '../components/Thumb.astro';
 import GalleryTile from '../components/GalleryTile.astro';
 import BookingWidget from '../components/BookingWidget.astro';
 import { getCollection } from 'astro:content';
-import { base, UI, GENERAL_REVIEWS, langAlternates, type Lang } from '../site';
+import { base, UI, GENERAL_REVIEWS, langAlternates, carRentalHref, CAR_RENTAL_LABEL, type Lang } from '../site';
 import { galleryFor } from '../lib/images';
 import { getSettings } from '../lib/settings';
 
@@ -30,9 +30,9 @@ const isPage = d.section === 'pages';
 // Three content pages get the reference theme's own bespoke page patterns
 // (About / Transport / Contact) instead of the generic prose template —
 // matched by pslug since each language has its own translated slug.
-const ABOUT_SLUGS = ['travel-agency', 'agence', 'agencia'];
-const CAR_HUB_SLUGS = ['morocco-rental-cars', 'location-de-voitures', 'aluguel-de-carro', 'noleggio-auto'];
-const CONTACT_SLUGS = ['contact', 'contacto'];
+const ABOUT_SLUGS = ['travel-agency', 'agence', 'agencia', 'agenzia'];
+const CAR_HUB_SLUGS = ['morocco-rental-cars', 'location-de-voitures', 'aluguel-de-carro', 'noleggio-auto', 'alquiler-de-coches'];
+const CONTACT_SLUGS = ['contact', 'contacto', 'contatto'];
 const DESERT_SLUGS = ['morocco-desert-tours', 'circuit-desert-maroc', 'viaje-desierto-marruecos', 'tour-deserto-marocco', 'excursoes-deserto-marrocos'];
 const isAboutPage = isPage && ABOUT_SLUGS.includes(d.pslug);
 const isCarHubPage = isPage && CAR_HUB_SLUGS.includes(d.pslug);
@@ -563,7 +563,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
       <div class="crumbs">
         <a href={homeHref}>{t.home}</a>
         {isTour && <> · <a href={b + '/tours'}>{t.allTours}</a></>}
-        {isCar && <> · <a href={b + '/morocco-rental-cars'}>Car Rental</a></>}
+        {isCar && <> · <a href={carRentalHref(lang)}>{CAR_RENTAL_LABEL[lang]}</a></>}
         · {d.title}
       </div>
       <h1>{d.title}</h1>

@@ -9,7 +9,7 @@ duration: 5 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/caminhada-5-dias-deserto/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Até 0 dias
 languagesSpoken: Inglês, Multilingue, Português
 overviewHtml: '<p>A caminhada de 5 dias pelo Saara começa em Merzouga, onde parte com uma caravana de camelos para as dunas de Bouird. Após um pôr do sol mágico, passa a noite num acampamento no deserto sob as estrelas. No dia seguinte, uma longa travessia das dunas de Erg Chebbi leva-o a Hassi Mardani, uma antiga aldeia no sopé das dunas, onde as cores do entardecer são simplesmente inesquecíveis.</p>
 

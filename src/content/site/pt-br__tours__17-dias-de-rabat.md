@@ -5,7 +5,7 @@ section: tours
 pslug: 17-dias-de-rabat
 urlPath: pt-br/tours/17-dias-de-rabat
 price: 3190.0
-duration: 17 Days
+duration: 17 Dias
 tag: null
 source: https://morocco-excursion.com/pt-br/tours/17-dias-de-rabat/
 tourType: Tour Privado

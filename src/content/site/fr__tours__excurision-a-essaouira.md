@@ -9,7 +9,7 @@ duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excurision-a-essaouira/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Au départ de Marrakech, une excursion paisible vous mènera à Essaouira, une charmante ville côtière située au bord de l’océan Atlantique. Essaouira est calme et charmante, offrant un mélange d’histoire, de culture et de vues magnifiques.</p>
 

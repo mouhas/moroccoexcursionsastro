@@ -5,7 +5,7 @@ section: tours
 pslug: tangeri-e-sud-in-8-giorni
 urlPath: it/tours/tangeri-e-sud-in-8-giorni
 price: 1480.0
-duration: 8 Days
+duration: 8 Giorni
 tag: null
 source: https://morocco-excursion.com/it/tours/tangeri-e-sud-in-8-giorni/
 tourType: Tour Privato

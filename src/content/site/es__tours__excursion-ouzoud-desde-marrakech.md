@@ -5,7 +5,7 @@ section: tours
 pslug: excursion-ouzoud-desde-marrakech
 urlPath: es/tours/excursion-ouzoud-desde-marrakech
 price: null
-duration: 1 Day
+duration: 1 Día
 tag: null
 source: https://morocco-excursion.com/es/tours/excursion-ouzoud-desde-marrakech/
 tourType: Tour Privado

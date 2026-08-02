@@ -9,7 +9,7 @@ duration: 5 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/senderismo-5-dias-desierto/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Hasta 0 días
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>El trekking de 5 días por el Sáhara comienza en Merzouga, donde partirás con una caravana de camellos hacia las dunas de Bouird. Tras una mágica puesta de sol, pasarás la noche en un campamento en el desierto bajo las estrellas. Al día siguiente, una larga travesía por las dunas de Erg Chebbi te llevará a Hassi Mardani, un antiguo pueblo al pie de las dunas, donde los colores del atardecer son simplemente inolvidables.</p>
 

@@ -9,7 +9,7 @@ duration: null
 tag: null
 source: https://morocco-excursion.com/es/tours/paseo-camello-merzouga/
 tourType: Tour Privado
-cancellation: Up to 0 days
+cancellation: Hasta 0 días
 languagesSpoken: Español, Multilíngue
 overviewHtml: '<p>Un paseo en camello en Merzouga es una de las mejores cosas que se pueden hacer en Marruecos. Cruzar las dunas de Erg Chebbi a lomos de un camello es una experiencia tranquila y hermosa. Estas dunas son las más altas de Marruecos y de las más altas del norte de África. Su arena dorada le da al desierto la apariencia de un mar de olas.</p>
 

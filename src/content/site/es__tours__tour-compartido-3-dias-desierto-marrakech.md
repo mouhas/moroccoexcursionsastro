@@ -5,7 +5,7 @@ section: tours
 pslug: tour-compartido-3-dias-desierto-marrakech
 urlPath: es/tours/tour-compartido-3-dias-desierto-marrakech
 price: null
-duration: 3 Days
+duration: 3 Días
 tag: null
 source: https://morocco-excursion.com/es/tours/tour-compartido-3-dias-desierto-marrakech/
 tourType: Tour Grupal

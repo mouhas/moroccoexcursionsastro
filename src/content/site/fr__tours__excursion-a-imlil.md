@@ -9,7 +9,7 @@ duration: 1 Jour
 tag: null
 source: https://morocco-excursion.com/fr/tours/excursion-a-imlil/
 tourType: Tour Privé
-cancellation: Up to 0 days
+cancellation: Jusqu'à 0 jours
 languagesSpoken: Française, Multilingue
 overviewHtml: '<p>Si vous aimez la nature, une excursion d’une journée de Marrakech à Imlil est un excellent choix ! Cette excursion vous emmène dans les magnifiques montagnes de l’Atlas. Vous pourrez vous promener à dos de mule ou à pied dans des vallées paisibles et des villages berbères. Dans les villages, vous pourrez visiter les marchés locaux et acheter des objets artisanaux, parfaits comme souvenirs.</p>
 
