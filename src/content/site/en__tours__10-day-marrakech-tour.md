@@ -1,5 +1,5 @@
 ---
-title: '10-Days From Marrakech To Desert Fes Chefchaouen And Rabat R'
+title: '10-Days From Marrakech To Desert Fes Chefchaouen And Rabat'
 lang: en
 section: tours
 pslug: 10-day-marrakech-tour
