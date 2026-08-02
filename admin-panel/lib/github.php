@@ -40,6 +40,53 @@ function gh_get_file($path) {
     return ['content' => $content, 'sha' => $res['data']['sha']];
 }
 
+// Fetches many files concurrently instead of one request at a time — an
+// SEO audit across 200+ content files would otherwise take a couple of
+// minutes; this brings it down to a few seconds. $paths is [key => path];
+// returns [key => ['content'=>..., 'sha'=>...] or null]. Batches requests
+// (default 20 at a time) rather than firing all of them at once, since
+// GitHub's abuse-detection can throttle very large bursts of concurrent
+// connections from one client.
+function gh_get_files_multi($paths, $batchSize = 20) {
+    $results = [];
+    $chunks = array_chunk($paths, $batchSize, true);
+    foreach ($chunks as $chunk) {
+        $mh = curl_multi_init();
+        $handles = [];
+        foreach ($chunk as $key => $path) {
+            $ch = curl_init('https://api.github.com/repos/' . GITHUB_REPO . '/contents/' . rawurlencode_path($path) . '?ref=' . GITHUB_BRANCH);
+            curl_setopt($ch, CURLOPT_HTTPHEADER, [
+                'Authorization: Bearer ' . GITHUB_TOKEN,
+                'Accept: application/vnd.github+json',
+                'X-GitHub-Api-Version: 2022-11-28',
+                'User-Agent: morocco-excursions-admin-panel',
+            ]);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_TIMEOUT, 20);
+            curl_multi_add_handle($mh, $ch);
+            $handles[$key] = $ch;
+        }
+        $running = null;
+        do {
+            $status = curl_multi_exec($mh, $running);
+            if ($running) curl_multi_select($mh);
+        } while ($running && $status === CURLM_OK);
+        foreach ($handles as $key => $ch) {
+            $httpStatus = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+            $raw = curl_multi_getcontent($ch);
+            $data = json_decode($raw, true);
+            if ($httpStatus === 200 && isset($data['content'])) {
+                $results[$key] = ['content' => base64_decode(str_replace("\n", '', $data['content'])), 'sha' => $data['sha']];
+            } else {
+                $results[$key] = null;
+            }
+            curl_multi_remove_handle($mh, $ch);
+        }
+        curl_multi_close($mh);
+    }
+    return $results;
+}
+
 // Creates or updates a file. Pass $sha (from gh_get_file) when updating an
 // existing file — omit it only when you're sure the file doesn't exist yet.
 function gh_put_file($path, $content, $message, $sha = null) {
