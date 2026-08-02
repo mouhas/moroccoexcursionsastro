@@ -1,5 +1,5 @@
 ---
-title: Tour de 16 Días Desde Tánger a las Ciudades Imperiales, el Sahara y las Costas
+title: 'Tour de 16 Días Desde Tánger: Ciudades, Sahara y Costas'
 lang: es
 section: tours
 pslug: 16-dias-desde-tanger

@@ -1,5 +1,5 @@
 ---
-title: Coche Normal
+title: Alquiler de Coche Normal en Marruecos
 lang: es
 section: cars
 pslug: coche-normal

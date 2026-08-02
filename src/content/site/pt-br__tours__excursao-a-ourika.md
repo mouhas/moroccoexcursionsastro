@@ -1,5 +1,5 @@
 ---
-title: 'Excursão de um Dia saindo de Marrakech para o Vale de Ourika e Vilarejos Berberes'
+title: Excursão de um Dia a Ourika e Vilarejos Berberes
 lang: pt-br
 section: tours
 pslug: excursao-a-ourika

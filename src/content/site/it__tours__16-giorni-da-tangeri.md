@@ -1,5 +1,5 @@
 ---
-title: Tour di 16 Giorni da Tangeri alle Città Imperiali, il Sahara e le Coste
+title: 'Tour di 16 Giorni da Tangeri: Città, Sahara e Coste'
 lang: it
 section: tours
 pslug: 16-giorni-da-tangeri

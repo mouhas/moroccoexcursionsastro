@@ -1,5 +1,5 @@
 ---
-title: Viagem de 12 Dias Saindo de Marrakech às Cidades Imperiais, Sul e Norte
+title: 'Viagem de 12 Dias Saindo de Marrakech: Sul e Norte'
 lang: pt-br
 section: tours
 pslug: 12-dias-de-marrakech

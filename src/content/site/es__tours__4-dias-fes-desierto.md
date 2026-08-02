@@ -1,5 +1,5 @@
 ---
-title: Tour de 4 Días por el Desierto del Sahara desde Fez a las Dunas de Merzouga
+title: Tour de 4 Días de Fez a las Dunas de Merzouga
 lang: es
 section: tours
 pslug: 4-dias-fes-desierto

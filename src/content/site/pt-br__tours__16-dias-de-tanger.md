@@ -1,5 +1,5 @@
 ---
-title: Tour de 16 Dias Saindo de Tânger às Cidades Imperiais, o Saara e as Costas
+title: 'Tour de 16 Dias Saindo de Tânger: Saara e Costas'
 lang: pt-br
 section: tours
 pslug: 16-dias-de-tanger

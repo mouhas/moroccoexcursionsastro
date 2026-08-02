@@ -1,5 +1,5 @@
 ---
-title: "Viajes Estudiantiles a Marruecos - Programas de Año Sabático 2026 y 2027"
+title: Viajes Estudiantiles a Marruecos - Año Sabático 2026/2027
 lang: "es"
 section: "pages"
 pslug: "tours-estudiantes-marruecos"

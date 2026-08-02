@@ -1,5 +1,5 @@
 ---
-title: 4×4 Normal
+title: Alquiler de 4×4 Normal en Marruecos
 lang: es
 section: cars
 pslug: 4x4-normal

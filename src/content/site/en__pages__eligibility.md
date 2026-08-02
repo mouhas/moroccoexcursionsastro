@@ -1,5 +1,5 @@
 ---
-title: Eligibility
+title: Eligibility Requirements
 lang: en
 section: pages
 pslug: eligibility

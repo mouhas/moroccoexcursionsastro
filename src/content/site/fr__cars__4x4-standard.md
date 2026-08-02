@@ -1,5 +1,5 @@
 ---
-title: 4×4 Standard
+title: Location de 4×4 Standard au Maroc
 lang: fr
 section: cars
 pslug: 4x4-standard

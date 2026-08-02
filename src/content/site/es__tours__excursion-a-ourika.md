@@ -1,5 +1,5 @@
 ---
-title: 'Excursión de un Día desde Marrakech al Valle de Ourika y Pueblos Bereberes'
+title: Excursión de un Día a Ourika y Pueblos Bereberes
 lang: es
 section: tours
 pslug: excursion-a-ourika

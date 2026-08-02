@@ -1,5 +1,5 @@
 ---
-title: Viaje de 12 Días Desde Marrakech a las Ciudades Imperiales, Sur y Norte
+title: 'Viaje de 12 Días Desde Marrakech: Imperial, Sur y Norte'
 lang: es
 section: tours
 pslug: 12-dias-desde-marrakech

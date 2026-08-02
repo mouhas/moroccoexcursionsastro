@@ -1,5 +1,5 @@
 ---
-title: 'Voyages de 10 jours à travers le Maroc : itinéraires et coûts des circuits'
+title: 'Voyage de 10 Jours au Maroc : Itinéraires et Prix'
 lang: fr
 section: pages
 pslug: maroc-10-jours

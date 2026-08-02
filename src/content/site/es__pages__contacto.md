@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Contacto - Morocco Excursions
 lang: es
 section: pages
 pslug: contacto

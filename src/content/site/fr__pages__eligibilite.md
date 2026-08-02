@@ -1,5 +1,5 @@
 ---
-title: Éligibilité
+title: 'Conditions d''Éligibilité'
 lang: fr
 section: pages
 pslug: eligibilite

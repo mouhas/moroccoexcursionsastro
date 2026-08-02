@@ -1,5 +1,5 @@
 ---
-title: NOLEGGIO BUS
+title: Noleggio Bus in Marocco
 lang: it
 section: cars
 pslug: noleggio-bus

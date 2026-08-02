@@ -1,5 +1,5 @@
 ---
-title: Elegibilidade
+title: Requisitos de Elegibilidade
 lang: pt-br
 section: pages
 pslug: elegibilidade

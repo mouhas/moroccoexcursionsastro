@@ -1,5 +1,5 @@
 ---
-title: Normal Car
+title: Normal Car Rental in Morocco
 lang: en
 section: cars
 pslug: normal-car

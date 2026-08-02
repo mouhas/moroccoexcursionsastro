@@ -1,5 +1,5 @@
 ---
-title: Idoneità
+title: Requisiti di Idoneità
 lang: it
 section: pages
 pslug: idoneita

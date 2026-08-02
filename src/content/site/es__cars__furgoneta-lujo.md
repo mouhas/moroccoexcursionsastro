@@ -1,5 +1,5 @@
 ---
-title: Furgoneta de Lujo en Alquiler en Marruecos (Conductor y Combustible Incluidos)
+title: Furgoneta de Lujo en Alquiler en Marruecos
 lang: es
 section: cars
 pslug: furgoneta-lujo

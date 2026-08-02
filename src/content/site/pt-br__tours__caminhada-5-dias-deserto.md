@@ -1,5 +1,5 @@
 ---
-title: Caminhada de 5 Dias pelo Deserto do Saara ao Redor de Merzouga (Marrocos)
+title: Caminhada de 5 Dias no Deserto do Saara em Merzouga
 lang: pt-br
 section: tours
 pslug: caminhada-5-dias-deserto

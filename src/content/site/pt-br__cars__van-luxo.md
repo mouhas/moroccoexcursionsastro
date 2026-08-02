@@ -1,5 +1,5 @@
 ---
-title: Van de Luxo para Alugar em Marrocos (Motorista e Combustível Incluídos)
+title: Van de Luxo para Alugar em Marrocos
 lang: pt-br
 section: cars
 pslug: van-luxo

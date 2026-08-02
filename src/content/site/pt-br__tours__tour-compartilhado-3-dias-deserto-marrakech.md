@@ -1,5 +1,5 @@
 ---
-title: Tour Compartilhado De 3 Dias Pelo Deserto A Partir De Marrakech (GRUPO PEQUENO)
+title: Tour Compartilhado De 3 Dias De Marrakech (Grupo Pequeno)
 lang: pt-br
 section: tours
 pslug: tour-compartilhado-3-dias-deserto-marrakech

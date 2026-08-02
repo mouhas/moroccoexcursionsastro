@@ -1,5 +1,5 @@
 ---
-title: Viaje de 8 Días desde Casablanca a las Ciudades Imperiales y el Desierto
+title: 'Viaje de 8 Días Desde Casablanca: Imperial y Desierto'
 lang: es
 section: tours
 pslug: 8-dias-desde-casablanca

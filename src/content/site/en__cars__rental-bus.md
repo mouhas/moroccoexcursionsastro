@@ -1,5 +1,5 @@
 ---
-title: Rental Bus
+title: Rental Bus in Morocco
 lang: en
 section: cars
 pslug: rental-bus

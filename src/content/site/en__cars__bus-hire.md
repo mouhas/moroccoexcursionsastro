@@ -1,5 +1,5 @@
 ---
-title: BUS HIRE
+title: Bus Hire in Morocco
 lang: en
 section: cars
 pslug: bus-hire

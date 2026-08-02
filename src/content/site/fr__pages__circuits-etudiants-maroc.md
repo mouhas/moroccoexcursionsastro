@@ -1,5 +1,5 @@
 ---
-title: "Voyages Étudiants au Maroc - Programmes d'Année Sabbatique 2026 et 2027"
+title: Voyages Étudiants au Maroc - Année Sabbatique 2026/2027
 lang: "fr"
 section: "pages"
 pslug: "circuits-etudiants-maroc"

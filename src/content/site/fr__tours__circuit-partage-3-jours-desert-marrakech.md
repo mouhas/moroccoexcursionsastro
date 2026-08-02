@@ -1,5 +1,5 @@
 ---
-title: Circuit Partagé De 3 Jours Dans Le Désert Depuis Marrakech (PETIT GROUPE)
+title: Circuit Partagé De 3 Jours Depuis Marrakech (Petit Groupe)
 lang: fr
 section: tours
 pslug: circuit-partage-3-jours-desert-marrakech

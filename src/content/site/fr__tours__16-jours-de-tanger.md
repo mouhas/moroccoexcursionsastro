@@ -1,5 +1,5 @@
 ---
-title: Circuit de 16 Jours Depuis Tanger Vers les Villes Impériales, le Sahara et les Côtes
+title: 'Circuit de 16 Jours Depuis Tanger: Villes, Sahara, Côtes'
 lang: fr
 section: tours
 pslug: 16-jours-de-tanger
