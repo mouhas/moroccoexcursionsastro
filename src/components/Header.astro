@@ -4,6 +4,7 @@
 // Organic classes/tokens apply.
 import Icon from './Icon.astro';
 import { getNav, homeHref, langSwitchHref, LANGS, LANG_LABELS, LANG_CODES, UI, type Lang } from '../site';
+import { getSettings } from '../lib/settings';
 interface Props {
   lang: Lang;
   section?: 'home' | 'pages' | 'tours' | 'cars';
@@ -12,6 +13,7 @@ interface Props {
 const { lang, section = 'home', pslug } = Astro.props;
 const nav = getNav(lang);
 const t = UI[lang];
+const settings = await getSettings();
 const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   { code: 'EUR', symbol: '€', label: '€ Euro' },
   { code: 'USD', symbol: '$', label: '$ US Dollar' },
@@ -19,6 +21,51 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   { code: 'MAD', symbol: 'DH', label: 'DH Moroccan Dirham' },
 ];
 ---
+<div class="newtheme topbar">
+  <div class="util-cluster">
+    <div class="util-item" id="langSwitcher">
+      <button type="button" id="langToggle" aria-expanded="false" aria-haspopup="true" class="util-btn">
+        <Icon name="globe" class="ico xs" />
+        <span class="util-label">{LANG_CODES[lang]}</span>
+        <Icon name="chevron" class="ico xxs chevron" />
+      </button>
+      <div class="menu-panel" id="langMenu" role="menu">
+        {LANGS.map((l) => (
+          <a href={langSwitchHref(l, { section, pslug, lang })} class="menu-row" role="menuitem" aria-current={l === lang ? 'true' : undefined}>
+            <span class="menu-row-code">{LANG_CODES[l]}</span>
+            <span class="menu-row-label">{LANG_LABELS[l]}</span>
+            <Icon name="check" class="ico xs" />
+          </a>
+        ))}
+      </div>
+    </div>
+    <div class="util-item" id="curSwitcher">
+      <button type="button" id="curToggle" aria-expanded="false" aria-haspopup="true" class="util-btn" title="Reference currency — bookings are charged in EUR">
+        <span class="cur-symbol" id="curSymbol">€</span>
+        <span class="util-label" id="curLabel">EUR</span>
+        <Icon name="chevron" class="ico xxs chevron" />
+      </button>
+      <div class="menu-panel" id="curMenu" role="menu">
+        {CURRENCIES.map((c) => (
+          <button type="button" class="menu-row cur-opt" data-code={c.code} data-symbol={c.symbol} role="menuitem" aria-current={c.code === 'EUR' ? 'true' : undefined}>
+            <span class="menu-row-code">{c.symbol}</span>
+            <span class="menu-row-label">{c.label.replace(/^\S+\s/, '')}</span>
+            <Icon name="check" class="ico xs" />
+          </button>
+        ))}
+      </div>
+    </div>
+    <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+      <Icon name="sun" class="ico xs icon-sun" />
+      <Icon name="moon" class="ico xs icon-moon" />
+    </button>
+  </div>
+  <a href={settings.phoneHref} class="topbar-phone">
+    <Icon name="phone" class="ico xs" />
+    <span class="topbar-phone-text">{settings.phone}</span>
+  </a>
+</div>
+
 <header class="newtheme site-header" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
   <a href={homeHref(lang)} class="btn btn-ghost brand" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff;flex:none">
     <span style="width:26px;height:26px;border-radius:10px;background:#fff;display:inline-block;flex:none"></span>
@@ -37,50 +84,19 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   </div>
 
   <div class="right-cluster">
-    <div class="util-cluster">
-      <div class="util-item" id="langSwitcher">
-        <button type="button" id="langToggle" aria-expanded="false" aria-haspopup="true" class="util-btn">
-          <Icon name="globe" class="ico xs" />
-          <span class="util-label">{LANG_CODES[lang]}</span>
-          <Icon name="chevron" class="ico xxs chevron" />
-        </button>
-        <div class="menu-panel" id="langMenu" role="menu">
-          {LANGS.map((l) => (
-            <a href={langSwitchHref(l, { section, pslug, lang })} class="menu-row" role="menuitem" aria-current={l === lang ? 'true' : undefined}>
-              <span class="menu-row-code">{LANG_CODES[l]}</span>
-              <span class="menu-row-label">{LANG_LABELS[l]}</span>
-              <Icon name="check" class="ico xs" />
-            </a>
-          ))}
-        </div>
-      </div>
-      <div class="util-item" id="curSwitcher">
-        <button type="button" id="curToggle" aria-expanded="false" aria-haspopup="true" class="util-btn" title="Reference currency — bookings are charged in EUR">
-          <span class="cur-symbol" id="curSymbol">€</span>
-          <span class="util-label" id="curLabel">EUR</span>
-          <Icon name="chevron" class="ico xxs chevron" />
-        </button>
-        <div class="menu-panel" id="curMenu" role="menu">
-          {CURRENCIES.map((c) => (
-            <button type="button" class="menu-row cur-opt" data-code={c.code} data-symbol={c.symbol} role="menuitem" aria-current={c.code === 'EUR' ? 'true' : undefined}>
-              <span class="menu-row-code">{c.symbol}</span>
-              <span class="menu-row-label">{c.label.replace(/^\S+\s/, '')}</span>
-              <Icon name="check" class="ico xs" />
-            </button>
-          ))}
-        </div>
-      </div>
-      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-        <Icon name="sun" class="ico xs icon-sun" />
-        <Icon name="moon" class="ico xs icon-moon" />
-      </button>
-    </div>
     <a href={nav[0]?.href ?? homeHref(lang)} class="btn" style="border-radius:10px;padding:11px 22px;background:#fff;color:var(--color-accent-800);font-weight:600">{t.book}</a>
     <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
   </div>
 </header>
 
 <style>
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    padding: 8px max(40px, calc((100% - 1180px) / 2));
+    background: var(--color-accent-900); color: #f7e7dd; font-size: 13px;
+  }
+  .topbar-phone { display: inline-flex; align-items: center; gap: 7px; color: inherit; flex: none; }
+
   .main-nav { display: flex; align-items: center; gap: 2px; }
   .main-nav .nav-link { font-size: 16px; font-weight: 600; padding: 10px 15px; white-space: nowrap; }
   .main-nav .nav-link :global(.ico) { opacity: 0.85; }
@@ -106,7 +122,7 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   .util-btn[aria-expanded='true'] :global(.chevron) { transform: rotate(180deg); }
 
   .menu-panel {
-    position: absolute; top: calc(100% + 10px); right: 0; min-width: 210px;
+    position: absolute; top: calc(100% + 10px); left: 0; min-width: 210px;
     background: var(--color-surface); color: var(--color-text);
     border-radius: 14px; box-shadow: var(--shadow-lg); border: 1px solid var(--color-divider);
     padding: 8px; display: none; flex-direction: column; gap: 1px; z-index: 60;
@@ -163,22 +179,25 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
     .burger span { width: 24px; height: 2.5px; background: #fff; border-radius: 2px; display: block; }
   }
 
-  /* Below this, keep the lang/currency/theme controls next to Book a Trip
-     but drop their text labels (code, chevron) so three small circular
-     icon buttons fit instead of crowding the row — the dropdown panels
-     still open with full labels either way. */
+  /* Below this, drop the lang/currency/theme controls' text labels (code,
+     chevron) so three small circular icon buttons fit in the top bar
+     instead of crowding it — the dropdown panels still open with full
+     labels either way — and drop the phone number text, keeping just the
+     tappable icon (still a real tel: link). */
   @media (max-width: 560px) {
-    /* !important: the header's padding and the brand link's gap are inline
-       styles (highest specificity by default) — an author-stylesheet rule
-       still wins over a plain inline style if it's !important, which is
-       what's needed here to keep the row from overflowing the viewport. */
+    /* !important: the top bar's and header's padding and the brand link's
+       gap are inline styles (highest specificity by default) — an
+       author-stylesheet rule still wins over a plain inline style if it's
+       !important, which is what's needed here to keep both rows from
+       overflowing the viewport. */
+    .topbar { padding-left: 16px !important; padding-right: 16px !important; gap: 8px !important; }
     .site-header { padding-left: 16px !important; padding-right: 16px !important; gap: 10px !important; }
     .brand-text { display: none; }
-    .right-cluster { gap: 8px; }
+    .topbar-phone-text { display: none; }
     .util-cluster { gap: 4px; }
     .util-btn { padding: 5px; border-radius: 50%; }
     .util-btn .util-label, .util-btn :global(.chevron) { display: none; }
-    .menu-panel { right: -8px; }
+    .menu-panel { left: -8px; }
   }
 </style>
 
