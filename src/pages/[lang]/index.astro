@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Home from '../../components/Home.astro';
-import { LANGS, type Lang } from '../../site';
+import { LANGS, langAlternates, type Lang } from '../../site';
 
 export function getStaticPaths() {
   return LANGS.filter((l) => l !== 'en').map((l) => ({ params: { lang: l } }));
@@ -20,6 +20,6 @@ const descriptions: Record<string, string> = {
   'pt-br': 'Oferecemos passeios personalizados em Marrocos durante todo o ano, com saídas flexíveis de Marrakech, Casablanca, Fez e Merzouga — de excursões de um dia a viagens de um mês, privadas ou em grupo.',
 };
 ---
-<Base title={titles[lang]} lang={lang} langAlternates description={descriptions[lang]}>
+<Base title={titles[lang]} lang={lang} alternates={langAlternates({ section: 'home', lang })} description={descriptions[lang]}>
   <Home lang={lang} />
 </Base>

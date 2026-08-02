@@ -3,7 +3,7 @@ import Base from '../../../layouts/Base.astro';
 import TourCard from '../../../components/TourCard.astro';
 import TourFilters from '../../../components/TourFilters.astro';
 import { getCollection } from 'astro:content';
-import { LANGS, UI, type Lang } from '../../../site';
+import { LANGS, UI, base, type Lang } from '../../../site';
 
 export function getStaticPaths() {
   return LANGS.filter((l) => l !== 'en').map((l) => ({ params: { lang: l } }));
@@ -21,8 +21,9 @@ const descriptions: Record<string, string> = {
   it: 'Scopri tutti i nostri tour ed escursioni in Marocco — deserto del Sahara, escursioni in cammello, gite di un giorno e grandi viaggi di più giorni. Privato, flessibile e 100% locale.',
   'pt-br': 'Veja todos os nossos tours e excursões pelo Marrocos — deserto do Saara, passeios de camelo, excursões de um dia e grandes viagens de vários dias. Privado, flexível e 100% local.',
 };
+const toursListingAlternates = Object.fromEntries(LANGS.map((l) => [l, base(l) + '/tours']));
 ---
-<Base title={`${t.allTours} | Morocco Excursions`} lang={lang} langAlternates description={descriptions[lang]} section="tours">
+<Base title={`${t.allTours} | Morocco Excursions`} lang={lang} alternates={toursListingAlternates} description={descriptions[lang]} section="tours">
   <section style="padding:40px 40px 24px">
     <span class="mono" style="color:var(--color-accent-700)">{tours.length} tours · 100% private</span>
     <h1 style="font-size:clamp(30px,4.4vw,52px);line-height:1.04;margin:12px 0 12px">{t.allTours}</h1>

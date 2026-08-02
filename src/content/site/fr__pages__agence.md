@@ -1,5 +1,5 @@
 ---
-title: "Morocco Excursions - Travel Agency Page"
+title: "Qui Sommes-Nous - Agence de Voyage au Maroc"
 lang: "fr"
 section: "pages"
 pslug: "agence"

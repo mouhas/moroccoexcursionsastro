@@ -3,7 +3,7 @@ import '../styles/global.css';
 import '../styles/newtheme-scoped.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { LANGS, homeHref, type Lang } from '../site';
+import { type Lang } from '../site';
 import { getSettings } from '../lib/settings';
 import { shadeRamp } from '../lib/color';
 import { googleFontsUrl, fontOption } from '../lib/fonts';
@@ -12,7 +12,11 @@ interface Props {
   title: string;
   description?: string;
   lang: Lang;
-  langAlternates?: boolean; // set true when this exact path exists for every language (home, /tours)
+  // Precise cross-language equivalents for hreflang tags, keyed by language,
+  // e.g. { en: '/', fr: '/fr/', es: '/es/' }. Pass null/omit when this exact
+  // page has no confirmed translated equivalent — a wrong hreflang claim is
+  // worse than none, so we never guess here (see site.ts's langAlternates()).
+  alternates?: Partial<Record<Lang, string>> | null;
   section?: 'home' | 'pages' | 'tours' | 'cars';
   pslug?: string;
   // Individual tour detail pages keep their original body content (gallery,
@@ -22,11 +26,10 @@ interface Props {
   // .newtheme wrapper instead of sharing one with <main>.
   legacyTheme?: boolean;
 }
-const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, langAlternates = false, section = 'home', pslug, legacyTheme = false } = Astro.props;
+const { title, description = 'Private Morocco desert tours, camel treks in Merzouga and tailor-made journeys by a 100% local Berber team. Rated 5/5 from 820+ travellers.', lang, alternates = null, section = 'home', pslug, legacyTheme = false } = Astro.props;
 const htmlLang = lang === 'pt-br' ? 'pt-BR' : lang;
 const site = 'https://morocco-excursion.com';
 const canonical = site + Astro.url.pathname;
-const isToursListing = Astro.url.pathname.replace(/\/(fr|es|it|pt-br)/, '').replace(/\/$/, '') === '/tours';
 
 const settings = await getSettings();
 const accentRamp = shadeRamp(settings.accentColor);
@@ -43,10 +46,10 @@ const fontsUrl = googleFontsUrl(settings.headingFont, settings.bodyFont);
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonical} />
-  {langAlternates && LANGS.map((l) => (
-    <link rel="alternate" hreflang={l === 'pt-br' ? 'pt-BR' : l} href={site + homeHref(l) + (isToursListing ? 'tours' : '')} />
+  {alternates && Object.entries(alternates).map(([l, href]) => (
+    <link rel="alternate" hreflang={l === 'pt-br' ? 'pt-BR' : l} href={site + href} />
   ))}
-  {langAlternates && <link rel="alternate" hreflang="x-default" href={site + '/' + (isToursListing ? 'tours' : '')} />}
+  {alternates && <link rel="alternate" hreflang="x-default" href={site + (alternates.en ?? Object.values(alternates)[0])} />}
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />

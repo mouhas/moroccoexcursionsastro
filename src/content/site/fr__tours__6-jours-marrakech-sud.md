@@ -1,5 +1,5 @@
 ---
-title: 6-Day Marrakech to South Morocco Tour - Complete Page Content
+title: Circuit de 6 Jours de Marrakech vers le Sud et le Désert
 lang: fr
 section: tours
 pslug: 6-jours-marrakech-sud

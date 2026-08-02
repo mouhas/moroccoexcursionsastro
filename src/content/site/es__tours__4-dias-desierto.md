@@ -1,5 +1,5 @@
 ---
-title: 4-Day Wild Desert Excursion from Merzouga - Complete Page Content
+title: Tour Salvaje de 4 Días por el Desierto Desde Merzouga hacia el Sur
 lang: es
 section: tours
 pslug: 4-dias-desierto

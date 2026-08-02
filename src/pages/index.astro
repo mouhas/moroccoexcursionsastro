@@ -1,8 +1,9 @@
 ---
 import Base from '../layouts/Base.astro';
 import Home from '../components/Home.astro';
+import { langAlternates } from '../site';
 ---
-<Base title="Morocco Excursions | Sahara Desert Tours, Camel Treks & Private Trips" lang="en" langAlternates
+<Base title="Morocco Excursions | Sahara Desert Tours, Camel Treks & Private Trips" lang="en" alternates={langAlternates({ section: 'home', lang: 'en' })}
   description="We specialize in bespoke Morocco tours, available year-round, with flexible start dates from Marrakech, Casablanca, Fes and Merzouga — from single-day excursions to month-long adventures, private or in a group.">
   <Home lang="en" />
 </Base>

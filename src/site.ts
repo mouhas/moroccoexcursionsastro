@@ -85,32 +85,84 @@ for (const group of Object.values(TOUR_TRANSLATIONS)) {
   }
 }
 
+// Only 10 cars exist, all fully translated into every language, so a small
+// hardcoded table is simplest — mirrors admin-panel/lib/translations.php's
+// car_translation_groups(), which MUST be kept in sync with this one.
+const CAR_TRANSLATIONS: Partial<Record<Lang, string>>[] = [
+  { en: 'bus-hire', es: 'alquiler-autobus', fr: 'location-bus', it: 'noleggio-bus', 'pt-br': 'aluguel-onibus' },
+  { en: 'family', es: 'coche-familiar', fr: 'voiture-familiale', it: 'auto-familiare', 'pt-br': 'carro-familia' },
+  { en: 'luxury-van', es: 'furgoneta-lujo', fr: 'van-de-luxe', it: 'furgone-lusso', 'pt-br': 'van-luxo' },
+  { en: 'minivan', es: 'minivan', fr: 'minivan', it: 'minivan', 'pt-br': 'minivan' },
+  { en: 'normal-4x4', es: '4x4-normal', fr: '4x4-standard', it: '4x4-normale', 'pt-br': '4x4-normal' },
+  { en: 'normal-car', es: 'coche-normal', fr: 'voiture-standard', it: 'auto-normale', 'pt-br': 'carro-normal' },
+  { en: 'pick-up', es: 'pick-up', fr: 'pick-up', it: 'pick-up', 'pt-br': 'picape' },
+  { en: 'rental-bus', es: 'autobus-alquiler', fr: 'bus-location', it: 'bus-noleggio', 'pt-br': 'onibus-aluguel' },
+  { en: 'suv', es: 'suv', fr: 'suv', it: 'suv', 'pt-br': 'suv' },
+  { en: 'taxi', es: 'taxi', fr: 'taxi', it: 'taxi', 'pt-br': 'taxi' },
+];
+const CAR_TRANSLATION_LOOKUP: Map<string, Partial<Record<Lang, string>>> = new Map();
+for (const group of CAR_TRANSLATIONS) {
+  for (const [lang, slug] of Object.entries(group)) {
+    CAR_TRANSLATION_LOOKUP.set(`${lang}:${slug}`, group);
+  }
+}
+
+function translationGroupFor(current: { section: 'home' | 'pages' | 'tours' | 'cars'; pslug?: string; lang: Lang }): Partial<Record<Lang, string>> | undefined {
+  if (!current.pslug) return undefined;
+  if (current.section === 'pages') return PAGE_TRANSLATIONS.find((g) => g[current.lang] === current.pslug);
+  if (current.section === 'tours') return TOUR_TRANSLATION_LOOKUP.get(`${current.lang}:${current.pslug}`);
+  if (current.section === 'cars') return CAR_TRANSLATION_LOOKUP.get(`${current.lang}:${current.pslug}`);
+  return undefined;
+}
+
+function pathPrefixFor(section: 'pages' | 'tours' | 'cars'): string {
+  return section === 'tours' ? '/tours/' : section === 'cars' ? '/car/' : '/';
+}
+
 /**
  * Where the language switcher should send you for the *current* page.
  * - Homepage stays homepage.
- * - "pages" with a known translated equivalent go straight to it.
- * - "tours" with a known translated equivalent (same duration + route,
- *   matched across languages) go straight to it.
- * - Everything else (cars, untranslated tours/info pages) falls back to
- *   that language's tours listing, which is far more useful than dumping
- *   the visitor on the homepage.
+ * - "pages"/"tours"/"cars" with a known translated equivalent go straight
+ *   to it.
+ * - Everything else (untranslated tours/info pages) falls back to that
+ *   language's tours listing, which is far more useful than dumping the
+ *   visitor on the homepage.
  */
 export function langSwitchHref(
   targetLang: Lang,
   current: { section: 'home' | 'pages' | 'tours' | 'cars'; pslug?: string; lang: Lang }
 ): string {
   if (current.section === 'home') return homeHref(targetLang);
-  if (current.section === 'pages' && current.pslug) {
-    const group = PAGE_TRANSLATIONS.find((g) => g[current.lang] === current.pslug);
-    const targetSlug = group?.[targetLang];
-    if (targetSlug) return base(targetLang) + '/' + targetSlug;
-  }
-  if (current.section === 'tours' && current.pslug) {
-    const group = TOUR_TRANSLATION_LOOKUP.get(`${current.lang}:${current.pslug}`);
-    const targetSlug = group?.[targetLang];
-    if (targetSlug) return base(targetLang) + '/tours/' + targetSlug;
-  }
+  const group = translationGroupFor(current);
+  const targetSlug = group?.[targetLang];
+  if (targetSlug) return base(targetLang) + pathPrefixFor(current.section as 'pages' | 'tours' | 'cars') + targetSlug;
   return base(targetLang) + '/tours';
+}
+
+/**
+ * Precise cross-language alternates for <link rel="alternate" hreflang=...>
+ * tags — unlike langSwitchHref (which always sends the visitor *somewhere*
+ * useful), this returns null when a page has no confirmed equivalent in a
+ * given language rather than guessing, since a wrong hreflang claim is worse
+ * than none. Returns a map of every language that DOES have a real
+ * equivalent, including the current one.
+ */
+export function langAlternates(
+  current: { section: 'home' | 'pages' | 'tours' | 'cars'; pslug?: string; lang: Lang }
+): Partial<Record<Lang, string>> | null {
+  if (current.section === 'home') {
+    const result: Partial<Record<Lang, string>> = {};
+    for (const l of LANGS) result[l] = homeHref(l);
+    return result;
+  }
+  const group = translationGroupFor(current);
+  if (!group) return null;
+  const prefix = pathPrefixFor(current.section as 'pages' | 'tours' | 'cars');
+  const result: Partial<Record<Lang, string>> = {};
+  for (const [l, slug] of Object.entries(group)) {
+    result[l as Lang] = base(l as Lang) + prefix + slug;
+  }
+  return result;
 }
 
 // Primary navigation per language, using slugs that exist in the content.
@@ -227,6 +279,7 @@ export const UI = {
     ratingHotels: 'Hotels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activities', overallRating: 'Overall Rating',
     knowBeforeYouGo: 'Know Before You Go', pickupTimeLabel: 'Pickup Time', nightsIncluded: 'Nights Included', optionalActivities: 'Optional Activities',
     nightsIncludedNote: 'upgradeable to Superior', optionalActivitiesNote: 'Quad biking, dune buggy available', languagesLabel: 'Languages',
+    seoLocalAgencyDesc: 'Morocco Excursions, a 100% local Berber-owned travel agency.', seoTailorMadeDesc: 'Private, local, tailor-made.', onRequest: 'On request',
   },
   fr: {
     book: 'Réserver', viewAll: 'Voir tous les circuits', from: 'à partir de', bookNow: 'Réserver ce circuit', planTrip: 'Circuit sur mesure',
@@ -264,6 +317,7 @@ export const UI = {
     ratingHotels: 'Hôtels', ratingGuides: 'Guides', ratingTransport: 'Transport', ratingActivities: 'Activités', overallRating: 'Note Globale',
     knowBeforeYouGo: 'À Savoir Avant de Partir', pickupTimeLabel: 'Heure de Prise en Charge', nightsIncluded: 'Nuits Incluses', optionalActivities: 'Activités en Option',
     nightsIncludedNote: 'surclassable en Supérieur', optionalActivitiesNote: 'Quad, buggy des dunes disponibles', languagesLabel: 'Langues',
+    seoLocalAgencyDesc: 'Morocco Excursions, une agence de voyage 100% locale et berbère.', seoTailorMadeDesc: 'Privé, local, sur mesure.', onRequest: 'Sur demande',
   },
   es: {
     book: 'Reservar', viewAll: 'Ver todos los tours', from: 'desde', bookNow: 'Reservar este tour', planTrip: 'Viaje personalizado',
@@ -301,6 +355,7 @@ export const UI = {
     ratingHotels: 'Hoteles', ratingGuides: 'Guías', ratingTransport: 'Transporte', ratingActivities: 'Actividades', overallRating: 'Valoración General',
     knowBeforeYouGo: 'Antes de Reservar', pickupTimeLabel: 'Hora de Recogida', nightsIncluded: 'Noches Incluidas', optionalActivities: 'Actividades Opcionales',
     nightsIncludedNote: 'mejorable a Superior', optionalActivitiesNote: 'Quad, buggy de dunas disponibles', languagesLabel: 'Idiomas',
+    seoLocalAgencyDesc: 'Morocco Excursions, una agencia de viajes 100% local y bereber.', seoTailorMadeDesc: 'Privado, local, a medida.', onRequest: 'Bajo petición',
   },
   it: {
     book: 'Prenota', viewAll: 'Vedi tutti i tour', from: 'da', bookNow: 'Prenota questo tour', planTrip: 'Viaggio su misura',
@@ -338,6 +393,7 @@ export const UI = {
     ratingHotels: 'Hotel', ratingGuides: 'Guide', ratingTransport: 'Trasporto', ratingActivities: 'Attività', overallRating: 'Valutazione Complessiva',
     knowBeforeYouGo: 'Da Sapere Prima Di Partire', pickupTimeLabel: 'Orario di Ritiro', nightsIncluded: 'Notti Incluse', optionalActivities: 'Attività Opzionali',
     nightsIncludedNote: 'aggiornabile a Superiore', optionalActivitiesNote: 'Quad, buggy delle dune disponibili', languagesLabel: 'Lingue',
+    seoLocalAgencyDesc: 'Morocco Excursions, un\'agenzia di viaggi berbera 100% locale.', seoTailorMadeDesc: 'Privato, locale, su misura.', onRequest: 'Su richiesta',
   },
   'pt-br': {
     book: 'Reservar', viewAll: 'Ver todos os tours', from: 'a partir de', bookNow: 'Reservar este tour', planTrip: 'Viagem personalizada',
@@ -375,5 +431,6 @@ export const UI = {
     ratingHotels: 'Hotéis', ratingGuides: 'Guias', ratingTransport: 'Transporte', ratingActivities: 'Atividades', overallRating: 'Avaliação Geral',
     knowBeforeYouGo: 'Saiba Antes de Reservar', pickupTimeLabel: 'Horário de Retirada', nightsIncluded: 'Noites Incluídas', optionalActivities: 'Atividades Opcionais',
     nightsIncludedNote: 'melhorável para Superior', optionalActivitiesNote: 'Quadriciclo, buggy nas dunas disponíveis', languagesLabel: 'Idiomas',
+    seoLocalAgencyDesc: 'Morocco Excursions, uma agência de viagens berbere 100% local.', seoTailorMadeDesc: 'Privado, local, sob medida.', onRequest: 'Sob consulta',
   },
 } as const;

@@ -1,5 +1,5 @@
 ---
-title: 5-Day Sahara Desert Trekking Tour from Merzouga, Morocco
+title: Trek de 5 Jours dans le Désert du Sahara Autour de Merzouga (Maroc)
 lang: fr
 section: tours
 pslug: 5-jours-trekking-desert

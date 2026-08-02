@@ -6,7 +6,7 @@ import Thumb from '../components/Thumb.astro';
 import GalleryTile from '../components/GalleryTile.astro';
 import BookingWidget from '../components/BookingWidget.astro';
 import { getCollection } from 'astro:content';
-import { base, UI, GENERAL_REVIEWS, type Lang } from '../site';
+import { base, UI, GENERAL_REVIEWS, langAlternates, type Lang } from '../site';
 import { galleryFor } from '../lib/images';
 import { getSettings } from '../lib/settings';
 
@@ -55,10 +55,10 @@ const desertTours = isDesertPage
       .slice(0, 9)
   : [];
 
-// Real fleet, used by the car-hub page's "Our fleet" grid — English only,
-// since translated car pages don't exist yet in the other languages.
+// Real fleet, used by the car-hub page's "Our fleet" grid — the current
+// page's own language, since every car is now translated into all 4 langs.
 const fleetCars = isCarHubPage
-  ? (await getCollection('site', (e) => e.data.lang === 'en' && e.data.section === 'cars'))
+  ? (await getCollection('site', (e) => e.data.lang === lang && e.data.section === 'cars'))
   : [];
 
 // The real, separate DMC page — linked from the About page's DMC teaser
@@ -232,8 +232,8 @@ function metaDescriptionFor(): string {
     return (lastStop > 80 ? cut.slice(0, lastStop) : cut).trim() + '…';
   }
   return isTour || isCar
-    ? `${d.title}${d.duration ? ' — ' + d.duration : ''}. ${priceStr ? t.from + ' ' + priceStr + '. ' : ''}Private, local, tailor-made.`
-    : `${d.title} — Morocco Excursions, a 100% local Berber-owned travel agency.`;
+    ? `${d.title}${d.duration ? ' — ' + d.duration : ''}. ${priceStr ? t.from + ' ' + priceStr + '. ' : ''}${t.seoTailorMadeDesc}`
+    : `${d.title} — ${t.seoLocalAgencyDesc}`;
 }
 
 // "23/10/2024" -> "2024-10-23" (ISO 8601, what Review/datePublished expects).
@@ -327,8 +327,9 @@ const breadcrumbJsonld = {
     { '@position': isTour ? 3 : 2, '@type': 'ListItem', name: d.title, item: 'https://morocco-excursion.com/' + d.urlPath },
   ],
 };
+const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' | 'cars', pslug: d.pslug, lang });
 ---
-<Base title={d.metaTitle || `${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()} section={d.section} pslug={d.pslug} legacyTheme={isTour}>
+<Base title={d.metaTitle || `${d.title} | Morocco Excursions`} lang={lang} description={metaDescriptionFor()} alternates={pageAlternates} section={d.section} pslug={d.pslug} legacyTheme={isTour}>
 
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
   {faqJsonld && <script type="application/ld+json" set:html={JSON.stringify(faqJsonld)} />}
@@ -662,7 +663,7 @@ const breadcrumbJsonld = {
                   )}
                   {car.price
                     ? <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.from} <span style="font-size:17px;font-weight:700;color:var(--color-accent-700)">{car.price}</span></p>
-                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">On request</p>}
+                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.onRequest}</p>}
                 </div>
               </a>
             ))}
@@ -686,7 +687,7 @@ const breadcrumbJsonld = {
                   )}
                   {car.data.price
                     ? <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.from} <span style="font-size:17px;font-weight:700;color:var(--color-accent-700)">€{car.data.price}</span> / {sc.day}</p>
-                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">On request</p>}
+                    : <p style="font-size:12px;color:var(--color-neutral-600);margin:auto 0 0">{t.onRequest}</p>}
                 </div>
               </a>
             ))}

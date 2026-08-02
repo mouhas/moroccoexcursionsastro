@@ -1,5 +1,5 @@
 ---
-title: '3-Day Merzouga Desert Tour: Complete Page Content'
+title: 'Tour di 3 Giorni a Merzouga: Cammello, 4x4 ed Escursione ATV/Quad'
 lang: it
 section: tours
 pslug: escursione-3-grioni-merzouga

@@ -1,5 +1,5 @@
 ---
-title: Destination Management Company (DMC) in Morocco
+title: Destination Management Company (DMC) en Marruecos
 lang: es
 section: pages
 pslug: dmc-marruecos

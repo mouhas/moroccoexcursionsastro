@@ -1,5 +1,5 @@
 ---
-title: '20-Day Morocco Tour from Casablanca: Complete Page Content'
+title: 'Circuit de 20 Jours au Départ de Casablanca (Le Meilleur du Maroc)'
 lang: fr
 section: tours
 pslug: 20-jours-de-casablanca

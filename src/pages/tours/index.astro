@@ -3,14 +3,15 @@ import Base from '../../layouts/Base.astro';
 import TourCard from '../../components/TourCard.astro';
 import TourFilters from '../../components/TourFilters.astro';
 import { getCollection } from 'astro:content';
-import { UI } from '../../site';
+import { UI, LANGS, base } from '../../site';
 const t = UI.en;
 const tours = await getCollection('site', (e) => e.data.lang === 'en' && e.data.section === 'tours');
 tours.sort((a, z) => (z.data.price ?? -1) - (a.data.price ?? -1));
 const rated = tours.filter((e) => e.data.rating);
 const avgRating = rated.length ? rated.reduce((s, e) => s + (e.data.rating ?? 0), 0) / rated.length : null;
+const toursListingAlternates = Object.fromEntries(LANGS.map((l) => [l, base(l) + '/tours']));
 ---
-<Base title="All Tours & Excursions | Morocco Excursions" lang="en" langAlternates section="tours"
+<Base title="All Tours & Excursions | Morocco Excursions" lang="en" alternates={toursListingAlternates} section="tours"
   description="Browse all Morocco tours and excursions — Sahara desert trips, camel treks, day excursions and grand multi-day journeys. Private, flexible, 100% local.">
   <section style="padding:40px 40px 24px">
     <span class="mono" style="color:var(--color-accent-700)">{tours.length} tours · 100% private</span>

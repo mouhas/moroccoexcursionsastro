@@ -1,5 +1,5 @@
 ---
-title: 10-Day Morocco Tour from Casablanca
+title: Tour de 10 Dias por Marrocos Saindo de Casablanca
 lang: pt-br
 section: tours
 pslug: 10-dias-de-casablanca
