@@ -22,6 +22,10 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
 ];
 ---
 <div class="newtheme topbar">
+  <a href={settings.phoneHref} class="topbar-phone">
+    <Icon name="phone" class="ico xs" />
+    <span class="topbar-phone-text">{settings.phone}</span>
+  </a>
   <div class="util-cluster">
     <div class="util-item" id="langSwitcher">
       <button type="button" id="langToggle" aria-expanded="false" aria-haspopup="true" class="util-btn">
@@ -60,10 +64,6 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
       <Icon name="moon" class="ico xs icon-moon" />
     </button>
   </div>
-  <a href={settings.phoneHref} class="topbar-phone">
-    <Icon name="phone" class="ico xs" />
-    <span class="topbar-phone-text">{settings.phone}</span>
-  </a>
 </div>
 
 <header class="newtheme site-header" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
@@ -90,12 +90,19 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
 </header>
 
 <style>
+  /* --color-bg happens to already equal #fdfcfa in the live light-mode
+     palette (see the "Morocco Excursions.dc.html token override" block in
+     newtheme-scoped.css) — using the variable instead of the literal keeps
+     this in sync with that palette and gives the top bar a sane dark-mode
+     background for free instead of staying white against a dark page. */
   .topbar {
     display: flex; align-items: center; justify-content: space-between; gap: 16px;
     padding: 8px max(40px, calc((100% - 1180px) / 2));
-    background: var(--color-accent-900); color: #f7e7dd; font-size: 13px;
+    background: var(--color-bg); color: var(--color-text); font-size: 13px;
+    border-bottom: 1px solid var(--color-divider);
   }
-  .topbar-phone { display: inline-flex; align-items: center; gap: 7px; color: inherit; flex: none; }
+  .topbar-phone { display: inline-flex; align-items: center; gap: 7px; color: inherit; flex: none; font-weight: 600; }
+  .topbar-phone:hover { color: var(--color-accent-700); }
 
   .main-nav { display: flex; align-items: center; gap: 2px; }
   .main-nav .nav-link { font-size: 16px; font-weight: 600; padding: 10px 15px; white-space: nowrap; }
@@ -113,16 +120,18 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   :global(.ico.xxs) { width: 9px; height: 9px; }
 
   .util-btn {
-    display: inline-flex; align-items: center; gap: 4px; background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.3); color: #fff; font: inherit; font-size: 11.5px;
+    display: inline-flex; align-items: center; gap: 4px;
+    background: color-mix(in srgb, var(--color-text) 6%, transparent);
+    border: 1px solid color-mix(in srgb, var(--color-text) 16%, transparent);
+    color: var(--color-text); font: inherit; font-size: 11.5px;
     font-weight: 600; cursor: pointer; padding: 5px 8px; border-radius: 16px; transition: background 0.15s;
   }
-  .util-btn:hover { background: rgba(255, 255, 255, 0.22); }
+  .util-btn:hover { background: color-mix(in srgb, var(--color-text) 12%, transparent); }
   .util-btn :global(.chevron) { transition: transform 0.15s; opacity: 0.8; }
   .util-btn[aria-expanded='true'] :global(.chevron) { transform: rotate(180deg); }
 
   .menu-panel {
-    position: absolute; top: calc(100% + 10px); left: 0; min-width: 210px;
+    position: absolute; top: calc(100% + 10px); right: 0; min-width: 210px;
     background: var(--color-surface); color: var(--color-text);
     border-radius: 14px; box-shadow: var(--shadow-lg); border: 1px solid var(--color-divider);
     padding: 8px; display: none; flex-direction: column; gap: 1px; z-index: 60;
@@ -146,15 +155,18 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   .cur-symbol {
     display: inline-flex; align-items: center; justify-content: center; flex: none;
     min-width: 14px; height: 14px; padding: 0 2px; border-radius: 5px;
-    background: rgba(255, 255, 255, 0.22); font-size: 9.5px; font-weight: 800; line-height: 1;
+    background: color-mix(in srgb, var(--color-accent) 16%, transparent);
+    color: var(--color-accent-700); font-size: 9.5px; font-weight: 800; line-height: 1;
   }
 
   .theme-toggle {
     position: relative; display: inline-flex; align-items: center; justify-content: center;
-    width: 26px; height: 26px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.3);
-    background: rgba(255, 255, 255, 0.1); color: #fff; cursor: pointer; flex: none; transition: background 0.15s;
+    width: 26px; height: 26px; border-radius: 50%;
+    border: 1px solid color-mix(in srgb, var(--color-text) 16%, transparent);
+    background: color-mix(in srgb, var(--color-text) 6%, transparent);
+    color: var(--color-text); cursor: pointer; flex: none; transition: background 0.15s;
   }
-  .theme-toggle:hover { background: rgba(255, 255, 255, 0.22); }
+  .theme-toggle:hover { background: color-mix(in srgb, var(--color-text) 12%, transparent); }
   .theme-toggle :global(.icon-sun), .theme-toggle :global(.icon-moon) {
     position: absolute; transition: opacity 0.25s ease, transform 0.35s ease;
   }
@@ -197,7 +209,7 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
     .util-cluster { gap: 4px; }
     .util-btn { padding: 5px; border-radius: 50%; }
     .util-btn .util-label, .util-btn :global(.chevron) { display: none; }
-    .menu-panel { left: -8px; }
+    .menu-panel { right: -8px; }
   }
 </style>
 
