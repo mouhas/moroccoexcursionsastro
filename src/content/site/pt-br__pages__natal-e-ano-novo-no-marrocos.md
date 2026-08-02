@@ -26,9 +26,9 @@ metaDescription: null
 autoPricing: null
 ratingBreakdown: null
 ---
-Conforme o ano chega ao fim, o Marrocos se anima com o espírito festivo, recebendo tanto os moradores locais quanto os viajantes para celebrar o Natal e o Réveillon à sua maneira única e cativante. Esta joia do norte da África oferece uma mistura de [cultura marroquina](https://www.morocco-excursion.com/moroccan-people/) tradicional com um toque internacional durante a temporada de festas. De mercados agitados adornados com luzes coloridas a celebrações no deserto sob um céu estrelado, passar o Natal e o Réveillon no Marrocos promete uma experiência inesquecível para todos.
+Conforme o ano chega ao fim, o Marrocos se anima com o espírito festivo, recebendo tanto os moradores locais quanto os viajantes para celebrar o Natal e o Réveillon à sua maneira única e cativante. Esta joia do norte da África oferece uma mistura de [cultura marroquina](/tours) tradicional com um toque internacional durante a temporada de festas. De mercados agitados adornados com luzes coloridas a celebrações no deserto sob um céu estrelado, passar o Natal e o Réveillon no Marrocos promete uma experiência inesquecível para todos.
 
-No Marrocos, o Natal é celebrado de forma mais discreta em comparação aos países ocidentais, já que a maioria da população é muçulmana. No entanto, em cidades com comunidades cristãs significativas, como [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) e **Marrakech**, você encontrará árvores de Natal lindamente decoradas, enfeites festivos e reuniões alegres.
+No Marrocos, o Natal é celebrado de forma mais discreta em comparação aos países ocidentais, já que a maioria da população é muçulmana. No entanto, em cidades com comunidades cristãs significativas, como [Casablanca](/tours) e **Marrakech**, você encontrará árvores de Natal lindamente decoradas, enfeites festivos e reuniões alegres.
 
 ## Oferta Especial de Natal no Deserto do Saara:
 

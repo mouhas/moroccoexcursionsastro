@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/it/tours/escursione-ouzoud-da-marrakech/
 tourType: Tour Privato
 cancellation: Fino a 1 giorno prima
 languagesSpoken: Inglese, Multilingue
-overviewHtml: '<p>Vivi una <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>escursione di un giorno</b></a> da <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> alle splendide cascate di Ouzoud, uno dei luoghi naturali più belli del Marocco. Situate sull''Atlante, le cascate precipitano per 110 metri in una valle verde, creando spesso colorati arcobaleni. È una gita perfetta per chi ama la natura e i luoghi tranquilli.</p>
+overviewHtml: '<p>Vivi una <a href="/tours" rel="noopener" target="_blank"><b>escursione di un giorno</b></a> da <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> alle splendide cascate di Ouzoud, uno dei luoghi naturali più belli del Marocco. Situate sull''Atlante, le cascate precipitano per 110 metri in una valle verde, creando spesso colorati arcobaleni. È una gita perfetta per chi ama la natura e i luoghi tranquilli.</p>
 
   <p>Goditi una passeggiata tra uliveti e piccoli villaggi <strong><a href="https://en.wikipedia.org/wiki/Berber_languages" rel="noopener" target="_blank">berberi</a></strong> lungo il percorso verso le cascate. Potresti persino vedere simpatiche scimmie giocare tra gli alberi. Alla base delle cascate, senti la fresca foschia, scatta ottime foto o fai un giro in piccola barca per avvicinarti all''acqua.</p>
 
@@ -88,7 +88,7 @@ faqs:
 
     <p>Ottima per gli amanti della natura e per un trekking facile</p>
 
-    <p><a href="/it/tours/escursione-essaouira-da-marrakech" rel="noopener" target="_blank"><strong>Escursione Di Un Giorno A Essaouira</strong></a></p>
+    <p><a href="/it/tours/escursione-a-essaouira-da-marrakech" rel="noopener" target="_blank"><strong>Escursione Di Un Giorno A Essaouira</strong></a></p>
 
     <p>A circa 180 km da Marrakech</p>
 

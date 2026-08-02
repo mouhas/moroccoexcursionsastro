@@ -162,7 +162,7 @@ Featured
 
  €260,00
 
-[+ CIRCUITS](https://www.morocco-excursion.com/fr/circuits-au-maroc/ "Marocco Tour")
+[+ CIRCUITS](/fr/tours "Marocco Tour")
 
 ### Questions fréquentes sur les balades à dos de dromadaire au Maroc
 

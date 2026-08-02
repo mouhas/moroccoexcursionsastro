@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/tours/ait-ben-haddou-day-trip-from-marrake
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>This full-day tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> takes you on a journey through beautiful landscapes and rich history. You will drive across the stunning Atlas Mountains and reach the highest point at the Tizi n’Tichka Pass (2,160 meters), where you can enjoy amazing views.</p>
+overviewHtml: '<p>This full-day tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> takes you on a journey through beautiful landscapes and rich history. You will drive across the stunning Atlas Mountains and reach the highest point at the Tizi n’Tichka Pass (2,160 meters), where you can enjoy amazing views.</p>
 
   <p>Along the way, you’ll pass through traditional Berber villages, giving you a chance to see daily life in the mountains and meet local people.</p>
 
   <p>The highlight of the trip is a visit to <strong><a href="https://en.wikipedia.org/wiki/Kasbah" rel="noopener" target="_blank">Kasbah</a> Ait Ben Haddou</strong>, a historic village dating back to the 11th century. This UNESCO World Heritage site is well known for appearing in famous movies and shows like <em>Gladiator</em> and <em>Game of Thrones</em>. It’s a wonderful place to explore Morocco’s history, architecture, and culture.</p>
 
-  <p>This <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>day trip</b></a> combines natural beauty, cultural experiences, and film history—making it one of the most unforgettable journeys you can take from Marrakech to the edge of the desert.</p>'
+  <p>This <a href="/tours" rel="noopener" target="_blank"><b>day trip</b></a> combines natural beauty, cultural experiences, and film history—making it one of the most unforgettable journeys you can take from Marrakech to the edge of the desert.</p>'
 priceHeading: What To Know Before Booking The Day Trip To Ait Ben Haddou?
 priceRows: []
 notesHeading: null

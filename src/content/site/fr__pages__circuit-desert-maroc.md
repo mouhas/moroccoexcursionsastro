@@ -115,7 +115,7 @@ Featured
 
 Featured
 
-### [Excursions en quads (ATV) dans le désert de Merzouga](/fr/tours/excursion-quad-merzouga)
+### [Excursions en quads (ATV) dans le désert de Merzouga](/fr/tours/excursion-quad-atv-merzouga)
 
 0 avis
 

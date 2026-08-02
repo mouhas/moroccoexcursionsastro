@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/pt-br/tours/excursao-a-essaouira-de-marrak
 tourType: 'Tour Privado'
 cancellation: 'Até 1 dia'
 languagesSpoken: 'Inglês, Multilíngue'
-overviewHtml: '<p>Faça um tranquilo <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>passeio de um dia</b></a> saindo de <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> para Essaouira, uma encantadora cidade costeira no Oceano <a href="https://morocco-excursion.com/atlantic-and-mediterranean-coasts/" rel="noopener" target="_blank"><b>Atlântico</b></a>. Essaouira é calma e charmosa, oferecendo uma mistura de história, cultura e belas vistas.</p>
+overviewHtml: '<p>Faça um tranquilo <a href="/tours" rel="noopener" target="_blank"><b>passeio de um dia</b></a> saindo de <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> para Essaouira, uma encantadora cidade costeira no Oceano <a href="/tours" rel="noopener" target="_blank"><b>Atlântico</b></a>. Essaouira é calma e charmosa, oferecendo uma mistura de história, cultura e belas vistas.</p>
 
   <p>Caminhe pelo animado porto, onde barcos de pesca coloridos flutuam suavemente na água. Aproveite uma caminhada tranquila pela praia arenosa do <strong><a href="https://en.wikipedia.org/wiki/Atlantic_Ocean" rel="noopener" target="_blank">Atlântico</a> </strong>e sinta a refrescante brisa do oceano. Explore a medina, um Patrimônio Mundial da UNESCO, com suas ruas estreitas, casas brancas e portas de um azul vibrante.</p>
 

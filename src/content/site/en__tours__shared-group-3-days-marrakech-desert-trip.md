@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/shared-group-3-days-marrakech-desert
 tourType: Group Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Our 3-day shared small group tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> to the <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> is like stepping into a magical journey with new friends. We keep our groups cozy, with a <span><strong>maximum of 8 people</strong></span>, so you get personal attention from our friendly guides.</p>
+overviewHtml: '<p>Our 3-day shared small group tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> to the <a href="/tours" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> is like stepping into a magical journey with new friends. We keep our groups cozy, with a <span><strong>maximum of 8 people</strong></span>, so you get personal attention from our friendly guides.</p>
 
   <p>Imagine exploring Morocco’s beauty with folks just as excited as you! Our small group setting means you make real connections with other travelers and the local people you meet. We believe in going beyond the tourist spots, taking you to hidden gems and letting you set the pace.</p>
 
@@ -41,7 +41,7 @@ priceRows:
 notesHeading: null
 notes:
 - <strong>Personalized Attention:</strong> On this 3-day small group tour from Marrakech to Merzouga, there are only 8 people, so our friendly guides can give you special attention. You won’t feel lost in a big crowd. Instead, you’ll make real friends with other travelers and learn interesting things about <strong><a href="https://www.morocco-excursion.com/about-morocco/" rel="noopener" target="_blank">Moroccan culture</a></strong>.
-- <strong>Authentic Experiences:</strong> Because our groups are small, you get to meet local people in a real way. You can share stories around a campfire and talk with nomadic <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>families</b></a>. It’s a chance to see Morocco in a way big tours can’t show you.
+- <strong>Authentic Experiences:</strong> Because our groups are small, you get to meet local people in a real way. You can share stories around a campfire and talk with nomadic <a href="/tours" rel="noopener" target="_blank"><b>families</b></a>. It’s a chance to see Morocco in a way big tours can’t show you.
 - <strong>Flexibility and Freedom:</strong> During this small shared group tour to Merzouga desert, we can be more flexible with our plans. We will go on different routes to find hidden gems, change our speed to match the group, and make sure everyone is happy. This makes your Marrakech shared 3-day desert trip more spontaneous and suited to what you like.
 - <strong>Comfy Travel:</strong> We can use cozy transportation that fits everyone. Enjoy the beautiful journey to Merzouga desert in a relaxed and friendly atmosphere, making your trip more enjoyable and immersive.
 - <strong>Affordable and Luxury:</strong> By sharing the 3-day desert adventure with a small group, the cost becomes less for everyone. This means you get a <strong>top-quality tour</strong> without paying a lot. It’s a budget-friendly way to have a fantastic and well-planned tour experience.

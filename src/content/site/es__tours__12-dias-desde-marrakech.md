@@ -11,15 +11,15 @@ source: https://morocco-excursion.com/es/tours/12-dias-desde-marrakech/
 tourType: Tour Privado
 cancellation: Hasta 1 día
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>Si busca una experiencia marroquí completa, este tour de 12 días desde <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> es una gran opción. Incluye todo, desde la vibrante ciudad de Marrakech y sus rincones ocultos hasta las impresionantes montañas del Atlas, el vasto desierto del Sahara en el sur y las coloridas ciudades del norte.</p>
+overviewHtml: '<p>Si busca una experiencia marroquí completa, este tour de 12 días desde <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> es una gran opción. Incluye todo, desde la vibrante ciudad de Marrakech y sus rincones ocultos hasta las impresionantes montañas del Atlas, el vasto desierto del Sahara en el sur y las coloridas ciudades del norte.</p>
 
   <p>El viaje también le lleva a Rabat, la capital de Marruecos, y a Essaouira, una de las ciudades más bellas de la costa atlántica. Visitará pueblos encantadores, disfrutará de un paseo en camello por las doradas dunas y pasará una noche mágica en un campamento del desierto bajo las estrellas.</p>
 
   <p>Su aventura comienza con dos días explorando Marrakech con un guía local, descubriendo sus mercados, palacios y rincones escondidos. A continuación, se dirigirá a Essaouira, famosa por sus amplias playas y su antigua medina con fortificaciones costeras.</p>
 
-  <p>Después, la ruta continúa hacia <a href="https://morocco-excursion.com/casablanca-tours/" rel="noopener" target="_blank"><b>Casablanca</b></a>, la ciudad más grande y moderna de Marruecos, seguida de una visita a Rabat con sus monumentos históricos. Luego llega el momento de viajar hacia el norte, hacia Chefchaouen, la famosa Ciudad Azul enclavada en las montañas del Rif.</p>
+  <p>Después, la ruta continúa hacia <a href="/tours" rel="noopener" target="_blank"><b>Casablanca</b></a>, la ciudad más grande y moderna de Marruecos, seguida de una visita a Rabat con sus monumentos históricos. Luego llega el momento de viajar hacia el norte, hacia Chefchaouen, la famosa Ciudad Azul enclavada en las montañas del Rif.</p>
 
-  <p>Los dos días siguientes están dedicados a explorar la antigua ciudad de <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fez</b></a>, guiado por un experto local que le llevará por sus calles laberínticas y sus sitios culturales. Tras impregnarse del rico patrimonio de Fez, viajará hacia el sur, hacia el desierto del Sahara, para una excursión en camello única y una impresionante puesta de sol sobre las dunas.</p>
+  <p>Los dos días siguientes están dedicados a explorar la antigua ciudad de <a href="/tours" rel="noopener" target="_blank"><b>Fez</b></a>, guiado por un experto local que le llevará por sus calles laberínticas y sus sitios culturales. Tras impregnarse del rico patrimonio de Fez, viajará hacia el sur, hacia el desierto del Sahara, para una excursión en camello única y una impresionante puesta de sol sobre las dunas.</p>
 
   <p>A continuación, el tour serpentea por el pintoresco <a href="https://en.wikipedia.org/wiki/Dad%C3%A8s_River" rel="noopener" target="_blank"><strong>Valle del Dades</strong></a>, pasando por pueblos bereberes tradicionales y espectaculares paisajes montañosos. Al cruzar las majestuosas montañas del Atlas, regresará a Marrakech, donde tendrá algo de tiempo libre para relajarse o ir de compras antes de su traslado al aeropuerto al día siguiente.</p>'
 priceHeading: null
@@ -50,7 +50,7 @@ priceRows:
   - …
 notesHeading: null
 notes:
-- Este tour incluye una visita guiada a pie con un guía local que le mostrará Marrakech y <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><strong>Fez</strong></a>, ayudándole a descubrir rincones ocultos, calles antiguas y la cultura local que podría pasar por alto por su cuenta.
+- Este tour incluye una visita guiada a pie con un guía local que le mostrará Marrakech y <a href="/tours" rel="noopener" target="_blank"><strong>Fez</strong></a>, ayudándole a descubrir rincones ocultos, calles antiguas y la cultura local que podría pasar por alto por su cuenta.
 - En este viaje, visitará la Costa Atlántica. El tour de 12 días incluye una excursión a Essaouira, una tranquila ciudad costera con murallas encaladas, hermosas playas y marisco fresco.
 - 'El tour cruza las montañas del Alto Atlas: verá carreteras sinuosas, vistas espectaculares y pueblos locales construidos en las laderas.'
 - Viajará por diferentes regiones de Marruecos. Aunque algunos días implican trayectos largos, cada jornada ofrece paisajes cambiantes y paradas interesantes.

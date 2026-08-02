@@ -17,7 +17,7 @@ overviewHtml: '<p>Il viaggio inizia a Casablanca, la moderna città marocchina a
 
   <p>Da Merzouga, l’avventura prosegue attraverso le spettacolari Gole del Todra, la tortuosa strada della Valle del Dades e la Valle delle Rose con il suo dolce profumo. Il percorso conduce poi a Ouarzazate, famosa per le sue antiche kasbah e gli studi cinematografici. Un altro punto di interesse è Ait Benhaddou, un villaggio patrimonio mondiale dell’UNESCO con case di argilla, prima di attraversare le montagne dell’Alto Atlante e raggiungere Marrakech. In questa vivace città, i palazzi, i giardini e la trafficata piazza Jemaa el-Fnaa catturano l’energia e la cultura del Marocco.</p>
 
-  <p>Il tour prevede anche un <a href="https://morocco-excursion.com/it/tours/escursione-ouzoud/" rel="noopener" target="_blank"><strong>escursione di un giorno alle cascate di Ouzoud</strong></a>, le più alte del Marocco, e termina in riva al mare a Essaouira, un’affascinante cittadina con case bianche, persiane blu, mura storiche e pesce fresco.</p>'
+  <p>Il tour prevede anche un <a href="/it/tours" rel="noopener" target="_blank"><strong>escursione di un giorno alle cascate di Ouzoud</strong></a>, le più alte del Marocco, e termina in riva al mare a Essaouira, un’affascinante cittadina con case bianche, persiane blu, mura storiche e pesce fresco.</p>'
 priceHeading: null
 priceRows:
 - - Numero di viaggiatori
@@ -165,7 +165,7 @@ faqs:
 - q: Posso prolungare o accorciare questo itinerario di 12 giorni?
   aHtml: <p>Sì, l'itinerario può essere completamente personalizzato. È possibile aggiungere notti extra a Marrakech, Fes o Chefchaouen, oppure abbreviare il tour per concentrarsi solo su regioni specifiche.</p>
 - q: Quali altri tour consigliate?
-  aHtml: <p>Se avete più tempo a disposizione in Marocco, vi consigliamo un <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 15 giorni</strong></a>, <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>20 giorni</strong></a> o anche il <a href="https://morocco-excursion.com/it/tours/30-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>tour di 30 giorni del Marocco</strong></a>.</p>
+  aHtml: <p>Se avete più tempo a disposizione in Marocco, vi consigliamo un <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 15 giorni</strong></a>, <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>20 giorni</strong></a> o anche il <a href="/it/tours" rel="noopener" target="_blank"><strong>tour di 30 giorni del Marocco</strong></a>.</p>
 - q: Che tipo di sistemazione è prevista durante il tour di 12 giorni?
   aHtml: <p>Soggiornerete in hotel di categoria media o riad tradizionali nelle medine, con una notte in un campo nel deserto a Merzouga (opzione standard o di lusso). A Essaouira e Chefchaouen gli alloggi sono spesso piccoli riad con molto carattere.</p>
 - q: Quanto è impegnativo fisicamente questo tour?

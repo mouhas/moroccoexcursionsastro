@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/excursion-a-essaouira-desde-marra
 tourType: 'Tour Privado'
 cancellation: 'Hasta 1 día'
 languagesSpoken: 'Inglés, Multilingüe'
-overviewHtml: '<p>Disfruta de una tranquila <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>excursión de un día</b></a> desde <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a Essaouira, una encantadora ciudad costera en el océano <a href="https://morocco-excursion.com/atlantic-and-mediterranean-coasts/" rel="noopener" target="_blank"><b>Atlántico</b></a>. Essaouira es tranquila y encantadora, y ofrece una mezcla de historia, cultura y hermosas vistas.</p>
+overviewHtml: '<p>Disfruta de una tranquila <a href="/tours" rel="noopener" target="_blank"><b>excursión de un día</b></a> desde <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a Essaouira, una encantadora ciudad costera en el océano <a href="/tours" rel="noopener" target="_blank"><b>Atlántico</b></a>. Essaouira es tranquila y encantadora, y ofrece una mezcla de historia, cultura y hermosas vistas.</p>
 
   <p>Camina por el animado puerto, donde coloridos barcos de pesca flotan suavemente sobre el agua. Disfruta de un paseo tranquilo por la arenosa playa del <strong><a href="https://en.wikipedia.org/wiki/Atlantic_Ocean" rel="noopener" target="_blank">Atlántico</a> </strong>y siente la refrescante brisa marina. Explora la medina, Patrimonio de la Humanidad de la UNESCO, con sus calles estrechas, casas blancas y puertas de un azul brillante.</p>
 

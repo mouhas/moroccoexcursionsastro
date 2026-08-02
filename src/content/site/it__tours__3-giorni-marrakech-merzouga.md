@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/it/tours/3-giorni-marrakech-merzouga/
 tourType: Tour Privato
 cancellation: 48 H
 languagesSpoken: Inglese, Multilingue
-overviewHtml: '<p>Questo tour privato di 3 giorni da <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a Merzouga è un ottimo modo per esplorare il sud del Marocco e ammirarne i paesaggi straordinari. Attraverserete le Montagne dell''Atlante, visiterete antichi villaggi berberi e oasi verdi, trascorrerete una notte nella Valle del Dades e un''altra notte nel Deserto di Merzouga, famoso per le sue grandi dune di sabbia chiamate Erg Chebbi.</p>
+overviewHtml: '<p>Questo tour privato di 3 giorni da <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a Merzouga è un ottimo modo per esplorare il sud del Marocco e ammirarne i paesaggi straordinari. Attraverserete le Montagne dell''Atlante, visiterete antichi villaggi berberi e oasi verdi, trascorrerete una notte nella Valle del Dades e un''altra notte nel Deserto di Merzouga, famoso per le sue grandi dune di sabbia chiamate Erg Chebbi.</p>
 
   <p>Il tour inizia con un percorso attraverso le <strong><a href="https://en.wikipedia.org/wiki/Atlas_Mountains" rel="noopener" target="_blank">Montagne dell''Alto Atlante</a></strong>. Vi fermerete alla famosa Kasbah di Ait Ben Haddou, vicino a Ouarzazate, per poi proseguire attraverso le palmete di Skoura e la valle delle rose di Mgouna, fino ad arrivare nella Valle del Dades per il vostro primo pernottamento.</p>
 
@@ -19,7 +19,7 @@ overviewHtml: '<p>Questo tour privato di 3 giorni da <a href="https://morocco-ex
 
   <p>Il terzo giorno vi sveglierete presto per ammirare l''alba sulle dune. Dopo la colazione e una doccia, inizierà il viaggio di ritorno verso Marrakech.</p>
 
-  <p>Questo tour può essere personalizzato in base al vostro livello di comfort. Potete scegliere tra campi tendati standard nel deserto fino a <a href="https://morocco-excursion.com/accommodations/" rel="noopener" target="_blank"><b>sistemazioni</b></a> più confortevoli o di lusso, in base alle vostre preferenze e al vostro budget.</p>'
+  <p>Questo tour può essere personalizzato in base al vostro livello di comfort. Potete scegliere tra campi tendati standard nel deserto fino a <a href="/tours" rel="noopener" target="_blank"><b>sistemazioni</b></a> più confortevoli o di lusso, in base alle vostre preferenze e al vostro budget.</p>'
 priceHeading: null
 priceRows:
 - - Numero di viaggiatori
@@ -49,7 +49,7 @@ priceRows:
 notesHeading: Cosa dovrei sapere prima di prenotare?
 notes:
 - 'Il costo a persona per il tour dipende dalla dimensione del vostro gruppo e dal tipo di sistemazione. Il tour privato di 3 giorni da Marrakech a Merzouga prevede molte ore di guida, specialmente nell''ultimo giorno. Se avete abbastanza tempo, vi consigliamo un tour da 4 a 7 giorni.'
-- I nostri itinerari possono essere personalizzati in base alle vostre preferenze ed esigenze. Offriamo anche un simile <strong><a href="https://www.morocco-excursion.com/tours/marrakech-to-fes-3-days/" rel="noopener" target="_blank">tour privato di 3 giorni nel deserto da Marrakech a Fes</a></strong>.
+- I nostri itinerari possono essere personalizzati in base alle vostre preferenze ed esigenze. Offriamo anche un simile <strong><a href="/tours" rel="noopener" target="_blank">tour privato di 3 giorni nel deserto da Marrakech a Fes</a></strong>.
 - 'A seconda delle condizioni meteo, come pioggia o tempeste di sabbia, potreste perdere il tramonto o l''alba. Di solito ci fermiamo in luoghi che servono cibo fresco, quindi è possibile pranzare in ristoranti turistici. Se preferite scegliere un ristorante da soli, potete chiedere al vostro autista di portarvi in qualsiasi momento.'
 - Cavalcare un cammello per un lungo periodo può risultare scomodo. Non è consigliato per persone con problemi alla schiena, donne incinte o persone sopra i 70 anni.
 highlights:

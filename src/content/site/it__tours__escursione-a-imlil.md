@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/it/tours/escursione-a-imlil/
 tourType: Tour Privato
 cancellation: Fino a 1 giorno prima
 languagesSpoken: Inglese, Multilingue
-overviewHtml: '<p>Se amate la natura, una <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>gita di un giorno</b></a> da <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a Imlil è una scelta eccellente! Questo viaggio vi porta tra le bellissime montagne dell’Atlante. Potrete cavalcare un mulo o godervi una passeggiata attraverso valli tranquille e villaggi berberi. Nei villaggi potrete visitare i mercati locali e acquistare oggetti artigianali fatti a mano, perfetti come souvenir.</p>
+overviewHtml: '<p>Se amate la natura, una <a href="/tours" rel="noopener" target="_blank"><b>gita di un giorno</b></a> da <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a Imlil è una scelta eccellente! Questo viaggio vi porta tra le bellissime montagne dell’Atlante. Potrete cavalcare un mulo o godervi una passeggiata attraverso valli tranquille e villaggi berberi. Nei villaggi potrete visitare i mercati locali e acquistare oggetti artigianali fatti a mano, perfetti come souvenir.</p>
 
   <p>Il tragitto da Marrakech a Imlil attraversa le alte <strong><a href="https://en.wikipedia.org/wiki/Atlas_Mountains" rel="noopener" target="_blank">montagne dell’Atlante</a></strong> per quasi due ore e offre splendide viste sulle montagne lungo il percorso. Una volta arrivati, potrete godervi l’aria fresca, un ambiente tranquillo e paesaggi mozzafiato. È il modo perfetto per rilassarsi e scoprire la bellezza naturale del Marocco.</p>'
 priceHeading: Breve Itinerario del Viaggio

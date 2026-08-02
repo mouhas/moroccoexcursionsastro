@@ -121,7 +121,7 @@ A partir de
 
 Featured
 
-### [Excursões de quadriciclos (ATV) no deserto de Merzouga](/pt-br/tours/excursoes-quad-atv)
+### [Excursões de quadriciclos (ATV) no deserto de Merzouga](/pt-br/tours/excursao-quad-atv-merzouga)
 
 0 Avaliações
 
@@ -165,7 +165,7 @@ A partir de
 
  €220,00
 
-[MORE TOURS](https://www.morocco-excursion.com/vacation-packages/ "Morocco Vacation Packages 2024/2025")
+[MORE TOURS](/tours "Morocco Vacation Packages 2024/2025")
 
 ## Perguntas frequentes sobre a viagem ao deserto de Marrocos
 

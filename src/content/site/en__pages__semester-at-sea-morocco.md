@@ -107,7 +107,7 @@ from
 
  €0,00
 
-[Other Tours](https://morocco-excursion.com/vacation-packages/ "Morocco Vacation Packages")
+[Other Tours](/tours "Morocco Vacation Packages")
 
 ## Customize & Book Your Trip
 

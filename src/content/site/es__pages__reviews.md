@@ -148,4 +148,4 @@ We had a fantastic experience and would highly recommend it to all of our relati
 It's been two weeks, and we're still talking about our recent trip to Morocco. It was a fantastic journey. Our tour schedule was well-planned, and the accommodations were carefully chosen to match our needs. The places we visited and the activities we did, were just amazing. Thanks to Hassan, and the team members who accompanied us during this journey.
 Brahim, our guide, and Ali, our driver, were fantastic. Both were considerate, compassionate, and went above and beyond to ensure that all of us were doing well at all times.
 
-[VER MÁS](https://www.morocco-excursion.com/author/moroccoexcursions/)
+[VER MÁS](/tours)

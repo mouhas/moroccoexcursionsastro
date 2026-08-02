@@ -13,24 +13,6 @@
     "it": "tour-10-giorni-da-marrakech",
     "pt-br": "tour-10-dias-saindo-de-marrakech"
   },
-  "10-dias-desde-casablanca": {
-    "es": "10-dias-desde-casablanca",
-    "fr": "10-jours-casablanca",
-    "it": "10-giorni-da-casablanca",
-    "pt-br": "10-dias-de-casablanca"
-  },
-  "12-jours-de-casablanca": {
-    "fr": "12-jours-de-casablanca",
-    "it": "12-giorni-da-casablanca"
-  },
-  "15-dias-desde-casablanca": {
-    "es": "15-dias-desde-casablanca",
-    "pt-br": "15-dias-de-casablanca"
-  },
-  "15-jours-de-casablanca": {
-    "fr": "15-jours-de-casablanca",
-    "it": "15-giorni-da-casablanca"
-  },
   "2-day-marrakech-to-zagora-desert-tour": {
     "en": "2-day-marrakech-to-zagora-desert-tour",
     "fr": "2-jours-marrakech-zagora",
@@ -440,5 +422,33 @@
     "fr": "tanger-et-sud-en-8-jours",
     "it": "tangeri-e-sud-in-8-giorni",
     "pt-br": "tanger-e-sul-em-8-dias"
+  },
+  "10-day-tour-from-casablanca": {
+    "en": "10-day-tour-from-casablanca",
+    "es": "10-dias-desde-casablanca",
+    "fr": "10-jours-casablanca",
+    "it": "10-giorni-da-casablanca",
+    "pt-br": "10-dias-de-casablanca"
+  },
+  "12-day-tour-from-casablanca": {
+    "en": "12-day-tour-from-casablanca",
+    "es": "12-dias-desde-casablanca",
+    "fr": "12-jours-de-casablanca",
+    "it": "12-giorni-da-casablanca",
+    "pt-br": "12-dias-de-casablanca"
+  },
+  "15-day-tour-from-casablanca": {
+    "en": "15-day-tour-from-casablanca",
+    "es": "15-dias-desde-casablanca",
+    "fr": "15-jours-de-casablanca",
+    "it": "15-giorni-da-casablanca",
+    "pt-br": "15-dias-de-casablanca"
+  },
+  "camel-ride-merzouga": {
+    "en": "camel-ride-merzouga",
+    "es": "paseo-camello-merzouga",
+    "fr": "balade-chameau-merzouga",
+    "it": "giro-cammello-merzouga",
+    "pt-br": "passeio-camelo-merzouga"
   }
 }

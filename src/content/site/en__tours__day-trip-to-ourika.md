@@ -15,7 +15,7 @@ overviewHtml: '<p>The valley is only 38 km away and has beautiful green plants, 
 
   <p>One of the best things about this trip is the waterfalls. It is a quiet and beautiful place to relax and enjoy nature.</p>
 
-  <p>This trip is perfect for people who want peace, beautiful views, and to learn about Berber culture. Whether you walk to the waterfalls, visit the villages, or just enjoy the calm nature, a trip to <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>Valley will make your time in <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> even better.</p>'
+  <p>This trip is perfect for people who want peace, beautiful views, and to learn about Berber culture. Whether you walk to the waterfalls, visit the villages, or just enjoy the calm nature, a trip to <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>Valley will make your time in <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> even better.</p>'
 priceHeading: What To Know Before Booking The Day Trip To Ourika?
 priceRows: []
 notesHeading: null

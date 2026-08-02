@@ -11,11 +11,11 @@ source: 'https://morocco-excursion.com/es/tours/cena-romantica-desierto-merzouga
 tourType: Tour Privado
 cancellation: 48 H
 languagesSpoken: Español, Multilingüe
-overviewHtml: '<p>Una cena romántica en el <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Desierto de Merzouga</b></a> es una experiencia especial para parejas. Rodeado por las altas dunas doradas de Erg Chebbi, el desierto se vuelve precioso al atardecer con suaves tonos naranjas y rosas, creando un ambiente tranquilo y sereno.</p>
+overviewHtml: '<p>Una cena romántica en el <a href="/tours" rel="noopener" target="_blank"><b>Desierto de Merzouga</b></a> es una experiencia especial para parejas. Rodeado por las altas dunas doradas de Erg Chebbi, el desierto se vuelve precioso al atardecer con suaves tonos naranjas y rosas, creando un ambiente tranquilo y sereno.</p>
 
   <p>En nuestros campamentos, preparamos rincones privados para cenar para que las parejas puedan disfrutar de su momento a solas. La calma del desierto, la brisa cálida y el amplio espacio abierto hacen que la velada sea mágica e inolvidable.</p>
 
-  <p>La <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>comida</b></a> en nuestros campamentos también es increíble. Platos tradicionales marroquíes, como sabrosos tayines, pan recién hecho y dulces pastelitos, se sirven en mesas bellamente decoradas. Las velas, los faroles o los pétalos de rosa hacen que la cena sea aún más romántica.</p>
+  <p>La <a href="/tours" rel="noopener" target="_blank"><b>comida</b></a> en nuestros campamentos también es increíble. Platos tradicionales marroquíes, como sabrosos tayines, pan recién hecho y dulces pastelitos, se sirven en mesas bellamente decoradas. Las velas, los faroles o los pétalos de rosa hacen que la cena sea aún más romántica.</p>
 
   <p>Una cena romántica en nuestros campamentos de Merzouga es perfecta para aniversarios, propuestas de matrimonio o una escapada única. No es solo una comida, es una noche mágica llena de amor, paz y recuerdos en el corazón del desierto del Sahara.</p>'
 priceHeading: null

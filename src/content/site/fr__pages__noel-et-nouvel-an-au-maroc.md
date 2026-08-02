@@ -26,9 +26,9 @@ metaDescription: null
 autoPricing: null
 ratingBreakdown: null
 ---
-À l'approche de la fin de l'année, le Maroc s'anime d'un esprit festif, accueillant aussi bien les habitants que les voyageurs pour célébrer Noël et le Nouvel An à sa manière unique et captivante. Ce joyau d'Afrique du Nord offre un mélange de [culture marocaine](https://www.morocco-excursion.com/moroccan-people/) traditionnelle et d'une touche internationale pendant la période des fêtes. Des marchés animés ornés de lumières colorées aux célébrations dans le désert sous un ciel étoilé, passer Noël et le Nouvel An au Maroc promet une expérience inoubliable pour tous.
+À l'approche de la fin de l'année, le Maroc s'anime d'un esprit festif, accueillant aussi bien les habitants que les voyageurs pour célébrer Noël et le Nouvel An à sa manière unique et captivante. Ce joyau d'Afrique du Nord offre un mélange de [culture marocaine](/tours) traditionnelle et d'une touche internationale pendant la période des fêtes. Des marchés animés ornés de lumières colorées aux célébrations dans le désert sous un ciel étoilé, passer Noël et le Nouvel An au Maroc promet une expérience inoubliable pour tous.
 
-Au Maroc, Noël est célébré de manière plus discrète que dans les pays occidentaux, étant donné que la majorité de la population est musulmane. Cependant, dans les villes comptant d'importantes communautés chrétiennes, comme [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) et **Marrakech**, vous trouverez de magnifiques sapins de Noël décorés, des décorations festives et des rassemblements joyeux.
+Au Maroc, Noël est célébré de manière plus discrète que dans les pays occidentaux, étant donné que la majorité de la population est musulmane. Cependant, dans les villes comptant d'importantes communautés chrétiennes, comme [Casablanca](/tours) et **Marrakech**, vous trouverez de magnifiques sapins de Noël décorés, des décorations festives et des rassemblements joyeux.
 
 ## Offre Spéciale pour Noël dans le Désert du Sahara :
 

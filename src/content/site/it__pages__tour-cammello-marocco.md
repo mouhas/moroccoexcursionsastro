@@ -157,7 +157,7 @@ da
 
  €260,00
 
-[+ Tour](https://www.morocco-excursion.com/it/marocco-tour/ "Marocco Tour")
+[+ Tour](/it/tours "Marocco Tour")
 
 ### Domande frequenti sul giro in cammello in Marocco
 

@@ -119,7 +119,7 @@ desde
 
 Featured
 
-### [Excursiones en quad (ATV) por el desierto de Merzouga](/es/tours/merzouga-excursion-quad)
+### [Excursiones en quad (ATV) por el desierto de Merzouga](/es/tours/excursion-quad-atv-merzouga)
 
 0 opiniones
 
@@ -163,7 +163,7 @@ desde
 
  €220,00
 
-[MAS TOURS](https://morocco-excursion.com/es/rutas-en-marruecos/ "Rutas")
+[MAS TOURS](/es/tours "Rutas")
 
 ## Preguntas frecuentes sobre viajes desierto Marruecos
 

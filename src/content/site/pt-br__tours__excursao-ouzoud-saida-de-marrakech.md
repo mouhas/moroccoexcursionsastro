@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/pt-br/tours/excursao-ouzoud-saida-de-marra
 tourType: Tour Privado
 cancellation: Até 1 dia antes
 languagesSpoken: Inglês, Multilíngue
-overviewHtml: '<p>Faça uma <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>excursão de um dia</b></a> saindo de <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> até as deslumbrantes cachoeiras de Ouzoud, um dos lugares naturais mais belos de Marrocos. Localizadas nas montanhas do Atlas, as cachoeiras despencam 110 metros em um vale verde, criando frequentemente arco-íris coloridos. É um passeio perfeito para quem ama a natureza e lugares tranquilos.</p>
+overviewHtml: '<p>Faça uma <a href="/tours" rel="noopener" target="_blank"><b>excursão de um dia</b></a> saindo de <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> até as deslumbrantes cachoeiras de Ouzoud, um dos lugares naturais mais belos de Marrocos. Localizadas nas montanhas do Atlas, as cachoeiras despencam 110 metros em um vale verde, criando frequentemente arco-íris coloridos. É um passeio perfeito para quem ama a natureza e lugares tranquilos.</p>
 
   <p>Aproveite uma caminhada por olivais e pequenas vilas <strong><a href="https://en.wikipedia.org/wiki/Berber_languages" rel="noopener" target="_blank">berberes</a></strong> a caminho das cachoeiras. Você pode até ver macacos simpáticos brincando nas árvores. Na base das quedas d''água, sinta a névoa refrescante, tire ótimas fotos ou dê um passeio de barco para se aproximar da água.</p>
 
@@ -80,7 +80,7 @@ faqs:
 - q: Existem passeios alternativos à excursão de um dia de Marrakech às cachoeiras de Ouzoud?
   aHtml: '<p>Aqui estão dois passeios de um dia alternativos saindo de Marrakech, semelhantes ao passeio a Ouzoud:</p>
 
-    <p><a href="/pt-br/tours/vale-de-ourika-saida-de-marrakech" rel="noopener" target="_blank"><strong>Excursão De Um Dia Ao Vale De Ourika</strong></a></p>
+    <p><a href="/pt-br/tours" rel="noopener" target="_blank"><strong>Excursão De Um Dia Ao Vale De Ourika</strong></a></p>
 
     <p>A cerca de 30 km de Marrakech</p>
 
@@ -88,7 +88,7 @@ faqs:
 
     <p>Ótimo para amantes da natureza e caminhadas leves</p>
 
-    <p><a href="/pt-br/tours/excursao-essaouira-saida-de-marrakech" rel="noopener" target="_blank"><strong>Excursão De Um Dia A Essaouira</strong></a></p>
+    <p><a href="/pt-br/tours/excursao-a-essaouira-de-marrakech" rel="noopener" target="_blank"><strong>Excursão De Um Dia A Essaouira</strong></a></p>
 
     <p>A cerca de 180 km de Marrakech</p>
 

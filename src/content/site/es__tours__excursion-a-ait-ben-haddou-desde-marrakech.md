@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/es/tours/excursion-a-ait-ben-haddou-desde-
 tourType: 'Tour Privado'
 cancellation: 'Hasta 1 día'
 languagesSpoken: 'Inglés, Multilingüe'
-overviewHtml: '<p>Esta excursión de día completo desde <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> te lleva en un viaje a través de paisajes hermosos e historia rica. Conducirás a través de las impresionantes montañas del Atlas y alcanzarás el punto más alto en el Puerto de Tizi n''Tichka (2.160 metros), donde podrás disfrutar de vistas increíbles.</p>
+overviewHtml: '<p>Esta excursión de día completo desde <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> te lleva en un viaje a través de paisajes hermosos e historia rica. Conducirás a través de las impresionantes montañas del Atlas y alcanzarás el punto más alto en el Puerto de Tizi n''Tichka (2.160 metros), donde podrás disfrutar de vistas increíbles.</p>
 
   <p>En el camino, pasarás por pueblos bereberes tradicionales, lo que te dará la oportunidad de ver la vida cotidiana en las montañas y conocer a la gente local.</p>
 
   <p>Lo más destacado del viaje es una visita a la <strong><a href="https://en.wikipedia.org/wiki/Kasbah" rel="noopener" target="_blank">Kasbah</a> de Ait Ben Haddou</strong>, un pueblo histórico que se remonta al siglo XI. Este sitio Patrimonio de la Humanidad de la UNESCO es conocido por aparecer en películas y series famosas como <em>Gladiator</em> y <em>Juego de Tronos</em>. Es un lugar maravilloso para explorar la historia, la arquitectura y la cultura de Marruecos.</p>
 
-  <p>Esta <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>excursión de un día</b></a> combina belleza natural, experiencias culturales e historia del cine, lo que la convierte en uno de los viajes más inolvidables que puedes hacer desde Marrakech hasta el borde del desierto.</p>'
+  <p>Esta <a href="/tours" rel="noopener" target="_blank"><b>excursión de un día</b></a> combina belleza natural, experiencias culturales e historia del cine, lo que la convierte en uno de los viajes más inolvidables que puedes hacer desde Marrakech hasta el borde del desierto.</p>'
 priceHeading: '¿Qué Debes Saber Antes De Reservar La Excursión A Ait Ben Haddou?'
 priceRows: []
 notesHeading: null

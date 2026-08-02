@@ -132,7 +132,7 @@ faqs:
 - q: Qual è il prezzo del tour di 4 giorni da Fes al deserto?
   aHtml: '<p>Il costo del tour di 4 giorni da Fes al deserto varia in base a fattori come la dimensione del gruppo, la categoria dell''alloggio e la stagione. I prezzi sono generalmente più alti per piccoli gruppi privati, sistemazioni di lusso e nei periodi di alta stagione. Saremo lieti di fornirti un preventivo esatto in base alle tue preferenze e date di viaggio specifiche.</p>'
 - q: Offrite un tour simile?
-  aHtml: '<p>Assolutamente! Possiamo suggerirti un <a href="https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/" rel="noopener" target="_blank"><strong>tour di 4 giorni da Fes a Marrakech</strong></a> o un <a href="https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/" rel="noopener" target="_blank"><strong>tour di 5 giorni nel deserto da Fes</strong></a>.</p>'
+  aHtml: '<p>Assolutamente! Possiamo suggerirti un <a href="/tours" rel="noopener" target="_blank"><strong>tour di 4 giorni da Fes a Marrakech</strong></a> o un <a href="/tours" rel="noopener" target="_blank"><strong>tour di 5 giorni nel deserto da Fes</strong></a>.</p>'
 - q: 'Qual è la differenza tra il campo tendato standard e quello superiore?'
   aHtml: '<p>Il campo Mouhou standard offre confortevoli tende in stile condiviso con cena e colazione incluse, mentre l''opzione superiore Mouhou Luxury Camp offre tende più private con biancheria migliore e servizi privati. La stessa opzione di upgrade si applica agli hotel nelle Gole del Todra.</p>'
 - q: Cosa dovrei portare per questo viaggio?

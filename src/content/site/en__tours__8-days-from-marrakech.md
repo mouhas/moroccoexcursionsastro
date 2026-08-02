@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/tours/8-days-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>This 8-day Morocco tour begins in <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> and takes you through the High Atlas Mountains, Berber villages, and the Sahara Desert. When you arrive at Marrakech airport, a driver will pick you up and take you to your hotel. If you arrive early, you can take a short walk to explore the city.</p>
+overviewHtml: '<p>This 8-day Morocco tour begins in <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> and takes you through the High Atlas Mountains, Berber villages, and the Sahara Desert. When you arrive at Marrakech airport, a driver will pick you up and take you to your hotel. If you arrive early, you can take a short walk to explore the city.</p>
 
   <p>The next day, you’ll discover Marrakech. You’ll visit the Koutoubia Mosque, Bahia Palace, walk through the colorful souks, and explore the old medina and famous <a href="https://en.wikipedia.org/wiki/Jemaa_el-Fnaa" rel="noopener" target="_blank"><strong>Jemaa el-Fnaa square</strong></a>.</p>
 
   <p>On the third day, you’ll travel through the mountains toward Dades Valley. Along the way, you’ll visit the famous Kasbah Ait Ben Haddou and pass through small Berber villages and palm oases before arriving in Dades for the night.</p>
 
-  <p>Day four takes you to the desert. You’ll visit the Todra Gorges, then head to <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a> where you’ll ride a camel across the sand dunes and spend the night in a desert camp under the stars with dinner and local music.</p>
+  <p>Day four takes you to the desert. You’ll visit the Todra Gorges, then head to <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a> where you’ll ride a camel across the sand dunes and spend the night in a desert camp under the stars with dinner and local music.</p>
 
   <p>The next day, you’ll drive to Ouarzazate, stopping at the Rissani market and passing through desert villages like Alnif, Nkob, and the long palm-filled Draa Valley.</p>
 
@@ -57,7 +57,7 @@ notes:
 - The tour begins and finishes in Marrakech, making it easy to arrange flights in and out of the city.
 - You’ll stay in a mix of comfortable hotels and traditional riads, plus two nights in a desert camp with cozy, comfortable private tents.
 - The tour offers a balance between exploring vibrant cities like Marrakech and visiting peaceful Berber villages in the mountains and desert.
-- You’ll have a full day in Marrakech to visit, try local <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>food</b></a>, and visit places like gardens or museums.
+- You’ll have a full day in Marrakech to visit, try local <a href="/tours" rel="noopener" target="_blank"><b>food</b></a>, and visit places like gardens or museums.
 - Throughout the trip, you’ll have a <strong><a href="/morocco-rental-cars" rel="noopener" target="_blank">car and a private professional driver</a></strong>/guide to ensure your safety, answer questions, and help make your experience smooth and enjoyable.
 highlights:
 - Explore Marrakech with a guide

@@ -11,11 +11,11 @@ source: 'https://morocco-excursion.com/fr/tours/diner-romantique-desert-merzouga
 tourType: Tour Privé
 cancellation: 48 H
 languagesSpoken: 'Française, Multilingue'
-overviewHtml: '<p>Un dîner romantique dans le <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Désert de Merzouga</b></a> est une expérience unique pour les couples. Entouré par les hautes dunes dorées de l’Erg Chebbi, le désert devient magnifique au coucher du soleil, avec de douces teintes orange et roses, créant une atmosphère calme et paisible.</p>
+overviewHtml: '<p>Un dîner romantique dans le <a href="/tours" rel="noopener" target="_blank"><b>Désert de Merzouga</b></a> est une expérience unique pour les couples. Entouré par les hautes dunes dorées de l’Erg Chebbi, le désert devient magnifique au coucher du soleil, avec de douces teintes orange et roses, créant une atmosphère calme et paisible.</p>
 
   <p>Dans nos campements, nous installons des coins dîner privés pour que les couples puissent profiter pleinement de leur moment à deux. Le calme du désert, la brise chaude et l’immensité de l’espace rendent la soirée magique et inoubliable.</p>
 
-  <p>La <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>cuisine</b></a> de nos campements est également exceptionnelle. Des plats traditionnels marocains, comme de savoureux tajines, du pain frais et des pâtisseries sucrées, sont servis sur des tables joliment dressées. Bougies, lanternes ou pétales de roses rendent le dîner encore plus romantique.</p>
+  <p>La <a href="/tours" rel="noopener" target="_blank"><b>cuisine</b></a> de nos campements est également exceptionnelle. Des plats traditionnels marocains, comme de savoureux tajines, du pain frais et des pâtisseries sucrées, sont servis sur des tables joliment dressées. Bougies, lanternes ou pétales de roses rendent le dîner encore plus romantique.</p>
 
   <p>Un dîner romantique dans nos campements de Merzouga est parfait pour un anniversaire, une demande en mariage ou une escapade unique. Ce n’est pas seulement un repas, c’est une soirée magique remplie d’amour, de paix et de souvenirs au cœur du désert du Sahara.</p>'
 priceHeading: null

@@ -26,9 +26,9 @@ metaDescription: null
 autoPricing: null
 ratingBreakdown: null
 ---
-As the year draws to a close, Morocco comes alive with festive spirit, welcoming both locals and travelers to celebrate Christmas and New Year’s Eve in its unique and captivating way. This North African gem offers a blend of traditional [Moroccan culture](https://www.morocco-excursion.com/moroccan-people/) and a touch of international flair during the holiday season. From bustling markets adorned with colorful lights to desert celebrations under starlit skies, spending Christmas and New Year’s Eve in Morocco promises an unforgettable experience for all.
+As the year draws to a close, Morocco comes alive with festive spirit, welcoming both locals and travelers to celebrate Christmas and New Year’s Eve in its unique and captivating way. This North African gem offers a blend of traditional [Moroccan culture](/tours) and a touch of international flair during the holiday season. From bustling markets adorned with colorful lights to desert celebrations under starlit skies, spending Christmas and New Year’s Eve in Morocco promises an unforgettable experience for all.
 
-In Morocco, Christmas is celebrated in a more subdued manner compared to Western countries, given that the majority of the population is Muslim. However, in cities with sizable Christian communities, like [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) and **Marrakech**, you’ll find beautifully adorned Christmas trees, festive decorations, and joyful gatherings.
+In Morocco, Christmas is celebrated in a more subdued manner compared to Western countries, given that the majority of the population is Muslim. However, in cities with sizable Christian communities, like [Casablanca](/tours) and **Marrakech**, you’ll find beautifully adorned Christmas trees, festive decorations, and joyful gatherings.
 
 ## Special Offer for Christmas in The Sahara desert:
 

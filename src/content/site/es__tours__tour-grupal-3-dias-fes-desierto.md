@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/tour-grupal-3-dias-fes-desierto/
 tourType: Tour en Grupo
 cancellation: 48 H
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: <p>Este tour de 3 días por el desierto te lleva desde <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fez</b></a> hasta el desierto del Sahara, pasando por las montañas del Atlas Medio. Únete a nosotros en grupos reducidos. Conoce a <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>familias</b></a> locales y descubre su forma de vida mientras viajas por las magníficas montañas del Atlas y te detienes en pintorescos pueblos bereberes. Prepárate para un auténtico paseo en camello por las doradas dunas y pasa la noche en un cómodo campamento. En este tour vivirás los impresionantes paisajes de Marruecos y la vibrante cultura bereber.</p>
+overviewHtml: <p>Este tour de 3 días por el desierto te lleva desde <a href="/tours" rel="noopener" target="_blank"><b>Fez</b></a> hasta el desierto del Sahara, pasando por las montañas del Atlas Medio. Únete a nosotros en grupos reducidos. Conoce a <a href="/tours" rel="noopener" target="_blank"><b>familias</b></a> locales y descubre su forma de vida mientras viajas por las magníficas montañas del Atlas y te detienes en pintorescos pueblos bereberes. Prepárate para un auténtico paseo en camello por las doradas dunas y pasa la noche en un cómodo campamento. En este tour vivirás los impresionantes paisajes de Marruecos y la vibrante cultura bereber.</p>
 priceHeading: null
 priceRows: []
 notesHeading: null

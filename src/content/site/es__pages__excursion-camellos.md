@@ -164,7 +164,7 @@ desde
 
  €260,00
 
-[+ TOURS](https://www.morocco-excursion.com/es/rutas-en-marruecos/)
+[+ TOURS](/es/tours)
 
 ### Preguntas frecuentes sobre los paseos de camellos en Marruecos
 

@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/merzouga-5-day-sahara-camel-trek/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>The 5-day Sahara <a href="https://morocco-excursion.com/sahara-trekking/" rel="noopener" target="_blank"><b>trekking</b></a> begins in <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>, where you set out with a camel caravan into the Bouird dunes. After a magical sunset, you spend the night in a desert camp under the stars. The next day, a long crossing of the Erg Chebbi dunes leads to Hassi Mardani, an old village at the foot of the dunes, where the evening colors are simply unforgettable.</p>
+overviewHtml: '<p>The 5-day Sahara <a href="/tours" rel="noopener" target="_blank"><b>trekking</b></a> begins in <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a>, where you set out with a camel caravan into the Bouird dunes. After a magical sunset, you spend the night in a desert camp under the stars. The next day, a long crossing of the Erg Chebbi dunes leads to Hassi Mardani, an old village at the foot of the dunes, where the evening colors are simply unforgettable.</p>
 
   <p>From there, the route continues across the Hamada du Guir, a rocky desert that contrasts with the golden sands, before reaching the tranquil Erg Znaigui dunes for another starlit bivouac. Day four takes you to Begaa Village, an oasis surrounded by mountains, where you enjoy a picnic and discover local traditions before returning to the dunes for sunset.</p>
 

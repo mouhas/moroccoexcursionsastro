@@ -172,7 +172,7 @@ A partir de
 
  €260,00
 
-[+ TOURS](https://www.morocco-excursion.com/pt-br/tours-em-maroccos/ "Tours em Marrocos")
+[+ TOURS](/pt-br/tours "Tours em Marrocos")
 
 ### Perguntas frequentes sobre passeios de camelo em Marrocos
 

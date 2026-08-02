@@ -13,7 +13,7 @@ cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
 overviewHtml: '<p>Discover the magic of the Sahara on a 2-day trekking and walking tour through the golden dunes of Merzouga’s Erg Chebbi. This unique adventure takes you deep into the desert on foot, offering a slower, more intimate way to connect with the landscape. Walk across rolling dunes, climb sandy ridges for breathtaking views, and enjoy peaceful breaks with traditional Berber meals in shaded spots.</p>
 
-  <p>At sunset, reach your desert camp where you’ll relax, savor Moroccan cuisine, and experience Berber music by the fire under a sky full of stars. Spend the night in a comfortable tent before waking early to witness an unforgettable sunrise. On the second day, follow a new route back to <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>, passing nomadic families and rocky desert plains. This tour combines the Sahara adventure, culture, and serenity, giving you a true taste of life in the desert.</p>'
+  <p>At sunset, reach your desert camp where you’ll relax, savor Moroccan cuisine, and experience Berber music by the fire under a sky full of stars. Spend the night in a comfortable tent before waking early to witness an unforgettable sunrise. On the second day, follow a new route back to <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a>, passing nomadic families and rocky desert plains. This tour combines the Sahara adventure, culture, and serenity, giving you a true taste of life in the desert.</p>'
 priceHeading: null
 priceRows:
 - - Number of travelers

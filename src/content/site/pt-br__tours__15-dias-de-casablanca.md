@@ -173,7 +173,7 @@ faqs:
 - q: O que torna esta excursão de 15 dias a partir de Casablanca tão especial?
   aHtml: '<p>Este itinerário oferece o melhor de Marrocos em duas semanas: cidades imperiais, o deserto do Saara, as montanhas Atlas e a costa atlântica. Você vai conhecer a cultura, a história, a natureza e a vida local, tudo numa só viagem.</p>'
 - q: Recomenda algum outro passeio semelhante?
-  aHtml: <p>Sim, se procura uma viagem mais longa, consulte os nossos circuitos de <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> e de <a href="https://morocco-excursion.com/pt-br/tours/30-dias-de-casablanca/" rel="noopener" target="_blank"><strong>30 dias em Marrocos</strong></a>.</p>
+  aHtml: <p>Sim, se procura uma viagem mais longa, consulte os nossos circuitos de <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> e de <a href="/pt-br/tours" rel="noopener" target="_blank"><strong>30 dias em Marrocos</strong></a>.</p>
 - q: Taghazout é realmente bom para quem gosta de surf?
   aHtml: <p>Sim, Taghazout é conhecida como um dos principais destinos de surf de Marrocos, com ondas constantes ao longo do ano. Mesmo sem surfar, a atmosfera descontraída desta vila de pescadores transformada em ponto turístico é um respiro perfeito depois dos dias no deserto.</p>
 - q: Por que o itinerário passa por Sidi Ifni, uma cidade menos conhecida?

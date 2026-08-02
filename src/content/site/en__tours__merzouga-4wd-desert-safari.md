@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/merzouga-4wd-desert-safari/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>The best way to explore this area is by riding in a 4×4 car with a local driver. You can take a short, exciting ride over the sandy hills. For a longer trip, you can visit a nomadic <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>family</b></a>. They will invite you into their tent for a cup of sweet mint tea. You can also listen to special music in a village called Khamlia.</p>
+overviewHtml: '<p>The best way to explore this area is by riding in a 4×4 car with a local driver. You can take a short, exciting ride over the sandy hills. For a longer trip, you can visit a nomadic <a href="/tours" rel="noopener" target="_blank"><b>family</b></a>. They will invite you into their tent for a cup of sweet mint tea. You can also listen to special music in a village called Khamlia.</p>
 
   <p>The desert has more than just sand. You can see a place called the Black Desert, where the ground is covered in dark rocks. You can also find green palm tree gardens, called oases, and see where people dig up ancient ocean fossils.</p>
 

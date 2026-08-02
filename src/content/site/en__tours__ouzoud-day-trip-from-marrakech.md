@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/ouzoud-day-trip-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Take a <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> to the stunning Ouzoud Waterfalls, one of the most beautiful natural places in Morocco. Located in the Atlas Mountains, the waterfalls drop 110 meters into a green valley, often creating colorful rainbows. It’s a perfect trip for people who love nature and quiet places.</p>
+overviewHtml: '<p>Take a <a href="/tours" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> to the stunning Ouzoud Waterfalls, one of the most beautiful natural places in Morocco. Located in the Atlas Mountains, the waterfalls drop 110 meters into a green valley, often creating colorful rainbows. It’s a perfect trip for people who love nature and quiet places.</p>
 
   <p>Enjoy a walk through olive groves and small <strong><a href="https://en.wikipedia.org/wiki/Berber_languages" rel="noopener" target="_blank">Berber</a></strong> villages on the way to the falls. You may even see friendly monkeys playing in the trees. At the bottom of the falls, feel the cool mist, take great photos, or ride a small boat to get closer to the water.</p>
 

@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/it/tours/2-giorni-marrakech-zagora-deserto
 tourType: Tour Privato
 cancellation: 48 H
 languagesSpoken: Inglese, Multilingue
-overviewHtml: '<p>Il tour di 2 giorni al deserto da <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a Zagora è l''opzione perfetta se avete solo pochi giorni in Marocco e volete esplorare il deserto. Questo tour di 2 giorni da Marrakech a Zagora potrebbe essere la scelta migliore per voi. Il viaggio include visite alle montagne dell''Alto Atlante, villaggi berberi, l''oasi sahariana, un trekking in cammello, il tramonto, l''alba e una notte nel deserto.</p>
+overviewHtml: '<p>Il tour di 2 giorni al deserto da <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a Zagora è l''opzione perfetta se avete solo pochi giorni in Marocco e volete esplorare il deserto. Questo tour di 2 giorni da Marrakech a Zagora potrebbe essere la scelta migliore per voi. Il viaggio include visite alle montagne dell''Alto Atlante, villaggi berberi, l''oasi sahariana, un trekking in cammello, il tramonto, l''alba e una notte nel deserto.</p>
 
   <p>Il primo giorno del tour, guiderete attraverso le montagne dell''Alto Atlante ed esplorerete alcuni villaggi berberi prima di continuare verso il deserto di Zagora. Una volta raggiunta <strong><a href="https://en.wikipedia.org/wiki/Zagora,_Morocco" rel="noopener" target="_blank">Zagora</a></strong>, salirete su un cammello attraverso il deserto roccioso e trascorrerete la notte in una tenda nel deserto.</p>
 
-  <p>L''ultimo giorno inizierà con un''alba mattutina, colazione e doccia. Poi inizieremo il viaggio di ritorno verso Marrakech, con soste per visitare la Kasbah di Ait Ben Haddou, Ouarzazate e la Valle del Draa. Il tour di 2 giorni al deserto di Zagora offre due opzioni di alloggio: un campo nel deserto standard e un <a href="https://morocco-excursion.com/luxury-desert-camps/" rel="noopener" target="_blank"><b>campo nel deserto di lusso</b></a>.</p>'
+  <p>L''ultimo giorno inizierà con un''alba mattutina, colazione e doccia. Poi inizieremo il viaggio di ritorno verso Marrakech, con soste per visitare la Kasbah di Ait Ben Haddou, Ouarzazate e la Valle del Draa. Il tour di 2 giorni al deserto di Zagora offre due opzioni di alloggio: un campo nel deserto standard e un <a href="/tours" rel="noopener" target="_blank"><b>campo nel deserto di lusso</b></a>.</p>'
 priceHeading: null
 priceRows:
 - - Numero di viaggiatori
@@ -69,9 +69,9 @@ itinerary:
 
     <p><u>Alloggio</u></p>
 
-    <p><b>Opzione Standard:</b> <a href="https://www.morocco-excursion.com/standard-desert-camps/" rel="noopener" target="_blank">Campo nel Deserto Standard</a></p>
+    <p><b>Opzione Standard:</b> <a href="/tours" rel="noopener" target="_blank">Campo nel Deserto Standard</a></p>
 
-    <p><b>Opzione Superiore:</b> <a href="https://www.morocco-excursion.com/luxury-desert-camps/" rel="noopener" target="_blank">Campo nel Deserto di Lusso</a></p>'
+    <p><b>Opzione Superiore:</b> <a href="/tours" rel="noopener" target="_blank">Campo nel Deserto di Lusso</a></p>'
 - title: 'Giorno 2: Zagora - Agdz - Ouarzazate - Atlante - Marrakech'
   html: '<p>Il secondo giorno, vi sveglierete presto per ammirare l''alba nel deserto. Dopo la colazione e una doccia al campo, faremo un breve giro in cammello prima di guidare verso Marrakech. Lungo il percorso, ci fermeremo per goderci i bellissimi paesaggi, pranzare e visitare Ouarzazate. <strong>Torneremo a Marrakech</strong> in serata.</p>'
 included:
@@ -121,7 +121,7 @@ faqs:
 
     <p>Il <strong>tour di 3 giorni da Marrakech a Merzouga</strong> vi porta attraverso le montagne dell''Alto Atlante e la famosa Kasbah di Ait Ben Haddou prima di raggiungere la Valle del Dades per il pernottamento. Il secondo giorno, il viaggio prosegue attraverso le Gole del Todra e le città desertiche di Erfoud e Rissani, terminando con un trekking in cammello tra le splendide dune dell''Erg Chebbi e una notte in un campo nel deserto. L''ultimo giorno prevede il rientro a Marrakech, attraversando i paesaggi suggestivi del sud.</p>
 
-    <p>Il <strong><a href="https://morocco-excursion.com/tours/marrakech-to-fes-3-days/" rel="noopener" target="_blank">tour di 3 giorni da Marrakech a Fes</a></strong> include anch''esso l''esperienza del Sahara, ma termina nella città culturale di Fes. Segue un percorso simile nei primi due giorni, con visite a Ait Ben Haddou, la Valle del Dades, le Gole del Todra e Merzouga per il trekking in cammello e il campo nel deserto. Il terzo giorno, viaggerete verso nord attraverso la valle dello Ziz, le montagne del Medio Atlante e le foreste di cedri di Azrou, prima di raggiungere Fes attraverso la moderna cittadina montana di Ifrane.</p>
+    <p>Il <strong><a href="/tours" rel="noopener" target="_blank">tour di 3 giorni da Marrakech a Fes</a></strong> include anch''esso l''esperienza del Sahara, ma termina nella città culturale di Fes. Segue un percorso simile nei primi due giorni, con visite a Ait Ben Haddou, la Valle del Dades, le Gole del Todra e Merzouga per il trekking in cammello e il campo nel deserto. Il terzo giorno, viaggerete verso nord attraverso la valle dello Ziz, le montagne del Medio Atlante e le foreste di cedri di Azrou, prima di raggiungere Fes attraverso la moderna cittadina montana di Ifrane.</p>
 
     <p>Entrambi i tour offrono un''esperienza più ricca e variegata rispetto al più breve tour di Zagora, permettendo di godersi più tempo nel deserto ed esplorare i paesaggi in continuo cambiamento del Marocco.</p>'
 - q: 'Devo dare la mancia all''autista-guida?'

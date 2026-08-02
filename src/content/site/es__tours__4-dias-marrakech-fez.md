@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/
 tourType: Tour Privado
 cancellation: 48 H
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>El tour privado de 4 días por el desierto de <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fez</b></a> es una excelente opción para quienes desean explorar el desierto del Sahara y el sur de Marruecos. El tour incluye una noche en el valle del Dades y dos noches en la zona desértica de Merzouga.</p>
+overviewHtml: '<p>El tour privado de 4 días por el desierto de <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a <a href="/tours" rel="noopener" target="_blank"><b>Fez</b></a> es una excelente opción para quienes desean explorar el desierto del Sahara y el sur de Marruecos. El tour incluye una noche en el valle del Dades y dos noches en la zona desértica de Merzouga.</p>
 
   <p>El primer día, conducirá a través de las montañas del Atlas. Visitará la famosa <strong><a href="https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou" rel="noopener" target="_blank">Kasbah de Ait Ben Haddou</a></strong>, la ciudad de Ouarzazate, los palmerales de Skoura, y continuará hacia el valle del Dades.</p>
 

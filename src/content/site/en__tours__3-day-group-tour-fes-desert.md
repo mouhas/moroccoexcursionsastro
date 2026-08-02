@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/3-day-group-tour-fes-desert/
 tourType: Group Tour
 cancellation: 48 H
 languagesSpoken: English, Multilingual
-overviewHtml: <p>This 3-day desert tour takes you from <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a> to the Sahara Desert passing by the Middle Atlas Mountains. Join us in small groups. Encounter local <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>families</b></a> and gain insight into their way of life as you travel through the magnificent Atlas Mountains and stop at quaint Berber villages. Be ready for an authentic camel ride through the golden dunes, and spend the night in a comfortable camp. On this tour, you will experience Morocco’s breathtaking scenery and vibrant Berber culture.</p>
+overviewHtml: <p>This 3-day desert tour takes you from <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a> to the Sahara Desert passing by the Middle Atlas Mountains. Join us in small groups. Encounter local <a href="/tours" rel="noopener" target="_blank"><b>families</b></a> and gain insight into their way of life as you travel through the magnificent Atlas Mountains and stop at quaint Berber villages. Be ready for an authentic camel ride through the golden dunes, and spend the night in a comfortable camp. On this tour, you will experience Morocco’s breathtaking scenery and vibrant Berber culture.</p>
 priceHeading: null
 priceRows: []
 notesHeading: null

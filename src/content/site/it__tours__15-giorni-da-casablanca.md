@@ -173,7 +173,7 @@ faqs:
 - q: Cosa rende così speciale questo tour di 15 giorni da Casablanca?
   aHtml: '<p>Questo itinerario ti offre il meglio del Marocco in due settimane: città imperiali, il deserto del Sahara, le montagne dell''Atlante e la costa atlantica. Potrai scoprire la cultura, la storia, la natura e la vita locale in un unico viaggio.</p>'
 - q: Consigli altri tour simili?
-  aHtml: <p>Sì, se stai cercando un viaggio più lungo, dai un'occhiata ai nostri <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 20 giorni</strong></a> e <a href="https://morocco-excursion.com/it/tours/30-giorni-da-casablanca/" rel="noopener" target="_blank"><strong>30 giorni in Marocco</strong></a>.</p>
+  aHtml: <p>Sì, se stai cercando un viaggio più lungo, dai un'occhiata ai nostri <a href="/it/tours/20-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 20 giorni</strong></a> e <a href="/it/tours" rel="noopener" target="_blank"><strong>30 giorni in Marocco</strong></a>.</p>
 - q: È un viaggio adatto per chi viaggia da solo?
   aHtml: <p>Sì, il tour di 15 giorni è adatto anche a chi viaggia da solo, in particolare come tour privato con autista dedicato. Le città e i villaggi attraversati sono generalmente sicuri, ma come ovunque consigliamo di vestirsi in modo sobrio ed evitare di camminare da soli di notte nelle medine.</p>
 - q: Quanto bagaglio possiamo portare durante un viaggio così lungo?

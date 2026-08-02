@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/6-dias-marrakech-sur/
 tourType: Tour Privado
 cancellation: Hasta 1 día antes
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>Si quieres explorar el sur de Marruecos y descubrir sus tesoros escondidos, este tour de 6 días desde <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> es perfecto para ti. El tour incluye una noche en Dades, tres noches en la zona desértica de <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a> y una noche en Ouarzazate.</p>
+overviewHtml: '<p>Si quieres explorar el sur de Marruecos y descubrir sus tesoros escondidos, este tour de 6 días desde <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> es perfecto para ti. El tour incluye una noche en Dades, tres noches en la zona desértica de <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a> y una noche en Ouarzazate.</p>
 
   <p>En nuestro primer día, viajaremos por las montañas del Alto Atlas, visitaremos la famosa Ait Ben Haddou y continuaremos hacia el valle de Dades pasando por Skoura y el Valle de las Rosas.</p>
 
@@ -25,7 +25,7 @@ overviewHtml: '<p>Si quieres explorar el sur de Marruecos y descubrir sus tesoro
 
   <p>En el último día, regresaremos a Marrakech, atravesando de nuevo las montañas del Alto Atlas.</p>
 
-  <p>Si quieres mejorar tu estancia durante este tour de 6 días, ofrecemos dos tipos de <a href="https://morocco-excursion.com/accommodations/" rel="noopener" target="_blank"><b>alojamiento</b></a>: estándar y de lujo. Puedes elegir entre hoteles cómodos y campamentos en el desierto en Merzouga, según tu presupuesto y preferencias.</p>'
+  <p>Si quieres mejorar tu estancia durante este tour de 6 días, ofrecemos dos tipos de <a href="/tours" rel="noopener" target="_blank"><b>alojamiento</b></a>: estándar y de lujo. Puedes elegir entre hoteles cómodos y campamentos en el desierto en Merzouga, según tu presupuesto y preferencias.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajeros
@@ -164,7 +164,7 @@ faqs:
 - q: ¿Cuál es el precio del tour de 6 días desde Marrakech al sur y el desierto?
   aHtml: <p>El precio de este viaje de 6 días puede variar según el número de personas que viajan y el tipo de alojamiento que elijas. Tienes la opción de mejorar tus hoteles y campamentos del desierto de estándar a lujo. Para más detalles, consulta la sección de <strong>Información de precios</strong>.</p>
 - q: ¿Qué tours son similares al tour de 6 días desde Marrakech?
-  aHtml: <p>Los dos tours alternativos al tour de 6 días desde Marrakech son:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">Tour de 10 días desde Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">Tour de 8 días desde Marrakech</a></strong></p>
+  aHtml: <p>Los dos tours alternativos al tour de 6 días desde Marrakech son:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">Tour de 10 días desde Marrakech</a></strong><br/><strong><a href="/tours" rel="noopener" target="_blank">Tour de 8 días desde Marrakech</a></strong></p>
 - q: ¿Cuál es la política de cancelación de este tour?
   aHtml: '<p>Las reservas se pueden cancelar o reprogramar de forma gratuita hasta 1 día antes de la salida. Esto facilita ajustar tus planes si algo cambia cerca de la fecha de inicio.</p>'
 - q: ¿Es este tour adecuado para niños o personas mayores?

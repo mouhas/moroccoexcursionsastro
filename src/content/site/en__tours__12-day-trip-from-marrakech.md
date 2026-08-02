@@ -11,15 +11,15 @@ source: https://morocco-excursion.com/tours/12-day-trip-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>If you are looking for a full Moroccan experience, this 12-day tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> is a great choice. It includes everything from the vibrant city of Marrakech and its hidden gems to the stunning Atlas Mountains, the vast Sahara Desert in the south, and the colorful towns of the north.</p>
+overviewHtml: '<p>If you are looking for a full Moroccan experience, this 12-day tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> is a great choice. It includes everything from the vibrant city of Marrakech and its hidden gems to the stunning Atlas Mountains, the vast Sahara Desert in the south, and the colorful towns of the north.</p>
 
   <p>The journey also takes you to Rabat, Morocco’s capital, and Essaouira, one of the most beautiful cities on the Atlantic coast. You’ll visit charming villages, enjoy a camel ride across the golden dunes, and spend a magical night in a desert camp under the stars.</p>
 
   <p>Your adventure begins with two days exploring Marrakech with a local guide, discovering its markets, palaces, and hidden corners. Next, you’ll head to Essaouira, famous for its wide beaches and ancient medina with coastal fortifications.</p>
 
-  <p>Afterwards, the route continues to <a href="https://morocco-excursion.com/casablanca-tours/" rel="noopener" target="_blank"><b>Casablanca</b></a>, Morocco’s largest and most modern city, followed by a visit to Rabat with its historical landmarks. Then it’s time to travel north toward Chefchaouen, the famous Blue City nestled in the Rif Mountains.</p>
+  <p>Afterwards, the route continues to <a href="/tours" rel="noopener" target="_blank"><b>Casablanca</b></a>, Morocco’s largest and most modern city, followed by a visit to Rabat with its historical landmarks. Then it’s time to travel north toward Chefchaouen, the famous Blue City nestled in the Rif Mountains.</p>
 
-  <p>The following two days are dedicated to exploring the ancient city of <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a>, guided by a local expert who will take you through its labyrinthine streets and cultural sites. After soaking in the rich heritage of Fes, you’ll journey south toward the Sahara Desert for a unique camel trek and a breathtaking sunset over the dunes.</p>
+  <p>The following two days are dedicated to exploring the ancient city of <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a>, guided by a local expert who will take you through its labyrinthine streets and cultural sites. After soaking in the rich heritage of Fes, you’ll journey south toward the Sahara Desert for a unique camel trek and a breathtaking sunset over the dunes.</p>
 
   <p>Next, the tour winds through the scenic <a href="https://en.wikipedia.org/wiki/Dad%C3%A8s_River" rel="noopener" target="_blank"><strong>Dades Valley</strong></a>, passing traditional Berber villages and dramatic mountain landscapes. As you cross the majestic Atlas Mountains, you’ll return to Marrakech where you’ll have some free time to relax or shop before your airport transfer the next day.</p>'
 priceHeading: null
@@ -50,7 +50,7 @@ priceRows:
   - …
 notesHeading: null
 notes:
-- This tour includes a guided walking tour with a local guide who will show you around Marrakech and <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><strong>Fes</strong></a>, helping you explore hidden gems, ancient streets, and local culture you may miss on your own.
+- This tour includes a guided walking tour with a local guide who will show you around Marrakech and <a href="/tours" rel="noopener" target="_blank"><strong>Fes</strong></a>, helping you explore hidden gems, ancient streets, and local culture you may miss on your own.
 - On this trip, you’ll be visiting the Atlantic Coast. The 12-day tour includes a trip to Essaouira, a peaceful seaside city with white-washed walls, beautiful beaches, and fresh seafood.
 - The tour crosses the High Atlas Mountains—you’ll see winding roads, spectacular views, and local villages built into the hills.
 - You’ll travel across different regions of Morocco. While some days involve long drives, each journey offers changing landscapes and interesting stops.

@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/pt-br/tours/tour-em-grupo-3-dias-fes-deser
 tourType: Tour em Grupo
 cancellation: 48 H
 languagesSpoken: Inglês, Multilíngue
-overviewHtml: <p>Este tour de 3 dias pelo deserto leva você de <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a> ao Deserto do Saara, passando pelas Montanhas do Atlas Médio. Junte-se a nós em pequenos grupos. Encontre <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>famílias</b></a> locais e conheça seu modo de vida enquanto viaja pelas magníficas Montanhas do Atlas e para em pitorescas vilas berberes. Prepare-se para um autêntico passeio de camelo pelas dunas douradas e passe a noite em um acampamento confortável. Neste tour, você vai vivenciar as paisagens deslumbrantes de Marrocos e a vibrante cultura berbere.</p>
+overviewHtml: <p>Este tour de 3 dias pelo deserto leva você de <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a> ao Deserto do Saara, passando pelas Montanhas do Atlas Médio. Junte-se a nós em pequenos grupos. Encontre <a href="/tours" rel="noopener" target="_blank"><b>famílias</b></a> locais e conheça seu modo de vida enquanto viaja pelas magníficas Montanhas do Atlas e para em pitorescas vilas berberes. Prepare-se para um autêntico passeio de camelo pelas dunas douradas e passe a noite em um acampamento confortável. Neste tour, você vai vivenciar as paisagens deslumbrantes de Marrocos e a vibrante cultura berbere.</p>
 priceHeading: null
 priceRows: []
 notesHeading: null

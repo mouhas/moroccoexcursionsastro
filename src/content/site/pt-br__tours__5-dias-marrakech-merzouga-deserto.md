@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/pt-br/tours/5-dias-marrakech-merzouga-dese
 tourType: Tour Privado
 cancellation: 48 H
 languagesSpoken: Inglês, Multilíngue
-overviewHtml: '<p>O tour privado de 5 dias pelo deserto saindo de <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> até Merzouga (dunas de Erg Chebbi) inclui uma noite em Dades, duas noites no <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>deserto de Merzouga</b></a> e uma noite em Ouarzazate.</p>
+overviewHtml: '<p>O tour privado de 5 dias pelo deserto saindo de <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> até Merzouga (dunas de Erg Chebbi) inclui uma noite em Dades, duas noites no <a href="/tours" rel="noopener" target="_blank"><b>deserto de Merzouga</b></a> e uma noite em Ouarzazate.</p>
 
   <p>No primeiro dia, dirigiremos pelas montanhas do Alto Atlas e visitaremos a famosa kasbah de Ait Ben Haddou. Depois disso, seguimos a viagem até Dades, passando por Skoura e o Vale das Rosas.</p>
 

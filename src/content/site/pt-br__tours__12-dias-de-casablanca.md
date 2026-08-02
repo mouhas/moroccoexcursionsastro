@@ -17,7 +17,7 @@ overviewHtml: '<p>A viagem começa em Casablanca, a moderna cidade marroquina à
 
   <p>A partir de Merzouga, a aventura continua pelas espetaculares Gargantas do Todra, pela sinuosa estrada do Vale do Dades e pelo Vale das Rosas, com a sua doce fragrância. O caminho leva-nos então a Ouarzazate, famosa pelas suas antigas kasbahs e estúdios cinematográficos. Outro ponto alto é Ait Benhaddou, uma aldeia de casas de barro classificada como Património Mundial pela UNESCO, antes de atravessarmos as montanhas do Alto Atlas e chegarmos a Marraquexe. Nesta cidade animada, palácios, jardins e a movimentada praça Jemaa el-Fnaa capturam a energia e a cultura de Marrocos.</p>
 
-  <p>O passeio também leva você a uma <a href="https://morocco-excursion.com/pt-br/tours/excursao-ouzoud/" rel="noopener" target="_blank"><strong>viagem de um dia às Cataratas de Ouzoud</strong></a>, as mais altas de Marrocos, e termina à beira-mar em Essaouira, uma cidade encantadora com casas brancas, persianas azuis, muralhas históricas e frutos do mar frescos.</p>'
+  <p>O passeio também leva você a uma <a href="/pt-br/tours/excursao-ouzoud-saida-de-marrakech" rel="noopener" target="_blank"><strong>viagem de um dia às Cataratas de Ouzoud</strong></a>, as mais altas de Marrocos, e termina à beira-mar em Essaouira, uma cidade encantadora com casas brancas, persianas azuis, muralhas históricas e frutos do mar frescos.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajantes
@@ -165,7 +165,7 @@ faqs:
 - q: Posso prolongar ou encurtar este itinerário de 12 dias?
   aHtml: <p>Sim, o itinerário pode ser totalmente personalizado. Pode adicionar noites extra em Marraquexe, Fez ou Chefchaouen, ou encurtar o passeio para se concentrar apenas em regiões específicas.</p>
 - q: Que outros passeios recomendam?
-  aHtml: <p>Se tiver mais tempo em Marrocos, recomendamos uma <a href="/pt-br/tours/15-dias-de-casablanca" rel="noopener" target="_blank"><strong>excursão de 15 dias</strong></a>, <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> ou até mesmo a <a href="https://morocco-excursion.com/pt-br/tours/30-dias-de-casablanca/" rel="noopener" target="_blank"><strong>excursão de 30 dias por Marrocos</strong></a>.</p>
+  aHtml: <p>Se tiver mais tempo em Marrocos, recomendamos uma <a href="/pt-br/tours/15-dias-de-casablanca" rel="noopener" target="_blank"><strong>excursão de 15 dias</strong></a>, <a href="/pt-br/tours/20-dias-de-casablanca" rel="noopener" target="_blank"><strong>20 dias</strong></a> ou até mesmo a <a href="/pt-br/tours" rel="noopener" target="_blank"><strong>excursão de 30 dias por Marrocos</strong></a>.</p>
 - q: Como funciona a excursão de um dia às Cataratas de Ouzoud dentro deste roteiro?
   aHtml: <p>No 10.º dia, saímos de Marraquexe de manhã cedo rumo às Cataratas de Ouzoud, a cerca de duas horas e meia de distância. Após uma caminhada até à base das quedas de água e tempo livre para fotos, regressamos a Marraquexe ao final da tarde para pernoitar novamente na cidade.</p>
 - q: Vale a pena a paragem em Essaouira no final da viagem?

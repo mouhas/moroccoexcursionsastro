@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/tours/merzouga-dune-buggy-tours/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Discover the Sahara Desert in a fun and exciting way with our buggy tours in <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>. You can choose a quick 1-hour ride, a half-day trip, or a full adventure that lasts several days. Driving a buggy is easy and safe, and our local guides will lead you through amazing landscapes that most visitors never see.</p>
+overviewHtml: '<p>Discover the Sahara Desert in a fun and exciting way with our buggy tours in <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a>. You can choose a quick 1-hour ride, a half-day trip, or a full adventure that lasts several days. Driving a buggy is easy and safe, and our local guides will lead you through amazing landscapes that most visitors never see.</p>
 
   <p>Feel the thrill as you ride over the soft golden dunes of Erg Chebbi, explore quiet desert tracks, and stop at beautiful oases with palm trees. From the top of the dunes, you’ll enjoy unforgettable views of the wide Sahara.</p>
 
-  <p>But the tour is more than just driving. Along the way, you’ll meet friendly Berber <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>families</b></a> who will welcome you with mint tea and fresh Moroccan crepes. If you join a longer buggy tour, you’ll also enjoy a traditional tajine lunch, cooked slowly with local spices.</p>
+  <p>But the tour is more than just driving. Along the way, you’ll meet friendly Berber <a href="/tours" rel="noopener" target="_blank"><b>families</b></a> who will welcome you with mint tea and fresh Moroccan crepes. If you join a longer buggy tour, you’ll also enjoy a traditional tajine lunch, cooked slowly with local spices.</p>
 
   <p>Our Sahara buggy tours are perfect for anyone who wants both adventure and culture. Whether you have just one hour or a full day, it’s the best way to feel the spirit of the desert.</p>'
 priceHeading: Merzouga buggy tour prices

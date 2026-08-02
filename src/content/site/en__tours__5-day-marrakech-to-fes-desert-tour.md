@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/5-day-marrakech-to-fes-desert-tour/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>This private 5-day desert tour to <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a> is a wonderful way to experience the natural beauty, culture, and history of Morocco. The journey begins in Marrakech and ends in Fes, passing through the High Atlas Mountains, Berber villages, ancient kasbahs, and the vast Sahara Desert. Along the way, travelers enjoy a mix of landscapes and activities, with overnight stays in the Dades Valley, the desert, and the mountain town of Midelt.</p>
+overviewHtml: '<p>This private 5-day desert tour to <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a> is a wonderful way to experience the natural beauty, culture, and history of Morocco. The journey begins in Marrakech and ends in Fes, passing through the High Atlas Mountains, Berber villages, ancient kasbahs, and the vast Sahara Desert. Along the way, travelers enjoy a mix of landscapes and activities, with overnight stays in the Dades Valley, the desert, and the mountain town of Midelt.</p>
 
   <p>The first part of the trip takes you through the winding roads of the High Atlas Mountains, offering incredible views and a chance to see traditional Berber life. One of the highlights of the day is visiting the famous Ksar of Ait Ben Haddou, a UNESCO World Heritage Site known for its beautiful mud-brick architecture and role in many films. The tour continues through the cinematic city of Ouarzazate, often called the “Hollywood of Africa,” and passes by lush oases and villages like Skoura and the Valley of Roses near Mgouna, before reaching the scenic Dades Valley for the first overnight stay.</p>
 
@@ -19,7 +19,7 @@ overviewHtml: '<p>This private 5-day desert tour to <a href="https://morocco-exc
 
   <p>The third day is a full day to discover the Sahara Desert and its hidden treasures. Guests will visit nomadic families who still live in the desert, explore old abandoned villages, and stop at fossil sites that reveal the ancient history of the region. This day offers a deep cultural experience and a chance to see a different side of Morocco, far from the busy cities.</p>
 
-  <p>As the tour continues on the fourth day, the route leaves the desert behind and travels through the long Ziz Valley and the town of <a href="https://morocco-excursion.com/errachidia-tours/" rel="noopener" target="_blank"><b>Errachidia</b></a>. The drive brings you to Midelt, a peaceful town located between the Middle and High Atlas Mountains. It’s the perfect place to rest before the final stretch to Fes.</p>
+  <p>As the tour continues on the fourth day, the route leaves the desert behind and travels through the long Ziz Valley and the town of <a href="/tours" rel="noopener" target="_blank"><b>Errachidia</b></a>. The drive brings you to Midelt, a peaceful town located between the Middle and High Atlas Mountains. It’s the perfect place to rest before the final stretch to Fes.</p>
 
   <p>On the last day, the road to Fes passes through scenic mountain areas. Highlights include a stop in Zaida, a small town known for its fresh mountain air, and the cedar forest near Azrou, where you might see monkeys in the wild. Before reaching Fes, the tour also passes through Ifrane, a town known for its clean streets, green spaces, and European-style houses — often called “Little Switzerland.”</p>
 
@@ -140,7 +140,7 @@ faqs:
 - q: Which tours are similar to the 5-day tour from Marrakech to Fes?
   aHtml: '<p>The two similar tours to the 5-day desert tour from Marrakech to Fes are:</p>
 
-    <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>'
+    <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">6-Day Tour From Marrakech to The South</a></strong><br/><strong><a href="/tours" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>'
 - q: What is the difference between the standard and luxury accommodation options?
   aHtml: <p>Standard accommodation includes comfortable hotels like Hotel Kasbah Didis in Dades and the Mouhou Standard Desert Camp in Merzouga, while the luxury option upgrades you to places like Hotel Ksar Sultan and the Mouhou Luxury Desert Camp, both with dinner and breakfast included either way.</p>
 - q: Is this a private tour or will we be grouped with other travelers?

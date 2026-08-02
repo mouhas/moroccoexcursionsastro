@@ -15,7 +15,7 @@ overviewHtml: '<p>El valle está a tan solo 38 km de distancia y cuenta con herm
 
   <p>Una de las mejores cosas de este viaje son las cascadas. Es un lugar tranquilo y hermoso para relajarse y disfrutar de la naturaleza.</p>
 
-  <p>Este viaje es perfecto para las personas que buscan tranquilidad, vistas hermosas y aprender sobre la cultura bereber. Ya sea que camines hasta las cascadas, visites los pueblos o simplemente disfrutes de la naturaleza en calma, un viaje al Valle de <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>hará que tu tiempo en <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> sea aún mejor.</p>'
+  <p>Este viaje es perfecto para las personas que buscan tranquilidad, vistas hermosas y aprender sobre la cultura bereber. Ya sea que camines hasta las cascadas, visites los pueblos o simplemente disfrutes de la naturaleza en calma, un viaje al Valle de <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>hará que tu tiempo en <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> sea aún mejor.</p>'
 priceHeading: '¿Qué Debes Saber Antes De Reservar La Excursión A Ourika?'
 priceRows: []
 notesHeading: null

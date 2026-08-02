@@ -26,9 +26,9 @@ metaDescription: null
 autoPricing: null
 ratingBreakdown: null
 ---
-A medida que el año llega a su fin, Marruecos se llena de espíritu festivo, dando la bienvenida tanto a locales como a viajeros para celebrar la Navidad y el Fin de Año a su manera única y cautivadora. Esta joya del norte de África ofrece una mezcla de [cultura marroquí](https://www.morocco-excursion.com/moroccan-people/) tradicional y un toque de estilo internacional durante la temporada navideña. Desde bulliciosos mercados adornados con luces coloridas hasta celebraciones en el desierto bajo un cielo estrellado, pasar la Navidad y el Fin de Año en Marruecos promete una experiencia inolvidable para todos.
+A medida que el año llega a su fin, Marruecos se llena de espíritu festivo, dando la bienvenida tanto a locales como a viajeros para celebrar la Navidad y el Fin de Año a su manera única y cautivadora. Esta joya del norte de África ofrece una mezcla de [cultura marroquí](/tours) tradicional y un toque de estilo internacional durante la temporada navideña. Desde bulliciosos mercados adornados con luces coloridas hasta celebraciones en el desierto bajo un cielo estrellado, pasar la Navidad y el Fin de Año en Marruecos promete una experiencia inolvidable para todos.
 
-En Marruecos, la Navidad se celebra de manera más discreta en comparación con los países occidentales, dado que la mayoría de la población es musulmana. Sin embargo, en ciudades con comunidades cristianas considerables, como [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) y **Marrakech**, encontrarás árboles de Navidad bellamente decorados, adornos festivos y reuniones alegres.
+En Marruecos, la Navidad se celebra de manera más discreta en comparación con los países occidentales, dado que la mayoría de la población es musulmana. Sin embargo, en ciudades con comunidades cristianas considerables, como [Casablanca](/tours) y **Marrakech**, encontrarás árboles de Navidad bellamente decorados, adornos festivos y reuniones alegres.
 
 ## Oferta Especial de Navidad en el Desierto del Sahara:
 

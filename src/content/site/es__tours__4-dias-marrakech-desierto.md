@@ -128,7 +128,7 @@ faqs:
 - q: ¿Hay otros tours similares al tour de 4 días por el desierto del Sahara desde Marrakech a Merzouga?
   aHtml: '<p>Aquí tienes dos tours alternativos similares al tour de 4 días por el desierto del Sahara desde Marrakech:</p>
 
-    <p><strong><a href="https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/" rel="noopener" target="_blank">Tour de 4 días de Marrakech a Fez vía el Sahara</a></strong><br/><strong><a href="https://morocco-excursion.com/es/tours/5-dias-marrakech-al-desierto/" rel="noopener" target="_blank">Tour de 5 días por el desierto del Sahara desde Marrakech</a></strong></p>'
+    <p><strong><a href="https://morocco-excursion.com/es/tours/4-dias-marrakech-fez/" rel="noopener" target="_blank">Tour de 4 días de Marrakech a Fez vía el Sahara</a></strong><br/><strong><a href="/es/tours/5-dias-marrakech-merzouga-desierto" rel="noopener" target="_blank">Tour de 5 días por el desierto del Sahara desde Marrakech</a></strong></p>'
 - q: ¿Qué diferencia hay entre las opciones estándar, superior y de lujo?
   aHtml: <p>Las tres categorías cambian principalmente la comodidad de los hoteles y del campamento en el desierto. La opción estándar es sencilla y cómoda, la superior añade habitaciones y tiendas más cuidadas, y la de lujo ofrece los alojamientos con más encanto de cada parada del recorrido.</p>
 - q: ¿El paseo en camello es apto para todo el mundo?

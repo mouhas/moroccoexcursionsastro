@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/it/tours/tour-di-gruppo-3-giorni-fes-deser
 tourType: Tour di Gruppo
 cancellation: 48 H
 languagesSpoken: Inglese, Multilingue
-overviewHtml: <p>Questo tour di 3 giorni nel deserto ti porta da <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a> al deserto del Sahara passando per le montagne del Medio Atlante. Unisciti a noi in piccoli gruppi. Incontra <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>famiglie</b></a> locali e scopri il loro stile di vita mentre attraversi le magnifiche montagne dell'Atlante e ti fermi in pittoreschi villaggi berberi. Preparati per un autentico giro in cammello tra le dune dorate e trascorri la notte in un campo tendato confortevole. In questo tour vivrai i paesaggi mozzafiato del Marocco e la vivace cultura berbera.</p>
+overviewHtml: <p>Questo tour di 3 giorni nel deserto ti porta da <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a> al deserto del Sahara passando per le montagne del Medio Atlante. Unisciti a noi in piccoli gruppi. Incontra <a href="/tours" rel="noopener" target="_blank"><b>famiglie</b></a> locali e scopri il loro stile di vita mentre attraversi le magnifiche montagne dell'Atlante e ti fermi in pittoreschi villaggi berberi. Preparati per un autentico giro in cammello tra le dune dorate e trascorri la notte in un campo tendato confortevole. In questo tour vivrai i paesaggi mozzafiato del Marocco e la vivace cultura berbera.</p>
 priceHeading: null
 priceRows: []
 notesHeading: null

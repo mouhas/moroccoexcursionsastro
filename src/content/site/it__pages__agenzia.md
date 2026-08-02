@@ -47,7 +47,7 @@ Essendo noi stessi berberi, portiamo una prospettiva e una comprensione uniche d
 
 ##### **+12 anni di esperienza**
 
-Con una notevole tradizione di 12 anni nel settore turistico, Morocco [Excursions](https://www.morocco-excursion.com/excursions/) Company si distingue come un tour operator marocchino eccezionalmente esperto e affidabile. Questa vasta esperienza sottolinea la nostra profonda competenza nel fornire esperienze di viaggio eccezionali in tutto il Marocco.
+Con una notevole tradizione di 12 anni nel settore turistico, Morocco [Excursions](/tours) Company si distingue come un tour operator marocchino eccezionalmente esperto e affidabile. Questa vasta esperienza sottolinea la nostra profonda competenza nel fornire esperienze di viaggio eccezionali in tutto il Marocco.
 
 Nel corso degli anni, abbiamo perfezionato i nostri servizi, offrendo ai viaggiatori approfondimenti senza pari sui diversi paesaggi del Marocco, sulla sua ricca cultura e sul suo patrimonio storico. La nostra presenza di lunga data nel settore ha coltivato una profonda comprensione delle preferenze dei nostri clienti, consentendoci di creare itinerari su misura che soddisfano i loro desideri unici.
 
@@ -59,7 +59,7 @@ Il nostro successo è dovuto alla dedizione del nostro team e alla fiducia dei n
 
 ##### **Prenotazione online**
 
-Per coloro che cercano un processo di prenotazione rapido e senza problemi, offriamo la comodità della [prenotazione online](https://www.morocco-excursion.com/it/contact/) . Visita il nostro sito Web, seleziona il tour desiderato e segui i semplici passaggi per assicurarti la tua avventura. La piattaforma di prenotazione online garantisce un processo fluido ed efficiente, consentendoti di ricevere una conferma immediata, così puoi iniziare rapidamente a guardare avanti al tuo viaggio in Marocco.
+Per coloro che cercano un processo di prenotazione rapido e senza problemi, offriamo la comodità della [prenotazione online](/it/contatto) . Visita il nostro sito Web, seleziona il tour desiderato e segui i semplici passaggi per assicurarti la tua avventura. La piattaforma di prenotazione online garantisce un processo fluido ed efficiente, consentendoti di ricevere una conferma immediata, così puoi iniziare rapidamente a guardare avanti al tuo viaggio in Marocco.
 
 ##### **Disponibilità**
 

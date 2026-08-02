@@ -132,7 +132,7 @@ faqs:
 - q: Quel est le prix du circuit de 4 jours au départ de Fès vers le désert?
   aHtml: <p>Le coût du circuit de 4 jours entre Fès et le désert varie en fonction de plusieurs facteurs, tels que la taille du groupe, la catégorie d'hébergement et la saison. Les prix sont généralement plus élevés pour les petits groupes privés, les hébergements de luxe et pendant les périodes de forte affluence touristique. Nous serons ravis de vous fournir un devis précis en fonction de vos préférences et de vos dates de voyage.</p>
 - q: Proposez-vous des circuits similaire?
-  aHtml: <p>Bien sûr ! Nous pouvons vous proposer un <a href="https://morocco-excursion.com/fr/tours/4-jours-fes-marrakech/" rel="noopener" target="_blank"><strong>circuit de 4 jours de Fès à Marrakech</strong></a> ou un <a href="https://morocco-excursion.com/fr/tours/5-jours-fes-desert/" rel="noopener" target="_blank"><strong>circuit de 5 jours dans le désert au départ de Fès</strong></a>.</p>
+  aHtml: <p>Bien sûr ! Nous pouvons vous proposer un <a href="/fr/tours" rel="noopener" target="_blank"><strong>circuit de 4 jours de Fès à Marrakech</strong></a> ou un <a href="/fr/tours/5-jours-marrakech-fes" rel="noopener" target="_blank"><strong>circuit de 5 jours dans le désert au départ de Fès</strong></a>.</p>
 - q: Quelle est la différence entre le camp standard et le camp supérieur dans le désert?
   aHtml: <p>Le camp standard Mouhou propose des tentes confortables de style partagé avec le dîner et le petit-déjeuner inclus, tandis que l'option Mouhou Luxury Camp offre des tentes plus privées avec une meilleure literie et des installations privatives. Le même choix de surclassement s'applique aux hôtels des gorges du Todra.</p>
 - q: Que dois-je emporter pour ce voyage?

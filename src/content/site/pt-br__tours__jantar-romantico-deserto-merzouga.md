@@ -11,11 +11,11 @@ source: 'https://morocco-excursion.com/pt-br/tours/jantar-romantico-deserto-merz
 tourType: Tour Privado
 cancellation: 48 H
 languagesSpoken: 'Português, Multilíngue'
-overviewHtml: '<p>Um jantar romântico no <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Deserto de Merzouga</b></a> é uma experiência especial para casais. Cercado pelas altas dunas douradas de Erg Chebbi, o deserto fica lindo ao entardecer, com tons suaves de laranja e rosa, criando um ambiente calmo e tranquilo.</p>
+overviewHtml: '<p>Um jantar romântico no <a href="/tours" rel="noopener" target="_blank"><b>Deserto de Merzouga</b></a> é uma experiência especial para casais. Cercado pelas altas dunas douradas de Erg Chebbi, o deserto fica lindo ao entardecer, com tons suaves de laranja e rosa, criando um ambiente calmo e tranquilo.</p>
 
   <p>Em nossos acampamentos, montamos cantinhos privativos para que os casais possam aproveitar o momento a dois. A calma do deserto, a brisa quente e o amplo espaço aberto tornam a noite mágica e inesquecível.</p>
 
-  <p>A <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>comida</b></a> em nossos acampamentos também é incrível. Pratos tradicionais marroquinos, como deliciosos tagines, pão fresco e doces, são servidos em mesas lindamente decoradas. Velas, lanternas ou pétalas de rosa tornam o jantar ainda mais romântico.</p>
+  <p>A <a href="/tours" rel="noopener" target="_blank"><b>comida</b></a> em nossos acampamentos também é incrível. Pratos tradicionais marroquinos, como deliciosos tagines, pão fresco e doces, são servidos em mesas lindamente decoradas. Velas, lanternas ou pétalas de rosa tornam o jantar ainda mais romântico.</p>
 
   <p>Um jantar romântico em nossos acampamentos em Merzouga é perfeito para aniversários, pedidos de casamento ou uma escapada única. Não é apenas uma refeição — é uma noite mágica cheia de amor, paz e lembranças no coração do deserto do Saara.</p>'
 priceHeading: null

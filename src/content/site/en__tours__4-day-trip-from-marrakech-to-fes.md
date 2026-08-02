@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/4-day-trip-from-marrakech-to-fes/
 tourType: Private Tour
 cancellation: 48 H
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>The private 4-day desert tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> to <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fes</b></a> is a great choice for anyone who wants to explore the Sahara Desert and southern Morocco. The tour includes one night in Dades Valley and two nights in the Merzouga desert area.</p>
+overviewHtml: '<p>The private 4-day desert tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> to <a href="/tours" rel="noopener" target="_blank"><b>Fes</b></a> is a great choice for anyone who wants to explore the Sahara Desert and southern Morocco. The tour includes one night in Dades Valley and two nights in the Merzouga desert area.</p>
 
   <p>On the first day, you will drive through the Atlas Mountains. You will visit the famous <strong><a href="https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou" rel="noopener" target="_blank">Ait Ben Haddou Kasbah</a></strong>, the city of Ouarzazate, the palm groves of Skoura, and continue to Dades Valley.</p>
 

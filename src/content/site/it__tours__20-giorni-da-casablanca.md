@@ -134,7 +134,7 @@ faqs:
 - q: Quali attività nel deserto sono incluse?
   aHtml: '<p>Le attività nel deserto incluse sono: escursioni in cammello, sandboarding, escursioni fuoristrada in 4x4, notte in un campo nel deserto. Le attività extra disponibili sono escursioni in ATV e buggy.</p>'
 - q: Esiste un altro tour simile al tour di 20 giorni da Casablanca?
-  aHtml: <p>Se siete alla ricerca di tour simili a questo tour di 20 giorni, date un'occhiata al <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 30 giorni</strong></a> da Casablaanca o al <a href="https://morocco-excursion.com/it/tours/10-giorni-da-marrakech/" rel="noopener" target="_blank"><strong>tour di 10 giorni da Marrakech</strong></a>. Entrambi includono le città più belle del Marocco.</p>
+  aHtml: <p>Se siete alla ricerca di tour simili a questo tour di 20 giorni, date un'occhiata al <a href="/it/tours/15-giorni-da-casablanca" rel="noopener" target="_blank"><strong>tour di 30 giorni</strong></a> da Casablaanca o al <a href="/it/tours/tour-10-giorni-marrakech" rel="noopener" target="_blank"><strong>tour di 10 giorni da Marrakech</strong></a>. Entrambi includono le città più belle del Marocco.</p>
 - q: Qual è il periodo migliore per un viaggio così lungo attraverso tutto il Marocco?
   aHtml: <p>La primavera (marzo-maggio) e l'autunno (settembre-novembre) sono ideali perché offrono temperature miti sia sulla costa che nel deserto e in montagna. L'estate può essere molto calda a Merzouga, mentre l'inverno porta notti fredde nel deserto e piogge occasionali sulla costa.</p>
 - q: Come si affrontano i cambi climatici tra costa, montagna e deserto?

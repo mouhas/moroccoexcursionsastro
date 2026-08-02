@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/5-dias-marrakech-fez-desierto/
 tourType: Tour Privado
 cancellation: Hasta 1 día
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>Este tour privado de 5 días por el desierto hasta <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fez</b></a> es una manera maravillosa de descubrir la belleza natural, la cultura y la historia de Marruecos. El viaje comienza en Marrakech y termina en Fez, atravesando las montañas del Alto Atlas, pueblos bereberes, antiguas kasbahs y el vasto desierto del Sahara. En el camino, los viajeros disfrutan de una mezcla de paisajes y actividades, con noches en el valle del Dades, el desierto y la ciudad de montaña de Midelt.</p>
+overviewHtml: '<p>Este tour privado de 5 días por el desierto hasta <a href="/tours" rel="noopener" target="_blank"><b>Fez</b></a> es una manera maravillosa de descubrir la belleza natural, la cultura y la historia de Marruecos. El viaje comienza en Marrakech y termina en Fez, atravesando las montañas del Alto Atlas, pueblos bereberes, antiguas kasbahs y el vasto desierto del Sahara. En el camino, los viajeros disfrutan de una mezcla de paisajes y actividades, con noches en el valle del Dades, el desierto y la ciudad de montaña de Midelt.</p>
 
   <p>La primera parte del viaje te lleva por las sinuosas carreteras del Alto Atlas, con vistas increíbles y la oportunidad de conocer la vida bereber tradicional. Uno de los momentos destacados del día es la visita al famoso Ksar de Ait Ben Haddou, Patrimonio de la Humanidad por la UNESCO, conocido por su hermosa arquitectura de adobe y su papel en numerosas películas. El tour continúa por la cinematográfica ciudad de Ouarzazate, a menudo llamada el «Hollywood de África», y pasa junto a frondosos oasis y pueblos como Skoura y el Valle de las Rosas cerca de Mgouna, antes de llegar al pintoresco valle del Dades para la primera noche.</p>
 
@@ -19,7 +19,7 @@ overviewHtml: '<p>Este tour privado de 5 días por el desierto hasta <a href="ht
 
   <p>El tercer día es una jornada completa para descubrir el desierto del Sahara y sus tesoros ocultos. Los huéspedes visitarán a familias nómadas que todavía viven en el desierto, explorarán antiguos pueblos abandonados y se detendrán en yacimientos de fósiles que revelan la historia antigua de la región. Este día ofrece una experiencia cultural profunda y la oportunidad de conocer una cara distinta de Marruecos, lejos del bullicio de las ciudades.</p>
 
-  <p>Al continuar el tour en el cuarto día, la ruta deja atrás el desierto y recorre el largo valle del Ziz y la ciudad de <a href="https://morocco-excursion.com/errachidia-tours/" rel="noopener" target="_blank"><b>Errachidia</b></a>. El trayecto te lleva hasta Midelt, una tranquila ciudad situada entre el Atlas Medio y el Alto Atlas. Es el lugar perfecto para descansar antes del último tramo hacia Fez.</p>
+  <p>Al continuar el tour en el cuarto día, la ruta deja atrás el desierto y recorre el largo valle del Ziz y la ciudad de <a href="/tours" rel="noopener" target="_blank"><b>Errachidia</b></a>. El trayecto te lleva hasta Midelt, una tranquila ciudad situada entre el Atlas Medio y el Alto Atlas. Es el lugar perfecto para descansar antes del último tramo hacia Fez.</p>
 
   <p>El último día, la carretera hacia Fez atraviesa pintorescas zonas montañosas. Entre los momentos destacados se incluyen una parada en Zaida, una pequeña localidad conocida por su aire de montaña fresco, y el bosque de cedros cerca de Azrou, donde podrías ver monos en libertad. Antes de llegar a Fez, el tour también pasa por Ifrane, una ciudad conocida por sus calles limpias, sus espacios verdes y sus casas de estilo europeo, a menudo llamada la «Pequeña Suiza».</p>
 
@@ -140,7 +140,7 @@ faqs:
 - q: ¿Qué tours son similares al tour de 5 días de Marrakech a Fez?
   aHtml: '<p>Los dos tours similares al tour de 5 días por el desierto de Marrakech a Fez son:</p>
 
-    <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">Tour De 6 Días Desde Marrakech Hacia El Sur</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">Tour De 8 Días Desde Marrakech</a></strong></p>'
+    <p><strong><a href="/tours/marrakech-to-south-6-day-trip" rel="noopener" target="_blank">Tour De 6 Días Desde Marrakech Hacia El Sur</a></strong><br/><strong><a href="/tours" rel="noopener" target="_blank">Tour De 8 Días Desde Marrakech</a></strong></p>'
 - q: ¿Cuál es la diferencia entre las opciones de alojamiento estándar y de lujo?
   aHtml: <p>El alojamiento estándar incluye hoteles cómodos como el Hotel Kasbah Didis en Dades y el Mouhou Standard Desert Camp en Merzouga, mientras que la opción de lujo te mejora a lugares como el Hotel Ksar Sultan y el Mouhou Luxury Desert Camp, ambos con cena y desayuno incluidos en cualquier caso.</p>
 - q: ¿Es un tour privado o nos agruparán con otros viajeros?

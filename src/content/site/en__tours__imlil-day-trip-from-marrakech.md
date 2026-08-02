@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/imlil-day-trip-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>If you love nature, a <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> to Imlil is a great choice! This trip takes you to the beautiful Atlas Mountains. You can ride a mule or enjoy a walk through peaceful valleys and Berber villages. In the villages, you can visit local markets and buy handmade crafts—perfect as souvenirs.</p>
+overviewHtml: '<p>If you love nature, a <a href="/tours" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> to Imlil is a great choice! This trip takes you to the beautiful Atlas Mountains. You can ride a mule or enjoy a walk through peaceful valleys and Berber villages. In the villages, you can visit local markets and buy handmade crafts—perfect as souvenirs.</p>
 
   <p>The drive from Marrakech to Imlil takes around the high <strong><a href="https://en.wikipedia.org/wiki/Atlas_Mountains" rel="noopener" target="_blank">Atlas Mountains</a></strong> for almost two hours and offers amazing mountain views along the way. When you arrive, you’ll enjoy fresh air, quiet surroundings, and stunning landscapes. It’s the perfect way to relax and discover the natural beauty of Morocco.</p>'
 priceHeading: Brief Itinerary Of The Trip

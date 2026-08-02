@@ -11,11 +11,11 @@ source: 'https://morocco-excursion.com/it/tours/cena-romantica-deserto-merzouga/
 tourType: Tour Privato
 cancellation: 48 H
 languagesSpoken: 'Italiano, Multilingue'
-overviewHtml: '<p>Una cena romantica nel <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Deserto di Merzouga</b></a> è un’esperienza speciale per le coppie. Circondato dalle alte dune dorate dell’Erg Chebbi, il deserto diventa bellissimo al tramonto, con delicate tonalità arancioni e rosa, creando un’atmosfera tranquilla e serena.</p>
+overviewHtml: '<p>Una cena romantica nel <a href="/tours" rel="noopener" target="_blank"><b>Deserto di Merzouga</b></a> è un’esperienza speciale per le coppie. Circondato dalle alte dune dorate dell’Erg Chebbi, il deserto diventa bellissimo al tramonto, con delicate tonalità arancioni e rosa, creando un’atmosfera tranquilla e serena.</p>
 
   <p>Nei nostri campi allestiamo angoli cena privati, così le coppie possono godersi il loro momento in totale intimità. La quiete del deserto, la brezza calda e l’ampio spazio aperto rendono la serata magica e indimenticabile.</p>
 
-  <p>Anche il <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>cibo</b></a> dei nostri campi è straordinario. Piatti tradizionali marocchini, come gustosi tajine, pane fresco e dolci pasticcini, vengono serviti su tavoli allestiti con cura. Candele, lanterne o petali di rosa rendono la cena ancora più romantica.</p>
+  <p>Anche il <a href="/tours" rel="noopener" target="_blank"><b>cibo</b></a> dei nostri campi è straordinario. Piatti tradizionali marocchini, come gustosi tajine, pane fresco e dolci pasticcini, vengono serviti su tavoli allestiti con cura. Candele, lanterne o petali di rosa rendono la cena ancora più romantica.</p>
 
   <p>Una cena romantica nei nostri campi a Merzouga è perfetta per anniversari, proposte di matrimonio o una fuga unica. Non è solo un pasto, è una serata magica piena di amore, pace e ricordi nel cuore del deserto del Sahara.</p>'
 priceHeading: null

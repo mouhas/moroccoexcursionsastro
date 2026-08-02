@@ -15,7 +15,7 @@ overviewHtml: '<p>La valle dista solo 38 km e offre bellissima vegetazione verde
 
   <p>Una delle cose migliori di questo viaggio sono le cascate. È un luogo tranquillo e bellissimo per rilassarsi e godersi la natura.</p>
 
-  <p>Questo viaggio è perfetto per chi desidera tranquillità, bellissime vedute e vuole scoprire la cultura berbera. Che camminiate fino alle cascate, visitiate i villaggi o semplicemente godiate della natura serena, un viaggio nella Valle di <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>renderà il vostro soggiorno a <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> ancora migliore.</p>'
+  <p>Questo viaggio è perfetto per chi desidera tranquillità, bellissime vedute e vuole scoprire la cultura berbera. Che camminiate fino alle cascate, visitiate i villaggi o semplicemente godiate della natura serena, un viaggio nella Valle di <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>renderà il vostro soggiorno a <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> ancora migliore.</p>'
 priceHeading: 'Cosa Sapere Prima Di Prenotare L''Escursione A Ourika?'
 priceRows: []
 notesHeading: null

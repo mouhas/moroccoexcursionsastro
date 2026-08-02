@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/week-in-sahara-desert/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Spend seven days in the <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> and enjoy adventure, culture, and beautiful desert views. On the first day, arrive in Merzouga and take a <span>camel ride</span> into the golden dunes. Spend the night in a desert camp under the stars. On the second day, visit <span>nomad <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>families</b></a></span>, small <span>Berber villages</span>, and <span>Khamlia</span>, a village known for traditional Gnawa music.</p>
+overviewHtml: '<p>Spend seven days in the <a href="/tours" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> and enjoy adventure, culture, and beautiful desert views. On the first day, arrive in Merzouga and take a <span>camel ride</span> into the golden dunes. Spend the night in a desert camp under the stars. On the second day, visit <span>nomad <a href="/tours" rel="noopener" target="_blank"><b>families</b></a></span>, small <span>Berber villages</span>, and <span>Khamlia</span>, a village known for traditional Gnawa music.</p>
 
   <p>Day three is full of fun with an <span>ATV ride</span> and <span>buggy adventure</span> in the dunes, followed by lunch at a quiet desert <span>oasis</span>. On day four, explore <span>Tissardmine</span>, famous for fossils, and enjoy a <span>picnic</span> at the green Safsaf Oasis.</p>
 

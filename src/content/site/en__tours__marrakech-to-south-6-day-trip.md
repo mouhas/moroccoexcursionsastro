@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/marrakech-to-south-6-day-trip/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>If you want to explore the south of Morocco and discover its hidden treasures, this 6-day tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> is perfect for you. The tour includes one night in Dades, three nights in the <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a> desert area, and one night in Ouarzazate.</p>
+overviewHtml: '<p>If you want to explore the south of Morocco and discover its hidden treasures, this 6-day tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> is perfect for you. The tour includes one night in Dades, three nights in the <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a> desert area, and one night in Ouarzazate.</p>
 
   <p>On our first day, we will travel through the High Atlas Mountains, visit the famous Ait Ben Haddou, and continue to Dades Valley via Skoura and the Rose Valley.</p>
 
@@ -25,7 +25,7 @@ overviewHtml: '<p>If you want to explore the south of Morocco and discover its h
 
   <p>On the final day, we will return to Marrakech, driving again through the High Atlas Mountains.</p>
 
-  <p>If you want to upgrade your stay during this 6-day tour, we offer two types of <a href="https://morocco-excursion.com/accommodations/" rel="noopener" target="_blank"><b>accommodations</b></a>: standard and luxury. You can choose between comfortable hotels and desert camps in Merzouga, depending on your budget and preferences.</p>'
+  <p>If you want to upgrade your stay during this 6-day tour, we offer two types of <a href="/tours" rel="noopener" target="_blank"><b>accommodations</b></a>: standard and luxury. You can choose between comfortable hotels and desert camps in Merzouga, depending on your budget and preferences.</p>'
 priceHeading: null
 priceRows:
 - - Number of travelers
@@ -164,7 +164,7 @@ faqs:
 - q: What is the price of the 6 day tour from Marrakech to south and desert?
   aHtml: <p>The price of this 6-day trip can vary based on how many people are traveling and the type of accommodation you choose. You have the option to upgrade your hotels and desert camps from standard to luxury. For more details, please refer to the <strong>Price Information</strong> section.</p>
 - q: Which tours are similar to the 6-day tour from Marrakech?
-  aHtml: <p>The two alternative tours to the 6-day tour from Marrakech are:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">10-Day Tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/7-day-marrakech-sahara-tour/" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>
+  aHtml: <p>The two alternative tours to the 6-day tour from Marrakech are:<br/><strong><a href="/tours/10-day-tour-from-marrakech" rel="noopener" target="_blank">10-Day Tour From Marrakech</a></strong><br/><strong><a href="/tours" rel="noopener" target="_blank">8-Day tour from Marrakech</a></strong></p>
 - q: What is the cancellation policy for this tour?
   aHtml: '<p>Bookings can be cancelled or rescheduled free of charge up to 1 day before departure. This makes it easy to adjust your plans if something changes close to the start date.</p>'
 - q: Is this tour suitable for children or elderly travelers?

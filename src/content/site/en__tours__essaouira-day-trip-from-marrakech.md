@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/tours/essaouira-day-trip-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Take a peaceful <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> to Essaouira, a lovely coastal town on the <a href="https://morocco-excursion.com/atlantic-and-mediterranean-coasts/" rel="noopener" target="_blank"><b>Atlantic</b></a> Ocean. Essaouira is calm and charming, offering a mix of history, culture, and beautiful views.</p>
+overviewHtml: '<p>Take a peaceful <a href="/tours" rel="noopener" target="_blank"><b>day trip</b></a> from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> to Essaouira, a lovely coastal town on the <a href="/tours" rel="noopener" target="_blank"><b>Atlantic</b></a> Ocean. Essaouira is calm and charming, offering a mix of history, culture, and beautiful views.</p>
 
   <p>Walk through the lively harbor, where colorful fishing boats gently float on the water. Enjoy a peaceful walk along the sandy <strong><a href="https://en.wikipedia.org/wiki/Atlantic_Ocean" rel="noopener" target="_blank">Atlantic</a> </strong>beach and feel the refreshing ocean breeze. Explore the medina, a UNESCO World Heritage Site, with its narrow streets, white houses, and bright blue doors.</p>
 

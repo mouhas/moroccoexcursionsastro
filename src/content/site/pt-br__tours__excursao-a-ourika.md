@@ -15,7 +15,7 @@ overviewHtml: '<p>O vale fica a apenas 38 km de distância e possui uma bela veg
 
   <p>Uma das melhores coisas dessa viagem são as cachoeiras. É um lugar tranquilo e bonito para relaxar e aproveitar a natureza.</p>
 
-  <p>Esta viagem é perfeita para quem busca paz, belas paisagens e quer conhecer a cultura berbere. Seja caminhando até as cachoeiras, visitando os vilarejos ou apenas aproveitando a natureza tranquila, uma viagem ao Vale de <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>tornará seu tempo em <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> ainda melhor.</p>'
+  <p>Esta viagem é perfeita para quem busca paz, belas paisagens e quer conhecer a cultura berbere. Seja caminhando até as cachoeiras, visitando os vilarejos ou apenas aproveitando a natureza tranquila, uma viagem ao Vale de <strong><a href="https://en.wikipedia.org/wiki/Ourika" rel="noopener" target="_blank">Ourika</a> </strong>tornará seu tempo em <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> ainda melhor.</p>'
 priceHeading: 'O Que Saber Antes De Reservar A Excursão A Ourika?'
 priceRows: []
 notesHeading: null

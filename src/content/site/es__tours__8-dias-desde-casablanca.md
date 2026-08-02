@@ -133,7 +133,7 @@ faqs:
 - q: ¿Quién nos recibe en el aeropuerto?
   aHtml: <p>Un chófer/guía con su nombre en un cartel le recibirá en la zona de llegadas. Tendrá los datos de contacto de su hotel.</p>
 - q: ¿Recomiendan otro tour similar a este de 8 días desde Casablanca?
-  aHtml: <p>Tenemos otros dos tours similares que incluyen más ciudades. Son el <strong><a href="https://morocco-excursion.com/tours/10-days-from-casablanca/" rel="noopener" target="_blank">tour de 10 días</a></strong> y el <a href="https://morocco-excursion.com/tours/12-day-tour-package-from-casablanca/" rel="noopener" target="_blank"><strong>tour de 12 días desde Casablanca</strong></a>.</p>
+  aHtml: <p>Tenemos otros dos tours similares que incluyen más ciudades. Son el <strong><a href="/tours/10-day-tour-from-casablanca" rel="noopener" target="_blank">tour de 10 días</a></strong> y el <a href="/tours/12-day-tour-from-casablanca" rel="noopener" target="_blank"><strong>tour de 12 días desde Casablanca</strong></a>.</p>
 - q: ¿Son suficientes 8 días para recorrer de Casablanca a Marrakech sin sentirse apresurado?
   aHtml: <p>Es un itinerario completo, de aproximadamente 1500 km en total, pero el ritmo le da un día completo libre tanto en Fez como en Marrakech en lugar de precipitarse. Los días de conducción más largos son de Fez a Merzouga y de Dades a Marrakech, que incluyen paradas panorámicas como el Valle del Ziz y Ait Ben Haddou en el camino.</p>
 - q: ¿Cómo debo prepararme para la diferencia de calor entre la costa y el desierto?

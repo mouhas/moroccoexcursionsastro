@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/tours/dinner-in-merzouga-desert/
 tourType: Private Tour
 cancellation: 48 H
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>A romantic dinner in the <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> is a special experience for couples. Surrounded by the tall golden dunes of Erg Chebbi, the desert becomes beautiful at sunset with soft orange and pink colors, creating a quiet and peaceful setting.</p>
+overviewHtml: '<p>A romantic dinner in the <a href="/tours" rel="noopener" target="_blank"><b>Merzouga Desert</b></a> is a special experience for couples. Surrounded by the tall golden dunes of Erg Chebbi, the desert becomes beautiful at sunset with soft orange and pink colors, creating a quiet and peaceful setting.</p>
 
   <p>At our camps, we set up private dinner spots so couples can enjoy their time alone. The calm desert, warm breeze, and wide open space make the evening magical and unforgettable.</p>
 
-  <p>The <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>food</b></a> at our camps is also amazing. Traditional Moroccan dishes, like tasty tagines, fresh bread, and sweet pastries, are served on beautifully arranged tables. Candlelight, lanterns, or rose petals make the dinner even more romantic.</p>
+  <p>The <a href="/tours" rel="noopener" target="_blank"><b>food</b></a> at our camps is also amazing. Traditional Moroccan dishes, like tasty tagines, fresh bread, and sweet pastries, are served on beautifully arranged tables. Candlelight, lanterns, or rose petals make the dinner even more romantic.</p>
 
   <p>A romantic dinner at our camps in Merzouga is perfect for anniversaries, proposals, or a unique getaway. It is not just a meal—it is a magical evening full of love, peace, and memories in the heart of the Sahara Desert.</p>'
 priceHeading: null

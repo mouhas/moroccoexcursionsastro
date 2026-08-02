@@ -11,11 +11,11 @@ source: https://morocco-excursion.com/tours/3-days-2-nights-merzouga-tour/
 tourType: Group Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Are you looking for a full desert tour in <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a> that includes a camel ride, a desert camp, sandboarding, a 4×4 tour, and an ATV/Quad adventure? This experience has it all!</p>
+overviewHtml: '<p>Are you looking for a full desert tour in <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a> that includes a camel ride, a desert camp, sandboarding, a 4×4 tour, and an ATV/Quad adventure? This experience has it all!</p>
 
   <p>Your journey starts in <a href="https://en.wikipedia.org/wiki/Merzouga" rel="noopener" target="_blank"><strong>the village of Merzouga</strong></a>, where you can safely park your car before beginning a camel trek into the Erg Chebbi dunes. The ride takes about one hour, with stops for photos and to enjoy the amazing sunset. At camp, you will be welcomed with mint tea, try sandboarding, and relax before a traditional Moroccan dinner. The night continues with Berber music by the fire and stargazing before you sleep in a comfortable desert tent.</p>
 
-  <p>The next day begins with a beautiful sunrise and breakfast. Then, a 4×4 tour takes you to Khamlia village to enjoy Gnawa music, followed by a visit to the M’ifis mines, known for fossils and stunning desert views. You’ll also visit a nomad <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>family</b></a>, share tea, and learn about their lifestyle. In the afternoon, enjoy an exciting <a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><b>quad bike</b></a> ride across the tallest dunes at sunset before returning to camp for dinner and another starry night.</p>
+  <p>The next day begins with a beautiful sunrise and breakfast. Then, a 4×4 tour takes you to Khamlia village to enjoy Gnawa music, followed by a visit to the M’ifis mines, known for fossils and stunning desert views. You’ll also visit a nomad <a href="/tours" rel="noopener" target="_blank"><b>family</b></a>, share tea, and learn about their lifestyle. In the afternoon, enjoy an exciting <a href="/tours/merzouga-atv-quad-excursion" rel="noopener" target="_blank"><b>quad bike</b></a> ride across the tallest dunes at sunset before returning to camp for dinner and another starry night.</p>
 
   <p>On the last morning, watch the sunrise again, enjoy breakfast, and return to Merzouga by 4×4.</p>'
 priceHeading: Price for the camel ride, 4×4, ATV/Quad & desert camp in Merzouga

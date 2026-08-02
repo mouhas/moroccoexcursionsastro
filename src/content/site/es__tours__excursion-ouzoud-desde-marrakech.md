@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/es/tours/excursion-ouzoud-desde-marrakech/
 tourType: Tour Privado
 cancellation: Hasta 1 día antes
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>Realiza una <a href="https://morocco-excursion.com/excursions/" rel="noopener" target="_blank"><b>excursión de un día</b></a> desde <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> a las impresionantes cascadas de Ouzoud, uno de los lugares naturales más bellos de Marruecos. Situadas en el Atlas, las cascadas caen 110 metros hacia un valle verde, creando a menudo coloridos arcoíris. Es un viaje perfecto para quienes aman la naturaleza y los lugares tranquilos.</p>
+overviewHtml: '<p>Realiza una <a href="/tours" rel="noopener" target="_blank"><b>excursión de un día</b></a> desde <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> a las impresionantes cascadas de Ouzoud, uno de los lugares naturales más bellos de Marruecos. Situadas en el Atlas, las cascadas caen 110 metros hacia un valle verde, creando a menudo coloridos arcoíris. Es un viaje perfecto para quienes aman la naturaleza y los lugares tranquilos.</p>
 
   <p>Disfruta de un paseo por olivares y pequeños pueblos <strong><a href="https://en.wikipedia.org/wiki/Berber_languages" rel="noopener" target="_blank">bereberes</a></strong> de camino a las cascadas. Incluso puede que veas simpáticos monos jugando entre los árboles. Al pie de la cascada, siente la fresca bruma, toma grandes fotografías o da un paseo en pequeña barca para acercarte al agua.</p>
 
@@ -31,7 +31,7 @@ notes:
 - Puedes contratar un guía local en el lugar para aprender más y recibir ayuda para orientarte por los senderos.
 - <p>Hay restaurantes locales con hermosas vistas de las cascadas. La mayoría ofrece platos tradicionales marroquíes.</p>
 - El camino hasta la base de la cascada y de vuelta incluye escalones y tramos empinados. No es demasiado difícil, pero no es ideal para personas con dificultades para caminar.
-- Durante tu visita a la zona de Ouzoud, también puedes hacer un <strong><a href="/es/tours/2-dias-marrakech-zagora" rel="noopener" target="_blank">tour de 2 días por el desierto desde Marrakech a Zagora</a></strong> si dispones de un día extra.
+- Durante tu visita a la zona de Ouzoud, también puedes hacer un <strong><a href="/es/tours/2-dias-marrakech-zagora-desierto" rel="noopener" target="_blank">tour de 2 días por el desierto desde Marrakech a Zagora</a></strong> si dispones de un día extra.
 highlights:
 - Disfruta de la hermosa vista de las cascadas
 - Contempla el increíble paisaje de las montañas del Atlas
@@ -80,7 +80,7 @@ faqs:
 - q: ¿Existen tours alternativos a la excursión de un día desde Marrakech a las cascadas de Ouzoud?
   aHtml: '<p>Aquí tienes dos excursiones de un día alternativas desde Marrakech, similares a la de Ouzoud:</p>
 
-    <p><a href="/es/tours/ourika-day-trip" rel="noopener" target="_blank"><strong>Excursión De Un Día Al Valle De Ourika</strong></a></p>
+    <p><a href="/es/tours/excursion-a-ourika" rel="noopener" target="_blank"><strong>Excursión De Un Día Al Valle De Ourika</strong></a></p>
 
     <p>A unos 30 km de Marrakech</p>
 
@@ -88,7 +88,7 @@ faqs:
 
     <p>Ideal para los amantes de la naturaleza y el senderismo fácil</p>
 
-    <p><a href="/es/tours/excursion-essaouira-marrakech" rel="noopener" target="_blank"><strong>Excursión De Un Día A Essaouira</strong></a></p>
+    <p><a href="/es/tours/excursion-a-essaouira-desde-marrakech" rel="noopener" target="_blank"><strong>Excursión De Un Día A Essaouira</strong></a></p>
 
     <p>A unos 180 km de Marrakech</p>
 

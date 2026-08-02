@@ -17,7 +17,7 @@ overviewHtml: '<p>El viaje comienza en Casablanca, la moderna ciudad marroquí s
 
   <p>Desde Merzouga, la aventura continúa a través de las espectaculares gargantas del Todra, la sinuosa carretera del valle del Dades y el valle de las Rosas, con tu dulce fragancia. El camino conduce luego a Ouarzazate, famosa por sus antiguas kasbahs y estudios cinematográficos. Otro punto destacado es Ait Benhaddou, un pueblo declarado Patrimonio de la Humanidad por la UNESCO con casas de arcilla, antes de cruzar las montañas del Alto Atlas y llegar a Marrakech. En esta animada ciudad, los palacios, los jardines y la bulliciosa plaza Jemaa el-Fnaa capturan la energía y la cultura de Marruecos.</p>
 
-  <p>El tour también te lleva a una <a href="https://morocco-excursion.com/es/tours/excursion-ouzoud/" rel="noopener" target="_blank"><strong>excursión de un día a las cascadas de Ouzoud</strong></a>, las más altas de Marruecos, y termina junto al océano en Essaouira, una encantadora ciudad con casas blancas, contraventanas azules, murallas históricas y marisco fresco.</p>'
+  <p>El tour también te lleva a una <a href="/es/tours/excursion-ouzoud-desde-marrakech" rel="noopener" target="_blank"><strong>excursión de un día a las cascadas de Ouzoud</strong></a>, las más altas de Marruecos, y termina junto al océano en Essaouira, una encantadora ciudad con casas blancas, contraventanas azules, murallas históricas y marisco fresco.</p>'
 priceHeading: null
 priceRows:
 - - Número de viajeros
@@ -165,7 +165,7 @@ faqs:
 - q: ¿Puedo ampliar o acortar este itinerario de 12 días?
   aHtml: <p>Sí, el itinerario se puedes personalizar completamente. Puedes añadir noches adicionales en Marrakech, Fez o Chefchaouen, o acortar el tour para centrarte solo en regiones específicas.</p>
 - q: ¿Qué otros tours recomiendas?
-  aHtml: <p>Si dispone de más tiempo en Marruecos, te recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
+  aHtml: <p>Si dispone de más tiempo en Marruecos, te recomendamos un <a href="/es/tours/15-dias-desde-casablanca" rel="noopener" target="_blank"><strong>tour de 15 días</strong></a>, <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> o incluso el tour de <a href="/es/tours" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
 - q: ¿Merece la pena la excursión de un día a las cascadas de Ouzoud?
   aHtml: <p>Sí, es uno de los días más memorables del recorrido. Las cascadas de Ouzoud son las más altas de Marruecos y el camino hasta los miradores incluye una caminata corta pero muy bonita, con monos de Berbería jugando entre los árboles cerca del agua.</p>
 - q: ¿Por qué el tour termina en Essaouira y no directamente en Marrakech?

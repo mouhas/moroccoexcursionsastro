@@ -165,7 +165,7 @@ faqs:
 - q: Puis-je prolonger ou raccourcir cet itinéraire de 12 jours?
   aHtml: <p>Oui, l'itinéraire peut être entièrement personnalisé. Vous pouvez ajouter des nuits supplémentaires à Marrakech, Fès ou Chefchaouen, ou raccourcir le circuit pour vous concentrer uniquement sur certaines régions.</p>
 - q: Quelles autres visites recommandez-vous?
-  aHtml: <p>Si vous disposez de plus de temps au Maroc, nous vous recommandons un <a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 15 jours</strong></a>, <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>20 jours</strong></a>, ou bien <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
+  aHtml: <p>Si vous disposez de plus de temps au Maroc, nous vous recommandons un <a href="/fr/tours/15-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuit de 15 jours</strong></a>, <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>20 jours</strong></a>, ou bien <a href="/fr/tours" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
 - q: Peut-on remplacer la balade à dos de chameau par un trajet en 4x4 jusqu'au campement?
   aHtml: <p>Oui, si la randonnée à dos de chameau ne convient pas à tous les membres du groupe (jeunes enfants, problèmes de dos), un véhicule 4x4 peut vous conduire directement au campement dans le désert de Merzouga.</p>
 - q: Quelle est la meilleure période de l'année pour ce circuit de 12 jours?

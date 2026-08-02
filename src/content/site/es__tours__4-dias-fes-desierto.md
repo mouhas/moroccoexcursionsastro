@@ -132,7 +132,7 @@ faqs:
 - q: ¿Cuál es el precio del tour de 4 días desde Fez al desierto?
   aHtml: '<p>El costo del tour de 4 días desde Fez al desierto varía según factores como el tamaño del grupo, la categoría del alojamiento y la temporada. Los precios suelen ser más altos para grupos privados pequeños, alojamientos de lujo y durante las temporadas altas de viaje. Con gusto te proporcionaremos un presupuesto exacto según tus preferencias y fechas de viaje.</p>'
 - q: ¿Ofrecen un tour similar?
-  aHtml: <p>¡Claro que sí! Podemos sugerirte un <a href="https://morocco-excursion.com/tours/fes-to-marrakech-4-day-desert-tour/" rel="noopener" target="_blank"><strong>tour de 4 días de Fez a Marrakech</strong></a> o un <a href="https://morocco-excursion.com/tours/5-day-desert-tour-from-fes/" rel="noopener" target="_blank"><strong>tour de 5 días por el desierto desde Fez</strong></a>.</p>
+  aHtml: <p>¡Claro que sí! Podemos sugerirte un <a href="/tours" rel="noopener" target="_blank"><strong>tour de 4 días de Fez a Marrakech</strong></a> o un <a href="/tours" rel="noopener" target="_blank"><strong>tour de 5 días por el desierto desde Fez</strong></a>.</p>
 - q: '¿Cuál es la diferencia entre el campamento estándar y el superior?'
   aHtml: <p>El campamento estándar Mouhou cuenta con cómodas tiendas de estilo compartido con cena y desayuno incluidos, mientras que la opción superior Mouhou Luxury Camp ofrece tiendas más privadas con mejor ropa de cama e instalaciones privadas. La misma opción de mejora se aplica a los hoteles en las Gargantas del Todra.</p>
 - q: ¿Qué debo llevar para este viaje?

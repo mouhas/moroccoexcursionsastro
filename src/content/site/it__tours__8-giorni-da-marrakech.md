@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/it/tours/8-giorni-da-marrakech/
 tourType: Tour Privato
 cancellation: Fino a 1 giorno
 languagesSpoken: Inglese, Multilingue
-overviewHtml: '<p>Questo tour di 8 giorni in Marocco inizia a <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> e vi porta attraverso le montagne dell''Alto Atlante, i villaggi berberi e il deserto del Sahara. Quando arriverete all''aeroporto di Marrakech, un autista verrà a prendervi e vi accompagnerà al vostro hotel. Se arrivate in anticipo, potrete fare una breve passeggiata per iniziare a esplorare la città.</p>
+overviewHtml: '<p>Questo tour di 8 giorni in Marocco inizia a <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> e vi porta attraverso le montagne dell''Alto Atlante, i villaggi berberi e il deserto del Sahara. Quando arriverete all''aeroporto di Marrakech, un autista verrà a prendervi e vi accompagnerà al vostro hotel. Se arrivate in anticipo, potrete fare una breve passeggiata per iniziare a esplorare la città.</p>
 
   <p>Il giorno successivo, scoprirete Marrakech. Visiterete la Moschea Koutoubia, il Palazzo della Bahia, passeggerete tra i coloratissimi souk ed esplorerete la vecchia medina e la famosa <a href="https://en.wikipedia.org/wiki/Jemaa_el-Fnaa" rel="noopener" target="_blank"><strong>piazza Jemaa el-Fnaa</strong></a>.</p>
 
   <p>Il terzo giorno, viaggerete attraverso le montagne verso la Valle del Dades. Lungo il percorso, visiterete la famosa Kasbah di Ait Ben Haddou e passerete per piccoli villaggi berberi e oasi di palme prima di arrivare a Dades per la notte.</p>
 
-  <p>Il quarto giorno vi porta nel deserto. Visiterete le Gole del Todra, poi vi dirigerete verso <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>, dove cavalcherete un cammello tra le dune di sabbia e trascorrerete la notte in un campo tendato nel deserto sotto le stelle, con cena e musica locale.</p>
+  <p>Il quarto giorno vi porta nel deserto. Visiterete le Gole del Todra, poi vi dirigerete verso <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a>, dove cavalcherete un cammello tra le dune di sabbia e trascorrerete la notte in un campo tendato nel deserto sotto le stelle, con cena e musica locale.</p>
 
   <p>Il giorno successivo, guiderete fino a Ouarzazate, con una sosta al mercato di Rissani e passando per villaggi del deserto come Alnif, Nkob, e la lunga Valle del Draa ricca di palme.</p>
 
@@ -57,7 +57,7 @@ notes:
 - Il tour inizia e termina a Marrakech, rendendo semplice organizzare i voli di andata e ritorno dalla città.
 - Soggiornerete in un mix di hotel confortevoli e riad tradizionali, oltre a due notti in un campo tendato nel deserto con tende private comode e accoglienti.
 - Il tour offre un equilibrio tra l'esplorazione di città vivaci come Marrakech e la visita a tranquilli villaggi berberi tra le montagne e il deserto.
-- 'Avrete un''intera giornata a Marrakech per visitare, provare il <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>cibo</b></a> locale e visitare luoghi come giardini o musei.'
+- 'Avrete un''intera giornata a Marrakech per visitare, provare il <a href="/tours" rel="noopener" target="_blank"><b>cibo</b></a> locale e visitare luoghi come giardini o musei.'
 - 'Per tutto il viaggio avrete a disposizione <strong><a href="/morocco-rental-cars" rel="noopener" target="_blank">un''auto e un autista professionista privato</a></strong>/guida per garantire la vostra sicurezza, rispondere alle domande e contribuire a rendere la vostra esperienza fluida e piacevole.'
 highlights:
 - Esplorate Marrakech con una guida

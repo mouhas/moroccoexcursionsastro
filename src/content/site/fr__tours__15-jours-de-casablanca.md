@@ -173,7 +173,7 @@ faqs:
 - q: Qu'est-ce qui rend ce circuit de 15 jours au départ de Casablanca si spécial?
   aHtml: '<p>Cet itinéraire vous offre le meilleur du Maroc en deux semaines : les villes impériales, le désert du Sahara, les montagnes de l''Atlas et la côte atlantique. Vous découvrirez la culture, l''histoire, la nature et la vie locale en un seul voyage.</p>'
 - q: Recommandez-vous d'autres circuits similaires?
-  aHtml: <p>Oui, si vous recherchez un voyage plus long, consultez nos <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuits de 20 jours</strong></a> et <a href="https://morocco-excursion.com/fr/tours/30-jours-de-casablanca/" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
+  aHtml: <p>Oui, si vous recherchez un voyage plus long, consultez nos <a href="/fr/tours/20-jours-de-casablanca" rel="noopener" target="_blank"><strong>circuits de 20 jours</strong></a> et <a href="/fr/tours" rel="noopener" target="_blank"><strong>30 jours au Maroc</strong></a>.</p>
 - q: Ce circuit de 15 jours est-il physiquement exigeant?
   aHtml: '<p>Le rythme est soutenu avec plusieurs longs trajets en voiture, mais les efforts physiques restent modérés : marche dans les médinas, dans les gorges du Todra et balade à dos de chameau. Une bonne condition physique générale suffit, sans expérience de randonnée particulière.</p>'
 - q: S'agit-il d'un circuit privé ou partagé avec d'autres voyageurs?

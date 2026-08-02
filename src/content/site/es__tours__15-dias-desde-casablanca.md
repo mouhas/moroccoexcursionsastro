@@ -173,7 +173,7 @@ faqs:
 - q: ¿Qué hace que este tour de 15 días desde Casablanca sea tan especial?
   aHtml: '<p>Este itinerario te ofrece lo mejor de Marruecos en dos semanas: ciudades imperiales, el desierto del Sáhara, las montañas del Atlas y la costa atlántica. Disfrutarás de la cultura, la historia, la naturaleza y la vida local, todo en un solo viaje.</p>'
 - q: ¿Recomiendas algún otro tour similar?
-  aHtml: <p>Sí, si estás buscando un viaje más largo, echa un vistazo a nuestros tours de <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> y de <a href="https://morocco-excursion.com/es/tours/30-dias-desde-casablanca/" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
+  aHtml: <p>Sí, si estás buscando un viaje más largo, echa un vistazo a nuestros tours de <a href="/es/tours/20-dias-desde-casablanca" rel="noopener" target="_blank"><strong>20 días</strong></a> y de <a href="/es/tours" rel="noopener" target="_blank"><strong>30 días por Marruecos</strong></a>.</p>
 - q: ¿Se puede practicar surf en Taghazout durante el tour?
   aHtml: <p>El tour incluye una parada para pasear y relajarte en Taghazout, pero las clases de surf no están incluidas en el precio base. Si te interesa, tu conductor puede ayudarte a organizar una clase con una escuela local mientras estás allí.</p>
 - q: ¿Qué tiene de especial Sidi Ifni?

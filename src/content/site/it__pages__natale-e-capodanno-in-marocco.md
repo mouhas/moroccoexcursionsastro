@@ -26,9 +26,9 @@ metaDescription: null
 autoPricing: null
 ratingBreakdown: null
 ---
-Con l'avvicinarsi della fine dell'anno, il Marocco si anima di spirito festivo, accogliendo sia i locali che i viaggiatori per celebrare il Natale e il Capodanno nel suo modo unico e affascinante. Questo gioiello del Nord Africa offre un mix di [cultura marocchina](https://www.morocco-excursion.com/moroccan-people/) tradizionale e un tocco internazionale durante il periodo natalizio. Dai mercati animati adornati di luci colorate alle celebrazioni nel deserto sotto un cielo stellato, trascorrere il Natale e il Capodanno in Marocco promette un'esperienza indimenticabile per tutti.
+Con l'avvicinarsi della fine dell'anno, il Marocco si anima di spirito festivo, accogliendo sia i locali che i viaggiatori per celebrare il Natale e il Capodanno nel suo modo unico e affascinante. Questo gioiello del Nord Africa offre un mix di [cultura marocchina](/tours) tradizionale e un tocco internazionale durante il periodo natalizio. Dai mercati animati adornati di luci colorate alle celebrazioni nel deserto sotto un cielo stellato, trascorrere il Natale e il Capodanno in Marocco promette un'esperienza indimenticabile per tutti.
 
-In Marocco, il Natale è celebrato in modo più discreto rispetto ai paesi occidentali, dato che la maggioranza della popolazione è musulmana. Tuttavia, nelle città con comunità cristiane numerose, come [Casablanca](https://www.morocco-excursion.com/casablanca-tours/) e **Marrakech**, troverete alberi di Natale splendidamente addobbati, decorazioni festive e allegri raduni.
+In Marocco, il Natale è celebrato in modo più discreto rispetto ai paesi occidentali, dato che la maggioranza della popolazione è musulmana. Tuttavia, nelle città con comunità cristiane numerose, come [Casablanca](/tours) e **Marrakech**, troverete alberi di Natale splendidamente addobbati, decorazioni festive e allegri raduni.
 
 ## Offerta Speciale per Natale nel Deserto del Sahara:
 

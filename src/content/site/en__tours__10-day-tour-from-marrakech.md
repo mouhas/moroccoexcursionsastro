@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/tours/10-day-tour-from-marrakech/
 tourType: Private Tour
 cancellation: Up to 1 day
 languagesSpoken: English, Multilingual
-overviewHtml: '<p>Are you dreaming of spending 10 mysterious and adventurous days in Morocco? If yes, then this 10-day tour from <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> might be exactly what you’re looking for.</p>
+overviewHtml: '<p>Are you dreaming of spending 10 mysterious and adventurous days in Morocco? If yes, then this 10-day tour from <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> might be exactly what you’re looking for.</p>
 
   <p>The first two days will be spent exploring Marrakech, also known as the Red City. It’s an imperial city filled with old mosques, beautiful palaces, and peaceful gardens.</p>
 
   <p>On the third and fourth days, you’ll cross the High Atlas Mountains heading south. Along the way, you’ll discover traditional Berber villages, green oases, scenic valleys, and historic kasbahs like Ait Ben Haddou. You will also get the chance to walk through the famous Todra Gorges, one of the highest canyons in Morocco.</p>
 
-  <p>One of the highlights of the tour is a camel ride deep into the golden dunes of Erg Chebbi (also called the <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga Desert</b></a>). You’ll visit a nomad family, enjoy traditional tea with them, and witness a magical sunset and sunrise. You’ll also spend a peaceful night under the stars in a desert camp.</p>
+  <p>One of the highlights of the tour is a camel ride deep into the golden dunes of Erg Chebbi (also called the <a href="/tours" rel="noopener" target="_blank"><b>Merzouga Desert</b></a>). You’ll visit a nomad family, enjoy traditional tea with them, and witness a magical sunset and sunrise. You’ll also spend a peaceful night under the stars in a desert camp.</p>
 
   <p>On the sixth and seventh days, we’ll travel back to Marrakech through the southern route. This journey will take you through rocky desert landscapes, small Berber villages, lively local markets, and lush valleys full of palm trees.</p>
 
@@ -51,7 +51,7 @@ priceRows:
 notesHeading: null
 notes:
 - The tour covers Marrakech, the Atlas Mountains, and the sea. You’ll explore bustling cities like Marrakech, Essaouira, and Ouarzazate, as well as the calm and wild beauty of the Sahara Desert. Be ready for a mix of culture, nature, and adventure.
-- Morocco’s landscapes are stunning, but some travel days can be long, especially crossing the High Atlas Mountains and heading to <strong><a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank">Merzouga</a></strong>. Expect to spend several hours in the car on some days.
+- Morocco’s landscapes are stunning, but some travel days can be long, especially crossing the High Atlas Mountains and heading to <strong><a href="/tours" rel="noopener" target="_blank">Merzouga</a></strong>. Expect to spend several hours in the car on some days.
 - This trip includes nights in riads (traditional Moroccan houses) and desert camps. The style is often charming, superior, and authentic, but may not meet modern five-star standards everywhere, especially in remote areas.
 - The tour passes through Berber villages, where you’ll see traditional ways of life, visit local markets, and sometimes share tea with nomadic families, a cultural experience that is both personal and educational.
 - Whether you want to spend more time in the desert, visit Fes or Chefchaouen, or enjoy specific activities like sandboarding or a hammam, we can customize and adjust this itinerary to match your needs.
@@ -191,7 +191,7 @@ faqs:
 - q: Can you suggest another tours similar to the 10-day tour from Marrakech?
   aHtml: '<p>Sure! Here are two similar tours to the 10 day tour:</p>
 
-    <p><strong><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-tour From Marrakech</a></strong><br/><strong><a href="https://www.morocco-excursion.com/tours/14-day-tour-from-marrakech/" rel="noopener" target="_blank">14-day tour from Marrakech</a></strong></p>'
+    <p><strong><a href="/tours/12-day-trip-from-marrakech" rel="noopener" target="_blank">12-tour From Marrakech</a></strong><br/><strong><a href="/tours" rel="noopener" target="_blank">14-day tour from Marrakech</a></strong></p>'
 - q: Do I need to tip the driver during this tour?
   aHtml: '<p>Tipping isn''t required but is customary in Morocco. Many travelers give their driver around 10-15 euros per day of the tour, based on service and group size.</p>'
 - q: Will I have mobile signal or Wi-Fi in places like Merzouga or the Todra Gorges?

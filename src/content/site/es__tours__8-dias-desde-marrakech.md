@@ -11,13 +11,13 @@ source: https://morocco-excursion.com/es/tours/8-dias-desde-marrakech/
 tourType: Tour Privado
 cancellation: Hasta 1 día
 languagesSpoken: Inglés, Multilingüe
-overviewHtml: '<p>Este tour de 8 días por Marruecos comienza en <a href="https://morocco-excursion.com/marrakech-tours/" rel="noopener" target="_blank"><b>Marrakech</b></a> y le lleva a través de las montañas del Alto Atlas, pueblos bereberes y el desierto del Sáhara. Al llegar al aeropuerto de Marrakech, un chófer le recogerá y le llevará a su hotel. Si llega temprano, puede dar un breve paseo para explorar la ciudad.</p>
+overviewHtml: '<p>Este tour de 8 días por Marruecos comienza en <a href="/tours" rel="noopener" target="_blank"><b>Marrakech</b></a> y le lleva a través de las montañas del Alto Atlas, pueblos bereberes y el desierto del Sáhara. Al llegar al aeropuerto de Marrakech, un chófer le recogerá y le llevará a su hotel. Si llega temprano, puede dar un breve paseo para explorar la ciudad.</p>
 
   <p>Al día siguiente, descubrirá Marrakech. Visitará la Mezquita Koutoubia, el Palacio de la Bahía, caminará por los coloridos zocos y explorará la antigua medina y la famosa <a href="https://en.wikipedia.org/wiki/Jemaa_el-Fnaa" rel="noopener" target="_blank"><strong>plaza Jemaa el-Fnaa</strong></a>.</p>
 
   <p>El tercer día, viajará a través de las montañas hacia el Valle del Dades. En el camino, visitará la famosa Kasbah de Ait Ben Haddou y pasará por pequeños pueblos bereberes y oasis de palmeras antes de llegar a Dades para pasar la noche.</p>
 
-  <p>El cuarto día le lleva al desierto. Visitará las Gargantas del Todra, luego se dirigirá a <a href="https://morocco-excursion.com/merzouga-tours/" rel="noopener" target="_blank"><b>Merzouga</b></a>, donde montará en camello sobre las dunas de arena y pasará la noche en un campamento del desierto bajo las estrellas con cena y música local.</p>
+  <p>El cuarto día le lleva al desierto. Visitará las Gargantas del Todra, luego se dirigirá a <a href="/tours" rel="noopener" target="_blank"><b>Merzouga</b></a>, donde montará en camello sobre las dunas de arena y pasará la noche en un campamento del desierto bajo las estrellas con cena y música local.</p>
 
   <p>Al día siguiente, conducirá hasta Ouarzazate, parando en el mercado de Rissani y pasando por pueblos del desierto como Alnif, Nkob, y el largo Valle del Draa lleno de palmeras.</p>
 
@@ -57,7 +57,7 @@ notes:
 - El tour comienza y termina en Marrakech, lo que facilita organizar los vuelos de ida y vuelta a la ciudad.
 - Se alojará en una combinación de hoteles cómodos y riads tradicionales, además de dos noches en un campamento del desierto con tiendas privadas cómodas y acogedoras.
 - El tour ofrece un equilibrio entre explorar ciudades vibrantes como Marrakech y visitar tranquilos pueblos bereberes en las montañas y el desierto.
-- 'Tendrá un día completo en Marrakech para visitar, probar la <a href="https://morocco-excursion.com/morocco-food-tour/" rel="noopener" target="_blank"><b>gastronomía</b></a> local y visitar lugares como jardines o museos.'
+- 'Tendrá un día completo en Marrakech para visitar, probar la <a href="/tours" rel="noopener" target="_blank"><b>gastronomía</b></a> local y visitar lugares como jardines o museos.'
 - 'A lo largo del viaje, contará con <strong><a href="/morocco-rental-cars" rel="noopener" target="_blank">un coche y un chófer profesional privado</a></strong>/guía para garantizar su seguridad, responder preguntas y ayudar a que su experiencia sea fluida y agradable.'
 highlights:
 - Explore Marrakech con un guía

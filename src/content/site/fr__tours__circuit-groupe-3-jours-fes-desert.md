@@ -11,7 +11,7 @@ source: https://morocco-excursion.com/fr/tours/circuit-groupe-3-jours-fes-desert
 tourType: Circuit en Groupe
 cancellation: 48 H
 languagesSpoken: Anglais, Multilingue
-overviewHtml: <p>Ce circuit de 3 jours dans le désert vous emmène de <a href="https://morocco-excursion.com/fes-tours/" rel="noopener" target="_blank"><b>Fès</b></a> au désert du Sahara en passant par les montagnes du Moyen Atlas. Rejoignez-nous en petits groupes. Rencontrez des <a href="https://morocco-excursion.com/morocco-family-tours/" rel="noopener" target="_blank"><b>familles</b></a> locales et découvrez leur mode de vie en traversant les magnifiques montagnes de l'Atlas et en vous arrêtant dans de charmants villages berbères. Préparez-vous pour une authentique balade à dos de chameau à travers les dunes dorées, et passez la nuit dans un campement confortable. Lors de ce circuit, vous découvrirez les paysages à couper le souffle du Maroc et la culture berbère pleine de vie.</p>
+overviewHtml: <p>Ce circuit de 3 jours dans le désert vous emmène de <a href="/tours" rel="noopener" target="_blank"><b>Fès</b></a> au désert du Sahara en passant par les montagnes du Moyen Atlas. Rejoignez-nous en petits groupes. Rencontrez des <a href="/tours" rel="noopener" target="_blank"><b>familles</b></a> locales et découvrez leur mode de vie en traversant les magnifiques montagnes de l'Atlas et en vous arrêtant dans de charmants villages berbères. Préparez-vous pour une authentique balade à dos de chameau à travers les dunes dorées, et passez la nuit dans un campement confortable. Lors de ce circuit, vous découvrirez les paysages à couper le souffle du Maroc et la culture berbère pleine de vie.</p>
 priceHeading: null
 priceRows: []
 notesHeading: null
