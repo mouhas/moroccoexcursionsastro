@@ -131,6 +131,60 @@ function gh_list_dir($path) {
     return $out;
 }
 
+// Every file path in the whole repo, in one request — the Git Trees API
+// (unlike gh_list_dir) supports recursive listing. Used to check whether an
+// image referenced by the gallery manifest actually exists on disk, without
+// firing one gh_list_dir call per subfolder.
+function gh_list_all_paths() {
+    $res = gh_request('GET', 'git/trees/' . GITHUB_BRANCH . '?recursive=1');
+    if ($res['status'] !== 200) throw new Exception('GitHub tree list failed (' . $res['status'] . ')');
+    $out = [];
+    foreach ($res['data']['tree'] as $item) {
+        if ($item['type'] === 'blob') $out[] = $item['path'];
+    }
+    return $out;
+}
+
+// Checks a batch of external URLs concurrently and returns [url => httpStatus
+// or null-on-network-error]. HEAD request (cheap, no body download), follows
+// redirects, short timeout since a slow third-party site shouldn't stall the
+// whole audit. Not GitHub-specific, but shares the same curl_multi batching
+// approach as gh_get_files_multi for the same reason (dozens of concurrent
+// requests instead of one at a time).
+function check_urls_concurrent($urls, $batchSize = 20, $timeout = 8) {
+    $results = [];
+    $chunks = array_chunk($urls, $batchSize);
+    foreach ($chunks as $chunk) {
+        $mh = curl_multi_init();
+        $handles = [];
+        foreach ($chunk as $url) {
+            $ch = curl_init($url);
+            curl_setopt($ch, CURLOPT_NOBODY, true);
+            curl_setopt($ch, CURLOPT_HEADER, false);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+            curl_setopt($ch, CURLOPT_MAXREDIRS, 5);
+            curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+            curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (compatible; MoroccoExcursionsAuditBot/1.0)');
+            curl_multi_add_handle($mh, $ch);
+            $handles[$url] = $ch;
+        }
+        $running = null;
+        do {
+            $status = curl_multi_exec($mh, $running);
+            if ($running) curl_multi_select($mh);
+        } while ($running && $status === CURLM_OK);
+        foreach ($handles as $url => $ch) {
+            $httpStatus = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+            $results[$url] = $httpStatus > 0 ? $httpStatus : null;
+            curl_multi_remove_handle($mh, $ch);
+        }
+        curl_multi_close($mh);
+    }
+    return $results;
+}
+
 function rawurlencode_path($path) {
     // Encode each segment separately so the slashes in the path survive.
     return implode('/', array_map('rawurlencode', explode('/', $path)));

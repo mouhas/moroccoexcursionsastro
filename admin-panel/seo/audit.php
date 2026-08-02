@@ -27,7 +27,13 @@ function strip_html($html) {
 // — so we stop at the first whitespace/paren rather than capturing to ")".
 function extract_link_targets($text) {
     $links = [];
-    if (preg_match_all('/\]\(\s*([^)\s]+)/', $text, $m)) $links = array_merge($links, $m[1]);
+    // Markdown links: [text](URL) or [text](URL "Title"). The URL group's
+    // alternation allows one level of the URL's own matched parens — e.g.
+    // Wikipedia's .../wiki/Riad_(architecture) — without stopping at that
+    // inner ")" and truncating the URL before its real closing paren. The
+    // optional trailing (?:\s+"...")? absorbs a markdown title attribute
+    // so it doesn't get swallowed into the URL capture either.
+    if (preg_match_all('/\]\(\s*((?:[^()\s]|\([^()]*\))+)(?:\s+"[^"]*")?\)/', $text, $m)) $links = array_merge($links, $m[1]);
     if (preg_match_all('/href=["\']([^"\']+)["\']/i', $text, $m)) $links = array_merge($links, $m[1]);
     return $links;
 }
@@ -49,6 +55,26 @@ function normalize_internal_link($url) {
     }
     $path = preg_split('/[?#]/', $path)[0];
     return trim($path, '/'); // '' means homepage
+}
+
+// Every external (non-morocco-excursion.com) http(s) link a page contains —
+// the candidates for the live external-link check.
+function extract_external_links($text) {
+    $out = [];
+    foreach (extract_link_targets($text) as $raw) {
+        $url = trim($raw);
+        if (preg_match('#^https?://#i', $url) && !preg_match('#morocco-excursion\.com#i', $url)) {
+            $out[$url] = true; // de-dupe per file
+        }
+    }
+    return array_keys($out);
+}
+
+// A body that contains its own level-1 "# Heading" duplicates the page's
+// own auto-rendered <h1>{title}</h1> — two H1s on one page confuses search
+// engines about what the page is actually about. (`##` and deeper are fine.)
+function has_stray_h1($body) {
+    return (bool) preg_match('/^#[ \t]+\S/m', $body);
 }
 
 if ($refresh || !$cache || $cacheAge > $CACHE_TTL) {
@@ -109,13 +135,34 @@ if ($refresh || !$cache || $cacheAge > $CACHE_TTL) {
                 'metaDescription' => isset($data['metaDescription']) && $data['metaDescription'] ? trim((string) $data['metaDescription']) : '',
                 'contentHash' => $contentHash,
                 'links' => array_keys($links),
+                'externalLinks' => extract_external_links($linkBlob),
+                'strayH1' => has_stray_h1($body),
                 'hasOverview' => !empty($data['overviewHtml']),
             ];
         }
 
-        // Missing alt text — a separate, sitewide check against the gallery
-        // image manifest rather than per-page frontmatter (see lib/gallery.php).
+        // Live-check every distinct external link found anywhere on the site
+        // (small enough — usually a couple dozen Wikipedia/reference links —
+        // to check on every refresh rather than needing its own cache).
+        $allExternal = [];
+        foreach ($entries as $e) foreach ($e['externalLinks'] as $u) $allExternal[$u] = true;
+        $externalStatus = check_urls_concurrent(array_keys($allExternal));
+
+        // Cross-check the gallery photo manifest against what actually
+        // exists in the repo — a manifest entry with no matching file shows
+        // as a broken image on the live site.
+        $repoImagePaths = [];
+        try {
+            $repoImagePaths = array_flip(gh_list_all_paths());
+        } catch (Exception $e) {
+            // non-fatal — the rest of the audit still runs
+        }
+
+        // Missing alt text and missing files — a separate, sitewide check
+        // against the gallery image manifest rather than per-page
+        // frontmatter (see lib/gallery.php).
         $altIssues = [];
+        $missingImageFiles = [];
         $imageManifestPaths = [];
         try {
             $manifestFile = gh_get_file('src/data/tour-images.json');
@@ -128,6 +175,10 @@ if ($refresh || !$cache || $cacheAge > $CACHE_TTL) {
                         if (empty($img['alt']) || trim((string) $img['alt']) === '') {
                             $altIssues[] = ['urlPath' => $urlPath, 'file' => isset($img['file']) ? $img['file'] : '(unknown file)'];
                         }
+                        $imgFile = isset($img['file']) ? $img['file'] : null;
+                        if ($imgFile && $repoImagePaths && !isset($repoImagePaths['public/images/' . $imgFile])) {
+                            $missingImageFiles[] = ['urlPath' => $urlPath, 'file' => $imgFile];
+                        }
                     }
                 }
             }
@@ -135,17 +186,28 @@ if ($refresh || !$cache || $cacheAge > $CACHE_TTL) {
             // non-fatal — the rest of the audit still runs
         }
 
-        $_SESSION['seo_audit_v2'] = ['entries' => $entries, 'altIssues' => $altIssues, 'imageManifestPaths' => $imageManifestPaths, 'computedAt' => time()];
+        $_SESSION['seo_audit_v2'] = [
+            'entries' => $entries,
+            'altIssues' => $altIssues,
+            'missingImageFiles' => $missingImageFiles,
+            'imageManifestPaths' => $imageManifestPaths,
+            'externalStatus' => $externalStatus,
+            'computedAt' => time(),
+        ];
         $cache = $_SESSION['seo_audit_v2'];
     } catch (Exception $e) {
         $error = $e->getMessage();
-        if (!$cache) { $cache = ['entries' => [], 'altIssues' => [], 'imageManifestPaths' => [], 'computedAt' => time()]; }
+        if (!$cache) { $cache = ['entries' => [], 'altIssues' => [], 'missingImageFiles' => [], 'imageManifestPaths' => [], 'externalStatus' => [], 'computedAt' => time()]; }
     }
 }
 
 $entries = $cache['entries'];
 $altIssues = $cache['altIssues'];
 $imageManifestPaths = $cache['imageManifestPaths'];
+// ?? [] guards against a session cached by a previous version of this page
+// (before these checks existed) that hasn't been refreshed yet.
+$missingImageFiles = $cache['missingImageFiles'] ?? [];
+$externalStatus = $cache['externalStatus'] ?? [];
 
 // --- Compute issues ---------------------------------------------------------
 $critical = [];
@@ -192,6 +254,40 @@ foreach ($entries as $e) {
             $critical[] = ['file' => $e['file'], 'issue' => 'Broken internal link to "/' . $target . '" — no page has that URL.'];
         }
     }
+}
+
+// Broken external links — a live check (see check_urls_concurrent), not
+// something guessable from the content alone. Only 404/410 ("this page is
+// definitely gone") are unambiguous enough for Critical. Everything else
+// that isn't a clean success — no response, 403, 429, 5xx — is just as
+// likely to be a site blocking an automated HEAD request as a real outage,
+// so it's a Warning worth a manual look rather than a certain broken link
+// (verified against real sites: Britannica returns 403 to this exact check
+// while working fine in an actual browser).
+foreach ($entries as $e) {
+    foreach ($e['externalLinks'] as $url) {
+        $status = $externalStatus[$url] ?? null;
+        if ($status === 404 || $status === 410) {
+            $critical[] = ['file' => $e['file'], 'issue' => 'External link returned HTTP ' . $status . ' (page no longer exists): ' . $url];
+        } elseif ($status === null || $status >= 400) {
+            $warnings[] = ['file' => $e['file'], 'issue' => 'External link ' . ($status ? 'returned HTTP ' . $status : "didn't respond") . ' (may just be blocking automated requests — worth checking manually): ' . $url];
+        }
+    }
+}
+
+// A body with its own "# Heading" duplicates the page's auto-rendered H1
+// (the title). Two H1s on one page muddies what search engines think the
+// page is about — this is a real, if rare, editing mistake to catch.
+foreach ($entries as $e) {
+    if ($e['strayH1']) {
+        $critical[] = ['file' => $e['file'], 'issue' => 'Body content has its own "# Heading", which duplicates the page\'s own title as a second H1.'];
+    }
+}
+
+// Gallery photo manifest references a file that doesn't actually exist in
+// the repo — that page will show a broken image icon to visitors.
+foreach ($missingImageFiles as $m) {
+    $critical[] = ['file' => $m['urlPath'], 'issue' => 'Gallery photo file missing from the repo: ' . $m['file']];
 }
 
 // Duplicate titles within the same language — two pages competing for the
@@ -307,11 +403,11 @@ function render_issue_table($rows, $CONTENT_DIR) {
 ?>
 
 <h2 class="section-heading" style="margin-top:8px">Critical (<?php echo count($critical); ?>)</h2>
-<div class="hint" style="margin-bottom:10px">Missing titles, broken internal links, duplicate URLs, duplicate titles, and duplicate content — these actively hurt rankings or break navigation.</div>
+<div class="hint" style="margin-bottom:10px">Missing titles, broken internal/external links, duplicate URLs, duplicate titles, duplicate content, duplicate H1s, and missing gallery photo files — these actively hurt rankings or break navigation.</div>
 <?php render_issue_table($critical, $CONTENT_DIR); ?>
 
 <h2 class="section-heading" style="margin-top:28px">Warnings (<?php echo count($warnings); ?>)</h2>
-<div class="hint" style="margin-bottom:10px">Title/description length outside the recommended range, or a description reused on more than one page.</div>
+<div class="hint" style="margin-bottom:10px">Title/description length outside the recommended range, a description reused on more than one page, or an external link that didn't respond (worth a manual check — could be blocking automated requests rather than actually down).</div>
 <?php render_issue_table($warnings, $CONTENT_DIR); ?>
 
 <h2 class="section-heading" style="margin-top:28px">Missing Alt Text (<?php echo count($altIssues); ?>)</h2>
