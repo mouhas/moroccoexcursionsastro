@@ -154,7 +154,7 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
 
 <section style="padding:0 40px;margin-top:-38px;position:relative;z-index:10">
   <form action={b + '/tours'} style="background:var(--color-bg);border:1px solid var(--color-divider);border-radius:var(--radius-md);box-shadow:var(--shadow-md);padding:16px">
-    <div style="display:grid;grid-template-columns:1.2fr 1fr 1fr 1fr auto;gap:10px;align-items:end">
+    <div class="search-grid" style="display:grid;grid-template-columns:1.2fr 1fr 1fr 1fr auto;gap:10px;align-items:end">
       <div style="display:grid;gap:5px">
         <label style="font-size:11px;font-weight:600;color:var(--color-neutral-600)">{c.destLabel}</label>
         <select class="input">{c.destOpts.map((o: string) => <option>{o}</option>)}</select>
@@ -219,11 +219,11 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
       </div>
     </div>
     {journeys.map((e, i) => (
-      <a href={'/' + e.data.urlPath} style={`display:grid;grid-template-columns:88px 1fr 1fr 140px;gap:24px;align-items:center;padding:22px 24px;border-radius:var(--radius-lg);text-decoration:none;color:inherit;margin-top:${i ? '8px' : '0'};background:${i % 2 === 0 ? 'var(--color-neutral-100)' : 'transparent'}`}>
-        <div class="ph" style="height:68px;border-radius:var(--radius-md)"></div>
+      <a href={'/' + e.data.urlPath} class="journey-row" style={`display:grid;grid-template-columns:88px 1fr 1fr 140px;gap:24px;align-items:center;padding:22px 24px;border-radius:var(--radius-lg);text-decoration:none;color:inherit;margin-top:${i ? '8px' : '0'};background:${i % 2 === 0 ? 'var(--color-neutral-100)' : 'transparent'}`}>
+        <div class="ph journey-thumb" style="height:68px;border-radius:var(--radius-md)"></div>
         <h3 style="font-size:22px;margin:0">{e.data.title}</h3>
         <span style="font-size:14px;color:var(--color-neutral-700)">{e.data.tourType}{e.data.duration ? ' · ' + e.data.duration : ''}</span>
-        {e.data.price ? <span class="tag tag-accent" style="justify-self:end">{c.from} €{e.data.price.toLocaleString('en-US')}</span> : <span />}
+        {e.data.price ? <span class="tag tag-accent journey-tag" style="justify-self:end">{c.from} €{e.data.price.toLocaleString('en-US')}</span> : <span />}
       </a>
     ))}
   </section>
@@ -300,3 +300,23 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
     <a href={b + '/tours'} class="btn btn-primary" style="font-size:16px;padding:14px 30px">{c.ctaBtn}</a>
   </div>
 </section>
+
+<style>
+  /* Both grids below use fixed-ratio/fixed-px tracks with no wrapping —
+     fine on desktop, but on a narrow phone the non-shrinking columns
+     (search fields' select content, the 88px thumb + 140px price tag)
+     forced these rows wider than the viewport, causing site-wide
+     horizontal scroll. !important is needed to beat the inline
+     grid-template-columns set on these same elements. */
+  @media (max-width: 720px) {
+    .search-grid { grid-template-columns: 1fr 1fr !important; }
+  }
+  @media (max-width: 480px) {
+    .search-grid { grid-template-columns: 1fr !important; }
+  }
+  @media (max-width: 640px) {
+    .journey-row { grid-template-columns: 1fr !important; gap: 10px !important; }
+    .journey-row .journey-thumb { height: 150px !important; }
+    .journey-row .journey-tag { justify-self: start !important; }
+  }
+</style>

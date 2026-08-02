@@ -46,9 +46,9 @@ const FCOPY: Record<Lang, {
 };
 const fc = FCOPY[lang];
 ---
-<footer class="newtheme" style="background:var(--color-accent-2-900);color:var(--color-neutral-200)">
+<footer class="newtheme footer" style="background:var(--color-accent-2-900);color:var(--color-neutral-200)">
   <div style="padding:64px max(40px, calc((100% - 1180px) / 2)) 28px">
-    <div style="display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:36px;padding-bottom:36px;border-bottom:1px solid rgba(255,255,255,0.14)">
+    <div class="footer-grid" style="gap:36px;padding-bottom:36px;border-bottom:1px solid rgba(255,255,255,0.14)">
       <div>
         <p style="font-family:var(--font-heading);font-weight:700;letter-spacing:-0.02em;font-size:24px;margin:0 0 12px;color:#fff">Morocco Excursions</p>
         <p style="font-size:14px;line-height:1.65;color:var(--color-neutral-400);margin:0 0 16px;max-width:290px">{fc.tagline}</p>
@@ -90,3 +90,19 @@ const fc = FCOPY[lang];
     </div>
   </div>
 </footer>
+
+<style>
+  /* The footer's 4-column grid was pure inline style with no responsive
+     override — fine down to a point, but grid tracks don't shrink below
+     their content's natural width by default (fr units imply min-width:auto,
+     not 0), so on narrow phones the 4th column (phone/email, which don't
+     wrap) forced the whole grid — and with it the whole page — wider than
+     the viewport, causing site-wide horizontal scroll/clipping on mobile. */
+  .footer-grid { display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; }
+  @media (max-width: 860px) {
+    .footer-grid { grid-template-columns: 1fr 1fr; row-gap: 28px; }
+  }
+  @media (max-width: 540px) {
+    .footer-grid { grid-template-columns: 1fr; }
+  }
+</style>

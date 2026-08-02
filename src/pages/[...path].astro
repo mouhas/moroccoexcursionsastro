@@ -354,7 +354,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   )}
 
   {isAboutPage && (
-    <>
+    <div class="responsive-grids">
       <section style="padding:40px 40px 24px;display:grid;grid-template-columns:1.1fr 1fr;gap:24px">
         <div style="background:var(--color-accent-2-900);color:var(--color-neutral-100);border-radius:var(--radius-lg);padding:56px 48px">
           <span class="mono" style="color:var(--color-accent-400)">{sc.aboutEyebrow}</span>
@@ -452,11 +452,11 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
         </div>
         <div style="text-align:center;margin-top:24px"><a href={b + '/reviews'} class="btn btn-secondary">{t.readReviews} →</a></div>
       </section>
-    </>
+    </div>
   )}
 
   {isCarHubPage && (
-    <section style="padding:40px 40px 32px;display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center">
+    <section class="responsive-grids" style="padding:40px 40px 32px;display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center">
       <div>
         <span class="mono" style="color:var(--color-accent-700)">{sc.carsEyebrow}</span>
         <h1 style="font-size:clamp(28px,4vw,52px);line-height:1.04;margin:12px 0 14px">{d.title}</h1>
@@ -471,7 +471,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   )}
 
   {isContactPage && (
-    <section style="padding:56px 40px 40px;display:grid;grid-template-columns:1fr 1fr;gap:56px;max-width:1160px;margin:0 auto">
+    <section class="responsive-grids" style="padding:56px 40px 40px;display:grid;grid-template-columns:1fr 1fr;gap:56px;max-width:1160px;margin:0 auto">
       <div>
         <span class="mono" style="color:var(--color-accent-700)">{sc.contactEyebrow}</span>
         <h1 style="font-size:clamp(30px,4.4vw,52px);line-height:1.04;margin:14px 0 16px">{d.title}</h1>
@@ -534,7 +534,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   )}
 
   {isDesertPage && (
-    <>
+    <div class="responsive-grids">
       <section style="padding:40px 40px 24px;display:grid;grid-template-columns:1.05fr 1fr;gap:28px;align-items:center">
         <div>
           <span class="mono" style="color:var(--color-accent-700)">{sc.desertEyebrow}</span>
@@ -555,7 +555,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
           <div style="text-align:center;margin-top:28px"><a href={b + '/tours'} class="btn btn-secondary">{t.viewAll} →</a></div>
         </section>
       )}
-    </>
+    </div>
   )}
 
   {(isTour || isCar) && (
@@ -719,7 +719,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
       )}
 
       {isCarHubPage && d.faqs.length > 0 && (
-        <div class="sec" id="carfaq" style="margin-top:40px;display:grid;grid-template-columns:280px 1fr;gap:40px;align-items:start">
+        <div class="sec responsive-grids" id="carfaq" style="margin-top:40px;display:grid;grid-template-columns:280px 1fr;gap:40px;align-items:start">
           <div style="position:sticky;top:100px">
             <h2 style="font-size:clamp(24px,3vw,32px);margin:0 0 10px">{t.frequentlyAsked}</h2>
             <p style="font-size:14.5px;line-height:1.6;color:var(--color-neutral-700);margin:0 0 16px">{t.trustReplySub}</p>
@@ -1061,7 +1061,12 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   .md-prose :global(p){font-size:16px;line-height:1.7;color:var(--color-neutral-800);margin:0 0 14px}
   .md-prose :global(ul),.md-prose :global(ol){margin:0 0 16px 22px;color:var(--color-neutral-800)}
   .md-prose :global(li){margin:6px 0;font-size:16px;line-height:1.6}
-  .md-prose :global(table){border-collapse:collapse;width:100%;margin:16px 0;font-size:14px}
+  /* display:block turns the table itself into the horizontal-scroll
+     container (its td/th descendants keep normal table layout) — plain
+     width:100% doesn't stop wide cell content (e.g. this car-rental price
+     table's "Toyota Prado / €130/Day / 6+Driver / 4×4" rows) from forcing
+     the table, and with it the whole page, wider than a narrow phone. */
+  .md-prose :global(table){display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;border-collapse:collapse;width:100%;margin:16px 0;font-size:14px}
   .md-prose :global(td){border-bottom:1px solid var(--color-divider);padding:12px}
   .md-prose :global(tbody tr:nth-child(odd)){background:var(--color-neutral-100)}
   .md-prose :global(th){background:var(--color-accent-700);color:#fff;font-family:var(--font-heading);font-weight:var(--font-heading-weight,600);padding:13px 12px;text-align:left}
@@ -1072,4 +1077,21 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   .md-prose :global(img){border-radius:var(--radius-md);margin:14px 0}
   .md-prose :global(hr){border:none;border-top:1px solid var(--color-divider);margin:26px 0}
   .md-prose :global(blockquote){background:var(--color-accent-100);border-left:4px solid var(--color-accent);padding:14px 18px;border-radius:var(--radius-sm);margin:22px 0;font-size:15px}
+
+  /* The About/Car-hub/Contact/Desert bespoke sections above use several
+     fixed-ratio grids (1.1fr 1fr, 260px 1fr, 280px 1fr, etc.) with no
+     built-in wrapping — unlike the repeat(auto-fit,minmax(...)) card grids
+     elsewhere, these don't shrink, so on a narrow phone they forced their
+     row (and the whole page) wider than the viewport. Rather than hand-tune
+     a breakpoint for each one, every inline grid inside .responsive-grids
+     collapses to a single column below 760px — always a valid, safe
+     end state for a grid regardless of its desktop track sizing.
+     :global() is required: Astro's scoped CSS wouldn't otherwise match the
+     inline style="" attribute values on the plain elements above. */
+  @media (max-width: 760px) {
+    :global(.responsive-grids[style*="grid-template-columns"]),
+    :global(.responsive-grids [style*="grid-template-columns"]) {
+      grid-template-columns: 1fr !important;
+    }
+  }
 </style>

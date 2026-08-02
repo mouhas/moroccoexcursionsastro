@@ -21,8 +21,8 @@ const durationDays = duration ? parseInt(duration.match(/\d+/)?.[0] ?? '', 10) |
 ---
 <article style="display:flex;flex-direction:column;border:1px solid var(--color-divider);border-radius:var(--radius-md);overflow:hidden"
   data-price={price ?? ''} data-duration-days={durationDays ?? ''} data-tour-type={isGroup ? 'group' : 'private'} data-rating={rating ?? ''}>
-  <a href={href} aria-label={title} style="display:block">
-    {tag && <span class="tag tag-accent" style="position:absolute;margin:12px;z-index:2">{tag}</span>}
+  <a href={href} aria-label={title} style="display:block;position:relative">
+    {tag && <span class="tag tag-accent" style="position:absolute;top:12px;left:12px;z-index:2">{tag}</span>}
     <div class="ph" style="height:190px;border-radius:0;box-shadow:none"><span>photo — {title}</span></div>
   </a>
   <div style="padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1">

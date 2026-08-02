@@ -101,7 +101,13 @@ footer.site a:hover{color:var(--orange)}
 .pagehead .sub span{display:inline-flex;align-items:center;gap:6px}
 .layout{display:grid;grid-template-columns:1fr 330px;gap:40px;padding:44px 0}
 .layout.full{grid-template-columns:1fr}
-.prose{max-width:100%;overflow-wrap:break-word}
+/* min-width:0 is required, not redundant with max-width:100% — .prose is a
+   CSS grid item (.layout's 1fr/1fr 330px track), and grid items default to
+   min-width:auto, meaning the track grows to fit content that can't shrink
+   (e.g. a table) regardless of max-width. Without this, a wide table blows
+   out the grid track and the whole page overflows horizontally on mobile,
+   even though the table has its own overflow-x:auto. */
+.prose{max-width:100%;min-width:0;overflow-wrap:break-word}
 .prose h2{font-size:24px;color:var(--blue-dk);margin:30px 0 12px}
 .prose h3{font-size:18px;margin:22px 0 8px}
 .prose h4,.prose h5,.prose h6{font-size:16px;margin:18px 0 6px;color:#1c2b3a}
