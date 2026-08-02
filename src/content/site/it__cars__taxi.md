@@ -14,7 +14,7 @@ carBadges:
 - Paga al Ritiro
 - Chilometraggio Illimitato
 - Navetta per l’Auto
-carCategory: Auto Standard, Taxi
+carCategory: Taxi
 carFeatures:
 - 5 Porte
 tourCode: ITRENT2

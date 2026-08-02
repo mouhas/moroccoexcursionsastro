@@ -1,5 +1,5 @@
 ---
-title: Normal Car Rental in Morocco
+title: Sedan Rental in Morocco
 lang: en
 section: cars
 pslug: normal-car
@@ -14,7 +14,7 @@ carBadges:
 - Pay at Pickup
 - Unlimited Mileage
 - Shuttle to Car
-carCategory: Normal Cars
+carCategory: Sedan
 carFeatures:
 - 5 Doors
 - A/C

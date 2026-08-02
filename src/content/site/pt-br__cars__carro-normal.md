@@ -1,5 +1,5 @@
 ---
-title: Aluguel de Carro Normal em Marrocos
+title: Aluguel de Sedã em Marrocos
 lang: pt-br
 section: cars
 pslug: carro-normal
@@ -14,7 +14,7 @@ carBadges:
 - Pague na Retirada
 - Quilometragem Ilimitada
 - Traslado até o Carro
-carCategory: Carros Normais
+carCategory: Sedã
 carFeatures:
 - 5 Portas
 - Ar-condicionado

@@ -14,7 +14,7 @@ carBadges:
 - Paga al Ritiro
 - Chilometraggio Illimitato
 - Navetta per l’Auto
-carCategory: 4x4, Auto di Lusso
+carCategory: SUV (4x4)
 carFeatures:
 - 5 Porte
 - 6 Posti

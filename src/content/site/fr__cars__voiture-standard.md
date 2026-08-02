@@ -1,5 +1,5 @@
 ---
-title: Voiture Standard
+title: Location de Berline au Maroc
 lang: fr
 section: cars
 pslug: voiture-standard
@@ -14,7 +14,7 @@ carBadges:
 - Payez à la Prise en Charge
 - Kilométrage Illimité
 - Navette vers le Véhicule
-carCategory: Voitures Standard
+carCategory: Berline
 carFeatures:
 - 5 Portes
 - Clim.

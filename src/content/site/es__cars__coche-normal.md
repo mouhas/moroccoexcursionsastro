@@ -1,5 +1,5 @@
 ---
-title: Alquiler de Coche Normal en Marruecos
+title: Alquiler de Sedán en Marruecos
 lang: es
 section: cars
 pslug: coche-normal
@@ -14,7 +14,7 @@ carBadges:
 - Paga en la Recogida
 - Kilometraje Ilimitado
 - Traslado al Vehículo
-carCategory: Coches Normales
+carCategory: Sedán
 carFeatures:
 - 5 Puertas
 - A/C

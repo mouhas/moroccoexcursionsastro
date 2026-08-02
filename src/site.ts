@@ -89,16 +89,12 @@ for (const group of Object.values(TOUR_TRANSLATIONS)) {
 // hardcoded table is simplest — mirrors admin-panel/lib/translations.php's
 // car_translation_groups(), which MUST be kept in sync with this one.
 const CAR_TRANSLATIONS: Partial<Record<Lang, string>>[] = [
-  { en: 'bus-hire', es: 'alquiler-autobus', fr: 'location-bus', it: 'noleggio-bus', 'pt-br': 'aluguel-onibus' },
-  { en: 'family', es: 'coche-familiar', fr: 'voiture-familiale', it: 'auto-familiare', 'pt-br': 'carro-familia' },
-  { en: 'luxury-van', es: 'furgoneta-lujo', fr: 'van-de-luxe', it: 'furgone-lusso', 'pt-br': 'van-luxo' },
-  { en: 'minivan', es: 'minivan', fr: 'minivan', it: 'minivan', 'pt-br': 'minivan' },
-  { en: 'normal-4x4', es: '4x4-normal', fr: '4x4-standard', it: '4x4-normale', 'pt-br': '4x4-normal' },
-  { en: 'normal-car', es: 'coche-normal', fr: 'voiture-standard', it: 'auto-normale', 'pt-br': 'carro-normal' },
-  { en: 'pick-up', es: 'pick-up', fr: 'pick-up', it: 'pick-up', 'pt-br': 'picape' },
-  { en: 'rental-bus', es: 'autobus-alquiler', fr: 'bus-location', it: 'bus-noleggio', 'pt-br': 'onibus-aluguel' },
   { en: 'suv', es: 'suv', fr: 'suv', it: 'suv', 'pt-br': 'suv' },
+  { en: 'minivan', es: 'minivan', fr: 'minivan', it: 'minivan', 'pt-br': 'minivan' },
+  { en: 'rental-bus', es: 'autobus-alquiler', fr: 'bus-location', it: 'bus-noleggio', 'pt-br': 'onibus-aluguel' },
+  { en: 'bus-hire', es: 'alquiler-autobus', fr: 'location-bus', it: 'noleggio-bus', 'pt-br': 'aluguel-onibus' },
   { en: 'taxi', es: 'taxi', fr: 'taxi', it: 'taxi', 'pt-br': 'taxi' },
+  { en: 'normal-car', es: 'coche-normal', fr: 'voiture-standard', it: 'auto-normale', 'pt-br': 'carro-normal' },
 ];
 const CAR_TRANSLATION_LOOKUP: Map<string, Partial<Record<Lang, string>>> = new Map();
 for (const group of CAR_TRANSLATIONS) {

@@ -14,7 +14,7 @@ carBadges:
 - Pague na Retirada
 - Quilometragem Ilimitada
 - Traslado até o Carro
-carCategory: Carros Normais, Táxi
+carCategory: Táxi
 carFeatures:
 - 5 Portas
 tourCode: PTBRRENT2

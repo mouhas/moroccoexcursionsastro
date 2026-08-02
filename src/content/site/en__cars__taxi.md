@@ -14,7 +14,7 @@ carBadges:
 - Pay at Pickup
 - Unlimited Mileage
 - Shuttle to Car
-carCategory: Normal Cars, Taxi
+carCategory: Taxi
 carFeatures:
 - 5 Doors
 tourCode: ENRENT2

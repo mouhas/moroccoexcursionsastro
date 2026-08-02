@@ -14,7 +14,7 @@ carBadges:
 - Payez à la Prise en Charge
 - Kilométrage Illimité
 - Navette vers le Véhicule
-carCategory: Voitures Standard, Taxi
+carCategory: Taxi
 carFeatures:
 - 5 Portes
 tourCode: FRRENT2

@@ -1,5 +1,5 @@
 ---
-title: Ônibus para Alugar
+title: Aluguel de Ônibus em Marrocos
 lang: pt-br
 section: cars
 pslug: onibus-aluguel
@@ -8,13 +8,13 @@ price: null
 duration: null
 tag: null
 source: 'https://morocco-excursion.com/pt-br/car/rental-bus/'
-overviewHtml: '<p>Uma alternativa de porte médio ao nosso ônibus completo — ainda pensada para grupos grandes demais para uma minivan, mas do tamanho certo para grupos que também não precisam de um ônibus de 50 lugares. O ar-condicionado em todo o veículo mantém o grupo inteiro confortável em trajetos mais longos entre cidades.</p><p>Popular entre grupos turísticos menores, excursões escolares e empresas que deslocam uma equipe entre unidades sem dividi-la em vários carros. Mesmas condições de motorista incluído e quilometragem ilimitada do resto da frota, e o mesmo cancelamento gratuito se os planos do grupo mudarem.</p>'
+overviewHtml: '<p>Nosso ônibus padrão para grupos grandes demais para uma van, mas que não precisam de um fretamento completo — o tamanho que a maioria dos grupos turísticos pequenos, excursões escolares e saídas de empresa realmente reserva. O ar-condicionado em todo o veículo mantém o grupo inteiro confortável em trajetos mais longos entre cidades.</p><p>Útil para deslocar uma equipe ou grupo entre unidades sem dividi-lo em vários carros. Vem com um motorista profissional, quilometragem ilimitada, e as mesmas condições de cancelamento gratuito e pagamento na retirada do resto da frota, prático quando o número final de participantes só é confirmado perto da data.</p>'
 carBadges:
 - Cancelamento Gratuito
 - Pague na Retirada
 - Quilometragem Ilimitada
 - Traslado até o Carro
-carCategory: null
+carCategory: Ônibus
 carFeatures:
 - Ar-condicionado
 tourCode: PTBRRENT

@@ -246,21 +246,7 @@ Alugue nosso ônibus com motorista profissional e guia turístico local para uma
 
 [Reservar](https://www.morocco-excursion.com/contact/ "Contato")
 
-### [Van de Luxo](/car/luxury-van)
-
-**Carro de Luxo, Minivan**
-
-**5 Portas**
-
-**Transmissão Automática**
-
-**6 Assentos**
-
-**€190,00 /dia**
-
-[Reservar](https://www.morocco-excursion.com/contact/ "Contato")
-
-### [Minivan de 8 Assentos](/car/minivan)
+### [Van de 8 Assentos](/car/minivan)
 
 **Minivan**
 

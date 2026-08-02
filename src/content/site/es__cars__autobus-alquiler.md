@@ -1,5 +1,5 @@
 ---
-title: Autobús de Alquiler
+title: Alquiler de Autobús en Marruecos
 lang: es
 section: cars
 pslug: autobus-alquiler
@@ -8,13 +8,13 @@ price: null
 duration: null
 tag: null
 source: 'https://morocco-excursion.com/es/car/rental-bus/'
-overviewHtml: '<p>Una alternativa de tamaño medio a nuestro autocar completo: sigue estando pensada para grupos demasiado grandes para una minivan, pero con el tamaño justo para grupos que tampoco necesitan un autobús de 50 plazas. El aire acondicionado en todo el vehículo mantiene cómodo a todo el grupo en trayectos largos entre ciudades.</p><p>Popular entre grupos turísticos más pequeños, viajes escolares y empresas que trasladan a un equipo entre sedes sin dividirlo en varios coches. Mismas condiciones de conductor incluido y kilometraje ilimitado que el resto de la flota, y la misma cancelación gratuita si los planes del grupo cambian.</p>'
+overviewHtml: '<p>Nuestro autobús estándar para grupos demasiado grandes para una furgoneta pero que no necesitan un autocar completo: el tamaño que reservan la mayoría de los grupos turísticos pequeños, viajes escolares y salidas de empresa. El aire acondicionado en todo el vehículo mantiene cómodo a todo el grupo en trayectos largos entre ciudades.</p><p>Popular para trasladar a un equipo o grupo entre sedes sin dividirlo en varios coches. Incluye un conductor profesional, kilometraje ilimitado, y las mismas condiciones de cancelación gratuita y pago al recogerlo que el resto de la flota, útil cuando el número final de participantes no se confirma hasta pocos días antes.</p>'
 carBadges:
 - Cancelación Gratuita
 - Paga en la Recogida
 - Kilometraje Ilimitado
 - Traslado al Vehículo
-carCategory: null
+carCategory: Autobús
 carFeatures:
 - A/C
 tourCode: ESRENT

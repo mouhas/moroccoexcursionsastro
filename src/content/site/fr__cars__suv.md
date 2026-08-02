@@ -14,7 +14,7 @@ carBadges:
 - Payez à la Prise en Charge
 - Kilométrage Illimité
 - Navette vers le Véhicule
-carCategory: 4x4, Voiture de Luxe
+carCategory: SUV (4x4)
 carFeatures:
 - 5 Portes
 - 6 Places

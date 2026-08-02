@@ -14,7 +14,7 @@ carBadges:
 - Pague na Retirada
 - Quilometragem Ilimitada
 - Traslado até o Carro
-carCategory: 4x4, Carro de Luxo
+carCategory: SUV (4x4)
 carFeatures:
 - 5 Portas
 - 6 Lugares

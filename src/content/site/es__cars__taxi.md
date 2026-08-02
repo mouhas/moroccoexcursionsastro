@@ -14,7 +14,7 @@ carBadges:
 - Paga en la Recogida
 - Kilometraje Ilimitado
 - Traslado al Vehículo
-carCategory: Coches Normales, Taxi
+carCategory: Taxi
 carFeatures:
 - 5 Puertas
 tourCode: ESRENT2

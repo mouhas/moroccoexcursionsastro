@@ -1,5 +1,5 @@
 ---
-title: Noleggio Auto Normale in Marocco
+title: Noleggio Berlina in Marocco
 lang: it
 section: cars
 pslug: auto-normale
@@ -14,7 +14,7 @@ carBadges:
 - Paga al Ritiro
 - Chilometraggio Illimitato
 - Navetta per l’Auto
-carCategory: Auto Standard
+carCategory: Berlina
 carFeatures:
 - 5 Porte
 - A/C

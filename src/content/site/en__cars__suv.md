@@ -14,7 +14,7 @@ carBadges:
 - Pay at Pickup
 - Unlimited Mileage
 - Shuttle to Car
-carCategory: 4x4 (4WD Cars), Luxury Car
+carCategory: SUV (4x4)
 carFeatures:
 - 5 Doors
 - 6 Seats

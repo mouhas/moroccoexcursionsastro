@@ -14,7 +14,7 @@ carBadges:
 - Paga en la Recogida
 - Kilometraje Ilimitado
 - Traslado al Vehículo
-carCategory: 4x4, Coche de Lujo
+carCategory: SUV (4x4)
 carFeatures:
 - 5 Puertas
 - 6 Plazas
