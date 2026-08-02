@@ -20,9 +20,9 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
 ];
 ---
 <header class="newtheme site-header" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
-  <a href={homeHref(lang)} class="btn btn-ghost" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff;flex:none">
-    <span style="width:26px;height:26px;border-radius:10px;background:#fff;display:inline-block"></span>
-    Morocco Excursions
+  <a href={homeHref(lang)} class="btn btn-ghost brand" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff;flex:none">
+    <span style="width:26px;height:26px;border-radius:10px;background:#fff;display:inline-block;flex:none"></span>
+    <span class="brand-text">Morocco Excursions</span>
   </a>
 
   <div class="nav-wrap" id="navWrap">
@@ -34,12 +34,15 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
         </a>
       ))}
     </nav>
+  </div>
+
+  <div class="right-cluster">
     <div class="util-cluster">
       <div class="util-item" id="langSwitcher">
         <button type="button" id="langToggle" aria-expanded="false" aria-haspopup="true" class="util-btn">
-          <Icon name="globe" class="ico sm" />
-          <span>{LANG_CODES[lang]}</span>
-          <Icon name="chevron" class="ico xs chevron" />
+          <Icon name="globe" class="ico xs" />
+          <span class="util-label">{LANG_CODES[lang]}</span>
+          <Icon name="chevron" class="ico xxs chevron" />
         </button>
         <div class="menu-panel" id="langMenu" role="menu">
           {LANGS.map((l) => (
@@ -54,8 +57,8 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
       <div class="util-item" id="curSwitcher">
         <button type="button" id="curToggle" aria-expanded="false" aria-haspopup="true" class="util-btn" title="Reference currency — bookings are charged in EUR">
           <span class="cur-symbol" id="curSymbol">€</span>
-          <span id="curLabel">EUR</span>
-          <Icon name="chevron" class="ico xs chevron" />
+          <span class="util-label" id="curLabel">EUR</span>
+          <Icon name="chevron" class="ico xxs chevron" />
         </button>
         <div class="menu-panel" id="curMenu" role="menu">
           {CURRENCIES.map((c) => (
@@ -68,13 +71,10 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
         </div>
       </div>
       <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
-        <Icon name="sun" class="ico sm icon-sun" />
-        <Icon name="moon" class="ico sm icon-moon" />
+        <Icon name="sun" class="ico xs icon-sun" />
+        <Icon name="moon" class="ico xs icon-moon" />
       </button>
     </div>
-  </div>
-
-  <div style="display:flex;align-items:center;gap:10px;flex:none">
     <a href={nav[0]?.href ?? homeHref(lang)} class="btn" style="border-radius:10px;padding:11px 22px;background:#fff;color:var(--color-accent-800);font-weight:600">{t.book}</a>
     <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
   </div>
@@ -84,20 +84,22 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
   .main-nav { display: flex; align-items: center; gap: 2px; }
   .main-nav .nav-link { font-size: 16px; font-weight: 600; padding: 10px 15px; white-space: nowrap; }
   .main-nav .nav-link :global(.ico) { opacity: 0.85; }
-  .nav-wrap { display: flex; align-items: center; gap: 26px; flex: 1; justify-content: center; }
-  .util-cluster { display: flex; align-items: center; gap: 8px; padding-left: 12px; border-left: 1px solid rgba(255, 255, 255, 0.25); }
+  .nav-wrap { display: flex; align-items: center; flex: 1; justify-content: center; }
+  .right-cluster { display: flex; align-items: center; gap: 12px; flex: none; }
+  .util-cluster { display: flex; align-items: center; gap: 6px; }
   .util-item { position: relative; }
   /* :global() below is required, not stylistic — Icon.astro renders its own
      <svg>, which is a different component's output and never receives this
      file's data-astro-cid scope attribute. Without :global(), every rule
      that needs to reach an icon (sizing, opacity toggles, transforms) would
      silently no-op: the selector compiles fine but matches nothing. */
-  :global(.ico.xs) { width: 13px; height: 13px; }
+  :global(.ico.xs) { width: 12px; height: 12px; }
+  :global(.ico.xxs) { width: 9px; height: 9px; }
 
   .util-btn {
-    display: inline-flex; align-items: center; gap: 6px; background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.3); color: #fff; font: inherit; font-size: 13.5px;
-    font-weight: 600; cursor: pointer; padding: 7px 12px; border-radius: 20px; transition: background 0.15s;
+    display: inline-flex; align-items: center; gap: 4px; background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3); color: #fff; font: inherit; font-size: 11.5px;
+    font-weight: 600; cursor: pointer; padding: 5px 8px; border-radius: 16px; transition: background 0.15s;
   }
   .util-btn:hover { background: rgba(255, 255, 255, 0.22); }
   .util-btn :global(.chevron) { transition: transform 0.15s; opacity: 0.8; }
@@ -127,13 +129,13 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
 
   .cur-symbol {
     display: inline-flex; align-items: center; justify-content: center; flex: none;
-    min-width: 18px; height: 18px; padding: 0 3px; border-radius: 6px;
-    background: rgba(255, 255, 255, 0.22); font-size: 11px; font-weight: 800; line-height: 1;
+    min-width: 14px; height: 14px; padding: 0 2px; border-radius: 5px;
+    background: rgba(255, 255, 255, 0.22); font-size: 9.5px; font-weight: 800; line-height: 1;
   }
 
   .theme-toggle {
     position: relative; display: inline-flex; align-items: center; justify-content: center;
-    width: 34px; height: 34px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 26px; height: 26px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.3);
     background: rgba(255, 255, 255, 0.1); color: #fff; cursor: pointer; flex: none; transition: background 0.15s;
   }
   .theme-toggle:hover { background: rgba(255, 255, 255, 0.22); }
@@ -157,10 +159,26 @@ const CURRENCIES: { code: string; symbol: string; label: string }[] = [
     .nav-wrap.open { display: flex; }
     .main-nav { flex-direction: column; align-items: stretch; gap: 2px; }
     .main-nav .nav-link { padding: 12px 6px; }
-    .util-cluster { border-left: none; border-top: 1px solid rgba(255, 255, 255, 0.25); padding: 14px 0 0; flex-wrap: wrap; }
-    .menu-panel { right: auto; left: 0; }
     .burger { display: flex; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 6px; }
     .burger span { width: 24px; height: 2.5px; background: #fff; border-radius: 2px; display: block; }
+  }
+
+  /* Below this, keep the lang/currency/theme controls next to Book a Trip
+     but drop their text labels (code, chevron) so three small circular
+     icon buttons fit instead of crowding the row — the dropdown panels
+     still open with full labels either way. */
+  @media (max-width: 560px) {
+    /* !important: the header's padding and the brand link's gap are inline
+       styles (highest specificity by default) — an author-stylesheet rule
+       still wins over a plain inline style if it's !important, which is
+       what's needed here to keep the row from overflowing the viewport. */
+    .site-header { padding-left: 16px !important; padding-right: 16px !important; gap: 10px !important; }
+    .brand-text { display: none; }
+    .right-cluster { gap: 8px; }
+    .util-cluster { gap: 4px; }
+    .util-btn { padding: 5px; border-radius: 50%; }
+    .util-btn .util-label, .util-btn :global(.chevron) { display: none; }
+    .menu-panel { right: -8px; }
   }
 </style>
 
