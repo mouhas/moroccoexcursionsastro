@@ -323,3 +323,23 @@
     position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
     overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
   }
+
+/* --- Dark mode --- Only the backdrop/surface/text/neutral roles flip;
+   the accent ramp (header bar, buttons, brand color) stays the same in
+   both themes on purpose — it's a brand color bar, not a themed surface. */
+:root[data-theme="dark"] .newtheme {
+  --color-bg: #12181f;
+  --color-surface: #1b232c;
+  --color-text: #eaeef1;
+  --color-neutral-100: #1b232c;
+  --color-neutral-200: #232d37;
+  --color-neutral-300: #313c47;
+  --color-neutral-400: #4c5761;
+  --color-neutral-500: #6b7680;
+  --color-neutral-600: #8a959e;
+  --color-neutral-700: #aab4bc;
+  --color-neutral-800: #ccd3d9;
+  --color-neutral-900: #eef1f4;
+  --color-divider: rgba(255, 255, 255, 0.14);
+}
+:root[data-theme="dark"] .newtheme .input { background: var(--color-neutral-100); }

@@ -22,18 +22,16 @@ const TOPBAR: Record<Lang, string> = {
   it: 'Esperti locali a Marrakech',
   'pt-br': 'Especialistas locais em Marrakech',
 };
+const CURRENCIES: { code: string; label: string }[] = [
+  { code: 'EUR', label: '€ EUR' },
+  { code: 'USD', label: '$ USD' },
+  { code: 'GBP', label: '£ GBP' },
+  { code: 'MAD', label: 'DH MAD' },
+];
 ---
 <div class="newtheme" style="display:flex;align-items:center;justify-content:space-between;gap:24px;padding:8px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-900);color:#f7e7dd;font-size:13px">
   <span style="display:inline-flex;align-items:center;gap:7px"><Icon name="pin" class="ico sm" />{TOPBAR[lang]}</span>
   <div style="display:flex;align-items:center;gap:20px">
-    <div class="lang" style="position:relative">
-      <button style="display:inline-flex;align-items:center;gap:7px;background:transparent;border:none;color:inherit;font:inherit;cursor:pointer;padding:2px 0">
-        <Icon name="globe" class="ico sm" />{LANG_LABELS[lang]}
-      </button>
-      <div class="lang-menu">
-        {LANGS.map((l) => <a href={langSwitchHref(l, { section, pslug, lang })}>{LANG_LABELS[l]}</a>)}
-      </div>
-    </div>
     <a href={settings.whatsappHref} target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;color:inherit">
       <Icon name="whatsapp" class="ico sm" />{t.chatWhatsapp}
     </a>
@@ -43,28 +41,205 @@ const TOPBAR: Record<Lang, string> = {
   </div>
 </div>
 
-<header class="newtheme" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:32px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
-  <a href={homeHref(lang)} class="btn btn-ghost" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff">
+<header class="newtheme site-header" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
+  <a href={homeHref(lang)} class="btn btn-ghost" style="gap:10px;font-size:20px;letter-spacing:-0.03em;color:#fff;flex:none">
     <span style="width:26px;height:26px;border-radius:10px;background:#fff;display:inline-block"></span>
     Morocco Excursions
   </a>
-  <nav id="mainNav" style="display:flex;align-items:center;gap:4px;flex:1;justify-content:center">
-    {nav.map((n) => <a href={n.href} class="btn btn-ghost" style="color:#fff">{n.label}</a>)}
-  </nav>
-  <div style="display:flex;align-items:center;gap:10px">
+
+  <div class="nav-wrap" id="navWrap">
+    <nav class="main-nav" id="mainNav">
+      {nav.map((n) => <a href={n.href} class="btn btn-ghost nav-link" style="color:#fff">{n.label}</a>)}
+    </nav>
+    <div class="util-cluster">
+      <div class="lang" id="langSwitcher" style="position:relative">
+        <button type="button" id="langToggle" aria-expanded="false" class="util-btn">
+          <Icon name="globe" class="ico sm" />{LANG_LABELS[lang]}
+        </button>
+        <div class="lang-menu" id="langMenu">
+          {LANGS.map((l) => <a href={langSwitchHref(l, { section, pslug, lang })} aria-current={l === lang ? 'true' : undefined}>{LANG_LABELS[l]}</a>)}
+        </div>
+      </div>
+      <select class="cur-select" id="currencySelect" title="Reference currency — bookings are charged in EUR" aria-label="Currency">
+        {CURRENCIES.map((c) => <option value={c.code}>{c.label}</option>)}
+      </select>
+      <button type="button" class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+        <Icon name="sun" class="ico sm icon-sun" />
+        <Icon name="moon" class="ico sm icon-moon" />
+      </button>
+    </div>
+  </div>
+
+  <div style="display:flex;align-items:center;gap:10px;flex:none">
     <a href={nav[1]?.href ?? homeHref(lang)} class="btn" style="border-radius:10px;padding:11px 22px;background:#fff;color:var(--color-accent-800);font-weight:600">{t.book}</a>
     <button class="burger" aria-label="Menu" id="burger"><span></span><span></span><span></span></button>
   </div>
 </header>
+
+<style>
+  .main-nav { display: flex; align-items: center; gap: 2px; }
+  .main-nav .nav-link { font-size: 16px; font-weight: 600; padding: 10px 15px; white-space: nowrap; }
+  .nav-wrap { display: flex; align-items: center; gap: 26px; flex: 1; justify-content: center; }
+  .util-cluster { display: flex; align-items: center; gap: 14px; padding-left: 10px; border-left: 1px solid rgba(255, 255, 255, 0.25); }
+  .util-btn {
+    display: inline-flex; align-items: center; gap: 7px; background: transparent; border: none;
+    color: inherit; font: inherit; font-size: 14px; cursor: pointer; padding: 2px 0;
+  }
+  .cur-select {
+    background: transparent; border: 1px solid rgba(255, 255, 255, 0.4); color: #fff;
+    border-radius: 20px; padding: 6px 10px; font-size: 13px; font-family: inherit; cursor: pointer;
+  }
+  .cur-select:hover { background: rgba(255, 255, 255, 0.12); }
+  .cur-select option { color: #16263a; }
+  .theme-toggle {
+    display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px;
+    border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.4); background: transparent;
+    color: #fff; cursor: pointer; flex: none;
+  }
+  .theme-toggle:hover { background: rgba(255, 255, 255, 0.12); }
+  .icon-moon { display: none; }
+  :root[data-theme='dark'] .icon-sun { display: none; }
+  :root[data-theme='dark'] .icon-moon { display: block; }
+  .burger { display: none; }
+
+  @media (max-width: 1080px) {
+    .nav-wrap {
+      display: none;
+      position: absolute; top: 100%; left: 0; right: 0;
+      background: var(--color-accent-700); flex-direction: column; align-items: stretch;
+      padding: 18px 22px 22px; gap: 16px; z-index: 40; border-bottom: 1px solid var(--color-accent-800);
+    }
+    .nav-wrap.open { display: flex; }
+    .main-nav { flex-direction: column; align-items: stretch; gap: 2px; }
+    .main-nav .nav-link { padding: 12px 6px; }
+    .util-cluster { border-left: none; border-top: 1px solid rgba(255, 255, 255, 0.25); padding: 14px 0 0; flex-wrap: wrap; }
+    .burger { display: flex; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 6px; }
+    .burger span { width: 24px; height: 2.5px; background: #fff; border-radius: 2px; display: block; }
+  }
+</style>
+
 <script>
   const b = document.getElementById('burger');
+  const navWrap = document.getElementById('navWrap');
   b?.addEventListener('click', () => {
-    const m = document.getElementById('mainNav');
-    if (!m) return;
-    const open = m.style.display === 'flex';
-    m.style.display = open ? '' : 'flex';
-    if (!open) {
-      Object.assign(m.style, { position: 'absolute', flexDirection: 'column', top: '96px', left: '0', right: '0', background: 'var(--color-accent-700)', padding: '18px 22px', gap: '6px', zIndex: '40' });
+    navWrap?.classList.toggle('open');
+  });
+
+  // CSS :hover alone (see global.css) is unreliable in two ways: on touch
+  // devices the first tap only simulates :hover instead of firing a real
+  // click, and on desktop a fast or diagonal mouse path from the button
+  // down to the menu can momentarily leave both elements' boxes, snapping
+  // the menu shut mid-transit — the click then falls through to whatever's
+  // underneath instead of the intended link. Driving open/close from JS
+  // (with a short close delay so a brief gap-crossing doesn't matter) makes
+  // it reliable on any input method; :hover stays as a harmless no-JS backup.
+  const langToggle = document.getElementById('langToggle');
+  const langMenu = document.getElementById('langMenu');
+  const langSwitcher = document.getElementById('langSwitcher');
+  let langCloseTimer: ReturnType<typeof setTimeout>;
+  function openLangMenu() {
+    clearTimeout(langCloseTimer);
+    langMenu?.classList.add('open');
+    langToggle?.setAttribute('aria-expanded', 'true');
+  }
+  function closeLangMenu() {
+    langMenu?.classList.remove('open');
+    langToggle?.setAttribute('aria-expanded', 'false');
+  }
+  langSwitcher?.addEventListener('mouseenter', openLangMenu);
+  langSwitcher?.addEventListener('mouseleave', () => {
+    langCloseTimer = setTimeout(closeLangMenu, 250);
+  });
+  langToggle?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (langMenu?.classList.contains('open')) closeLangMenu();
+    else openLangMenu();
+  });
+  document.addEventListener('click', (e) => {
+    if (langSwitcher && !langSwitcher.contains(e.target as Node)) {
+      closeLangMenu();
     }
+  });
+
+  // Dark mode toggle — the actual theme class is applied as early as
+  // possible by a blocking script in Base.astro's <head> (avoids a flash of
+  // the wrong theme); this just flips it on click and remembers the choice.
+  const themeToggle = document.getElementById('themeToggle');
+  themeToggle?.addEventListener('click', () => {
+    const root = document.documentElement;
+    const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+
+  // Currency display — the site is static (no backend), so there's no live
+  // FX feed or server-side price rewrite. Instead we scan the rendered page
+  // for "€NNN" / "NNN€" amounts once, tag each with its EUR value, and
+  // re-render that tag's text client-side when the visitor picks a
+  // different currency. Approximate fixed rates; bookings are still charged
+  // in EUR regardless of what's displayed (see the select's title tooltip).
+  const RATES: Record<string, number> = { EUR: 1, USD: 1.08, GBP: 0.86, MAD: 10.85 };
+  const SYMS: Record<string, string> = { EUR: '€', USD: '$', GBP: '£', MAD: 'DH' };
+  function formatPrice(eur: number, cur: string): string {
+    const val = eur * (RATES[cur] ?? 1);
+    const rounded = Math.round(val);
+    const num = rounded.toLocaleString('en-US');
+    return cur === 'MAD' ? `${num} ${SYMS[cur]}` : `${SYMS[cur]}${num}`;
+  }
+  function tagPrices() {
+    const priceRegex = /(\d[\d.,]*)\s?€(?!\w)|€\s?(\d[\d.,]*)/g;
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+      acceptNode(node: Node) {
+        if (!node.nodeValue || !node.nodeValue.includes('€')) return NodeFilter.FILTER_REJECT;
+        let p = node.parentElement;
+        while (p) {
+          if (p.tagName === 'SCRIPT' || p.tagName === 'STYLE' || p.classList?.contains('cvt-price')) return NodeFilter.FILTER_REJECT;
+          p = p.parentElement;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      },
+    });
+    const nodes: Text[] = [];
+    let n: Node | null;
+    while ((n = walker.nextNode())) nodes.push(n as Text);
+    nodes.forEach((node) => {
+      const text = node.nodeValue || '';
+      priceRegex.lastIndex = 0;
+      if (!priceRegex.test(text)) return;
+      priceRegex.lastIndex = 0;
+      const frag = document.createDocumentFragment();
+      let last = 0;
+      let m: RegExpExecArray | null;
+      while ((m = priceRegex.exec(text))) {
+        const raw = m[1] || m[2];
+        const eur = parseFloat(raw.replace(/,/g, ''));
+        if (isNaN(eur)) continue;
+        frag.appendChild(document.createTextNode(text.slice(last, m.index)));
+        const span = document.createElement('span');
+        span.className = 'cvt-price';
+        span.dataset.eur = String(eur);
+        span.textContent = m[0];
+        frag.appendChild(span);
+        last = m.index + m[0].length;
+      }
+      frag.appendChild(document.createTextNode(text.slice(last)));
+      node.parentNode?.replaceChild(frag, node);
+    });
+  }
+  function applyCurrency(cur: string) {
+    document.querySelectorAll<HTMLElement>('.cvt-price').forEach((el) => {
+      const eur = parseFloat(el.dataset.eur || '');
+      if (!isNaN(eur)) el.textContent = formatPrice(eur, cur);
+    });
+  }
+  tagPrices();
+  const savedCurrency = localStorage.getItem('currency') || 'EUR';
+  const curSelect = document.getElementById('currencySelect') as HTMLSelectElement | null;
+  if (curSelect) curSelect.value = savedCurrency;
+  applyCurrency(savedCurrency);
+  curSelect?.addEventListener('change', () => {
+    const cur = curSelect.value;
+    localStorage.setItem('currency', cur);
+    applyCurrency(cur);
   });
 </script>
