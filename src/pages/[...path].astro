@@ -925,6 +925,7 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
 
       {isCar && (
         <div class="sec">
+          {d.overviewHtml && <div class="md-prose" set:html={d.overviewHtml} />}
           {d.carCategory && (
             <>
               <h2>{t.category}</h2>
