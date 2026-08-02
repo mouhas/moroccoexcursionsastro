@@ -3,7 +3,7 @@
 // pages. Rendered by Base.astro inside a .newtheme wrapper so the real
 // Organic classes/tokens apply.
 import Icon from './Icon.astro';
-import { getNav, homeHref, langSwitchHref, LANGS, LANG_LABELS, UI, type Lang } from '../site';
+import { getNav, homeHref, langSwitchHref, LANGS, LANG_LABELS, LANG_CODES, UI, type Lang } from '../site';
 interface Props {
   lang: Lang;
   section?: 'home' | 'pages' | 'tours' | 'cars';
@@ -12,11 +12,11 @@ interface Props {
 const { lang, section = 'home', pslug } = Astro.props;
 const nav = getNav(lang);
 const t = UI[lang];
-const CURRENCIES: { code: string; label: string }[] = [
-  { code: 'EUR', label: '€ Euro' },
-  { code: 'USD', label: '$ US Dollar' },
-  { code: 'GBP', label: '£ British Pound' },
-  { code: 'MAD', label: 'DH Moroccan Dirham' },
+const CURRENCIES: { code: string; symbol: string; label: string }[] = [
+  { code: 'EUR', symbol: '€', label: '€ Euro' },
+  { code: 'USD', symbol: '$', label: '$ US Dollar' },
+  { code: 'GBP', symbol: '£', label: '£ British Pound' },
+  { code: 'MAD', symbol: 'DH', label: 'DH Moroccan Dirham' },
 ];
 ---
 <header class="newtheme site-header" style="position:sticky;top:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:14px max(40px, calc((100% - 1180px) / 2));background:var(--color-accent-700);color:#fff;border-bottom:1px solid var(--color-accent-800)">
@@ -38,13 +38,14 @@ const CURRENCIES: { code: string; label: string }[] = [
       <div class="util-item" id="langSwitcher">
         <button type="button" id="langToggle" aria-expanded="false" aria-haspopup="true" class="util-btn">
           <Icon name="globe" class="ico sm" />
-          <span>{LANG_LABELS[lang]}</span>
+          <span>{LANG_CODES[lang]}</span>
           <Icon name="chevron" class="ico xs chevron" />
         </button>
         <div class="menu-panel" id="langMenu" role="menu">
           {LANGS.map((l) => (
             <a href={langSwitchHref(l, { section, pslug, lang })} class="menu-row" role="menuitem" aria-current={l === lang ? 'true' : undefined}>
-              <span>{LANG_LABELS[l]}</span>
+              <span class="menu-row-code">{LANG_CODES[l]}</span>
+              <span class="menu-row-label">{LANG_LABELS[l]}</span>
               <Icon name="check" class="ico xs" />
             </a>
           ))}
@@ -52,14 +53,15 @@ const CURRENCIES: { code: string; label: string }[] = [
       </div>
       <div class="util-item" id="curSwitcher">
         <button type="button" id="curToggle" aria-expanded="false" aria-haspopup="true" class="util-btn" title="Reference currency — bookings are charged in EUR">
-          <Icon name="coin" class="ico sm" />
+          <span class="cur-symbol" id="curSymbol">€</span>
           <span id="curLabel">EUR</span>
           <Icon name="chevron" class="ico xs chevron" />
         </button>
         <div class="menu-panel" id="curMenu" role="menu">
           {CURRENCIES.map((c) => (
-            <button type="button" class="menu-row cur-opt" data-code={c.code} role="menuitem" aria-current={c.code === 'EUR' ? 'true' : undefined}>
-              <span>{c.label}</span>
+            <button type="button" class="menu-row cur-opt" data-code={c.code} data-symbol={c.symbol} role="menuitem" aria-current={c.code === 'EUR' ? 'true' : undefined}>
+              <span class="menu-row-code">{c.symbol}</span>
+              <span class="menu-row-label">{c.label.replace(/^\S+\s/, '')}</span>
               <Icon name="check" class="ico xs" />
             </button>
           ))}
@@ -109,14 +111,25 @@ const CURRENCIES: { code: string; label: string }[] = [
   }
   .menu-panel.open { display: flex; }
   .menu-row {
-    display: flex; align-items: center; justify-content: space-between; gap: 14px;
+    display: flex; align-items: center; gap: 10px;
     padding: 9px 12px; border-radius: 9px; font-size: 14px; color: inherit;
     background: none; border: none; cursor: pointer; text-align: left; width: 100%; font-family: inherit;
   }
   .menu-row:hover { background: color-mix(in srgb, var(--color-accent) 10%, transparent); }
+  .menu-row-code {
+    flex: none; min-width: 24px; font-size: 12px; font-weight: 800; letter-spacing: 0.02em;
+    color: var(--color-accent-700); text-align: center;
+  }
+  .menu-row-label { flex: 1; }
   .menu-row :global(.ico.xs) { color: var(--color-accent); opacity: 0; flex: none; }
   .menu-row[aria-current='true'] { font-weight: 700; color: var(--color-accent-700); }
   .menu-row[aria-current='true'] :global(.ico.xs) { opacity: 1; }
+
+  .cur-symbol {
+    display: inline-flex; align-items: center; justify-content: center; flex: none;
+    min-width: 18px; height: 18px; padding: 0 3px; border-radius: 6px;
+    background: rgba(255, 255, 255, 0.22); font-size: 11px; font-weight: 800; line-height: 1;
+  }
 
   .theme-toggle {
     position: relative; display: inline-flex; align-items: center; justify-content: center;
@@ -264,11 +277,14 @@ const CURRENCIES: { code: string; label: string }[] = [
     });
   }
   const curLabelEl = document.getElementById('curLabel');
+  const curSymbolEl = document.getElementById('curSymbol');
   const curOpts = document.querySelectorAll<HTMLElement>('.cur-opt');
   function selectCurrency(code: string) {
     curOpts.forEach((o) => o.removeAttribute('aria-current'));
-    document.querySelector(`.cur-opt[data-code="${code}"]`)?.setAttribute('aria-current', 'true');
+    const match = document.querySelector<HTMLElement>(`.cur-opt[data-code="${code}"]`);
+    match?.setAttribute('aria-current', 'true');
     if (curLabelEl) curLabelEl.textContent = code;
+    if (curSymbolEl) curSymbolEl.textContent = SYMS[code] ?? match?.dataset.symbol ?? code;
     localStorage.setItem('currency', code);
     applyCurrency(code);
   }

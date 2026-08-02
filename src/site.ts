@@ -13,6 +13,17 @@ export const LANG_LABELS: Record<Lang, string> = {
   'pt-br': 'Português',
 };
 
+// Short trigger-button codes (the header's language switcher shows these
+// instead of the full name — the dropdown panel still lists the full name
+// from LANG_LABELS above).
+export const LANG_CODES: Record<Lang, string> = {
+  en: 'EN',
+  fr: 'FR',
+  es: 'ES',
+  it: 'IT',
+  'pt-br': 'PT',
+};
+
 export const CONTACT = {
   phone: '+212 673 55 5408',
   phoneHref: 'tel:+212673555408',
