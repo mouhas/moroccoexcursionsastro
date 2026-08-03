@@ -13,10 +13,22 @@
   --legacy-font-body:"Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
   --legacy-font-heading:"Open Sans",-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
 }
+/* !important + :root[data-theme="dark"] (specificity 0,2,0) is required to
+   beat Base.astro's own inline <style set:html> block in <head>, which sets
+   --blue/--blue-2/--blue-dk/--blue-lt (and the --orange equivalents) from
+   admin-configurable settings using plain :root (0,1,0) + !important —
+   without matching both the !important and the higher specificity here,
+   that block wins regardless of theme and dark mode never actually applies
+   to any of these.
+   --blue-dk is deliberately left unchanged: it's the background behind
+   fixed white text in a couple of places (table.price-table th, .pagehead)
+   and needs to stay dark for that pairing regardless of theme. Every place
+   that used it as *text* color was switched to var(--ink) instead, which
+   already tracks the theme correctly. */
 :root[data-theme="dark"]{
   --ink:#e9edf1; --muted:#93a1ac; --line:#2a3540;
   --bg:#10161c; --cream:#161e26; --card-bg:#161e26;
-  --orange-lt:#3a2213; --blue-lt:#122536;
+  --orange-lt:#3a2213 !important; --blue-lt:#122536 !important;
   --shadow:0 10px 30px rgba(0,0,0,.45);
   --shadow-lg:0 20px 50px rgba(0,0,0,.55);
 }
@@ -48,7 +60,7 @@ header.site{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.92);ba
 .logo .mark{width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,var(--orange),var(--blue-2));display:grid;place-items:center;color:#fff}
 .logo small{display:block;font-family:var(--legacy-font-body);font-size:12px;font-weight:600;letter-spacing:.14em;color:var(--muted);text-transform:uppercase}
 .menu{display:flex;gap:26px;font-size:14.5px;font-weight:500}
-.menu a{padding:6px 0;position:relative;color:#33465a}
+.menu a{padding:6px 0;position:relative;color:var(--ink)}
 .menu a:hover{color:var(--orange-dk)}
 .menu a::after{content:"";position:absolute;left:0;bottom:0;height:2px;width:0;background:var(--orange-dk);transition:.25s}
 .menu a:hover::after{width:100%}
@@ -108,17 +120,17 @@ footer.site a:hover{color:var(--orange)}
    out the grid track and the whole page overflows horizontally on mobile,
    even though the table has its own overflow-x:auto. */
 .prose{max-width:100%;min-width:0;overflow-wrap:break-word}
-.prose h2{font-size:24px;color:var(--blue-dk);margin:30px 0 12px}
+.prose h2{font-size:24px;color:var(--ink);margin:30px 0 12px}
 .prose h3{font-size:18px;margin:22px 0 8px}
-.prose h4,.prose h5,.prose h6{font-size:16px;margin:18px 0 6px;color:#1c2b3a}
-.prose p{margin:0 0 14px;color:#33465a}
+.prose h4,.prose h5,.prose h6{font-size:16px;margin:18px 0 6px;color:var(--ink)}
+.prose p{margin:0 0 14px;color:var(--ink)}
 .prose ul,.prose ol{margin:0 0 16px 22px}
 .prose li{margin:6px 0}
 .prose table{border-collapse:collapse;width:100%;margin:16px 0}
 .prose th,.prose td{border:1px solid var(--line);padding:9px 12px;font-size:14px;text-align:left}
 .prose th{background:var(--orange-lt)}
 .prose a{color:var(--blue-2);text-decoration:none}
-.prose a:hover,.notes-box a:hover,.acc-body a:hover{color:var(--blue-dk)}
+.prose a:hover,.notes-box a:hover,.acc-body a:hover{color:var(--ink)}
 .prose img{border-radius:12px;margin:14px 0}
 .prose hr{border:none;border-top:1px solid var(--line);margin:26px 0}
 .prose blockquote{background:var(--orange-lt);border-left:4px solid var(--orange-dk);padding:14px 18px;border-radius:8px;margin:22px 0;font-size:14.5px;color:#5a3d1e}
@@ -129,9 +141,9 @@ footer.site a:hover{color:var(--orange)}
 .page-hero img,.page-hero svg{width:100%;height:100%;object-fit:cover}
 @media(max-width:680px){.page-hero{height:200px}}
 .trust-bar{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:28px 0 8px;padding:22px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.trust-item{display:flex;align-items:center;gap:10px;font-size:13.5px;color:#33465a}
+.trust-item{display:flex;align-items:center;gap:10px;font-size:13.5px;color:var(--ink)}
 .trust-item .ico{width:26px;height:26px;color:var(--orange-dk);flex-shrink:0}
-.trust-item b{display:block;font-size:13.5px;color:#1c2b3a}
+.trust-item b{display:block;font-size:13.5px;color:var(--ink)}
 .trust-item small{color:var(--muted);font-size:12px}
 @media(max-width:800px){.trust-bar{grid-template-columns:repeat(2,1fr)}}
 
@@ -140,7 +152,7 @@ footer.site a:hover{color:var(--orange)}
 .booking .from{color:var(--muted);font-size:13px}
 .booking .amt{font-size:34px;color:var(--orange-dk);font-family:var(--legacy-font-heading);line-height:1}
 .booking .amt small{font-size:14px;color:var(--muted)}
-.booking .row{display:flex;align-items:center;gap:8px;font-size:14px;color:#33465a;padding:10px 0;border-bottom:1px solid var(--line)}
+.booking .row{display:flex;align-items:center;gap:8px;font-size:14px;color:var(--ink);padding:10px 0;border-bottom:1px solid var(--line)}
 .booking .row .ico{color:var(--blue-2)}
 .booking .btn{width:100%;justify-content:center;margin-top:16px}
 .booking .assure{font-size:12.5px;color:var(--muted);text-align:center;margin-top:12px;line-height:1.5}
@@ -202,7 +214,7 @@ section.pad{padding:70px 0}
 
 /* KNOW BEFORE YOU GO */
 .kbyg{background:var(--blue-lt);border-radius:var(--r);padding:20px 22px;margin-bottom:22px}
-.kbyg h3{font-size:15px;margin-bottom:14px;color:var(--blue-dk)}
+.kbyg h3{font-size:15px;margin-bottom:14px;color:var(--ink)}
 .kbyg-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
 .kbyg-item{display:flex;align-items:flex-start;gap:10px}
 .kbyg-item .ico{color:var(--orange-dk);width:20px;height:20px;flex:none;margin-top:1px}
@@ -262,12 +274,12 @@ section.pad{padding:70px 0}
 /* CONTENT SECTIONS */
 .sec{padding:36px 0;border-bottom:1px solid var(--line)}
 .sec:last-child{border-bottom:none}
-.sec > h2{font-size:22px;color:var(--blue-dk);margin-bottom:16px}
+.sec > h2{font-size:22px;color:var(--ink);margin-bottom:16px}
 .sec-sub{color:var(--muted);font-size:14px;margin:-10px 0 18px}
 
 /* HIGHLIGHTS CHECKLIST */
 .check-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px 20px}
-.check-item{display:flex;align-items:flex-start;gap:10px;font-size:14.5px;color:#33465a}
+.check-item{display:flex;align-items:flex-start;gap:10px;font-size:14.5px;color:var(--ink)}
 .check-item .ico{color:var(--orange-dk);flex:none;margin-top:1px}
 .check-item.no .ico{color:#c7cfd8}
 .check-item.no{color:var(--muted);text-decoration:line-through;text-decoration-color:#c7cfd8}
@@ -285,11 +297,11 @@ section.pad{padding:70px 0}
 table.price-table{width:100%;border-collapse:collapse;font-size:14px}
 table.price-table th{background:var(--blue-dk);color:#fff;padding:12px 14px;text-align:left;font-weight:600;font-size:13px}
 table.price-table td{padding:11px 14px;border-top:1px solid var(--line)}
-table.price-table tr:nth-child(even) td{background:#fafcfe}
+table.price-table tr:nth-child(even) td{background:var(--card-bg)}
 .notes-box{background:var(--blue-lt);border-radius:var(--r);padding:18px 20px;margin-top:6px}
-.notes-box h4{font-size:14.5px;color:var(--blue-dk);margin-bottom:10px}
+.notes-box h4{font-size:14.5px;color:var(--ink);margin-bottom:10px}
 .notes-box ol{margin:0 0 0 20px}
-.notes-box li{font-size:14px;color:#33465a;margin:7px 0}
+.notes-box li{font-size:14px;color:var(--ink);margin:7px 0}
 .notes-box a{color:var(--blue-2);text-decoration:none}
 
 /* ACCORDION (native details/summary — itinerary + FAQ) */
@@ -300,11 +312,11 @@ details.acc-item:last-child{border-bottom:none}
 details.acc-item summary{list-style:none;cursor:pointer;padding:16px 46px 16px 18px;font-weight:600;font-size:15px;color:var(--ink);position:relative;display:flex;align-items:center;gap:12px;background:var(--card-bg);transition:.15s}
 details.acc-item summary::-webkit-details-marker{display:none}
 details.acc-item summary:hover{background:var(--blue-lt)}
-details.acc-item summary .num{flex:none;width:28px;height:28px;border-radius:50%;background:var(--blue-lt);color:var(--blue-dk);display:grid;place-items:center;font-size:12.5px;font-weight:700}
+details.acc-item summary .num{flex:none;width:28px;height:28px;border-radius:50%;background:var(--blue-lt);color:var(--ink);display:grid;place-items:center;font-size:12.5px;font-weight:700}
 details.acc-item summary .chev{position:absolute;right:16px;top:50%;transform:translateY(-50%);transition:transform .2s;color:var(--muted);flex:none}
 details.acc-item[open] summary .chev{transform:translateY(-50%) rotate(180deg)}
 details.acc-item[open] summary{color:var(--orange-dk)}
-.acc-body{padding:2px 20px 20px 58px;font-size:14.5px;color:#33465a}
+.acc-body{padding:2px 20px 20px 58px;font-size:14.5px;color:var(--ink)}
 .acc-body p{margin:0 0 10px}
 .acc-body a{color:var(--blue-2);text-decoration:none}
 .acc-item.faq summary{padding-left:18px}
@@ -316,7 +328,7 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .rev-summary .meta{display:flex;flex-direction:column;gap:4px}
 .rating-bars{flex:1;min-width:220px;display:flex;flex-direction:column;gap:9px}
 .rating-bar-row{display:grid;grid-template-columns:90px 1fr 34px;align-items:center;gap:10px}
-.rb-label{font-size:12.5px;color:#33465a;font-weight:600}
+.rb-label{font-size:12.5px;color:var(--ink);font-weight:600}
 .rb-track{height:7px;border-radius:20px;background:#d7e4f0;overflow:hidden}
 .rb-fill{display:block;height:100%;background:var(--orange-dk);border-radius:20px}
 .rb-score{font-size:12.5px;color:var(--muted);font-weight:600;text-align:right}
@@ -328,7 +340,7 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .rev-card .who b{display:block;font-size:14px}
 .rev-card .who small{color:var(--muted);font-size:14px}
 .rev-card .title{font-size:14.5px;font-weight:700;margin:6px 0 4px}
-.rev-card p{font-size:14px;color:#33465a}
+.rev-card p{font-size:14px;color:var(--ink)}
 .rev-card .likes{font-size:14px;color:var(--muted);margin-top:8px;display:flex;align-items:center;gap:5px}
 
 /* BOOKING WIDGET (sidebar + inline form) */
@@ -338,7 +350,7 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .bk-field input,.bk-field select,.bk-field textarea{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px 12px;font-size:14px;font-family:inherit;color:var(--ink);background:var(--card-bg)}
 .bk-field textarea{resize:vertical;min-height:70px}
 .bk-stepper{display:flex;align-items:center;gap:0;border:1px solid var(--line);border-radius:10px;overflow:hidden}
-.bk-stepper button{width:38px;height:38px;border:none;background:var(--blue-lt);color:var(--blue-dk);font-size:18px;cursor:pointer;flex:none}
+.bk-stepper button{width:38px;height:38px;border:none;background:var(--blue-lt);color:var(--ink);font-size:18px;cursor:pointer;flex:none}
 .bk-stepper button:hover{background:var(--orange-lt);color:var(--orange-dk)}
 .bk-stepper input{border:none;text-align:center;width:100%;font-size:14px;padding:0}
 .bk-alt{display:flex;gap:8px;margin-top:10px}
@@ -346,14 +358,14 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .bk-alt .btn.wa{background:#25D366;box-shadow:none}
 .bk-alt .btn.wa:hover{background:#1ebc57}
 .bk-ok{display:none;background:#e7f7ee;color:#1a8a4a;border-radius:10px;padding:12px;font-size:13px;margin-top:12px;text-align:center}
-.assure.sep{border-top:1px solid var(--line);padding-top:14px;margin-top:16px;font-weight:600;color:#33465a}
+.assure.sep{border-top:1px solid var(--line);padding-top:14px;margin-top:16px;font-weight:600;color:var(--ink)}
 
 /* PAYPAL PAYMENT BOX */
 .pay-box{margin-top:14px;padding:14px;background:var(--orange-lt);border-radius:12px;border:1px solid #fbd9b8}
 .pay-toggle{display:flex;flex-direction:column;gap:8px;margin-bottom:10px}
-.pay-opt{display:flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;color:#33465a;cursor:pointer}
+.pay-opt{display:flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;color:var(--ink);cursor:pointer}
 .pay-opt input{accent-color:var(--orange-dk)}
-.pay-total{display:flex;justify-content:space-between;align-items:center;font-size:14px;color:#33465a;margin-bottom:10px;padding-top:8px;border-top:1px dashed #f0c496}
+.pay-total{display:flex;justify-content:space-between;align-items:center;font-size:14px;color:var(--ink);margin-bottom:10px;padding-top:8px;border-top:1px dashed #f0c496}
 .pay-total b{font-family:var(--legacy-font-heading);font-size:20px;color:var(--orange-dk)}
 .pp-container{min-height:45px}
 /* TOUR LISTING SIDEBAR FILTERS */
@@ -366,10 +378,10 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .clear-filters:hover{color:var(--orange-hover)}
 .filter-group{margin-bottom:18px;padding-bottom:18px;border-bottom:1px solid var(--line)}
 .filter-group:last-of-type{border-bottom:0;margin-bottom:0;padding-bottom:0}
-.filter-group label[for]{display:block;font-size:12.5px;font-weight:700;color:#33465a;margin-bottom:8px}
-.filter-label{display:block;font-size:12.5px;font-weight:700;color:#33465a;margin-bottom:8px}
-.filter-group select{width:100%;padding:9px 10px;border-radius:8px;border:1px solid var(--line);font-size:13.5px;background:var(--card-bg);color:#33465a}
-.filter-opt{display:flex;align-items:center;gap:8px;font-size:13.5px;color:#33465a;padding:5px 0;cursor:pointer}
+.filter-group label[for]{display:block;font-size:12.5px;font-weight:700;color:var(--ink);margin-bottom:8px}
+.filter-label{display:block;font-size:12.5px;font-weight:700;color:var(--ink);margin-bottom:8px}
+.filter-group select{width:100%;padding:9px 10px;border-radius:8px;border:1px solid var(--line);font-size:13.5px;background:var(--card-bg);color:var(--ink)}
+.filter-opt{display:flex;align-items:center;gap:8px;font-size:13.5px;color:var(--ink);padding:5px 0;cursor:pointer}
 .filter-opt input{accent-color:var(--orange-dk)}
 .filter-opt .ico.sm{width:13px;height:13px;color:#f4b942}
 .filter-count{font-size:12.5px;color:var(--muted);margin:14px 0 0}
@@ -381,19 +393,19 @@ details.acc-item[open] summary{color:var(--orange-dk)}
 .pp-note{font-size:11.5px;color:var(--muted);text-align:center;margin-top:8px}
 .pay-ok{display:none;background:#e7f7ee;color:#1a8a4a;border-radius:10px;padding:12px;font-size:13px;margin-top:10px;text-align:center}
 .calc-row{margin-bottom:12px;padding-bottom:12px;border-bottom:1px dashed #f0c496}
-.calc-row > label{display:block;font-size:12.5px;font-weight:700;color:#33465a;margin-bottom:8px}
+.calc-row > label{display:block;font-size:12.5px;font-weight:700;color:var(--ink);margin-bottom:8px}
 .extra-item{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:6px 0}
 .extra-item span{display:flex;flex-direction:column;font-size:13px}
 .extra-item small{color:var(--muted);font-size:11.5px}
 .bk-stepper.sm{transform:scale(.88);transform-origin:right center}
 .bk-stepper.sm input{width:38px}
-.contact-quote{display:none;font-size:12.5px;color:#33465a;background:var(--card-bg);border-radius:8px;padding:10px 12px;margin:4px 0 10px;text-align:center}
+.contact-quote{display:none;font-size:12.5px;color:var(--ink);background:var(--card-bg);border-radius:8px;padding:10px 12px;margin:4px 0 10px;text-align:center}
 
 /* CAR SPECS */
 .spec-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;margin-top:10px}
 .spec{background:var(--card-bg);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center}
 .spec .ico{margin:0 auto 8px;color:var(--orange-dk)}
-.spec span{font-size:13.5px;font-weight:600;color:#33465a}
+.spec span{font-size:13.5px;font-weight:600;color:var(--ink)}
 
 @media(max-width:900px){
   .subnav{top:0}

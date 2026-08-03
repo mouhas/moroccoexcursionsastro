@@ -245,7 +245,7 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
 </section>
 
 <section style="padding:0 40px 88px">
-  <div style="background:var(--color-accent-2-900);color:var(--color-neutral-100);border-radius:var(--radius-lg);padding:56px 40px">
+  <div style="background:var(--color-accent-2-900);color:rgba(255,255,255,.90);border-radius:var(--radius-lg);padding:56px 40px">
     <div style="text-align:center;max-width:640px;margin:0 auto 44px">
       <span class="mono" style="color:var(--color-accent-400)">{c.whyEye}</span>
       <h2 style="font-size:clamp(26px,3.6vw,40px);margin:12px 0 0;color:#fff">{c.whyH}</h2>
@@ -254,7 +254,7 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
       {c.feats.map((ft: string[]) => (
         <div>
           <h3 style="font-size:18px;margin:0 0 8px;color:#fff">{ft[0]}</h3>
-          <p style="font-size:14px;line-height:1.6;color:var(--color-neutral-300);margin:0">{ft[1]}</p>
+          <p style="font-size:14px;line-height:1.6;color:rgba(255,255,255,.78);margin:0">{ft[1]}</p>
         </div>
       ))}
     </div>
@@ -262,7 +262,7 @@ const reviews = GENERAL_REVIEWS[lang] ?? GENERAL_REVIEWS.en;
       {stats.map(([n, d]) => (
         <div>
           <span style="font-family:var(--font-heading);font-weight:700;font-size:44px;color:var(--color-accent-400);display:block;line-height:1">{n}</span>
-          <p style="font-size:13px;line-height:1.5;color:var(--color-neutral-300);margin:10px 0 0">{d}</p>
+          <p style="font-size:13px;line-height:1.5;color:rgba(255,255,255,.78);margin:10px 0 0">{d}</p>
         </div>
       ))}
     </div>

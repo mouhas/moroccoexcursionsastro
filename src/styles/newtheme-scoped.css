@@ -327,6 +327,19 @@
 /* --- Dark mode --- Only the backdrop/surface/text/neutral roles flip;
    the accent ramp (header bar, buttons, brand color) stays the same in
    both themes on purpose — it's a brand color bar, not a themed surface. */
+/* The neutral-1..900 ramp DOES need to invert here — it's the color for
+   nearly every muted body paragraph on the site (.md-prose p, review
+   text, itinerary copy — ~80 usages), all of which sit on --color-bg/
+   --color-surface, which do invert. Leaving the ramp alone (tried first)
+   fixed the footer but broke far more: dark-gray-on-white text staying
+   dark-gray on the new dark background across almost every page.
+   The footer/hero-box/testimonial-name breakage this causes instead is a
+   separate, narrower problem — those specific boxes use a fixed
+   accent-2-900 background that never changes with theme, so pairing it
+   with theme-aware neutral-ramp text was always going to break in one
+   direction or the other. Fixed at each such component instead (see
+   Footer.astro, Home.astro, and the About-page hero box in
+   [...path].astro) by switching their text to explicit, non-theme colors. */
 :root[data-theme="dark"] .newtheme {
   --color-bg: #12181f;
   --color-surface: #1b232c;

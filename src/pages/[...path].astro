@@ -356,10 +356,10 @@ const pageAlternates = langAlternates({ section: d.section as 'pages' | 'tours' 
   {isAboutPage && (
     <div class="responsive-grids">
       <section style="padding:40px 40px 24px;display:grid;grid-template-columns:1.1fr 1fr;gap:24px">
-        <div style="background:var(--color-accent-2-900);color:var(--color-neutral-100);border-radius:var(--radius-lg);padding:56px 48px">
+        <div style="background:var(--color-accent-2-900);color:rgba(255,255,255,.90);border-radius:var(--radius-lg);padding:56px 48px">
           <span class="mono" style="color:var(--color-accent-400)">{sc.aboutEyebrow}</span>
           <h1 style="font-size:clamp(30px,4.4vw,52px);line-height:1.05;margin:16px 0 18px;color:#fff;max-width:16ch">{d.title}</h1>
-          <p style="font-size:17px;line-height:1.6;color:var(--color-neutral-300);max-width:440px;margin:0">{sc.aboutIntro}</p>
+          <p style="font-size:17px;line-height:1.6;color:rgba(255,255,255,.78);max-width:440px;margin:0">{sc.aboutIntro}</p>
         </div>
         <div class="ph" style="min-height:340px"><span>{sc.aboutPhotoCaption}</span></div>
       </section>
