@@ -44,7 +44,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
 <aside class="booking" id={wid}>
   <div class="from">{t.from}</div>
   {priceStr
-    ? <div class="amt">{priceStr}<small>{perUnit}</small></div>
+    ? <div class="amt"><span data-amt-price>{priceStr}</span><small>{perUnit}</small></div>
     : <div class="amt" style="font-size:22px">On request</div>}
   {isCar && <div class="row"><Icon name="globe" /> {t.category}</div>}
 
@@ -173,7 +173,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
 
 {canPay && <script src={`https://www.paypal.com/sdk/js?client-id=${paypalClientIdFor(settings)}&currency=EUR`} data-pp-sdk></script>}
 
-<script define:vars={{ wid, waHref, contactEmail: settings.email, submitEndpoint: settings.submitEndpoint, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople, activityOptions }}>
+<script define:vars={{ wid, waHref, contactEmail: settings.email, submitEndpoint: settings.submitEndpoint, price, canPay, title, pricingMode, priceTiers, autoPricing, maxTierPeople, activityOptions, isCar }}>
   (function () {
     const root = document.getElementById(wid);
     if (!root) return;
@@ -183,6 +183,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
     const totalEl = root.querySelector('[data-pay-total]');
     const ppContainer = root.querySelector('[data-pp-container]');
     const contactQuote = root.querySelector('[data-contact-quote]');
+    const amtPriceEl = root.querySelector('[data-amt-price]');
 
     function travelers() {
       return stepInput ? (parseInt(stepInput.value, 10) || 1) : 1;
@@ -238,6 +239,22 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
       const mode = root.querySelector(`input[name="paymode-${wid}"]:checked`);
       return mode && mode.value === 'deposit' ? grand * 0.1 : grand;
     }
+    // The headline "from €X per person" price only matches the deposit/total
+    // shown further down when they're both computed for the same traveler
+    // count. Tiered and auto-formula pricing genuinely cost more per person
+    // in a smaller group (fixed transport/guide cost split fewer ways), so
+    // leaving the headline frozen at whatever group size `price` happened to
+    // be set for made it look wrong the moment someone changed the
+    // traveler count — e.g. showing "from €3,760" while a 1-traveler total
+    // implied €6,760/person. Recomputing it from the same tourTotal() the
+    // total-due uses keeps the two numbers always consistent.
+    function refreshHeadline() {
+      if (!amtPriceEl || isCar || pricingMode === 'activity') return;
+      const base = tourTotal();
+      const n = travelers();
+      if (base === null || !n) return;
+      amtPriceEl.textContent = '€' + Math.round(base / n).toLocaleString('en-US');
+    }
     function refreshTotal() {
       const amt = amount();
       const needsQuote = amt === null;
@@ -246,6 +263,7 @@ const maxTierPeople = priceTiers.length ? Math.max(...priceTiers.map((p) => p.pe
       const totalRow = totalEl ? totalEl.closest('.pay-total') : null;
       if (totalRow) totalRow.style.display = needsQuote ? 'none' : 'flex';
       if (totalEl && !needsQuote) totalEl.textContent = '€' + amt.toFixed(2);
+      refreshHeadline();
     }
     stepBtns.forEach((b) => b.addEventListener('click', () => {
       if (!stepInput) return;
